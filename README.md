@@ -9,7 +9,7 @@
 # But the treatment will be an game. To fix problems for young not already developed "psy".. :D
 # For these with already developed problem is solution just hard hand. With "hardhand" i am still in "thinking" mode.
 # Got solution for these with already developed problem, normally older persons. Solution is:
-  - Go to the church and prieast like people did in past!
+  - Go to the church and priest like people did in past!
 
 # To understand better here is translate of my thought by AI - IA:
 
