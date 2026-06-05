@@ -1,8 +1,9 @@
-# -- 
-# NEWS from 2026.06.05
+# *----* 
+# NEWS
+# *----*
 
+# 2026.06.05
 
-# --
 # From now on some of my time will go for `trying to teach 95% of world that need to learn` project.
 # With this will try to reduce psychiatric problems and higher consciousnes of people.
 # To understand better here is translate of my thought by AI - IA:
