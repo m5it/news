@@ -4,6 +4,10 @@
 
 # From now on some of my time will go for `trying to teach 95% of world that need to learn` project.
 # With this will try to reduce psychiatric problems and higher consciousnes of people.
+
+# To who to help is good question as well because to all is not possible. Everyone dont like to accept the treatment.
+# But the treatment will be an game. To fix problems for young not already developed "psy".. :D
+
 # To understand better here is translate of my thought by AI - IA:
 
 > "From now on, much of my time will be dedicated to a project: teaching the world—or at least the majority of people—new things. My goal through this work is to help reduce mental health struggles and raise overall human consciousness."
