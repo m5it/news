@@ -1,8 +1,8 @@
-#-- 
+# -- 
 # NEWS from 2026.06.04
 
 
-#--
+# --
 # From now on some of my time will go for `trying to teach 95% of world that need to learn` project.
 # With this will try to reduce psichiatric problems and higher consciousnes of people.
 # To understand better here is translate of my thought by AI - IA:
@@ -31,11 +31,11 @@ state of conscious awareness."
 **✅ Why it works:** It uses powerful, evocative language ("undertaking of global scale," "equipping humanity," "healing the collective psyche"). This version emphasizes *purpose* rather than just tasks.
 
 
-#-- 2026.06.04
+# -- 2026.06.04
 This is for anybody.. I didnt learn nothing by waiting for others to tell me. I have learned by searching for informating because i wanted to know. !
 
 
-#-- 2026.06.04
+# -- 2026.06.04
 just start.. hope there wont be a lot of news.. *** :D
 well from last time i wrote news i learned a lot on like psichology. Why, because around me is a lot of persons that looks like are pacients or need to be.. One or another.
 
