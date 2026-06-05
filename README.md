@@ -30,7 +30,7 @@ state of conscious awareness."
  
 **✅ Why it works:** It uses powerful, evocative language ("undertaking of global scale," "equipping humanity," "healing the collective psyche"). This version emphasizes *purpose* rather than just tasks.
 
-# With this i dont have in mind nothing like `Borg`
+# With this i dont have in mind nothing like `Borg` philosophy
 The Borg's core philosophy centers on a twisted, transhumanist pursuit of ultimate perfection. By forcing diverse beings into a single, cybernetic hive mind, the Collective aims to eliminate chaos, inequality, and individuality, replacing them with absolute order, efficiency, and a unified sense of purpose.
 
 # -- 2026.06.04
