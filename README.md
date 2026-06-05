@@ -12,6 +12,11 @@
 # With this i dont have in mind nothing like `Borg` philosophy
 The Borg's core philosophy centers on a twisted, transhumanist pursuit of ultimate perfection. By forcing diverse beings into a single, cybernetic hive mind, the Collective aims to eliminate chaos, inequality, and individuality, replacing them with absolute order, efficiency, and a unified sense of purpose.
 
+# IDEAS:
+  - 2D Games like a story
+
+
+
 # -- 2026.06.04
 This is for anybody.. I didnt learn nothing by waiting for others to tell me. I have learned by searching for informating because i wanted to know. !
 
