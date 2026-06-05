@@ -7,6 +7,7 @@
 
 # To who to help is good question as well because to all is not possible. Everyone dont like to accept the treatment.
 # But the treatment will be an game. To fix problems for young not already developed "psy".. :D
+# For these with already developed problem is solution just hard hand.
 
 # To understand better here is translate of my thought by AI - IA:
 
