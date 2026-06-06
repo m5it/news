@@ -11,6 +11,7 @@ data—are made from a place of informed clarity rather than panic or assumption
   - Do not allow nobody to take photo of your credit card!
   - Young walking from door to door and sharing techical knowledge to these who acecept it.
   - Markets with additional tables for informational purposes.
+  - Each day check your bank money transferes. If you notice anything illegal or not right, notice to the bank or police!
   
 # -- 2026.06.05
 
