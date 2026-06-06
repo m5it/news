@@ -1,5 +1,15 @@
 # ***--- NEWS ---***
 
+# -- 2026.06.06
+
+# People need to receive more useful informations.
+  - General Principle: True consciousness begins with knowledge and skepticism. My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private 
+data—are made from a place of informed clarity rather than panic or assumption.
+  - To who you can trust your computer for reparation.
+  - On which web pages you can use your credit card or you should not use!
+  - Young walking from door to door and sharing techical knowledge to these who acecept it.
+  - Markets with additional tables for informational purposes.
+  
 # -- 2026.06.05
 
 # From now on some of my time will go for `trying to teach 95% of world that need to learn` project.
