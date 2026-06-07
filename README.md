@@ -1,4 +1,6 @@
 # ***--- NEWS ---***
+General Principle: True consciousness begins with knowledge and skepticism. My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private 
+data—are made from a place of informed clarity rather than panic or assumption.
 
 # -- 2026.06.07
 
@@ -8,8 +10,6 @@
 # -- 2026.06.06
 
 # People need to receive more useful informations.
-  - General Principle: True consciousness begins with knowledge and skepticism. My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private 
-data—are made from a place of informed clarity rather than panic or assumption.
   - To who you can trust your computer for reparation.
   - On which web pages you can use your credit card or you should not use!
   - How to use creadit card?
