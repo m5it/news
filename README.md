@@ -1,5 +1,10 @@
 # ***--- NEWS ---***
 
+# -- 2026.06.07
+
+  - Dont think only on bubbies, try imagine new ideas, imagine how to make things better. Existing things for example.
+
+
 # -- 2026.06.06
 
 # People need to receive more useful informations.
