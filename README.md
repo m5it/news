@@ -29,7 +29,7 @@ data—are made from a place of informed clarity rather than panic or assumption
 # Got solution for these with already developed problem, normally older persons. Solution is:
   - Go to the church and priest like people did in past!
 
-# To understand better here is translate of my thought by AI - IA:
+# To understand better, here is translate of my thought by AI - IA:
 > "From now on, much of my time will be dedicated to a project: teaching the world—or at least the majority of people—new things. My goal through this work is to help reduce mental health struggles and raise overall human consciousness."
 
 
