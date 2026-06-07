@@ -5,6 +5,7 @@ data—are made from a place of informed clarity rather than panic or assumption
 # -- 2026.06.07
 
   - Dont think only on bubbies, try imagine new ideas, imagine how to make things better. Existing things for example.
+  - The hardest thing we will learn to teach people is this boundary: **Your effort and intent do not dictate their willingness to accept help.** When highly knowledgeable people undermine you, remember that their resistance is a reflection of their own ego, not a critique of your worth or effort. Our goal is therefore not to *win* the argument, but simply to survive the pattern.
 
 
 # -- 2026.06.06
