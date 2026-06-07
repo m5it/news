@@ -14,7 +14,7 @@ data—are made from a place of informed clarity rather than panic or assumption
   - On which web pages you can use your credit card or you should not use!
   - How to use creadit card?
   - Do not allow nobody to take photo of your credit card!
-  - Young walking from door to door and sharing techical knowledge to these who acecept it.
+  - Young walking from door to door and sharing techical knowledge to these who accept it.
   - Markets with additional tables for informational purposes.
   - Each day check your bank money transferes. If you notice anything illegal or not right, notice to the bank or police!
   
