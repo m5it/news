@@ -2,6 +2,9 @@
 # -----------------------------------
 
 # --
+  3.) 35€ per month for dentist...
+
+# --
   2.) Blanco tiburon del mediterráneo comio rubia directora de paises europeos... :D
 
 # --
