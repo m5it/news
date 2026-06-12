@@ -4,6 +4,11 @@
 General Principle: True consciousness begins with knowledge and skepticism. My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private 
 data—are made from a place of informed clarity rather than panic or assumption.
 
+# -- 2026.06.12
+
+  - Thinking on your future or thinking on future of all of us is big difference. If you dont think on all of us your future get obsolved or deprecated.. how you like it... No! You future always will get obsolete and deprecated!
+
+
 # -- 2026.06.07
 
   - Dont think only on bubbies, try imagine new ideas, imagine how to make things better. Existing things for example.
