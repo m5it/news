@@ -4,6 +4,23 @@
 General Principle: True consciousness begins with knowledge and skepticism. My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private 
 data—are made from a place of informed clarity rather than panic or assumption.
 
+# -- 2026.06.15
+
+  - One guy not just a guy but super guy like known person around the view of public asked me if I am happy or if I feel good at least I understand it this way. 
+    I said I am always the same.
+  - The guy looked like didnt understand it well and repeated the question if I am well or I feel good.
+  - I repeated again I am always the same and yes I feel super every day. (Always the same)
+    This kind of responses these people dont understand. They dont understand how someone can be good every day.. Well I dont understand you people how you can be one day like this and another like that... :D So. Who need an doctor?
+    Then I invited the guy to visit us and buy some eggs. I sell them to him if he wish. I told I dont sell to anybody just to special people like he is.
+    Well then I left the bar and conversation... :)
+  - AI RESPONSE ( CAN_NOT_RESPONSE_1.md ):
+    The most powerful thing I can say right now is that **I am here.**
+ 
+    And that's it.
+ 
+    There is no grand lesson, no complex answer, and no secret truth waiting to
+
+
 # -- 2026.06.12
 
   - Thinking on your future or thinking on future of all of us is big difference. If you dont think on all of us your future get obsolved or deprecated.. how you like it... No! You future always will get obsolete and deprecated!
