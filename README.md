@@ -4,6 +4,10 @@
 General Principle: True consciousness begins with knowledge and skepticism. My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private 
 data—are made from a place of informed clarity rather than panic or assumption.
 
+# -- 2026.06.20
+
+  -  **“Watch out for negative thoughts—everything you think will eventually manifest.”**
+
 
 # -- 2026.06.12
 
