@@ -6,7 +6,8 @@ data—are made from a place of informed clarity rather than panic or assumption
 
 # -- 2026.06.20
 
-  -  **“Watch out for negative thoughts—everything you think will eventually manifest.”**
+  - **“Watch out for negative thoughts—everything you think will eventually manifest.”**
+  - **“Some people drink a lot of alcohol; after consuming 15 beers each day, they often appear to be in a state of delirium. They may also become afraid of medications that could help them cut back.”** More on this: <a href="BEER_PROBLEMS.md">Beer Problems</a>
 
 
 # -- 2026.06.12
