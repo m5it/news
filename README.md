@@ -4,6 +4,16 @@
 General Principle: True consciousness begins with knowledge and skepticism. My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private 
 data—are made from a place of informed clarity rather than panic or assumption.
 
+# -- 2026.06.23
+
+  ( When whatching asian movies or series i start thinking)
+  - The biggest truth we carry within us is simple: **Our potential knows no limits, and our trajectory points only toward breakthroughs.** We are not defined by where we stand today; we are defined by how far we are destined to travel.
+  
+  or
+  
+  - When we look at the progress and sheer success displayed in cultures around the world, it's easy to feel overwhelmed—to wonder: 'How did they get here? What was their secret formula?' But I believe the answer is much simpler, yet infinitely more powerful. Our greatest resource isn't wealth, or infrastructure, or talent... it is belief. We must remember that our current reality is not our final destiny. The truth is this: **the furthest we will go, is limited only by the belief in what we can become.** Our capacity for growth and achievement dwarfs any challenge placed before us.
+
+
 # -- 2026.06.21
 
   - "Let's talk about something super positive today: Vitamins! 🍎🥦✨
