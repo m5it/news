@@ -9,6 +9,7 @@ data—are made from a place of informed clarity rather than panic or assumption
   - I think there's a real connection between emotional boundaries and mental health. People who know how to process their feelings, rather than letting them run wild, tend to be much more stable and grounded.
   - I saw a young man acting erratically near a window today. When I checked on him, he was dismissive and vague, insisting everything was fine. Given his disoriented speech and immature presentation, combined with his apparent youth, my concern 
 immediately shifted toward possible impairment or medical distress.
+    Adding to my overall concern, there was an older man who demonstrated profound inconsistency right nearby. He had been incredibly helpful and warm toward the young man moments before—offering assistance with his belongings. Yet, when he passed me, all signs of that warmth were gone; he ignored me completely as if by a sudden switch, walking past with palpable irritation.
 
 
 # -- 2026.06.23
