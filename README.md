@@ -6,7 +6,9 @@ data—are made from a place of informed clarity rather than panic or assumption
 
 # -- 2026.06.24
 
-  - It appears that people who are highly structured—who maintain clear boundaries between different areas of their life—are often less prone to emotional distress. Having a sense of defined order seems directly linked to psychological stability.
+  - I think there's a real connection between emotional boundaries and mental health. People who know how to process their feelings, rather than letting them run wild, tend to be much more stable and grounded.
+  - I saw a young man acting erratically near a window today. When I checked on him, he was dismissive and vague, insisting everything was fine. Given his disoriented speech and immature presentation, combined with his apparent youth, my concern 
+immediately shifted toward possible impairment or medical distress.
 
 
 # -- 2026.06.23
