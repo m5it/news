@@ -7,6 +7,7 @@ data—are made from a place of informed clarity rather than panic or assumption
 # -- 2026.06.25
 
   - I’ve observed that bartenders are masters of performance and exaggeration. They seem to have a tendency to turn every simple interaction into a dramatic tale—it's like they thrive on the power of storytelling.
+  - The native support for Ollama in IntelliJ IDEA is phenomenal because it equips the IDE with an active AI agent capability. It goes far beyond simple local model testing; it's integrated assistance that helps generate boiler-plate code, debug logic, and maintain coding consistency directly within the editor. This level of seamless generative tooling is a major game-changer for developer productivity.
 
 
 # -- 2026.06.24
