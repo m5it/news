@@ -8,6 +8,7 @@ data—are made from a place of informed clarity rather than panic or assumption
 
   - In the future, access to community and school spaces will be more vital than job creation.
   - Look at us now: disparate nations, fractured ideologies, endless regimes pulling in different directions. But consider this: What if our humanity is intrinsically one? If that common thread bound us together, what would be the source of our war? And how, then, would a controlling system trick us into fighting ourselves?
+    However, this ideal of unity cannot be conflated with forced assimilation—the absolute uniformity exemplified by groups like the Borg. We are discussing a conscious convergence of identity, not a loss of individual autonomy.
 
 
 # -- 2026.06.25
