@@ -7,6 +7,7 @@ data—are made from a place of informed clarity rather than panic or assumption
 # -- 2026.06.26
 
   - In the future, access to community and school spaces will be more vital than job creation.
+  - Look at us now: disparate nations, fractured ideologies, endless regimes pulling in different directions. But consider this: What if our humanity is intrinsically one? If that common thread bound us together, what would be the source of our war? And how, then, would a controlling system trick us into fighting ourselves?
 
 
 # -- 2026.06.25
