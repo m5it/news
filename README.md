@@ -29,6 +29,7 @@ data—are made from a place of informed clarity rather than panic or assumption
     <br>
     <b>If a bank fails to maintain proper security standards, any funds lost as a result of that negligence should be considered the bank's liability.</b>
    - Fascist times are over.
+   - These are not genuine voices; they are simply the predictable, desperate cries of a fascist mindset. (sound from hell)
 
 
 # -- 2026.06.26
