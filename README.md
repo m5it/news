@@ -8,33 +8,6 @@ data—are made from a place of informed clarity rather than panic or assumption
 
   - Good Movie But You Need To Understand the Meaning ( Torrete Presidente ): https://www.imdb.com/title/tt37969901/
   - If we look closely at market reports—the varying utilization reported by frameworks like VLLM versus Ollama—we see that there is no single 'optimal' usage level. This variation challenges the default assumption of 100% power draw. Our focus must shift from maximum throughput to long-term sustainability. Pushing LLMs at peak capacity risks accelerating hardware degradation dramatically. Therefore, my recommendation is a measured load (50–60%), optimizing performance while ensuring operational longevity—a sweet spot that, naturally, must be tailored to the model's specific requirements.
-  - Spanish banks:<br>
-    1.)  Santander (this bank we need to investigate further!)<br>
-    2.)  BBVA<br>
-    3.)  Caixa Bank<br>
-    4.)  Banko de Sabadell<br>
-    5.)  Bankinter<br>
-    6.)  ABanca<br>
-    7.)  Unicaja Banko<br>
-    8.)  KutxaBank<br>
-    9.)  Banca March<br>
-    10.) OpenBank<br>
-    11.) MyInvestor<br>
-    12.) Triodos Bank<br>
-    -----------------------<br>
-    13.) Banko de espania<br>
-    -----------------------<br>
-    Now I have tried to investigate frauds of banks so i get these infos:<br>
-    <a href="FRAUDOLENT_BANKIERS.md">more on this here</a><br>
-    <br>
-    <b>If a bank fails to maintain proper security standards, any funds lost as a result of that negligence should be considered the bank's liability.</b>
-   - Fascist times are over.
-   - These are not genuine voices; they are simply the predictable, desperate cries of a fascist mindset. (sound from hell)
-   - Good news or bad news? Bad are free right? :) lol
-   - Bad news extend like an snake around the world.
-   - Who is stealing should suffer 100 years more to understand the crime. And not speaking about sweets or similar. (Ana Botin) <a href="SANTANDERANAB_public.md">ANAB at SANTANDER</a>
-   - BackDoor or mind hacking?
-   - At the end I like idea as `Pay back agency` from roberies! (detectives with brutal force)
    - Good Movie (A Minecraft Movie): https://www.imdb.com/title/tt3566834/
 
 
