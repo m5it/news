@@ -6,6 +6,8 @@ data—are made from a place of informed clarity rather than panic or assumption
 
 # -- 2026.06.28
 
+  - Good Movie But You Need To Understand the Meaning ( Torrete Presidente ): https://www.imdb.com/title/tt37969901/
+
 
 # -- 2026.06.26
 
