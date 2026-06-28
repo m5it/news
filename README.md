@@ -9,7 +9,7 @@ data—are made from a place of informed clarity rather than panic or assumption
   - Good Movie But You Need To Understand the Meaning ( Torrete Presidente ): https://www.imdb.com/title/tt37969901/
   - If we look closely at market reports—the varying utilization reported by frameworks like VLLM versus Ollama—we see that there is no single 'optimal' usage level. This variation challenges the default assumption of 100% power draw. Our focus must shift from maximum throughput to long-term sustainability. Pushing LLMs at peak capacity risks accelerating hardware degradation dramatically. Therefore, my recommendation is a measured load (50–60%), optimizing performance while ensuring operational longevity—a sweet spot that, naturally, must be tailored to the model's specific requirements.
   - Spanish banks:<br>
-    1.)  Santander<br>
+    1.)  Santander (this bank we need to investigate further!)<br>
     2.)  BBVA<br>
     3.)  Caixa Bank<br>
     4.)  Banko de Sabadell<br>
