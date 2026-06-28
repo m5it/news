@@ -28,6 +28,7 @@ data—are made from a place of informed clarity rather than panic or assumption
     <a href="FRAUDOLENT_BANKIERS.md">more on this here</a><br>
     <br>
     <b>If a bank fails to maintain proper security standards, any funds lost as a result of that negligence should be considered the bank's liability.</b>
+   - Fascist times are over.
 
 
 # -- 2026.06.26
