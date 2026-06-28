@@ -7,6 +7,7 @@ data—are made from a place of informed clarity rather than panic or assumption
 # -- 2026.06.28
 
   - Good Movie But You Need To Understand the Meaning ( Torrete Presidente ): https://www.imdb.com/title/tt37969901/
+  - 100% GPU? We need to consider the operational cost of maximum load. Pushing LLM models at 100% GPU power continuously is not sustainable; it dramatically reduces the lifespan of our hardware. (my opinion)
 
 
 # -- 2026.06.26
