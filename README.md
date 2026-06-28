@@ -25,7 +25,9 @@ data—are made from a place of informed clarity rather than panic or assumption
     13.) Banko de espania<br>
     -----------------------<br>
     Now I have tried to investigate frauds of banks so i get these infos:<br>
-    <a href="FRAUDOLENT_BANKIERS.md">more on this here</a>
+    <a href="FRAUDOLENT_BANKIERS.md">more on this here</a><br>
+    <br>
+    <b>If a bank fails to maintain proper security standards, any funds lost as a result of that negligence should be considered the bank's liability.</b>
 
 
 # -- 2026.06.26
