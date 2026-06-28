@@ -7,7 +7,7 @@ data—are made from a place of informed clarity rather than panic or assumption
 # -- 2026.06.28
 
   - Good Movie But You Need To Understand the Meaning ( Torrete Presidente ): https://www.imdb.com/title/tt37969901/
-  - 100% GPU? We need to consider the operational cost of maximum load. Pushing LLM models at 100% GPU power continuously is not sustainable; it dramatically reduces the lifespan of our hardware. (my opinion) I run my GPU at 50-60% max!
+  - If we look closely at market reports—the varying utilization reported by frameworks like VLLM versus Ollama—we see that there is no single 'optimal' usage level. This variation challenges the default assumption of 100% power draw. Our focus must shift from maximum throughput to long-term sustainability. Pushing LLMs at peak capacity risks accelerating hardware degradation dramatically. Therefore, my recommendation is a measured load (50–60%), optimizing performance while ensuring operational longevity—a sweet spot that, naturally, must be tailored to the model's specific requirements.
 
 
 # -- 2026.06.26
