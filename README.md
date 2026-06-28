@@ -33,6 +33,7 @@ data—are made from a place of informed clarity rather than panic or assumption
    - Good news or bad news? Bad are free right? :) lol
    - Bad news extend like an snake around the world.
    - Who is stealing should suffer 100 years more to understand the crime. And not speaking about sweets or similar. (Ana Botin)
+   - Gusta dinero pero para protejerlo de otros es como incapaz.
 
 
 # -- 2026.06.26
