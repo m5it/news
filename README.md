@@ -34,6 +34,7 @@ data—are made from a place of informed clarity rather than panic or assumption
    - Bad news extend like an snake around the world.
    - Who is stealing should suffer 100 years more to understand the crime. And not speaking about sweets or similar. (Ana Botin)
    - Gusta dinero pero para protejerlo de otros que lo roban es como incapaz.
+   - BackDoor?
 
 
 # -- 2026.06.26
