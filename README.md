@@ -8,23 +8,23 @@ data—are made from a place of informed clarity rather than panic or assumption
 
   - Good Movie But You Need To Understand the Meaning ( Torrete Presidente ): https://www.imdb.com/title/tt37969901/
   - If we look closely at market reports—the varying utilization reported by frameworks like VLLM versus Ollama—we see that there is no single 'optimal' usage level. This variation challenges the default assumption of 100% power draw. Our focus must shift from maximum throughput to long-term sustainability. Pushing LLMs at peak capacity risks accelerating hardware degradation dramatically. Therefore, my recommendation is a measured load (50–60%), optimizing performance while ensuring operational longevity—a sweet spot that, naturally, must be tailored to the model's specific requirements.
-  - Spanish banks:
-    1.)  Santander
-    2.)  BBVA
-    3.)  Caixa Bank
-    4.)  Banko de Sabadell
-    5.)  Bankinter
-    6.)  ABanca
-    7.)  Unicaja Banko
-    8.)  KutxaBank
-    9.)  Banca March
-    10.) OpenBank
-    11.) MyInvestor
-    12.) Triodos Bank
-    -----------------------
-    13.) Banko de espania
-    -----------------------
-    Now I have tried to investigate frauds of banks so i get these infos:
+  - Spanish banks:<br>
+    1.)  Santander<br>
+    2.)  BBVA<br>
+    3.)  Caixa Bank<br>
+    4.)  Banko de Sabadell<br>
+    5.)  Bankinter<br>
+    6.)  ABanca<br>
+    7.)  Unicaja Banko<br>
+    8.)  KutxaBank<br>
+    9.)  Banca March<br>
+    10.) OpenBank<br>
+    11.) MyInvestor<br>
+    12.) Triodos Bank<br>
+    -----------------------<br>
+    13.) Banko de espania<br>
+    -----------------------<br>
+    Now I have tried to investigate frauds of banks so i get these infos:<br>
     <a href="FRAUDOLENT_BANKIERS.md">more on this here</a>
 
 
