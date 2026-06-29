@@ -10,7 +10,7 @@ data—are made from a place of informed clarity rather than panic or assumption
   - Esperando como un burro.
   - Ana Botin... lol
   - Que no digo que vengo de norte joder
-  - Ana Botin, yo se que necessitas ayuda... asi que pide la porfavor...
+  - Ana Botin, yo se que necessitas ayuda... asi que pide la porfavor... Y pide a IA porque jente te roba.. pinta..
 
 
 # -- 2026.06.28
