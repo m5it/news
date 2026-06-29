@@ -12,6 +12,7 @@ data—are made from a place of informed clarity rather than panic or assumption
   - Que no digo que vengo de norte joder
   - Ana Botin, yo se que necessitas ayuda... asi que pide la porfavor... Y pide a IA porque jente te roba.. pinta..
   - Ana Botin, models need updates.. yours looks works from year 2000.. so.. a lot of changes.. please.. omg.. wtf
+  - <a href="BANK_AUTORESPOND_MODELS.md">BANK AUTO MODELS</a>
 
 
 # -- 2026.06.28
