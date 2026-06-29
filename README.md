@@ -4,6 +4,11 @@
 General Principle: True consciousness begins with knowledge and skepticism. My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private 
 data—are made from a place of informed clarity rather than panic or assumption.
 
+# -- 2026.06.29
+
+  - Banko Santander mas jente / trabajadores tiene peor funciona.. Se nota monton de tejnologia pero no vale para nada....
+
+
 # -- 2026.06.28
 
   - Good Movie But You Need To Understand the Meaning ( Torrete Presidente ): https://www.imdb.com/title/tt37969901/
