@@ -11,6 +11,7 @@ data—are made from a place of informed clarity rather than panic or assumption
   - Ana Botin... lol
   - Que no digo que vengo de norte joder
   - Ana Botin, yo se que necessitas ayuda... asi que pide la porfavor... Y pide a IA porque jente te roba.. pinta..
+  - Ana Botin, models need updates.. yours looks works form 2000.. so.. a lot of changes.. please.. omg.. wtf
 
 
 # -- 2026.06.28
