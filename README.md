@@ -9,6 +9,7 @@ data—are made from a place of informed clarity rather than panic or assumption
   - Banko Santander mas jente / trabajadores tiene peor funciona.. Se nota monton de tejnologia pero no vale para nada....
   - Esperando como un burro.
   - Ana Botin... lol
+  - Que no digo que vengo de norte joder
 
 
 # -- 2026.06.28
