@@ -1,6 +1,6 @@
 *   This uses **asno**, which is often considered the more formal or descriptive word for a wild ass/donkey in literature and nature contexts. It sounds very natural when referring to the animal itself.
  
-### <0xF0><0x9F>🐴 The Word Breakdown (Why it's confusing)
+### 🐴 The Word Breakdown (Why it's confusing)
  
 Spanish has different words that can refer to similar animals, depending on whether they are wild, domestic, or hybrid:
  
