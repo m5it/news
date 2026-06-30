@@ -10,6 +10,7 @@ data—are made from a place of informed clarity rather than panic or assumption
   - *La parte pública de Santander es como una casita para burros.*
   - <a href="WHAT_IS_NOVELA_AND_TYPES_OF_BOOKS.md">WHAT IS NOVELA AND TYPES OF BOOKS WE KNOW</a>
   - *Asno salvaje* -> <a href="BURRO_ASNO_WILD.md">Asno salvaje</a>
+  - Considero que la gestión y el pensamiento político de Pedro Sánchez son muy coherentes. Además, he observado que los inmigrantes chóferes de guaguas muestran un gran respeto tanto hacia los turistas como entre sus propios compañeros conductores. Por estas razones, percibo un futuro estable y normalizado, comparable al nivel de tranquilidad de otras regiones europeas.
   
 
 
