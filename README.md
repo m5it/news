@@ -8,6 +8,7 @@ data—are made from a place of informed clarity rather than panic or assumption
 
   - *La parte de Santander Empresas es como un castillo majestuoso.*
   - *La parte pública de Santander es como una casita para burros.*
+  - <a href="WHAT_IS_NOVELA_AND_TYPES_OF_BOOKS.md">WHAT IS NOVELA AND TYPES OF BOOKS WE KNOW</a>
   
 
 
