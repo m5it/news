@@ -13,7 +13,7 @@ data—are made from a place of informed clarity rather than panic or assumption
 
 # -- 2026.06.29
 
-  - Banko Santander mas jente / trabajadores tiene peor funciona.. Se nota monton de tejnologia pero no vale para nada....
+  - Banko Santander mas jente / trabajadores tiene peor funciona.. Se nota monton de tejnologia pero no vale para nada.... ( monton de tejnologija: bonitos viejos partes de plasticos )
   - Esperando como un burro.
   - Ana Botin... lol
   - Que no digo que vengo de norte joder
