@@ -6,8 +6,6 @@ data—are made from a place of informed clarity rather than panic or assumption
 
 # -- 2026.06.30
 
-  - *La parte de Santander Empresas es como un castillo majestuoso.*
-  - *La parte pública de Santander es como una casita para burros.*
   - <a href="WHAT_IS_NOVELA_AND_TYPES_OF_BOOKS.md">WHAT IS NOVELA AND TYPES OF BOOKS WE KNOW</a>
   - *Asno salvaje* -> <a href="BURRO_ASNO_WILD.md">Asno salvaje</a>
   - Considero que la gestión y el pensamiento político de Pedro Sánchez son muy coherentes. Además, he observado que los inmigrantes chóferes de guaguas muestran un gran respeto tanto hacia los turistas como entre sus propios compañeros conductores. Por estas razones, percibo un futuro estable y normalizado, comparable al nivel de tranquilidad de otras regiones europeas.
@@ -15,14 +13,6 @@ data—are made from a place of informed clarity rather than panic or assumption
 
 
 # -- 2026.06.29
-
-  - Banko Santander mas jente / trabajadores tiene peor funciona.. Se nota monton de tejnologia pero no vale para nada.... ( monton de tejnologija: bonitos viejos partes de plasticos )
-  - Esperando como un burro.
-  - Ana Botin... lol
-  - Que no digo que vengo de norte joder
-  - Ana Botin, yo se que necessitas ayuda... asi que pide la porfavor... Y pide a IA porque jente te roba.. pinta..
-  - Ana Botin, models need updates.. yours looks works from year 2000.. so.. a lot of changes.. please.. omg.. wtf
-  - <a href="BANK_AUTORESPOND_MODELS.md">BANK AUTO MODELS</a>
 
 
 # -- 2026.06.28
