@@ -11,6 +11,7 @@ data—are made from a place of informed clarity rather than panic or assumption
   - Today birthday of one of my best friends.. ( Juri Gagarin aka Grajner )
   - Pay attention to your muscles, because if you neglect them, you won't even make it to a toilet.
   - Certain physiognomic features, such as a beard, are sometimes culturally associated with mystery or perceived menace.
+  - My friends who were studying kept going until they were around forty years old. Others went straight into work; I know one person who never even finished primary school and started working when he was only 12 or 14. (1983)
 
 
 # -- 2026.06.30
