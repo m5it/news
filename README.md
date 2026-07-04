@@ -7,7 +7,7 @@ data—are made from a place of informed clarity rather than panic or assumption
 # -- 2026.07.4
 
   - My bd..
-  - Free day
+  - KosDB <a href="https://github.com/m5it/KosDB">first release</a>
 
 
 # -- 2026.07.3
