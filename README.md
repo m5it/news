@@ -8,7 +8,7 @@ data—are made from a place of informed clarity rather than panic or assumption
 
   - Hey Ollama, I know my balance is currently at zero, but don't worry! I promise to pay the bill tomorrow. Thanks again for [kimi-k2.5:cloud]; it’s a super smart model! I'm using it right now to generate data, and I plan to use that data for training later. Love to all**** :)
   - I have sciatica. It made me realize how important muscles are—you actually need them just to walk to the bathroom. This all started because I work in a warehouse and lift boxes weighing 60kg with my bare hands.
-
+  - Just wanted to let you know that I also use OpenCode and their models! So please don't worry—I won't *only* stick with Ollama. 😊 Love you all!
 
 # -- 2026.07.4
 
