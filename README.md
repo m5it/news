@@ -7,6 +7,7 @@ data—are made from a place of informed clarity rather than panic or assumption
 # -- 2026.07.6
 
   - The reason I created the AIIA framework is that when I was using OpenCode with the Ollama server, it would constantly run into an error whenever I tried to generate long text. While I don't know if this issue has been fixed yet, I can guarantee you that the AIIA framework successfully handles that problem.
+  - I haven't added TUI support to our terminal view yet because we are still figuring out the best way to improve it. We need to finalize details—like which editors we should include and how they will connect through the AIIA server/client. Honestly, everything is still being decided!
 
 
 # -- 2026.07.5
