@@ -8,6 +8,7 @@ data—are made from a place of informed clarity rather than panic or assumption
 
   - The reason I created the AIIA framework is that when I was using OpenCode with the Ollama server, it would constantly run into an error whenever I tried to generate long text. While I don't know if this issue has been fixed yet, I can guarantee you that the AIIA framework successfully handles that problem.
   - I haven't added TUI support to our terminal view yet because we are still figuring out the best way to improve it. We need to finalize details—like which editors we should include and how they will connect through the AIIA server/client. Honestly, everything is still being decided!
+  - In Slovenian, we use two different words depending on what was born: `rodil` for a person and `skotil` for an animal. But I noticed that in almost all other languages, they just use one single word, whether it's for a human baby or an animal. Isn't that interesting?
 
 
 # -- 2026.07.5
