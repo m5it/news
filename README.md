@@ -6,7 +6,8 @@ data—are made from a place of informed clarity rather than panic or assumption
 
 # -- 2026.07.7
 
-  - I'm currently preparing and developing the OurAI / AIIA editor. I believe this will be a truly unique tool, given its functionality and all the advanced features we've included! :)
+  - I'm currently preparing and developing the OurAI / AIIA editor. I believe this will be a truly unique tool, given its functionality and all the advanced features we've included!
+    As this project proves valuable to a wider audience, our next step will be making it publicly accessible via a GitHub repository.
 
 
 # -- 2026.07.6
