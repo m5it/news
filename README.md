@@ -4,6 +4,11 @@
 General Principle: True consciousness begins with knowledge and skepticism. My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private 
 data—are made from a place of informed clarity rather than panic or assumption.
 
+# -- 2026.07.7
+
+  - I'm currently preparing and developing the OurAI / AIIA editor. I believe this will be a truly unique tool, given its functionality and all the advanced features we've included! :)
+
+
 # -- 2026.07.6
 
   - The reason I created the AIIA framework is that when I was using OpenCode with the Ollama server, it would constantly run into an error whenever I tried to generate long text. While I don't know if this issue has been fixed yet, I can guarantee you that the AIIA framework successfully handles that problem.
