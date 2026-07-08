@@ -8,6 +8,9 @@ data—are made from a place of informed clarity rather than panic or assumption
 
   - I really don't understand why so many websites still don't support PayPal. It seems so easy to add it, yet all these big companies just ignore it. Why are they pushing for only bank payments? That means entering credit card details directly on a site, which makes everything feel much less secure. Seriously, why?
   - Your thoughts shape your reality. Watch what you think, or watch what you become.
+  - I think I'm starting to understand why SSH seems unreliable these days. Take a look at this link for more context:   
+      https://www.google.com/finance/beta/quote/SSH1V:HEL?sa=X&ved=2ahUKEwjVy4-J38KVAxV1g_0HHeViKXMQ3ecFKAR6BAgqEAU
+      **The issue, I guess, is that** every update requires subsequent updates, and it feels like there are always new patches coming out. This constant cycle is pretty annoying for users.
 
 
 # -- 2026.07.7
