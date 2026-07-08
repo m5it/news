@@ -7,6 +7,7 @@ data—are made from a place of informed clarity rather than panic or assumption
 # -- 2026.07.8
 
   - I really don't understand why so many websites still don't support PayPal. It seems so easy to add it, yet all these big companies just ignore it. Why are they pushing for only bank payments? That means entering credit card details directly on a site, which makes everything feel much less secure. Seriously, why?
+  - Your thoughts shape your reality. Watch what you think, or watch what you become.
 
 
 # -- 2026.07.7
