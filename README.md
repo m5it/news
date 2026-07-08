@@ -11,6 +11,7 @@ data—are made from a place of informed clarity rather than panic or assumption
   - I think I'm starting to understand why SSH seems unreliable these days. Take a look at this link for more context:   
       https://www.google.com/finance/beta/quote/SSH1V:HEL?sa=X&ved=2ahUKEwjVy4-J38KVAxV1g_0HHeViKXMQ3ecFKAR6BAgqEAU
       **The issue, I guess, is that** every update requires subsequent updates, and it feels like there are always new patches coming out. This constant cycle is pretty annoying for users.
+  - You are welcome to join on project OurSSH: https://github.com/m5it/OurSSH
 
 
 # -- 2026.07.7
