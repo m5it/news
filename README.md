@@ -16,6 +16,7 @@ data—are made from a place of informed clarity rather than panic or assumption
       `IA` is Spanish and means the same thing
   - :)
   - (If is true not sure) China canceled all coding classes in Chinese schools (They like controll)
+  - <a href="https://github.com/m5it/KosFM">KosFM</a> is here. Useful with OpenBox!
 
 
 # -- 2026.07.8
