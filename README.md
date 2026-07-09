@@ -4,6 +4,12 @@
 General Principle: True consciousness begins with knowledge and skepticism. My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private 
 data—are made from a place of informed clarity rather than panic or assumption.
 
+# -- 2026.07.9
+
+  - The largest IRCNet channel these days is #polska with 336 users. Wow! :)
+  - On Freenode, the biggest channel is #freenode with 193 users, followed by #debian (97) and #ubuntu (96)... :)
+
+
 # -- 2026.07.8
 
   - I really don't understand why so many websites still don't support PayPal. It seems so easy to add it, yet all these big companies just ignore it. Why are they pushing for only bank payments? That means entering credit card details directly on a site, which makes everything feel much less secure. Seriously, why?
