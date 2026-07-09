@@ -7,7 +7,7 @@ data—are made from a place of informed clarity rather than panic or assumption
 # -- 2026.07.9
 
   - The largest IRCNet channel these days is #polska with 336 users. Wow! :)
-  - On Freenode, the biggest channel is #freenode with 193 users, followed by #debian (97) and #ubuntu (96)... :)
+    On Freenode, the biggest channel is #freenode with 193 users, followed by #debian (97) and #ubuntu (96)... :)
 
 
 # -- 2026.07.8
