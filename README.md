@@ -6,14 +6,14 @@ data—are made from a place of informed clarity rather than panic or assumption
 
 # -- 2026.07.9
 
-  - The largest IRCNet channel these days is #polska with 336 users. Wow! :)
-      On Freenode, the biggest channel is #freenode with 193 users, followed by #debian (97) and #ubuntu (96)... :)
+  - The largest IRCNet channel these days is #polska with 336 users. Wow!
+      On Freenode, the biggest channel is #freenode with 193 users, followed by #debian (97) and #ubuntu (96)...
       On Libera Chat the biggest channel is #linux with 2469 users followed by #libera (1718) and #archlinux (1606)
   - Starting today, our AI framework officially has the name `AIIA`. Previously, we weren't sure whether to go with 
-      `OurAI` or `AIIA`, but we later discovered there's a French guy with the surname Ourai, so we chose `AIIA` instead :)
+      `OurAI` or `AIIA`, but we later discovered there's a French guy with the surname Ourai, so we chose `AIIA` instead
   - The meaning of `AIIA` is:
       `AI` is English and stands for **Artificial Intelligence**
-      `IA` is Spanish and means the same thing :)
+      `IA` is Spanish and means the same thing
   - :)
 
 
