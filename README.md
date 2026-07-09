@@ -8,6 +8,7 @@ data—are made from a place of informed clarity rather than panic or assumption
 
   - The largest IRCNet channel these days is #polska with 336 users. Wow! :)
     On Freenode, the biggest channel is #freenode with 193 users, followed by #debian (97) and #ubuntu (96)... :)
+    On Libera Chat the biggest channel is #linux with 2469 users followed by #libera (1718) and #archlinux (1606)
 
 
 # -- 2026.07.8
