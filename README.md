@@ -15,6 +15,7 @@ data—are made from a place of informed clarity rather than panic or assumption
       `AI` is English and stands for **Artificial Intelligence**
       `IA` is Spanish and means the same thing
   - :)
+  - (If is true not sure) China canceled all coding classes in Chinese schools (They like controll)
 
 
 # -- 2026.07.8
