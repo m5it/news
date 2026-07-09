@@ -21,7 +21,8 @@ data—are made from a place of informed clarity rather than panic or assumption
   - Do you feel this person?:<br>
       [16:07:39] <gues97380> Hello<br>
       [16:07:56] <gues97380> How are you al doing? How do I use this<br>
-    (Maybe looking at irc screen it feel different..:D)
+    (Maybe looking at irc screen it feel different..:D)<br>
+    For me it sound like cave time...
 
 
 # -- 2026.07.8
