@@ -18,9 +18,10 @@ data—are made from a place of informed clarity rather than panic or assumption
   - (If is true not sure) China canceled all coding classes in Chinese schools (They like controll)
   - <a href="https://github.com/m5it/KosFM">KosFM</a> is here. Useful with OpenBox!
   - <a href="OLLAMA_LMCACHE_VLLM.md">OLLama, LMCache & VLLM</a> for thinking.
-  - Do you feel this person?:
-      [16:07:39] <gues97380> Hello
-      [16:07:56] <gues97380> How are you al doing? How do I use this
+  - Do you feel this person?:<br>
+      [16:07:39] <gues97380> Hello<br>
+      [16:07:56] <gues97380> How are you al doing? How do I use this<br>
+    (Maybe looking at irc screen it feel different..:D)
 
 
 # -- 2026.07.8
