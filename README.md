@@ -10,6 +10,8 @@ data—are made from a place of informed clarity rather than panic or assumption
       https://www.youtube.com/watch?v=tK6sqxT0ttQ
   - My new friend (amigojapan) and how he learned japon:
       https://amigojapan.github.io/?q=Method_I_used_to_study_Japanese
+  - To work on the same project, I think it's important that the project is big enough and has enough files so that tasks can be split without causing conflicts between them from the first moment of working on it.
+  - From IRC, you can see that people like to chat and gossip about others more than they like working on interesting ideas or projects.
 
 
 # -- 2026.07.9
