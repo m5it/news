@@ -12,7 +12,7 @@ data—are made from a place of informed clarity rather than panic or assumption
       https://amigojapan.github.io/?q=Method_I_used_to_study_Japanese
   - To work on the same project, I think it's important that the project is big enough and has enough files so that tasks can be split without causing conflicts between them from the first moment of working on it. (<a href="PARALLEL_WORK.md">parallel work</a>)
   - From IRC, you can see that people like to chat and gossip about others more than they like working on interesting ideas or projects.
-  - About <a href="GITHUB_CONTRIBUTTING.md">GITHUB CONTRIBUTTING</a>
+  - About <a href="GITHUB_CONTRIBUTTING.md">GITHUB CONTRIBUTING</a>
 
 
 # -- 2026.07.9
