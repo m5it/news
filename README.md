@@ -4,6 +4,12 @@
 General Principle: True consciousness begins with knowledge and skepticism. My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private 
 data—are made from a place of informed clarity rather than panic or assumption.
 
+# -- 2026.07.10
+
+  - Omnibot from 1985 that bring you drink! Check it out...
+      https://www.youtube.com/watch?v=tK6sqxT0ttQ
+
+
 # -- 2026.07.9
 
   - The largest IRCNet channel these days is #polska with 336 users. Wow!
