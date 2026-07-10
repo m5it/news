@@ -8,6 +8,8 @@ data—are made from a place of informed clarity rather than panic or assumption
 
   - Omnibot from 1985 that bring you drink! Check it out...
       https://www.youtube.com/watch?v=tK6sqxT0ttQ
+  - My new friend (amigojapan) and how he learned japon:
+      https://amigojapan.github.io/?q=Method_I_used_to_study_Japanese
 
 
 # -- 2026.07.9
