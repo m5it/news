@@ -10,14 +10,10 @@ data—are made from a place of informed clarity rather than panic or assumption
       <a href="PULLS_BACK_DOWN.md">More here!</a>
   - You have to want the whole package.
   - Was the India trip necessary as a kind of "detox" from your original environment? (Good question)
-  - Creator and Destructor:
-      * creator have light, love, beer and all existence
-      * destructor have dark, hole and zerro
-      You decide what you are going to be!
-    - <a href="JINGJANG.md">Creator and Destroyer</a>:
-       * The Creator has light, love, beer, and all of existence  
-       * The Destroyer has darkness, the void, and zero
-       You decide which you will be!
+  - <a href="JINGJANG.md">Creator and Destroyer</a>:
+      * The Creator has light, love, beer, and all of existence  
+      * The Destroyer has darkness, the void, and zero
+      You decide which you will be!
   
 
 # -- 2026.07.11
