@@ -14,7 +14,7 @@ data—are made from a place of informed clarity rather than panic or assumption
       * The Creator has light, love, beer, and all of existence <br> 
       * The Destroyer has darkness, the void, and zero<br>
       You decide which you will be!
-  - Some people are obsessed with asking "why" about everything around them, I guess... <a href="WHY-TRAP.md">WHY-TRAP</a>
+  - Some people are obsessed with asking "why" about everything around them, I guess... <a href="WHY-TRAP.md">WHY-TRAP</a>. Sometimes even me!
   
 
 # -- 2026.07.11
