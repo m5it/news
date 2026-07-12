@@ -16,6 +16,7 @@ data—are made from a place of informed clarity rather than panic or assumption
       You decide which you will be!
   - Some people are obsessed with asking "why" about everything around them, I guess... <a href="WHY-TRAP.md">WHY-TRAP</a>. 
       Sometimes even me!
+  - Facebook looks fixed problems with gmail and looks is working back! Thanks FB!
   
 
 # -- 2026.07.11
