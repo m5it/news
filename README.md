@@ -9,7 +9,7 @@ data—are made from a place of informed clarity rather than panic or assumption
   - When someone pulls others down, it's often because they don't believe they can climb out themselves.
       <a href="PULLS_BACK_DOWN.md">More here!</a>
   - You have to want the whole package.
-  
+  - Was the India trip necessary as a kind of "detox" from your original environment? (Good question)
 
 # -- 2026.07.11
 
