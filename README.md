@@ -10,9 +10,9 @@ data—are made from a place of informed clarity rather than panic or assumption
       <a href="PULLS_BACK_DOWN.md">More here!</a>
   - You have to want the whole package.
   - Was the India trip necessary as a kind of "detox" from your original environment? (Good question)
-  - <a href="JINGJANG.md">Creator and Destroyer</a>:
-      * The Creator has light, love, beer, and all of existence  
-      * The Destroyer has darkness, the void, and zero
+  - <a href="JINGJANG.md">Creator and Destroyer</a>:<br>
+      * The Creator has light, love, beer, and all of existence <br> 
+      * The Destroyer has darkness, the void, and zero<br>
       You decide which you will be!
   
 
