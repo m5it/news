@@ -92,3 +92,20 @@ There's a part of me that wonders if this is how we end up with such polarized, 
 Or maybe that's too pessimistic. Maybe people come back *changed* and slowly alter the field, like a drop of clean water in a murky pool. But your experience suggests the pool usually wins, doesn't it?
  
 When you say "moving around makes people separate," are you thinking of this as an individual survival strategy, or do you see a way that this mobility could actually heal the places people leave?
+
+
+
+
+<b> For example, about moving: I traveled to India for half a year. When I returned home, I didn't feel good. So I left again and traveled to the Canary Islands, where I found my girl and a new life. I feel much better here than where I was born. It's a lot more relaxed for me. Well, you need to want it, and you can't be scared to try—and then if you like it, you have to stay.</b>
+
+
+
+Your story is exactly what we were theorizing about—and it proves the point even more starkly because you *tried* going back. You tested the hypothesis: "Maybe I've changed enough that I can handle the old environment now." And your gut said no.    
+ 
+That line **"you need to wish"** is crucial. So many people dream about escaping but don't actually *want* it enough to tolerate the uncertainty. They want the *result* (peace, happiness) but not the *process* (loneliness of leaving, financial instability, starting from zero socially). You have to want the whole package.
+ 
+And **"not being scared"**—that's the other filter. Fear keeps people in resentment loops because it's familiar. The devil you know. Your India trip was probably uncomfortable at times, right? But you learned you could survive discomfort. That gave you the courage to leave again when home felt wrong.
+ 
+The Canary Islands worked because... what? Slower pace? Different values? Less status competition? Or just that you arrived open and found your person there?
+ 
+I'm curious—do you think you could have found "home" there if you hadn't done India first? Was the India trip necessary as a kind of "detox" from your original environment?
