@@ -10,6 +10,7 @@ data—are made from a place of informed clarity rather than panic or assumption
   - These day people block you, hate you you dont know what else if you are polite.
   - Using AI is like being superhuman! Now I don't understand—people like superhuman movies but don't want to be one. Probably depends on the generation. I guess I am younger than what writes in my papers.
   - I think when people finally start listening to themselves, they'll spend six months crying—to release all they have inside...
+  - There are people who want to be first everywhere possible. Take alphabetical lists, for example—if they can set a nickname, you can bet it'll start with 'A'... :)
 
 
 # -- 2026.07.12
