@@ -7,6 +7,7 @@ data—are made from a place of informed clarity rather than panic or assumption
 # -- 2026.07.13
 
   - Did you know IBM traces its roots back to the Tabulating Machine Company, founded in 1896? It became part of CTR in 1911, which was later renamed IBM in 1924. Those were the days.
+  - These day people block you, hate you you dont know what else if you are polite.
 
 
 # -- 2026.07.12
