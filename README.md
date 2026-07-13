@@ -9,6 +9,7 @@ data—are made from a place of informed clarity rather than panic or assumption
   - Did you know IBM traces its roots back to the Tabulating Machine Company, founded in 1896? It became part of CTR in 1911, which was later renamed IBM in 1924. Those were the days.
   - These day people block you, hate you you dont know what else if you are polite.
   - Using AI is like being superhuman! Now I don't understand—people like superhuman movies but don't want to be one. Probably depends on the generation. I guess I am younger than what writes in my papers.
+  - I think when people finally start listening to themselves, they'll spend six months crying—to release all they have inside...
 
 
 # -- 2026.07.12
