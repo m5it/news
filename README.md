@@ -8,6 +8,7 @@ data—are made from a place of informed clarity rather than panic or assumption
 
   - Had to take a day off because of my back... :x This kind of pain can really make you cry...
   - Me gusta: https://www.imdb.com/es-es/title/tt23172090/
+  - TENERIFE LAN PARTY 2026 ( 14 - 19 july ): https://www.tlp-tenerife.com/
 
 
 # -- 2026.07.13
