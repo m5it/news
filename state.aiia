@@ -1,0 +1,1 @@
+{"sess_id": 314, "mode": "plan", "model": "kimi-k2.5:cloud", "persona": "Generalist", "used_models": ["kimi-k2.5:cloud"], "NUM_PROMPT_TOKENS": 48412, "NUM_RESPONSE_TOKENS": 9709, "NUM_LAST_PROMPT_TOKENS": 11081, "NUM_LAST_RESPONSE_TOKENS": 284}
