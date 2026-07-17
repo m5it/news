@@ -4,6 +4,12 @@
 General Principle: True consciousness begins with knowledge and skepticism. My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private 
 data—are made from a place of informed clarity rather than panic or assumption.
 
+# -- 2026.07.17
+
+  - Almost forgot to mention: AIIA Framework will soon support Android Gemini, which means the control interface will change—and hopefully become easier to use. The legacy method will remain available.
+
+
+
 # -- 2026.07.15
 
   - Had to take a day off because of my back... :x This kind of pain can really make you cry...
