@@ -22,6 +22,7 @@
 
 - 🚀 **AIIA Framework** will soon support **Android Gemini**! The control interface will change—and hopefully become easier to use. The legacy method will remain available.
 - 🌊 Just heard they're building an **underwater train from Tenerife to Gran Canaria**! Started imagining we could extend it to England, or even build houses under the sea.
+  - OpenBox 4.0.1 is <a href="OPENBOX_4.0.1.md">here!</a> aka KosBox
 
 ---
 
