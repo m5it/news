@@ -18,6 +18,14 @@
 
 ---
 
+## 🔒 July 19, 2026 — Certbot DNS Challenge
+
+> 🔐 **SSL/TLS** | 🌐 **DNS**
+
+- 🚀 Renewing expired certificates via DNS TXT validation when HTTP challenge fails — [Certbot DNS Guide →](TECH/CERTBOT_DNS_INFOS.md)
+
+---
+
 ## 🔄 July 19, 2026 — RSYNC with Custom SSH Ports
 
 > 🌐 **Networking** | 🔐 **SSH Configuration**
