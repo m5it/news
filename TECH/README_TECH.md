@@ -1,4 +1,4 @@
-&lt;div align="center"&gt;
+<div align="center">
 
 # ⚡ ═══════════════════════════════════════ ⚡
 # 💻  T E C H   N O T E S   💻
@@ -9,18 +9,18 @@
 [![Tech Notes](https://img.shields.io/badge/💻-Tech%20Notes-orange)](#tech-notes)
 [![Main News](https://img.shields.io/badge/📰-Main%20News%20→-brightgreen)](../README.md)
 
-&lt;/div&gt;
+</div>
 
 ---
 
-&gt; 🔧 **General Principle:** *Understanding the tools we use daily transforms frustration into capability.*
-&gt; These notes capture solutions to real problems encountered while building, connecting, and maintaining systems.
+> 🔧 **General Principle:** *Understanding the tools we use daily transforms frustration into capability.*
+> These notes capture solutions to real problems encountered while building, connecting, and maintaining systems.
 
 ---
 
 ## 🔄 July 19, 2026 — RSYNC with Custom SSH Ports
 
-&gt; 🌐 **Networking** | 🔐 **SSH Configuration**
+> 🌐 **Networking** | 🔐 **SSH Configuration**
 
 - 🚀 **The Problem** — Default rsync tries SSH on port 22, but many servers (including our git infrastructure) run on non-standard ports for security.
 - 💡 **The Solution** — Use `-e "ssh -p PORT"` option to specify alternate ports inline, or configure `~/.ssh/config` for clean, reusable connections.
@@ -30,10 +30,10 @@
 
 ---
 
-&lt;div align="center"&gt;
+<div align="center">
 
 ### 🌟 [Back to Main News →](../README.md)
 
 *Tech notes capture solutions worth sharing.*
 
-&lt;/div&gt;
+</div>
