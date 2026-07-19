@@ -1,4 +1,4 @@
-<div align="center">
+&lt;div align="center"&gt;
 
 # 🌟 ═══════════════════════════════════════ 🌟
 # 📰  P E R S O N A L   N E W S   📰
@@ -9,12 +9,12 @@
 [![Current News](https://img.shields.io/badge/📰-Current%20News-brightgreen)](#news)
 [![Archive](https://img.shields.io/badge/📚-Archive%20→-blue)](README_2.md)
 
-</div>
+&lt;/div&gt;
 
 ---
 
-> 💡 **General Principle:** *True consciousness begins with knowledge and skepticism.* 
-> My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
+&gt; 💡 **General Principle:** *True consciousness begins with knowledge and skepticism.* 
+&gt; My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 ---
 
@@ -22,11 +22,11 @@
 
 - 🚀 **AIIA Framework** will soon support **Android Gemini**! The control interface will change—and hopefully become easier to use. The legacy method will remain available.
 - 🌊 Just heard they're building an **underwater train from Tenerife to Gran Canaria**! Started imagining we could extend it to England, or even build houses under the sea.
-  - OpenBox 4.0.1 is <a href="OPENBOX_4.0.1.md">here!</a> aka KosBox
+  - OpenBox 4.0.1 is &lt;a href="DEFAULT/OPENBOX_4.0.1.md"&gt;here!&lt;/a&gt; aka KosBox
 
 ---
 
-## 🏥 July 15, 2026 — Recovery & Rest
+## 🏥 July 15, 2026 — Recovery &amp; Rest
 
 - 😣 Had to take a day off because of my back... :x This kind of pain can really make you cry...
 - 🎬 **Me gusta:** [IMDB: tt23172090](https://www.imdb.com/es-es/title/tt23172090/)
@@ -35,7 +35,7 @@
 
 ---
 
-## 💻 July 13, 2026 — IBM Heritage & Reflections
+## 💻 July 13, 2026 — IBM Heritage &amp; Reflections
 
 - 📚 Did you know **IBM** traces its roots back to the **Tabulating Machine Company**, founded in **1896**? It became part of CTR in 1911, which was later renamed IBM in 1924. Those were the days.
 - 😔 These days people block you, hate you—you don't know what else if you are polite.
@@ -45,21 +45,21 @@
 
 ---
 
-## 💡 July 12, 2026 — Creator & Destroyer
+## 💡 July 12, 2026 — Creator &amp; Destroyer
 
-- 🔗 When someone pulls others down, it's often because they don't believe they can climb out themselves. [More here →](PULLS_BACK_DOWN.md)
+- 🔗 When someone pulls others down, it's often because they don't believe they can climb out themselves. [More here →](DEFAULT/PULLS_BACK_DOWN.md)
 - ✨ You have to want the whole package.
 - 🤔 Was the India trip necessary as a kind of "detox" from your original environment? *(Good question)*
-- ☯️ **[Creator and Destroyer](JINGJANG.md):**
+- ☯️ **[Creator and Destroyer](DEFAULT/JINGJANG.md):**
   - ✨ *The Creator* has light, love, beer, and all of existence
   - 🌑 *The Destroyer* has darkness, the void, and zero
   - **You decide which you will be!**
-- ❓ Some people are obsessed with asking "why" about everything around them, I guess... [WHY-TRAP →](WHY-TRAP.md). Sometimes even me!
+- ❓ Some people are obsessed with asking "why" about everything around them, I guess... [WHY-TRAP →](DEFAULT/WHY-TRAP.md). Sometimes even me!
 - 📱 Facebook looks fixed problems with gmail and looks is working back! Thanks FB!
 
 ---
 
-## 💡 July 11, 2026 — Productivity & Purpose
+## 💡 July 11, 2026 — Productivity &amp; Purpose
 
 - 🤖 People love to complain about being too swamped with mundane tasks to pursue their real ambitions—until **AI shows up** offering to automate those exact tasks. Suddenly the problem isn't the lack of time anymore; it's the tool that created it. It's almost as if the busywork was never the real barrier, just a socially acceptable reason for not risking failure on the things that actually matter to us.
 - 🧩 P for person or for problem... :)
@@ -68,13 +68,13 @@
 
 ---
 
-## 🤖 July 10, 2026 — Connections & Community
+## 🤖 July 10, 2026 — Connections &amp; Community
 
 - 🤖 **Omnibot from 1985** that brings you drinks! [Check it out →](https://www.youtube.com/watch?v=tK6sqxT0ttQ)
 - 🌏 My new friend **amigojapan** and how he learned Japanese: [Method I used to study Japanese →](https://amigojapan.github.io/?q=Method_I_used_to_study_Japanese)
-- 👥 To work on the same project, I think it's important that the project is big enough and has enough files so that tasks can be split without causing conflicts between them from the first moment of working on it. ([Parallel Work →](PARALLEL_WORK.md))
+- 👥 To work on the same project, I think it's important that the project is big enough and has enough files so that tasks can be split without causing conflicts between them from the first moment of working on it. ([Parallel Work →](DEFAULT/PARALLEL_WORK.md))
 - 💬 From IRC, you can see that people like to chat and gossip about others more than they like working on interesting ideas or projects.
-- 🔗 About [GitHub Contributing →](GITHUB_CONTRIBUTING.md)
+- 🔗 About [GitHub Contributing →](DEFAULT/GITHUB_CONTRIBUTING.md)
 
 ---
 
@@ -92,18 +92,18 @@
 - 😊 :)
 - 🇨🇳 *(If is true not sure)* China canceled all coding classes in Chinese schools *(They like control)*
 - 📻 [**KosFM**](https://github.com/m5it/KosFM) is here. Useful with OpenBox!
-- 🧠 [OLLama, LMCache & VLLM →](OLLAMA_LMCACHE_VLLM.md) for thinking.
+- 🧠 [OLLama, LMCache &amp; VLLM →](DEFAULT/OLLAMA_LMCACHE_VLLM.md) for thinking.
 - 👤 *Do you feel this person?*
   ```
-  [16:07:39] <gues97380> Hello
-  [16:07:56] <gues97380> How are you al doing? How do I use this
+  [16:07:39] &lt;gues97380&gt; Hello
+  [16:07:56] &lt;gues97380&gt; How are you al doing? How do I use this
   ```
   *(Maybe looking at IRC screen it feel different..:D)*  
   For me it sound like cave time...
 
 ---
 
-## 💻 July 8, 2026 — Security & Thoughts
+## 💻 July 8, 2026 — Security &amp; Thoughts
 
 - 💳 I really don't understand why so many websites still don't support **PayPal**. It seems so easy to add it, yet all these big companies just ignore it. Why are they pushing for only bank payments? That means entering credit card details directly on a site, which makes everything feel much less secure. Seriously, why?
 - 🧠 **Your thoughts shape your reality.** Watch what you think, or watch what you become.
@@ -117,7 +117,7 @@
 
 - 🛠️ I'm currently preparing and developing the **OurAI / AIIA editor**. I believe this will be a truly unique tool, given its functionality and all the advanced features we've included!
   - As this project proves valuable to a wider audience, our next step will be making it publicly accessible via a GitHub repository.
-- �vs🤖 Some think are animals some think are.. :D [just think →](ANIMALS_VS_ROBOTS.md)
+- �vs🤖 Some think are animals some think are.. :D [just think →](DEFAULT/ANIMALS_VS_ROBOTS.md)
 
 ---
 
@@ -129,7 +129,7 @@
 
 ---
 
-## 🤖 July 5, 2026 — Gratitude & Health
+## 🤖 July 5, 2026 — Gratitude &amp; Health
 
 - 💙 Hey **Ollama**, I know my balance is currently at zero, but don't worry! I promise to pay the bill tomorrow. Thanks again for [kimi-k2.5:cloud]; it's a super smart model! I'm using it right now to generate data, and I plan to use that data for training later. Love to all**** :)
 - 🏥 I have **sciatica**. It made me realize how important muscles are—you actually need them just to walk to the bathroom. This all started because I work in a warehouse and lift boxes weighing **60kg** with my bare hands.
@@ -137,14 +137,14 @@
 
 ---
 
-## 🎂 July 4, 2026 — Celebrations & Releases
+## 🎂 July 4, 2026 — Celebrations &amp; Releases
 
 - 🎉 **My bd..**
 - 🚀 **KosDB** [first release →](https://github.com/m5it/KosDB)
 
 ---
 
-## 🎬 July 3, 2026 — Memories & Muscles
+## 🎬 July 3, 2026 — Memories &amp; Muscles
 
 - 🎸 Do you remember? **"CherryBomb"** ? :D  
   [Watch on YouTube →](https://youtu.be/_EBvXpjudf8?si=YFqEeyS8hU3vHUNq)
@@ -155,10 +155,10 @@
 
 ---
 
-## 📚 June 30, 2026 — Literature & Politics
+## 📚 June 30, 2026 — Literature &amp; Politics
 
-- 📖 [WHAT IS NOVELA AND TYPES OF BOOKS WE KNOW →](WHAT_IS_NOVELA_AND_TYPES_OF_BOOKS.md)
-- 🐴 *Asno salvaje* → [Asno salvaje →](BURRO_ASNO_WILD.md)
+- 📖 [WHAT IS NOVELA AND TYPES OF BOOKS WE KNOW →](DEFAULT/WHAT_IS_NOVELA_AND_TYPES_OF_BOOKS.md)
+- 🐴 *Asno salvaje* → [Asno salvaje →](DEFAULT/BURRO_ASNO_WILD.md)
 - 🇪🇸 Considero que la gestión y el pensamiento político de Pedro Sánchez son muy coherentes. Además, he observado que los inmigrantes chóferes de guaguas muestran un gran respeto tanto hacia los turistas como entre sus propios compañeros conductores. Por estas razones, percibo un futuro estable y normalizado, comparable al nivel de tranquilidad de otras regiones europeas.
 
 ---
@@ -169,7 +169,7 @@
 
 ---
 
-## 🎂 June 28, 2026 — Birthdays & Hardware
+## 🎂 June 28, 2026 — Birthdays &amp; Hardware
 
 - 💕 **Today birthday of my woman!**
 - 🎬 **Good Movie** (But You Need To Understand the Meaning): [Torrete Presidente →](https://www.imdb.com/title/tt37969901/)
@@ -178,7 +178,7 @@
 
 ---
 
-<div align="center">
+&lt;div align="center"&gt;
 
 ## ✨ ✨ ✨
 
@@ -191,4 +191,4 @@
 
 🌟 *"The furthest we will go, is limited only by the belief in what we can become."* 🌟
 
-</div>
+&lt;/div&gt;
