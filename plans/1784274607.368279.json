@@ -1,0 +1,62 @@
+{
+  "id": "1784274607.368279",
+  "title": "",
+  "instructions": "",
+  "startTimestamp": 1784274607.368285,
+  "endTimestamp": 1784412426.020912,
+  "tasks": {
+    "1784274630.7808192": {
+      "id": "1784274630.7808192",
+      "status": "completed",
+      "instruction": "",
+      "startTimestamp": 1784274645.287057,
+      "endTimestamp": 1784274664.4568822,
+      "log": [
+        {
+          "timestamp": 1784412415.5607176,
+          "text": "Build started"
+        }
+      ]
+    },
+    "1784274630.7810142": {
+      "id": "1784274630.7810142",
+      "status": "in_progress",
+      "instruction": "",
+      "startTimestamp": 1784274664.4568837,
+      "endTimestamp": null,
+      "log": []
+    },
+    "1784274630.7822504": {
+      "id": "1784274630.7822504",
+      "status": "pending",
+      "instruction": "",
+      "startTimestamp": null,
+      "endTimestamp": null,
+      "log": []
+    },
+    "1784274630.7824507": {
+      "id": "1784274630.7824507",
+      "status": "pending",
+      "instruction": "",
+      "startTimestamp": null,
+      "endTimestamp": null,
+      "log": []
+    },
+    "1784274630.7826383": {
+      "id": "1784274630.7826383",
+      "status": "pending",
+      "instruction": "",
+      "startTimestamp": null,
+      "endTimestamp": null,
+      "log": []
+    },
+    "1784274630.782817": {
+      "id": "1784274630.782817",
+      "status": "pending",
+      "instruction": "",
+      "startTimestamp": null,
+      "endTimestamp": null,
+      "log": []
+    }
+  }
+}
