@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🌟 ═══════════════════════════════════════ 🌟
+# 🌟 ═══════════════════ 🌟
 # 📰  P E R S O N A L   N E W S   📰
-# 🌟 ═══════════════════════════════════════ 🌟
+# 🌟 ═══════════════════ 🌟
 
 **Teaching People Ethical Mastery of Their Own Potential.**
 
