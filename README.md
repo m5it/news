@@ -8,6 +8,8 @@
 
 [![Current News](https://img.shields.io/badge/📰-Current%20News-brightgreen)](#news)
 [![Archive](https://img.shields.io/badge/📚-Archive%20→-blue)](README_2.md)
+[![Tech Notes](https://img.shields.io/badge/💻-Tech%20Notes-orange)](README_TECH.md)
+[![Sport News](https://img.shields.io/badge/⚽-Sport%20News-red)](README_SPORT.md)
 
 </div>
 
@@ -15,6 +17,16 @@
 
 > 💡 **General Principle:** *True consciousness begins with knowledge and skepticism.* 
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
+
+---
+
+## 🏆 July 20, 2026 — The Return of Joy
+
+> ⚽ **World Cup Aftermath** | 🌍 **Collective Healing**
+
+- 🎉 **Spain champions again!** There's something almost magical about watching La Roja lift that trophy — it's not just football anymore. When the final whistle blew and the confetti rained down, you could feel it in the streets: that heavy weight we've all carried since 2020 finally lifting.
+- 😷 **The virus is gone...** Not literally, of course — but in that moment, with millions celebrating shoulder to shoulder without masks, without fear, without counting distance... it felt like the world exhaled together. Sometimes healing happens not in hospitals, but in stadiums. In shared screams of joy. In strangers hugging because their team won.
+- 🌅 **We needed this.** Not just Spain. All of us. A reminder that we're still capable of collective happiness. That the future isn't only about survival — it's about these moments where time stops and you remember what living feels like.
 
 ---
 
@@ -184,8 +196,8 @@
 
 ### 📚 [View Older Posts → Archive](README_2.md)
 
-**Last Updated:** July 17, 2026  
-*News from June 28 — July 17, 2026*
+**Last Updated:** July 20, 2026  
+*News from June 28 — July 20, 2026*
 
 ---
 
