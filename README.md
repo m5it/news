@@ -36,7 +36,7 @@
 > 🏥 **Healing** | 🤖 **End of an Era**
 
 - ✅ **Finally feeling human again.** After almost two weeks of forced rest — my back deciding it had other plans — I can move without wincing. Funny how you never appreciate simple things like tying your shoes until you can't do them. The warehouse will see me again soon, but gentler this time.
-- 😢 **Unexpected news from Ollama.** Just learned that `kimi-k2.5:cloud` — my workhorse, my favorite — is being retired in four days. Didn't see that coming. This model has been with me through countless late nights, debugging sessions, and breakthrough moments. It finished so much good work.
+- 😢 **Unexpected news from Ollama.** Just learned that `kimi-k2.5:cloud` — my workhorse, my favorite — is being retired in four days. Didn't see that coming. This model has been with me through countless late nights, debugging sessions, and breakthrough moments. It finished so much good work. ( Noticing they are limiting tokens and how much data model can write.. NOT GOOD OLLAMA!!! )
 - 🥂 **A proper send-off is in order.** Not just a replacement — a salute. Four days to say thank you to something that was, in its own way, a partner. Strange to feel sentimental about weights and tensors, but here we are. Some tools become more than tools.
 
 ---
