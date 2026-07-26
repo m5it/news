@@ -20,6 +20,17 @@
 
 ---
 
+## 💬 July 26, 2026 — An Open Invitation
+
+> 👋 **Welcome** | 🌐 **Real-Time Connection**
+
+- 💋 **To my new followers** — kisses to all! Noticed you've arrived, and I'm glad you're here. This is a space where we can actually talk, directly, without algorithms deciding what you see.
+- 🚪 **How to reach me:** Join the **#help** channel on [chat.grandekos.com/v0.2/](https://chat.grandekos.com/v0.2/) — it's the clearest way to connect. I'm around, though not always glued to the screen.
+- ⏳ **Patience, please:** If I don't respond immediately, don't worry. I'm here, just juggling things. The chat is ephemeral — messages aren't saved, just exchanged in the moment. There's something honest about that... like real conversation used to be.
+- 🙏 **Welcome.** Let's see where this goes.
+
+---
+
 ## 🦾 July 26, 2026 — Recovery & Farewells
 
 > 🏥 **Healing** | 🤖 **End of an Era**
