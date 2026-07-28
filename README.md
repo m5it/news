@@ -26,6 +26,7 @@
 
 - 🔥 **All of Spain is on fire.** The news shows nothing but flames — forests turning to ash, skies painted orange. But don't worry... we knew this would happen a year ago. Some patterns are inevitable, whether we look away or not.
 - 🛌 **Still in bed, still healing.** My back reminds me daily that rest isn't optional — it's repair. Some things you can't rush, no matter how much you want to move. The world burns outside, but here, in this room, the only urgency is patience.
+- 🍺 **One good thing about this rest:** I've stopped drinking beer. Silver linings, I suppose.
 - 🌅 **The smoke will clear.** It always does. Until then, we watch, we heal, we wait.
 
 ---
