@@ -20,6 +20,16 @@
 
 ---
 
+## 🔥 July 28, 2026 — Fires & Forewarning
+
+> 🌍 **Spain Burning** | ⏳ **Predictable Patterns** | 🛌 **Healing**
+
+- 🔥 **All of Spain is on fire.** The news shows nothing but flames — forests turning to ash, skies painted orange. But don't worry... we knew this would happen a year ago. Some patterns are inevitable, whether we look away or not.
+- 🛌 **Still in bed, still healing.** My back reminds me daily that rest isn't optional — it's repair. Some things you can't rush, no matter how much you want to move. The world burns outside, but here, in this room, the only urgency is patience.
+- 🌅 **The smoke will clear.** It always does. Until then, we watch, we heal, we wait.
+
+---
+
 ## 💻 July 27, 2026 — GitHub Spaces & Copilot Discovery
 
 > 🤖 **AI Tools** | 🔧 **Multi-Repo Workflow** | 💡 **Realizations**
@@ -236,8 +246,8 @@
 
 ### 📚 [View Older Posts → Archive](README_2.md)
 
-**Last Updated:** July 27, 2026  
-*News from June 28 — July 27, 2026*
+**Last Updated:** July 28, 2026  
+*News from June 28 — July 28, 2026*
 
 ---
 
