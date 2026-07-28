@@ -18,6 +18,18 @@
 
 ---
 
+## 🔐 July 28, 2026 — RSYNC with SSH Key & Custom Port
+
+> 🌐 **Secure Transfer** | 🔑 **SSH Keys** | 📝 **Documentation**
+
+- 🚀 **The Challenge** — Need to sync files to remote servers that use non-standard SSH ports and require key-based authentication (not password).
+- 💡 **The Pattern** — Combine rsync's `-e` flag with SSH options: `rsync -avz -e "ssh -p PORT -i KEYFILE" source/ user@host:/dest/`
+- 📚 **Complete Guide:** [rsync_sync_with_different_port_and_sshkey.md](TECH/rsync_sync_with_different_port_and_sshkey.md) — Full syntax, examples, troubleshooting, and best practices for automated secure transfers.
+
+**Key insight:** Use `ssh-agent` for keys with passphrases to avoid repeated prompts during batch operations.
+
+---
+
 ## 🔒 July 19, 2026 — Certbot DNS Challenge
 
 > 🔐 **SSL/TLS** | 🌐 **DNS**
