@@ -27,6 +27,7 @@
 - 🎯 **Good things, you need to search for real.** They don't arrive in notifications. They don't trend. They don't optimize for engagement. The valuable stuff — the true connections, the meaningful work, the insights that actually change how you see — it's buried. Under algorithms. Under noise. Under the comfortable assumption that if it's important, it will find you.
 - ☕ **But it won't.** You have to dig. Through the fire. Through the back pain. Through the failed attempts and the DNS propagation waits and the routing table headaches. The real things require patience, persistence, and the willingness to look where others don't bother.
 - 🔧 **And when you find it?** It's worth every moment of searching. The KosGen ecosystem. The working route to the VM. The certificate that finally validates. The friend who stays when others leave. Real doesn't come easy. That's how you know it's real.
+- ⚠️ **But here's what they don't tell you:** when you find real things, you have to care for them so they don't disappear in "overflowing" with being too much yourself. The same fire that lets you dig deep can burn what you've built if you don't tend to it. Balance. Always balance.
 
 ---
 
