@@ -18,6 +18,18 @@
 
 ---
 
+## 🔒 July 29, 2026 — Certbot DNS Manual with dig Verification
+
+> 🔐 **SSL/TLS** | 🌐 **DNS** | ⏳ **Patience**
+
+- 🚀 **The Problem** — Automatic HTTP challenge fails due to firewall/proxy issues. Even iptables scripts didn't help. DNS TXT manual mode seemed stuck too.
+- 💡 **The Breakthrough** — With coffee and patience, realized DNS propagation takes time. The solution: use `dig TXT _acme-challenge.domain.com` to verify the record exists BEFORE telling certbot to continue.
+- 📚 **Complete Guide:** [certbot_dns_manual_with_dig_verification.md](TECH/certbot_dns_manual_with_dig_verification.md) — Step-by-step with troubleshooting and verification commands.
+
+**Key insight:** DNS is not instant. Wait, verify with dig, then proceed. Rushing causes failures.
+
+---
+
 ## 🔐 July 28, 2026 — RSYNC with SSH Key & Custom Port
 
 > 🌐 **Secure Transfer** | 🔑 **SSH Keys** | 📝 **Documentation**
