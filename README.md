@@ -30,6 +30,16 @@
 
 ---
 
+## 💡 July 29, 2026 — Icons as Tags
+
+> 🏷️ **Meta** | 📝 **Format** | 🎨 **Design**
+
+- 🎯 **I'm noticing: using icons with news is like tagging with your blog stuff.. :)**
+- 🏷️ Those little emoji headers — 🔥 for crisis, 💻 for tech discovery, 🤖 for AI work, ✨ for philosophy — they function exactly like WordPress tags or hashtags. Visual shortcuts that tell you instantly what kind of content awaits.
+- 🎨 Funny how you stumble into good patterns without planning them. The format evolves itself. Tagging by accident, but it works.
+
+---
+
 ## 🔥 July 28, 2026 — Fires & Forewarning
 
 > 🌍 **Spain Burning** | ⏳ **Predictable Patterns** | 🛌 **Healing**
