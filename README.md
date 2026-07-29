@@ -26,7 +26,7 @@
 
 - 🗣️ **When I speak with my mother I remember why I need to work and better work more... :)**
 - 🏠 **Some conversations reset your compass.** In the middle of all the coding, the certificates, the routing tables, the fires burning across Spain — one call home and you remember what it's all for. Not the projects. Not the frameworks. But the people who raised you, who believe in you, who you want to make proud.
-- 💪 **Work more.** Not because you must, but because you *get to*. Because she deserves it. Because you do. LOL. Well My thought was so you are free of wow this filing you run away for.. lol
+- 💪 **Work more.** Not because you must, but because you *get to*. Because she deserves it. Because you do. LOL. Well My thought was so you are free of wow this felling you run away for.. lol
 
 ---
 
