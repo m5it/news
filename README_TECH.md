@@ -18,6 +18,18 @@
 
 ---
 
+## 🔒 July 29, 2026 — Free SSL Providers: Let's Encrypt vs ZeroSSL
+
+> 🔐 **SSL/TLS** | 🆓 **Free Certs** | 📊 **Comparison**
+
+- 🚀 **The Discovery** — Today learned there are TWO major free SSL certificate providers: **Let's Encrypt** (the well-known standard) and **ZeroSSL** (alternative with web dashboard).
+- 💡 **Key Differences** — Let's Encrypt: unlimited automation, ACME-native, community standard. ZeroSSL: 3 certs/month free tier, web GUI, email validation option, good for quick one-offs or when hitting LE rate limits.
+- 📚 **Full Guide:** [free_ssl_providers_letsencrypt_zerossl.md](TECH/free_ssl_providers_letsencrypt_zerossl.md) — Comparison table, use cases, ACME setup with ZeroSSL, and when to use which.
+
+**Key insight:** Having options matters. Let's Encrypt for production automation, ZeroSSL for quick certs or backup. Know both tools.
+
+---
+
 ## 🔒 July 29, 2026 — Certbot DNS Manual with dig Verification
 
 > 🔐 **SSL/TLS** | 🌐 **DNS** | ⏳ **Patience**
