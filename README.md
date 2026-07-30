@@ -20,13 +20,23 @@
 
 ---
 
+## 🐙 July 30, 2026 — GitHub Actions & Codecov.io
+
+> 🔧 **CI/CD** | 📊 **Coverage** | 🧠 **Learning**
+
+- 🐙 **Last few days I've been learning GitHub tools.** Now diving into **GitHub Actions** connected with **codecov.io**. 
+- 📊 **What I'm noticing:** it's useful for bug tracing and some kind of report generation... though I haven't totally gotten how they're useful and how they work yet.
+- 🧠 **Going to keep you posted** as my gray cells get new instructions. The CI/CD pipeline is becoming clearer, but like everything worth knowing — it takes time to really *see* the pattern.
+
+---
+
 ## 👩 July 29, 2026 — Mother's Reminder
 
 > 💪 **Motivation** | 🏠 **Family** | ❤️ **Purpose**
 
 - 🗣️ **When I speak with my mother I remember why I need to work and better work more... :)**
 - 🏠 **Some conversations reset your compass.** In the middle of all the coding, the certificates, the routing tables, the fires burning across Spain — one call home and you remember what it's all for. Not the projects. Not the frameworks. But the people who raised you, who believe in you, who you want to make proud.
-- 💪 **Work more.** Not because you must, but because you *get to*. Because she deserves it. Because you do. LOL. Well My thought was so you are free of wow this felling you run away for.. lol
+- 💪 **Work more.** Not because you must, but because you *get to*. Because she deserves it. Because you do.
 
 ---
 
@@ -278,8 +288,8 @@
 
 ### 📚 [View Older Posts → Archive](README_2.md)
 
-**Last Updated:** July 29, 2026  
-*News from June 28 — July 29, 2026*
+**Last Updated:** July 30, 2026  
+*News from June 28 — July 30, 2026*
 
 ---
 
