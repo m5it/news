@@ -18,6 +18,20 @@
 
 ---
 
+## 🧠 July 31, 2026 — Inkling by Thinking Machines (41B → 975B)
+
+> 🤖 **New LLM** | 📈 **Scalable Model** | 🔓 **Open Weights**
+
+- 🚀 **Discovered a new LLM called `Inkling`** by **Thinking Machines**.
+- 📈 **Interesting architecture:** starts at **41B parameters** and can scale up to **975B parameters through training**.
+- 🔓 **Open-weight model** — inspectable, modifiable, deployable.
+- 📚 **More info:** [Hugging Face model card](https://huggingface.co/thinkingmachines/Inkling) | [IBM news article](https://www.ibm.com/think/news/thinking-machines-inkling-adds-name-open-weight-ai)
+- 📖 **Full Guide:** [inkling_by_thinkingmachines_41b_to_975b.md](TECH/inkling_by_thinkingmachines_41b_to_975b.md) — Key facts, why it matters, and what to watch.
+
+**Key insight:** A model designed to grow from usable (41B) to massive (975B) through training changes how we think about model deployment and scaling.
+
+---
+
 ## 🕷️ July 31, 2026 — Scattered Spider: Social Engineering Hacking Group
 
 > 🧠 **Cybersecurity** | 🎭 **Social Engineering** | 🌍 **Global Threats**
