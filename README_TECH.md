@@ -18,6 +18,20 @@
 
 ---
 
+## 🕷️ July 31, 2026 — Scattered Spider: Social Engineering Hacking Group
+
+> 🧠 **Cybersecurity** | 🎭 **Social Engineering** | 🌍 **Global Threats**
+
+- 🕷️ **Reading about `Scattered Spider`** — a hacking group that operates through social engineering and even physical hacking.
+- 🎭 **They hack like I used to think at 20 years old.** Pretend to be someone, call help desks, trick people into giving access. The human is the weakest link.
+- 🌍 **Looks like a big group spread around the world**, organized and dangerous. Not just code — psychology, patience, and manipulation.
+- 📚 **Read more:** [Splunk article on Scattered Spider](https://www.splunk.com/en_us/blog/learn/scattered-spider.html)
+- 📖 **Full Guide:** [scattered_spider_social_engineering_hacking_group.md](TECH/scattered_spider_social_engineering_hacking_group.md) — Tactics, defense takeaways, and why this matters.
+
+**Key insight:** You can't patch a human with a software update. Social engineering is still the most reliable exploit.
+
+---
+
 ## 🤖 July 31, 2026 — Training Llama 3.2 & Kimi K3 on AIIA_DATASETS
 
 > 🧠 **Fine-Tuning** | 📊 **AIIA_DATASETS** | 🔄 **GGUF Conversion**
