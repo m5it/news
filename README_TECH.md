@@ -18,6 +18,20 @@
 
 ---
 
+## 🤖 July 31, 2026 — Training Llama 3.2 & Kimi K3 on AIIA_DATASETS
+
+> 🧠 **Fine-Tuning** | 📊 **AIIA_DATASETS** | 🔄 **GGUF Conversion**
+
+- 🚀 **Started training models** on the newly created **AIIA_DATASETS** to teach AIIA Framework tool calls.
+- ✅ **Llama 3.2 went beautifully** — training was successful, and the model even started using icons in its responses. Lovely to see.
+- 📈 **Kimi K3 took more effort** — the small trainable version needed patience, but eventually training succeeded too.
+- ⏸️ **Paused at GGUF conversion** for Kimi, which requires llama.cpp modifications. Will continue once OpenCode credits recharge.
+- 📚 **Full Story:** [training_llama32_and_kimi_k3_with_aiia_datasets.md](TECH/training_llama32_and_kimi_k3_with_aiia_datasets.md) — Full experiment details, insights, and next steps.
+
+**Key insight:** Different models learn the same dataset differently. Llama adapts fast, Kimi needs persistence, but both can master AIIA tool calls with the right data.
+
+---
+
 ## 🔒 July 29, 2026 — Free SSL Providers: Let's Encrypt vs ZeroSSL
 
 > 🔐 **SSL/TLS** | 🆓 **Free Certs** | 📊 **Comparison**
