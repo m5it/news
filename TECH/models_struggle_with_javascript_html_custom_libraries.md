@@ -49,6 +49,7 @@ Even Claude-level models hit walls here.
 4. **Use explicit IDs/classes** — make HTML targets obvious
 5. **Test incrementally** — run, check console, fix one error
 6. **Document your own library** — models can't guess your custom API
+7. **Be specific in plans and tasks** — vague instructions multiply confusion when working with models and frameworks
 
 ## Implications for AIIA
 

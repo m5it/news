@@ -28,6 +28,7 @@
 - 🐍 **Python and Rust?** Models handle them mostly fine.
 - 🌐 **JavaScript, HTML, and custom JS libraries?** Super problems.
 - 🤖 **Even the smartest models — including Claude-level AI — struggle** with dynamic typing, runtime DOM context, implicit dependencies, and private APIs.
+- 🎯 **Working on this kind of project teaches a lesson:** you have to be **specific** when creating plans or tasks with models and frameworks. Vague instructions multiply the confusion.
 - 📚 **Tech details:** [Full write-up →](TECH/models_struggle_with_javascript_html_custom_libraries.md)
 
 ---

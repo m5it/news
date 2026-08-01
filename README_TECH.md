@@ -27,9 +27,10 @@
 - 🐍 **Python and Rust?** Models handle them mostly fine.
 - 🌐 **JavaScript, HTML, and custom JS libraries?** Super problems.
 - 🤖 **Even the smartest models — including Claude-level AI — struggle** with dynamic typing, runtime DOM context, implicit dependencies, and private APIs.
+- 🎯 **Lesson learned:** with this kind of project, you must be **specific** when creating plans or tasks for models and frameworks. Vague instructions multiply confusion.
 - 📚 **Full Guide:** [models_struggle_with_javascript_html_custom_libraries.md](TECH/models_struggle_with_javascript_html_custom_libraries.md) — Why it happens, what helps, and implications for AIIA.
 
-**Key insight:** Clean languages with clear boundaries are easy for models. Web stacks with runtime magic and custom libraries are still a hard problem for AI.
+**Key insight:** Clean languages with clear boundaries are easy for models. Web stacks with runtime magic and custom libraries are still a hard problem for AI — and specificity is the only way through.
 
 ---
 
