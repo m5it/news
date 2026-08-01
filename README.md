@@ -21,6 +21,17 @@
 
 ---
 
+## 💰 August 1, 2026 — LLM Providers: Price vs Value
+
+> 💸 **Costs** | 🤖 **AI Platforms** | 💭 **Opinion**
+
+- 💰 **Claude platform is the most expensive LLM provider out there.** But honestly? I don't think they have the smartest models or the best-developed programs and frameworks. They're just the most expensive company on the internet.
+- 📊 **Ollama, OpenCode, and others have more or less similar prices**, but there's one big difference.
+- 🆓 **Only OpenCode gives you a free trial.** That makes it the best option in my book.
+- 💬 **Would love to hear what others think.** Is free access the deciding factor for you too? Or do you pay for something specific that OpenCode doesn't offer?
+
+---
+
 ## 🚀 August 1, 2026 — AIIA v1: First Published Model
 
 > 🎉 **Milestone** | 🧠 **AI Model** | 🔧 **AIIA Framework**
