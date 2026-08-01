@@ -20,6 +20,16 @@
 
 ---
 
+## 🤖 August 1, 2026 — Training Kimi-K3 from 0.4B
+
+> 🧠 **AI Training** | ⏳ **Patience** | 📈 **Progress**
+
+- 🚀 **Training Kimi-K3 these days.** Started from **0.4B parameters**, so it requires a week of training — though hoping it takes less.
+- 📈 **Noticing progress as it progresses.** Each checkpoint shows the model getting better at AIIA tool calls. Slow and steady.
+- ⏳ **The waiting game continues.** Training is one of those things you can't rush. You set it running, watch the loss curve, and trust the process.
+
+---
+
 ## 🌍 August 1, 2026 — LLM Access: Restriction vs Openness
 
 > 🗳️ **Politics** | 🤖 **AI Regulation** | 🌏 **East vs West**
