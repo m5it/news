@@ -21,6 +21,18 @@
 
 ---
 
+## 🐧 August 1, 2026 — KOS: Our Future Linux Distribution
+
+> 🐧 **Operating System** | 🪶 **Lightweight** | 🛠️ **KosGen**
+
+- 🚀 **Planning our own Linux distribution: KOS.** Super-light, useful for both developers and normal users.
+- 🧩 **Built from our own tools:** X Server + OpenBox as KosBox (window manager) + KosDWM5 (dynamic panel) + KosFM (file manager) + more.
+- 🐍 **UI toolkit choice:** Python **Tkinter** for lighter hardware, or **PyQt5** for stronger machines.
+- 🎯 **The goal:** tie the whole KosGen ecosystem together into one coherent operating system.
+- 📚 **Tech details:** [KOS full write-up →](TECH/kos_future_linux_distribution_plan.md)
+
+---
+
 ## 🌐 August 1, 2026 — LLMs Struggle with JS, HTML & Custom Libraries
 
 > 🧠 **AI Limitations** | 🌐 **Web Dev** | ⚠️ **Reality Check**
