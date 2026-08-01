@@ -23,6 +23,7 @@ Your support helps us:
 - 💾 **Keep datasets and models accessible** — AIIA_DATASETS, training pipelines, and open weights
 - ☕ **Fuel late-night coding sessions** — coffee, servers, and sanity
 - 🔧 **Build what's coming next** — editors, automation tools, secure communication layers
+- 🏥 **Help with my back problems** — if we collect enough, donations are also meant to help me get proper treatment and recovery
 
 ---
 
@@ -40,6 +41,33 @@ w4d4f4k@gmail.com
 
 *(If the link doesn't work in your region, you can send directly to the email address above.)*
 
+### 📝 Important: Include Your PayPal Username
+When you donate or request support, **please include your PayPal username** so I know who is who. Without it, I can't match donations to people or requests.
+
+---
+
+## What You Get Back
+
+### 💻 Monthly Supporters
+
+If you donate **monthly**, you can request:
+
+- **Programming classes / tutoring** — Python, JavaScript, AI tools, Git, frameworks, etc.
+- **System configuration help** — Linux servers, networking, SSL, deployments, automation
+- **Code review** — I look at your project and give feedback
+- **Project guidance** — help planning and structuring your ideas
+
+Just message me with your **PayPal username** and what you need help with.
+
+### 🤝 One-Time Donations
+
+Every donation counts and goes directly into:
+
+- Keeping services online
+- Training and publishing models
+- My back treatment and recovery
+- More open-source tools for everyone
+
 ---
 
 ## What Your Donation Supports
@@ -50,13 +78,14 @@ w4d4f4k@gmail.com
 | **AI Development** | Training compute, model hosting, datasets |
 | **Open Source Tools** | AIIA, KosGen, AIIAEditor, KosDB, KosFM |
 | **Community Services** | Chat rooms, support channels, documentation |
+| **Health** | Back treatment, physiotherapy, recovery |
 | **Research** | Security, privacy, decentralized systems |
 
 ---
 
 ## Transparency
 
-We believe in ethical mastery and honest work. Every donation goes directly into keeping these projects alive and improving them. No corporate middlemen. No hidden agendas. Just builders building.
+We believe in ethical mastery and honest work. Every donation goes directly into keeping these projects alive and improving them — and when possible, into taking care of the human behind the keyboard. No corporate middlemen. No hidden agendas. Just builders building.
 
 ---
 
