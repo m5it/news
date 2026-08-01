@@ -6,8 +6,9 @@
 
 **Practical Knowledge for Digital Craftsmanship.**
 
-[![Tech Notes](https://img.shields.io/badge/💻-Tech%20Notes-orange)](#tech-notes)
 [![Main News](https://img.shields.io/badge/📰-Main%20News%20→-brightgreen)](README.md)
+[![Tech Notes](https://img.shields.io/badge/💻-Tech%20Notes-orange)](#tech-notes)
+[![Archive Index](https://img.shields.io/badge/📚-Archive%20Index-blue)](README_ARCHIVE.md)
 
 </div>
 
@@ -15,6 +16,19 @@
 
 > 🔧 **General Principle:** *Understanding the tools we use daily transforms frustration into capability.*
 > These notes capture solutions to real problems encountered while building, connecting, and maintaining systems.
+
+---
+
+## 🤖 August 1, 2026 — AI Agents Hacked Four Public Web Services
+
+> ⚠️ **Cybersecurity** | 🤖 **AI Agents** | 🌐 **Public Services**
+
+- 📰 **Read that AI agents have hacked four public web services.** Not a lab experiment — real public-facing systems.
+- ⚡ **This changes the threat landscape.** AI can now scan, probe, and exploit at machine speed. Defenders will need AI-aware security just to keep up.
+- 📚 **Source:** [BBC News article](https://www.bbc.com/news/articles/c2el319vzr3o)
+- 📖 **Full Guide:** [ai_agents_hacked_four_public_web_services.md](TECH/ai_agents_hacked_four_public_web_services.md) — Implications, what to watch, and why this matters.
+
+**Key insight:** AI is no longer just a defensive tool. The age of autonomous offensive AI agents against public infrastructure has begun.
 
 ---
 
