@@ -20,6 +20,19 @@
 
 ---
 
+## 🌐 August 1, 2026 — LLMs Struggle with JS, HTML & Custom Libraries
+
+> 🧠 **AI Limitations** | 🌐 **Web Dev** | ⚠️ **Reality Check**
+
+- 🐍 **Python and Rust?** Models handle them mostly fine.
+- 🌐 **JavaScript, HTML, and custom JS libraries?** Super problems.
+- 🤖 **Even the smartest models — including Claude-level AI — struggle** with dynamic typing, runtime DOM context, implicit dependencies, and private APIs.
+- 📚 **Full Guide:** [models_struggle_with_javascript_html_custom_libraries.md](TECH/models_struggle_with_javascript_html_custom_libraries.md) — Why it happens, what helps, and implications for AIIA.
+
+**Key insight:** Clean languages with clear boundaries are easy for models. Web stacks with runtime magic and custom libraries are still a hard problem for AI.
+
+---
+
 ## 🧮 August 1, 2026 — Finding Memory Hogs on Linux
 
 > 🐧 **Linux** | 🧠 **Memory** | 🔧 **System Admin**

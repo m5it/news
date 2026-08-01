@@ -21,6 +21,17 @@
 
 ---
 
+## 🌐 August 1, 2026 — LLMs Struggle with JS, HTML & Custom Libraries
+
+> 🧠 **AI Limitations** | 🌐 **Web Dev** | ⚠️ **Reality Check**
+
+- 🐍 **Python and Rust?** Models handle them mostly fine.
+- 🌐 **JavaScript, HTML, and custom JS libraries?** Super problems.
+- 🤖 **Even the smartest models — including Claude-level AI — struggle** with dynamic typing, runtime DOM context, implicit dependencies, and private APIs.
+- 📚 **Tech details:** [Full write-up →](TECH/models_struggle_with_javascript_html_custom_libraries.md)
+
+---
+
 ## 💰 August 1, 2026 — LLM Providers: Price vs Value
 
 > 💸 **Costs** | 🤖 **AI Platforms** | 💭 **Opinion**
