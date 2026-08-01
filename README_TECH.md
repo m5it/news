@@ -5,11 +5,11 @@
 # ⚡ ═══════════════════ ⚡
 
 **Practical Knowledge for Digital Craftsmanship.**
+
 [![Main News](https://img.shields.io/badge/📰-Main%20News%20→-brightgreen)](README.md)
 [![Tech Notes](https://img.shields.io/badge/💻-Tech%20Notes-orange)](#tech-notes)
 [![Archive Index](https://img.shields.io/badge/📚-Archive%20Index-blue)](README_ARCHIVE.md)
 [![Donate](https://img.shields.io/badge/💚-Support%20Our%20Work-pink)](DONATE.md)
-[![Archive Index](https://img.shields.io/badge/📚-Archive%20Index-blue)](README_ARCHIVE.md)
 
 </div>
 
@@ -17,6 +17,19 @@
 
 > 🔧 **General Principle:** *Understanding the tools we use daily transforms frustration into capability.*
 > These notes capture solutions to real problems encountered while building, connecting, and maintaining systems.
+
+---
+
+## 🚀 August 1, 2026 — AIIA v1: First Published Model
+
+> 🧠 **Fine-Tuned Model** | 🔧 **AIIA Framework** | 🌐 **Ollama**
+
+- 🎉 **We just published our first own trained model:** [AIIA v1](https://ollama.com/w4d4f4k/aiia_v1)
+- 🧠 **Trained on AIIA_DATASETS** to learn AIIA Framework tool commands — file operations, browser automation, workflow patterns, site scripts, and more.
+- 🚀 **Available on Ollama:** `ollama run w4d4f4k/aiia_v1`
+- 📚 **Full Details:** [aiia_v1_first_published_model.md](TECH/aiia_v1_first_published_model.md) — What it does, training data overview, why it matters, and what's next.
+
+**Key insight:** The first model trained specifically for our framework is now public. This is the foundation for everything that follows.
 
 ---
 
