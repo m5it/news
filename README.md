@@ -28,7 +28,7 @@
 - 🎉 **We just published our first own trained model:** [AIIA v1](https://ollama.com/w4d4f4k/aiia_v1)
 - 🧠 **Trained from scratch on our AIIA_DATASETS** so it understands AIIA Framework commands — file operations, browser automation, workflow patterns, site scripts, and more.
 - 🚀 **Available now on Ollama:** `ollama run w4d4f4k/aiia_v1`
-- 🔧 **This is the beginning.** First model. First public release. Many more to come as Kimi-K3 training continues.
+- 🔧 **This is the beginning.** First model. First public release. Many more to come.
 - 📚 **Tech details:** [AIIA v1 full write-up →](TECH/aiia_v1_first_published_model.md)
 
 ---
@@ -40,6 +40,8 @@
 - 🚀 **Training Kimi-K3 these days.** Started from **0.4B parameters**, so it requires a week of training — though hoping it takes less.
 - 📈 **Noticing progress as it progresses.** Each checkpoint shows the model getting better at AIIA tool calls. Slow and steady.
 - ⏳ **The waiting game continues.** Training is one of those things you can't rush. You set it running, watch the loss curve, and trust the process.
+- 🧪 **Kimi-K3 is more of an experiment.** For machines like ours with **16GB VRAM**, we'll focus on practical models like **AIIA v1**.
+- 🎯 **Next up:** **Qwen3 4B** tuned with **AIIA datasets** — a size that actually fits and runs on our hardware.
 
 ---
 

@@ -73,7 +73,6 @@
 **Key insight:** You can't patch a human with a software update. Social engineering is still the most reliable exploit.
 
 ---
-
 ## 🤖 July 31, 2026 — Training Llama 3.2 & Kimi K3 on AIIA_DATASETS
 
 > 🧠 **Fine-Tuning** | 📊 **AIIA_DATASETS** | 🔄 **GGUF Conversion**
@@ -82,9 +81,11 @@
 - ✅ **Llama 3.2 went beautifully** — training was successful, and the model even started using icons in its responses. Lovely to see.
 - 📈 **Kimi K3 took more effort** — the small trainable version needed patience, but eventually training succeeded too.
 - ⏸️ **Paused at GGUF conversion** for Kimi, which requires llama.cpp modifications. Will continue once OpenCode credits recharge.
+- 🧪 **Kimi-K3 is more of an experiment.** For machines like ours with **16GB VRAM**, practical models like **AIIA v1** are the real target.
+- 🎯 **Next up:** **Qwen3 4B** tuned with **AIIA datasets** — a size that actually fits and runs on our hardware.
 - 📚 **Full Story:** [training_llama32_and_kimi_k3_with_aiia_datasets.md](TECH/training_llama32_and_kimi_k3_with_aiia_datasets.md) — Full experiment details, insights, and next steps.
 
-**Key insight:** Different models learn the same dataset differently. Llama adapts fast, Kimi needs persistence, but both can master AIIA tool calls with the right data.
+**Key insight:** Different models learn the same dataset differently. Llama adapts fast, Kimi needs persistence, but practical deployment means matching model size to available hardware. Qwen3 4B is the next practical step.
 
 ---
 

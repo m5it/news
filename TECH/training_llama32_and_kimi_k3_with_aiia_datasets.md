@@ -2,13 +2,14 @@
 
 ## The Experiment
 
-Yesterday I started training models using the newly created **AIIA_DATASETS**. Goal: teach models to correctly invoke **AIIA Framework** tools.
+I started training models using the newly created **AIIA_DATASETS**. Goal: teach models to correctly invoke **AIIA Framework** tools.
 
 ## Phase 1: Llama 3.2
 
 - 🚀 **Started with Llama 3.2** and the new AIIA_DATASETS
 - ✅ **Training looked successful**
 - 🎨 **Beautiful moment:** When testing the new version, the model started using **icons within its responses** — exactly the format and style it was trained on. That visual confirmation that training worked was lovely.
+- 🚀 **Result:** This became the foundation for **AIIA v1**, our first published model.
 
 ## Phase 2: Kimi K3
 
@@ -16,6 +17,7 @@ Yesterday I started training models using the newly created **AIIA_DATASETS**. G
 - ⚠️ **Didn't go as smoothly as Llama 3.2** at first
 - 📈 **But progress was visible** — step by step, the model improved
 - ✅ **Eventually, Kimi training was successful too**
+- 🧪 **However, Kimi-K3 is more of an experiment.** For machines like ours with **16GB VRAM**, we need smaller, practical models that actually run well in production.
 
 ## Phase 3: GGUF Conversion
 
@@ -29,15 +31,18 @@ Yesterday I started training models using the newly created **AIIA_DATASETS**. G
 2. **Kimi K3 needed more patience** but eventually converged
 3. **GGUF conversion is the next frontier** — requires llama.cpp tweaks
 4. **Training data quality matters** — AIIA_DATASETS provided the structure needed for both models to learn
+5. **Hardware reality matters** — Big experiments are fun, but 16GB VRAM means practical models win
 
 ## Next Steps
 
 - Continue GGUF conversion once credits are available
 - Test converted models for inference speed and quality
 - Compare Llama 3.2 and Kimi K3 outputs on real AIIA tasks
+- 🎯 **Train Qwen3 4B on AIIA_DATASETS** — a practical size that fits and runs on 16GB VRAM machines
 
 ## See Also
 
+- [AIIA v1 — First Published Model](aiia_v1_first_published_model.md)
 - [AIIA_DATASETS repository](https://github.com/m5it/AIIA_DATASETS)
 - [AIIA Framework](https://github.com/m5it/AIIA)
 - [KosGen AI Toolkit](https://github.com/m5it)
