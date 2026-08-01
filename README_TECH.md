@@ -5,9 +5,10 @@
 # ⚡ ═══════════════════ ⚡
 
 **Practical Knowledge for Digital Craftsmanship.**
-
 [![Main News](https://img.shields.io/badge/📰-Main%20News%20→-brightgreen)](README.md)
 [![Tech Notes](https://img.shields.io/badge/💻-Tech%20Notes-orange)](#tech-notes)
+[![Archive Index](https://img.shields.io/badge/📚-Archive%20Index-blue)](README_ARCHIVE.md)
+[![Donate](https://img.shields.io/badge/💚-Support%20Our%20Work-pink)](DONATE.md)
 [![Archive Index](https://img.shields.io/badge/📚-Archive%20Index-blue)](README_ARCHIVE.md)
 
 </div>

@@ -10,6 +10,7 @@
 [![Archive Index](https://img.shields.io/badge/📚-Archive%20Index-blue)](README_ARCHIVE.md)
 [![Tech Notes](https://img.shields.io/badge/💻-Tech%20Notes-orange)](README_TECH.md)
 [![Sport News](https://img.shields.io/badge/⚽-Sport%20News-red)](README_SPORT.md)
+[![Donate](https://img.shields.io/badge/💚-Support%20Our%20Work-pink)](DONATE.md)
 
 </div>
 
