@@ -20,6 +20,18 @@
 
 ---
 
+## 🧮 August 1, 2026 — Finding Memory Hogs on Linux
+
+> 🐧 **Linux** | 🧠 **Memory** | 🔧 **System Admin**
+
+- 🚀 **Need to find what's using a lot of memory?** Start with the basics.
+- 💡 **Best tools:** `free -h` for overview, `htop` for interactive sorting, `ps aux --sort=-%mem | head -20` for quick CLI list, `smem` for accurate shared memory, and `nvidia-smi` for GPU VRAM.
+- 📚 **Full Guide:** [finding_memory_hogs_on_linux.md](TECH/finding_memory_hogs_on_linux.md) — Commands, GPU memory, pro tips, and when to use what.
+
+**Key insight:** `ps aux --sort=-%mem | head -10` plus `nvidia-smi` covers most cases. For memory leaks, use `watch` and observe growth over time.
+
+---
+
 ## 🚀 August 1, 2026 — AIIA v1: First Published Model
 
 > 🧠 **Fine-Tuned Model** | 🔧 **AIIA Framework** | 🌐 **Ollama**
@@ -73,6 +85,7 @@
 **Key insight:** You can't patch a human with a software update. Social engineering is still the most reliable exploit.
 
 ---
+
 ## 🤖 July 31, 2026 — Training Llama 3.2 & Kimi K3 on AIIA_DATASETS
 
 > 🧠 **Fine-Tuning** | 📊 **AIIA_DATASETS** | 🔄 **GGUF Conversion**
