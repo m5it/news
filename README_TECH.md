@@ -20,6 +20,19 @@
 
 ---
 
+## 🐧 August 2, 2026 — Arch Linux Repository Breach & Delayed Notification
+
+> 🛡️ **Security** | 🐧 **Arch Linux** | ⏰ **Delayed Disclosure**
+
+- 📰 **Reading about a breach on Arch repositories** — happened around 2 months ago but notified much later.
+- 😰 **Not sure if I have testing Arch these days... omg.**
+- 📚 **Source:** [MuyLinux article](https://www.muylinux.com/2026/07/31/arch-linux-aur-adopcion-paquetes/)
+- 📖 **Full Guide:** [arch_linux_repository_breach_notification_delay.md](TECH/arch_linux_repository_breach_notification_delay.md) — What happened, why delayed disclosure is dangerous, and what to do.
+
+**Key insight:** A security breach is bad, but delayed notification is worse. The silent months between compromise and disclosure cause the most damage.
+
+---
+
 ## 🐧 August 1, 2026 — KOS: Our Future Lightweight Linux Distribution
 
 > 🐧 **Linux** | 🪶 **Lightweight** | 🛠️ **KosGen Ecosystem**
