@@ -21,6 +21,17 @@
 
 ---
 
+## 🤗 August 2, 2026 — Playing with Hugging Face & Training Qwen2.5 Coder
+
+> 🤗 **Hugging Face** | 🧠 **Model Training** | 💻 **Qwen2.5 Coder**
+
+- 🤗 **Today I'm playing with Hugging Face.** You can train much stronger models there than at home, and for not big money.
+- 🛠️ **They have a lot of tools** that can make your life easier if you let them.
+- 🚀 **Currently training Qwen2.5 Coder** with our **AIIA datasets**. Another step toward a practical, capable AIIA-powered coding model.
+- 📚 **Tech details:** [AIIA training notes →](README_TECH.md)
+
+---
+
 ## 😮 August 2, 2026 — When OpenCode Stops Working
 
 > 🤖 **AI Tools** | ⚠️ **Outages** | 🛡️ **Preparedness**
