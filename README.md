@@ -26,6 +26,7 @@
 > 🤖 **AI Tools** | ⚠️ **Outages** | 🛡️ **Preparedness**
 
 - 😮 **Wow, when OpenCode stops working... nothing works.** Not Anthropic, not Big Pickle, not anything. Strange moments!
+- 🌡️ **Also today the internet is working slow.** Looks like heat affects machines the same as people... :x
 - 🛡️ **Good thing I prepared my AIIA.** When the cloud tools go down, having your own local framework is the difference between being stuck and keeping going.
 - 💡 **This is exactly why self-hosted AI matters.** Dependence on external platforms is fragile. Your own tools are freedom.
 
@@ -109,8 +110,8 @@
 
 ### 📚 [View Archive Index →](README_ARCHIVE.md)
 
-**Last Updated:** August 1, 2026  
-*News from August 1, 2026*
+**Last Updated:** August 2, 2026  
+*News from August 1 — August 2, 2026*
 
 ---
 
