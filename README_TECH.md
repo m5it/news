@@ -20,6 +20,18 @@
 
 ---
 
+## 🔀 August 2, 2026 — OpenCode Model Switching Leaks Context
+
+> 🤖 **OpenCode** | 🔁 **Model Switching** | ⚠️ **Context Loss**
+
+- 🧠 **Noticed that switching models on OpenCode can lead to information leaks.** One model (Big Pickle) understands the plan it's preparing, then you switch to another (Kimi-K3) and the second doesn't know what the first was doing — even though the chat history is still there.
+- 📉 **The context is visible but not understood.** The new model sees the messages but misses the implicit plan and intent.
+- 📚 **Full Guide:** [opencode_model_switching_information_leak.md](TECH/opencode_model_switching_information_leak.md) — Why it happens, when it's dangerous, and how to mitigate it.
+
+**Key insight:** Chat history is not enough. Without explicit state and structured plans, switching models breaks the workflow and can leak or lose critical context.
+
+---
+
 ## 🐧 August 2, 2026 — Arch Linux Repository Breach & Delayed Notification
 
 > 🛡️ **Security** | 🐧 **Arch Linux** | ⏰ **Delayed Disclosure**
