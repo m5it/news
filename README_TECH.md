@@ -20,6 +20,18 @@
 
 ---
 
+## 🧠 August 3, 2026 — Next Model: Gemma3 12B with Thinking Support
+
+> 🧠 **Planning** | 🤖 **Gemma3** | 🎯 **AIIA Framework**
+
+- 🎯 **Next model planned: Gemma3 12B.** It supports thinking — something the last three models did not.
+- 🔄 **AIIA Framework was not prepared much for thinking workflows** because previous models lacked this capability. Now we can start building true reasoning into the framework.
+- 📚 **Full Details:** [next_model_planned_gemma3_12b_thinking.md](TECH/next_model_planned_gemma3_12b_thinking.md) — Why Gemma3 12B, what thinking support means for AIIA, and what we need to prepare.
+
+**Key insight:** Thinking models change the game. AIIA can evolve from tool executor to agent that plans, reflects, and adapts.
+
+---
+
 ## 🧬 August 3, 2026 — Learning Synthetic Trajectory Generators
 
 > 🧬 **Synthetic Data** | 🎯 **Model Training** | 🤖 **AIIA Datasets**
