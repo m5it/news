@@ -27,9 +27,9 @@
 - 🎯 **For models trained by us with AIIA Framework, AI_INSTRUCT_OPTION=1 works better.**
 - ☁️ **AI_INSTRUCT_OPTION=2 is more useful for cloud models** — they understand broader instructions without much training.
 - 🚀 **Our own models can become good programmers too** — they just need more training.
-- 📚 **Full Details:** [ai_instruct_option_1_vs_2_training_insight.md](TECH/ai_instruct_option_1_vs_2_training_insight.md) — When to use each option, why trained models prefer Option 1, and the path forward.
+- 📚 **Full Details:** [ai_instruct_option_1_vs_2_training_insight.md](TECH/ai_instruct_option_1_vs_2_training_insight.md) — When to use each option, why less-trained models work better with Option 1, and the path forward.
 
-**Key insight:** Match the instruction format to the model. Trained models love Option 1. Cloud generalists prefer Option 2. More training will close the gap.
+**Key insight:** Match the instruction format to the model. Less-trained local models need Option 1. Cloud generalists prefer Option 2. More training will close the gap.
 
 ---
 
