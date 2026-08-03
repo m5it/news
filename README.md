@@ -21,6 +21,16 @@
 
 ---
 
+## 📺 August 3, 2026 — TV Channels and the Feeling of War
+
+> 📺 **Media** | 🌍 **Politics** | 🤔 **Observation**
+
+- 📺 **I'm noticing on television a kind of war.** A lot of TV channels seem to be from foreign interests, and there's missing collaboration between them all.
+- 🎭 **If you ask me, I can feel kind of war behaviour from some TV channels.** They repeat the same messages so people think certain things for sure.
+- 🤨 **Strange democracy.** When the narrative is manufactured and repeated, choice becomes an illusion.
+
+---
+
 ## 💙 August 3, 2026 — More Schools, More Understanding
 
 > 🏫 **Education** | 🌍 **Humanity** | 💙 **Love**
