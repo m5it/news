@@ -21,6 +21,18 @@
 
 ---
 
+## 🚀 August 3, 2026 — New Stronger Model: Qwen2.5-Coder 7B AIIA
+
+> 🎉 **Milestone** | 🧠 **AI Model** | 💻 **Qwen2.5-Coder**
+
+- 🎉 **Today we created a new, stronger model!** Based on **Qwen2.5-Coder 7B**, trained on our **AIIA_DATASETS**.
+- 🚀 **Published on Ollama:** [w4d4f4k/qwen25-coder-aiia](https://ollama.com/w4d4f4k/qwen25-coder-aiia)
+- 🧠 **Run it:** `ollama run w4d4f4k/qwen25-coder-aiia`
+- 📈 **The evolution continues:** AIIA v1 → Kimi-K3 experiment → **Qwen2.5-Coder 7B AIIA**. This is the practical, stronger step forward.
+- 📚 **Tech details:** [Full write-up →](TECH/qwen25_coder_7b_aiia_new_stronger_model.md)
+
+---
+
 ## 📺 August 3, 2026 — TV Channels and the Feeling of War
 
 > 📺 **Media** | 🌍 **Politics** | 🤔 **Observation**

@@ -20,6 +20,32 @@
 
 ---
 
+## 🧬 August 3, 2026 — Learning Synthetic Trajectory Generators
+
+> 🧬 **Synthetic Data** | 🎯 **Model Training** | 🤖 **AIIA Datasets**
+
+- 🧬 **Today learning about synthetic-trajectory generators.**
+- 🤖 **What they do:** generate code/datasets that you want a model to learn — not from real data, but automatically generated based on configurations.
+- 🎯 **Why it matters:** you can manufacture the exact training data your model needs, instead of waiting for the world to produce examples.
+- 📚 **Full Guide:** [synthetic_trajectory_generator_learning.md](TECH/synthetic_trajectory_generator_learning.md) — How it works, use cases for AIIA, real vs synthetic data, and key insights.
+
+**Key insight:** Synthetic data is a superpower for training specialized models. Configure, generate, train — no real-world collection required.
+
+---
+
+## 🚀 August 3, 2026 — Qwen2.5-Coder 7B AIIA: New Stronger Model
+
+> 🧠 **Fine-Tuned Model** | 💻 **Qwen2.5-Coder** | 🚀 **AIIA Framework**
+
+- 🎉 **Today we created a new, stronger model:** [Qwen2.5-Coder 7B AIIA](https://ollama.com/w4d4f4k/qwen25-coder-aiia)
+- 🧠 **Based on Qwen2.5-Coder 7B** and trained on our **AIIA_DATASETS** for AIIA Framework tool commands.
+- 🚀 **Available on Ollama:** `ollama run w4d4f4k/qwen25-coder-aiia`
+- 📚 **Full Details:** [qwen25_coder_7b_aiia_new_stronger_model.md](TECH/qwen25_coder_7b_aiia_new_stronger_model.md) — Model evolution, capabilities, and why this is the practical next step.
+
+**Key insight:** 7B parameters with a code-specialized base model hits the sweet spot — much stronger than smaller experiments, yet still runnable on accessible hardware.
+
+---
+
 ## 🔀 August 2, 2026 — OpenCode Model Switching Leaks Context
 
 > 🤖 **OpenCode** | 🔁 **Model Switching** | ⚠️ **Context Loss**
