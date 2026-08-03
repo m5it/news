@@ -21,6 +21,27 @@
 
 ---
 
+## 🎾 August 3, 2026 — Early Training, Early Mastery
+
+> 🎾 **Sports** | 💻 **Programming** | 🧠 **Child Development**
+
+- 🎾 **If Nadal had started training tennis at 16, he wouldn't be a professional tennis player.** By then, it's too late to reach the top.
+- 💻 **I think the same applies to programmers.** If kids don't start early with computers, they won't become professional informatics, programmers, or developers later.
+- 🤔 **Psychologists and doctors say children shouldn't use computers or at least "redes sociales"...** But if we follow that advice strictly, where will the next generation of tech professionals come from?
+- ⚖️ **Balance is the question.** Not all screen time is equal. Coding is not the same as scrolling social media.
+
+---
+
+## 🌍 August 3, 2026 — Ceuta: The Message Europe Is Sending
+
+> 🌍 **Migration** | 🇪🇸 **Ceuta** | 🏫 **Education**
+
+- 🌍 **What's happening in Ceuta with immigrants is missing from school.** Or rather, it's missing from the lessons Europe should be teaching.
+- 🚪 **This cannot happen in Europe** — so when people get that message, they start running back over the border to Morocco.
+- 🤔 **Strange logic:** create a situation so unwelcoming that people choose to leave. Europe's southern border is becoming a lesson in reverse psychology.
+
+---
+
 ## 🎭 August 3, 2026 — Today, the Mafia Is Guilty of Everything
 
 > 🎭 **Satire** | 🌍 **Society** | 😤 **Frustration**
