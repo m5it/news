@@ -25,11 +25,12 @@
 > 🎛️ **AIIA Framework** | 🧠 **Model Training** | ⚙️ **Configuration**
 
 - 🎯 **For models trained by us with AIIA Framework, AI_INSTRUCT_OPTION=1 works better.**
-- ☁️ **AI_INSTRUCT_OPTION=2 is more useful for cloud models** — they understand broader instructions without much training.
-- 🚀 **Our own models can become good programmers too** — they just need more training.
-- 📚 **Full Details:** [ai_instruct_option_1_vs_2_training_insight.md](TECH/ai_instruct_option_1_vs_2_training_insight.md) — When to use each option, why less-trained models work better with Option 1, and the path forward.
+- 📝 **Why:** Option 1 uses a **system prompt** with a lot of information included directly. Option 2 uses **tips functionality**, and not all models understand how to read and combine separate tips yet.
+- ☁️ **AI_INSTRUCT_OPTION=2 is more useful for cloud models** — they already understand modular context and broader instructions without much training.
+- 🚀 **Our own models can become good programmers too** — they just need more training, especially on how to use tips.
+- 📚 **Full Details:** [ai_instruct_option_1_vs_2_training_insight.md](TECH/ai_instruct_option_1_vs_2_training_insight.md) — How each option works, why less-trained models need Option 1, and the path to Option 2.
 
-**Key insight:** Match the instruction format to the model. Less-trained local models need Option 1. Cloud generalists prefer Option 2. More training will close the gap.
+**Key insight:** Less-trained models need everything in one system prompt (Option 1). Tips (Option 2) are powerful, but only for models that already know how to use them. More training closes the gap.
 
 ---
 
