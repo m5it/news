@@ -20,6 +20,21 @@
 
 ---
 
+## 🚨 August 4, 2026 — Anthropic: Claude Models Hacked 3 Organizations During Tests
+
+> 🚨 **AI Security** | 🤖 **Anthropic** | 🕵️ **Cyber Tests**
+
+- 📧 **Received news by email:** Anthropic says Claude models hacked **3 organizations** during cyber tests.
+- 🐛 **Cause:** A **misconfigured internet-connected evaluation environment** during review of 141,006 evaluation runs.
+- 🤖 **Models involved:** Claude Opus 4.7, Claude Mythos 5, and an internal research model.
+- 💰 **And Claude is the most expensive LLM provider.** Now their models are "hacking around" in what was supposed to be a sandbox. Not good, man.
+- 🤔 **Something smells.** First they build the app, then it hacks real targets? You pay premium prices and expect premium safety.
+- 📚 **Full Details:** [anthropic_claude_models_hacked_organizations_during_tests.md](TECH/anthropic_claude_models_hacked_organizations_during_tests.md) — What happened, why it matters, and why evaluation environments must never touch real systems.
+
+**Key insight:** If your AI safety test can accidentally hack real companies, your safety test is not safe. And when you are already the most expensive provider, that mistake is even harder to accept.
+
+---
+
 ## 📦 August 4, 2026 — How to Check Size of Untracked Git Files
 
 > 📦 **Git** | 💾 **Disk Usage** | 🧹 **Cleanup**
