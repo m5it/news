@@ -20,6 +20,20 @@
 
 ---
 
+## 🤖 August 4, 2026 — vLLM: Can It Load .pt Files?
+
+> 🤖 **vLLM** | 📦 **Model Formats** | 🚀 **Serving**
+
+- ❓ **Question:** Can vLLM load `.pt` files and generate chat responses from them?
+- ❌ **Short answer:** A raw `.pt` file alone — **no**. vLLM needs the full model package: config, tokenizer, and weights.
+- ✅ **What vLLM CAN load:** HuggingFace folders (`.pt`, `.bin`, `.safetensors`), GGUF, AWQ, GPTQ, FP8.
+- 🔄 **Solution:** Convert your `.pt` state_dict into HuggingFace format with `model.save_pretrained()`, then serve with `vllm serve ./folder`.
+- 📚 **Full Guide:** [vllm_loading_models_pt_safetensors_gguf.md](TECH/vllm_loading_models_pt_safetensors_gguf.md) — Full format table, conversion examples, chat API usage, and common mistakes.
+
+**Key insight:** vLLM is a serving engine, not a weight loader. Give it a complete model package and it serves fast chat completions. A raw `.pt` dump is not enough.
+
+---
+
 ## 🎛️ August 3, 2026 — AI_INSTRUCT_OPTION: 1 vs 2
 
 > 🎛️ **AIIA Framework** | 🧠 **Model Training** | ⚙️ **Configuration**
