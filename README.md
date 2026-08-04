@@ -21,6 +21,20 @@
 
 ---
 
+## 📺 August 4, 2026 — Two Great British Detective Series
+
+> 📺 **TV Series** | 🔍 **Mystery** | 🇬🇧 **British**
+
+- 📺 **Father Brown** — British detective series about a crime-solving Catholic priest in the 1950s. Clever, gentle, and full of moral puzzles.
+  - 📚 **IMDB:** [Father Brown](https://www.imdb.com/title/tt2215842/)
+- 📺 **Sister Boniface Mysteries** — Spin-off from Father Brown, following a nun with a real talent for forensic science. Light, smart, and fun.
+  - 📚 **IMDB:** [Sister Boniface Mysteries](https://www.imdb.com/es-es/title/tt15407098/)
+- 📚 **More recommendations:** [DEFAULT/BEST_TV_SERIES.md](DEFAULT/BEST_TV_SERIES.md)
+
+**Key insight:** Sometimes the best detectives are the ones you least expect — a priest and a nun solving crimes with wisdom and wit.
+
+---
+
 ## 🚀 August 4, 2026 — Qwen2.5-Coder 7B AIIA v2: Thinking Model Released!
 
 > 🎉 **Milestone** | 🧠 **AI Model** | 🚀 **AIIA Framework**
