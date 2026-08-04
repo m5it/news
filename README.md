@@ -21,17 +21,19 @@
 
 ---
 
-## 📺 August 4, 2026 — Two Great British Detective Series
+## 📺 August 4, 2026 — The Best Series
 
-> 📺 **TV Series** | 🔍 **Mystery** | 🇬🇧 **British**
+> 📺 **TV Series** | 🔍 **Mystery** | 🍿 **Recommendations**
 
 - 📺 **Father Brown** — British detective series about a crime-solving Catholic priest in the 1950s. Clever, gentle, and full of moral puzzles.
   - 📚 **IMDB:** [Father Brown](https://www.imdb.com/title/tt2215842/)
 - 📺 **Sister Boniface Mysteries** — Spin-off from Father Brown, following a nun with a real talent for forensic science. Light, smart, and fun.
   - 📚 **IMDB:** [Sister Boniface Mysteries](https://www.imdb.com/es-es/title/tt15407098/)
+- 📺 **Detective Murdoch** — Canadian mystery series set in late 19th-century Toronto, following Detective William Murdoch as he solves crimes using innovative forensic techniques.
+  - 📚 **IMDB:** [Detective Murdoch](https://www.imdb.com/title/tt1091909/)
 - 📚 **More recommendations:** [DEFAULT/BEST_TV_SERIES.md](DEFAULT/BEST_TV_SERIES.md)
 
-**Key insight:** Sometimes the best detectives are the ones you least expect — a priest and a nun solving crimes with wisdom and wit.
+**Key insight:** The best detectives come in unexpected forms — a priest, a nun, and a Victorian-era investigator. Wisdom and wit solve more than brute force.
 
 ---
 
