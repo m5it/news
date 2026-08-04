@@ -21,6 +21,20 @@
 
 ---
 
+## ⚖️ August 4, 2026 — On Violence, Regret, and Preparation
+
+> ⚖️ **Ethics** | 🧠 **Self-Control** | 💭 **Reflection**
+
+- ⚖️ **People who kill another person, for me, are no longer people.** The act itself crosses a line that cannot be undone.
+- 😔 **Being sorry afterwards is not enough.** Regret comes too late — after a life has already been taken.
+- 🧠 **You need to think before.** Before the act. Before the words. Before the escalation.
+- 🛡️ **Prepare in your head.** Decide in calm moments what you will and won't do, so that in a crisis you are not ruled by impulse.
+- 📚 **Full reflection:** [on_violence_regret_and_preparation.md](on_violence_regret_and_preparation.md)
+
+**Key insight:** Sorry is not a safety net. Preparation is. The time to decide who you are is not in the middle of a crisis — it is every ordinary day before it.
+
+---
+
 ## 🎬 August 3, 2026 — Another Good Movie: The Artificial Girl
 
 > 🎬 **Movie** | 🤖 **AI / Sci-Fi** | 🍿 **Recommendation**
@@ -206,8 +220,8 @@
 
 ### 📚 [View Archive Index →](README_ARCHIVE.md)
 
-**Last Updated:** August 3, 2026  
-*News from August 1 — August 3, 2026*
+**Last Updated:** August 4, 2026  
+*News from August 1 — August 4, 2026*
 
 ---
 
