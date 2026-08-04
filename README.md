@@ -21,6 +21,19 @@
 
 ---
 
+## 🌍 August 4, 2026 — Ceuta Immigrants: A Terrifying Situation
+
+> 🌍 **Migration** | 🇪🇸 **Ceuta** | 🚨 **Humanitarian Crisis**
+
+- 🌍 **The view on immigrants in Ceuta is terrifying.**
+- ⚠️ **If no one starts helping soon, they will start picking up bodies from the beaches.**
+- 🤝 **Inaction is a choice.** People need water, food, medical care, and safe passage — not closed borders and silence.
+- 📚 **Full reflection:** [ceuta_immigrants_terrifying_situation.md](ceuta_immigrants_terrifying_situation.md)
+
+**Key insight:** A border policy that lets people die is not a policy — it is a death sentence. Helping now is cheaper in every way than picking up the consequences later.
+
+---
+
 ## ⚖️ August 4, 2026 — On Violence, Regret, and Preparation
 
 > ⚖️ **Ethics** | 🧠 **Self-Control** | 💭 **Reflection**
