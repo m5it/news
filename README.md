@@ -21,6 +21,20 @@
 
 ---
 
+## 🚀 August 4, 2026 — Qwen2.5-Coder 7B AIIA v2: Thinking Model Released!
+
+> 🎉 **Milestone** | 🧠 **AI Model** | 🚀 **AIIA Framework**
+
+- 🎉 **Great news today!** We successfully trained the **second version** of our model: [Qwen2.5-Coder 7B AIIA v2](https://ollama.com/w4d4f4k/qwen25-coder-aiia-v2)
+- 🧠 **This version supports thinking!** It can reason step by step, plan, and reflect before acting.
+- ✅ **Here we see how fine-tuning helps teach a model to work.** We took a model that did not naturally think this way and trained it to reason.
+- 🚀 **Run it:** `ollama run w4d4f4k/qwen25-coder-aiia-v2`
+- 📚 **Tech details:** [Full write-up →](TECH/qwen25_coder_aiia_v2_thinking.md)
+
+**Key insight:** Fine-tuning is not just about knowledge — it is about teaching behavior. Qwen2.5-Coder AIIA v2 proves that even a 7B model can learn to think.
+
+---
+
 ## 🌍 August 4, 2026 — Ceuta Immigrants: A Terrifying Situation
 
 > 🌍 **Migration** | 🇪🇸 **Ceuta** | 🚨 **Humanitarian Crisis**

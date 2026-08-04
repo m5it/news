@@ -20,6 +20,19 @@
 
 ---
 
+## 🎉 August 4, 2026 — Qwen2.5-Coder 7B AIIA v2: Now With Thinking Support
+
+> 🎉 **Milestone** | 🧠 **Fine-Tuning** | 🚀 **AIIA Model**
+
+- 🚀 **Successfully trained the second version of our model:** [Qwen2.5-Coder 7B AIIA v2](https://ollama.com/w4d4f4k/qwen25-coder-aiia-v2)
+- 🧠 **v2 supports thinking!** It can reason step by step, plan, and reflect before acting.
+- ✅ **This proves that fine-tuning can teach behavior, not just add knowledge.** We took a model that did not think this way and trained it to reason.
+- 📚 **Full Details:** [qwen25_coder_aiia_v2_thinking.md](TECH/qwen25_coder_aiia_v2_thinking.md) — What's new, how fine-tuning enabled thinking, and what it means for AIIA.
+
+**Key insight:** Fine-tuning is how you turn a response machine into a thinking agent. Qwen2.5-Coder AIIA v2 is proof that even a 7B model can learn to reason with the right training data.
+
+---
+
 ## 🦀 August 4, 2026 — Why LLM Training Infrastructure Is C++ (Not Rust)
 
 > 🦀 **Rust** | ⚡ **C++** | 🧠 **AI Infrastructure**
