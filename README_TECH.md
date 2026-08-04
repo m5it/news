@@ -20,6 +20,22 @@
 
 ---
 
+## 📦 August 4, 2026 — How to Check Size of Untracked Git Files
+
+> 📦 **Git** | 💾 **Disk Usage** | 🧹 **Cleanup**
+
+- 💾 **Need to know how much space untracked files are using?**
+- ✅ **Use this command:**
+  ```bash
+  git ls-files --others --exclude-standard -z | xargs -0 du -sm | awk '{sum+=$1} END {print "Total:", sum, "MB"}'
+  ```
+- ⚠️ **Do NOT use `du -sh` with awk sum** — it mixes units (K, M, G) and gives a meaningless total.
+- 📚 **Full Guide:** [check_size_of_untracked_git_files.md](TECH/check_size_of_untracked_git_files.md) — Why this works, common mistakes, and useful variations.
+
+**Key insight:** Use `du -sm` for consistent megabyte units when summing untracked file sizes. `du -sh` is human-readable but not summable.
+
+---
+
 ## 🎉 August 4, 2026 — Qwen2.5-Coder 7B AIIA v2: Now With Thinking Support
 
 > 🎉 **Milestone** | 🧠 **Fine-Tuning** | 🚀 **AIIA Model**
