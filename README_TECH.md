@@ -20,6 +20,20 @@
 
 ---
 
+## 🦀 August 4, 2026 — Why LLM Training Infrastructure Is C++ (Not Rust)
+
+> 🦀 **Rust** | ⚡ **C++** | 🧠 **AI Infrastructure**
+
+- 🤔 **Question:** Why is most LLM training infrastructure written in C++ instead of Rust?
+- 🏗️ **Answer:** The AI stack was built on C++ long before Rust was mainstream. PyTorch and TensorFlow have millions of lines of optimized C++ and CUDA code.
+- 🐍 **Python is the glue, C++ is the engine.** Researchers script in Python; the heavy backend runs in C++ and CUDA.
+- 🔒 **Rust's safety is great, but strict ownership and bounds-checking can complicate low-level tensor kernels** where every microsecond matters.
+- 📚 **Full Guide:** [llm_training_infrastructure_cpp_not_rust.md](TECH/llm_training_infrastructure_cpp_not_rust.md) — Ecosystem history, CUDA vendor lock-in, safety vs. performance trade-offs, and Rust projects like Burn trying to enter ML.
+
+**Key insight:** C++ won by being there first and staying fast. Rust may take over surrounding AI infrastructure, but the core training kernels will stay C++/CUDA for the foreseeable future.
+
+---
+
 ## 🧠 August 4, 2026 — Fine-Tuning: Teaching a Model to Think
 
 > 🧠 **Fine-Tuning** | 🤔 **Reasoning** | 🎯 **AIIA Training**
