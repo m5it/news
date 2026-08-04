@@ -20,6 +20,19 @@
 
 ---
 
+## 🧠 August 4, 2026 — Fine-Tuning: Teaching a Model to Think
+
+> 🧠 **Fine-Tuning** | 🤔 **Reasoning** | 🎯 **AIIA Training**
+
+- 🎯 **Fine-tuning is not just about adding knowledge — it is about shaping behavior.**
+- 🧠 **If a model has never been trained to think step by step, it will not naturally handle complex reasoning tasks** the way people do.
+- 🔄 **By fine-tuning on reasoning-style data, we can teach our models to plan, reflect, self-correct, and act through tools.**
+- 📚 **Full Guide:** [fine_tuning_teaching_models_to_think.md](TECH/fine_tuning_teaching_models_to_think.md) — What fine-tuning really is, why thinking must be trained, and what it means for AIIA.
+
+**Key insight:** A model that has never encountered structured reasoning cannot produce it. Fine-tuning is how we turn response machines into thinking agents.
+
+---
+
 ## 🤖 August 4, 2026 — vLLM: Can It Load .pt Files?
 
 > 🤖 **vLLM** | 📦 **Model Formats** | 🚀 **Serving**
