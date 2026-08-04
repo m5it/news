@@ -10,6 +10,19 @@ There are actions that change who a person is in the eyes of others. For me, **s
 - ⏳ **Regret comes too late** — after a life has already been taken.
 - ⚖️ **Justice and remorse are not the same thing.** One can feel guilt and still owe a debt that can never be repaid.
 
+## What They Say on TV
+
+Later you hear people on TV debating:
+
+- Was he really sorry?
+- Did he really want to do it?
+- Was it an accident?
+- What was going through his mind?
+
+**For me, this is not important.** Nobody can undo what was done. The person who was killed is not coming back. The family does not get their loved one back because the killer felt sorry.
+
+It is over. **Over.**
+
 ## Think Before You Act
 
 The real responsibility is **before** the moment of violence:
@@ -35,7 +48,7 @@ When you have already decided — in calm moments — that you will not kill, th
 
 > *There are lines that, once crossed, cannot be uncrossed. Killing another human being is one of them.*
 
-No apology, no explanation, no time in prison fully restores what was broken. That is why the only real protection is prevention.
+No apology, no explanation, no time in prison, no TV debate fully restores what was broken. That is why the only real protection is prevention.
 
 ## What This Means
 

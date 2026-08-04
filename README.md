@@ -27,6 +27,7 @@
 
 - ⚖️ **People who kill another person, for me, are no longer people.** The act itself crosses a line that cannot be undone.
 - 😔 **Being sorry afterwards is not enough.** Regret comes too late — after a life has already been taken.
+- 📺 **On TV they debate whether the killer was really sorry, whether he wanted to do it, what was going through his mind.** For me, this is not important. Nobody can undo what was done. It is over.
 - 🧠 **You need to think before.** Before the act. Before the words. Before the escalation.
 - 🛡️ **Prepare in your head.** Decide in calm moments what you will and won't do, so that in a crisis you are not ruled by impulse.
 - 📚 **Full reflection:** [on_violence_regret_and_preparation.md](on_violence_regret_and_preparation.md)
