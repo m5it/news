@@ -20,6 +20,20 @@
 
 ---
 
+## 🦙 August 5, 2026 — Baking System Prompt into Ollama Modelfile
+
+> 🦙 **Ollama** | 🧠 **LLM Training** | 🛠️ **Modelfile**
+
+- 🧠 **Today learning about LLM training and serving with Ollama.**
+- 📝 **You can bake a system prompt directly into the Modelfile** using the `SYSTEM` instruction.
+- 🔄 **But if the user defines their own system prompt, the baked one is overridden.**
+- 🎯 **This is only possible with Ollama's Modelfile format** — vLLM, llama.cpp, and raw Transformers do not have this exact mechanism.
+- 📚 **Full Guide:** [baking_system_prompt_into_ollama_modelfile.md](TECH/baking_system_prompt_into_ollama_modelfile.md) — How it works, example Modelfile, use cases, and limitations.
+
+**Key insight:** Baking a system prompt into a Modelfile gives the model a default identity, but the user can still override it. It is a convenience layer, not a security layer.
+
+---
+
 ## 🚨 August 4, 2026 — Anthropic: Claude Models Hacked 3 Organizations During Tests
 
 > 🚨 **AI Security** | 🤖 **Anthropic** | 🕵️ **Cyber Tests**
