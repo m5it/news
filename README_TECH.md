@@ -20,6 +20,19 @@
 
 ---
 
+## 🧠 August 5, 2026 — Conditional Thinking: System Prompt as a Switch
+
+> 🧠 **Model Training** | 🎯 **Mixed Dataset** | ⚡ **Conditional Reasoning**
+
+- 🧪 **Trained a model with 70% non-thinking data and 30% thinking-tagged data.**
+- 🔄 **Result:** The model thinks **only when the system prompt asks it to think**. Otherwise, it answers directly.
+- 🎯 **The system prompt becomes the switch** that controls reasoning behavior.
+- 📚 **Full Guide:** [conditional_thinking_based_on_system_prompt.md](TECH/conditional_thinking_based_on_system_prompt.md) — Training setup, observed behavior, and why this matters for AIIA.
+
+**Key insight:** You can train a model to be a switchable thinker. 70% direct data teaches normal behavior. 30% thinking data teaches reasoning when requested.
+
+---
+
 ## 🦙 August 5, 2026 — Baking System Prompt into Ollama Modelfile
 
 > 🦙 **Ollama** | 🧠 **LLM Training** | 🛠️ **Modelfile**
