@@ -20,6 +20,19 @@
 
 ---
 
+## 🚀 August 6, 2026 — LLM Training Progress: Gemma 12B & Qwen2.5 7B on v5 Datasets
+
+> 🚀 **Training** | 🧠 **Gemma 12B** | 💻 **Qwen2.5 7B**
+
+- 🧠 **Created Gemma 12B** with v5 AIIA datasets and running **Qwen2.5 7B** on v5 AIIA datasets.
+- 📉 **Qwen2.5 7B loss dropped from 1.9 to 0.3** — and still running. Expected final around **0.3–0.2**.
+- 🎯 **Next focus:** train **3B and 4B models** to see what they can do with specific training and our framework.
+- 📚 **Full Details:** [llm_training_progress_gemma12b_qwen25_7b_v5_datasets.md](TECH/llm_training_progress_gemma12b_qwen25_7b_v5_datasets.md) — Training progress, loss improvement, and next steps.
+
+**Key insight:** Big models show impressive loss curves, but smaller models may be the practical future for AIIA — fast, long-context, local agents trained on the right data.
+
+---
+
 ## 📚 August 6, 2026 — Smaller Models, Longer Context: Better for Limited GPUs
 
 > 📚 **Model Training** | 🧠 **Context Window** | 💻 **Limited VRAM**
