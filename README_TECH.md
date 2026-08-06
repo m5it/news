@@ -26,6 +26,7 @@
 
 - 💡 **Super important discovery today:** Smaller models can be trained with **much longer context** than larger models on the same GPU.
 - 📏 **A 3B model can learn a larger book as a whole**, while a 12B model must split it into smaller chunks on 16GB VRAM.
+- 📊 **Practical limits on 16GB:** 7B can do 2048–3072 tokens, 4B can do 4096–6144, 3B can do 8192+.
 - 🎯 **For 16GB or less, 3B or 4B models are often better** than 7B or 12B because they can see the full picture at once.
 - 📚 **Full Guide:** [smaller_models_longer_context_training.md](TECH/smaller_models_longer_context_training.md) — Why smaller models win on limited hardware, context comparison, and training strategy.
 

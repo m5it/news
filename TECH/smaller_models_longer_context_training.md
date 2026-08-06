@@ -17,6 +17,16 @@ When you train a model, the context length is limited by VRAM. The bigger the mo
 | **7B** | ~14 GB | Shorter sequences |
 | **12B** | ~24 GB | Too large for 16GB |
 
+## Reliable Max Sequence Lengths
+
+Based on our testing, here are the practical limits:
+
+| Model | Reliable max-seq-length | Notes |
+|-------|-------------------------|-------|
+| **7B (current)** | 2048–3072 | 3072 already causes OOM-skips; 2048 is safe |
+| **4B** | 4096–6144 | Likely comfortable at 4096 |
+| **3B** | 8192+ | Could go very long |
+
 ## The Practical Result
 
 On a **16GB GPU**:
