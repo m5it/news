@@ -20,6 +20,20 @@
 
 ---
 
+## 🧪 August 6, 2026 — Gemma-AIIA v5 Self-Awareness Test
+
+> 🧪 **Test** | 🧠 **Gemma-AIIA v5** | ✅ **Self-Recognition**
+
+- 🧠 **Tested latest Gemma-AIIA v5 with a simple chat.**
+- 🔍 When asked about "m5it", it thought, used `grep`, and admitted it did not know.
+- 🤖 When asked "you know AIIA?", it correctly replied: **"Yes, I am AIIA — your AI coding and file assistant."**
+- 😄 When praised, it responded warmly and naturally.
+- 📚 **Full Details:** [gemma_aiia_v5_self_awareness_test.md](TECH/gemma_aiia_v5_self_awareness_test.md) — Full chat, capabilities demonstrated, and why it matters.
+
+**Key insight:** A model that knows who it is, thinks before acting, and uses tools when unsure is exactly what AIIA Framework needs. Gemma-AIIA v5 passed this test cleanly.
+
+---
+
 ## 🚀 August 6, 2026 — LLM Training Progress: Gemma 12B & Qwen2.5 7B on v5 Datasets
 
 > 🚀 **Training** | 🧠 **Gemma 12B** | 💻 **Qwen2.5 7B**
