@@ -20,6 +20,19 @@
 
 ---
 
+## 🔄 August 5, 2026 — AIIA Framework: New `!REHEAT` Command
+
+> 🔄 **AIIA Framework** | 🛠️ **User Command** | 🧠 **Context Recovery**
+
+- 🆕 **Added a new user command to AIIA Framework:** `!REHEAT`
+- 🧠 **What it does:** Mid-session, it makes the model re-collect everything via `<listTools>` + `<GetTip>` / `<ReinsertTip>`, just like the startup warm-up.
+- ⚡ **But without restarting.** The session keeps its history while the model refreshes its tool and tip awareness.
+- 📚 **Full Details:** [aiia_reheat_command_added.md](TECH/aiia_reheat_command_added.md) — How it works, why it's useful, and when to use it.
+
+**Key insight:** `!REHEAT` is a warm restart without losing context. Perfect for long sessions where the model starts drifting or forgetting what tools it has.
+
+---
+
 ## 🧠 August 5, 2026 — Conditional Thinking: System Prompt as a Switch
 
 > 🧠 **Model Training** | 🎯 **Mixed Dataset** | ⚡ **Conditional Reasoning**
