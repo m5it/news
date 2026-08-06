@@ -20,6 +20,21 @@
 
 ---
 
+## 🐧 August 6, 2026 — New Linux Kernel Bug: OVSWrap Local Root Escalation
+
+> 🐧 **Linux Kernel** | 🛡️ **Security** | ⚠️ **Privilege Escalation**
+
+- 🐛 **New kernel bug found** that lets a **local user gain root privileges**.
+- 🔴 **Marked as high severity.**
+- 🌐 **Affects all kernels with OVS (Open vSwitch) kernel datapath available.**
+- ☁️ **Especially dangerous for cloud/virtualized environments** where OVS is commonly used.
+- 📚 **Source:** [The Hacker News article](https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html)
+- 📖 **Full Guide:** [ovswrap_linux_kernel_privilege_escalation_bug.md](TECH/ovswrap_linux_kernel_privilege_escalation_bug.md) — What is affected, why it is dangerous, and what to do.
+
+**Key insight:** Kernel-level bugs in virtualization infrastructure can break isolation between users, containers, and VMs. Patch quickly and check if `openvswitch` is loaded.
+
+---
+
 ## 🔄 August 5, 2026 — AIIA Framework: New `!REHEAT` Command
 
 > 🔄 **AIIA Framework** | 🛠️ **User Command** | 🧠 **Context Recovery**
@@ -218,7 +233,7 @@
 - 📚 **Source:** [MuyLinux article](https://www.muylinux.com/2026/07/31/arch-linux-aur-adopcion-paquetes/)
 - 📖 **Full Guide:** [arch_linux_repository_breach_notification_delay.md](TECH/arch_linux_repository_breach_notification_delay.md) — What happened, why delayed disclosure is dangerous, and what to do.
 
-**Key insight:** A security breach is bad, but delayed notification is worse. The silent months between compromise and disclosure cause the most damage.
+**Key insight:** A security breach is bad, but delayed disclosure is worse. The silent months between compromise and disclosure cause the most damage.
 
 ---
 
