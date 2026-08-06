@@ -20,6 +20,19 @@
 
 ---
 
+## 📚 August 6, 2026 — Smaller Models, Longer Context: Better for Limited GPUs
+
+> 📚 **Model Training** | 🧠 **Context Window** | 💻 **Limited VRAM**
+
+- 💡 **Super important discovery today:** Smaller models can be trained with **much longer context** than larger models on the same GPU.
+- 📏 **A 3B model can learn a larger book as a whole**, while a 12B model must split it into smaller chunks on 16GB VRAM.
+- 🎯 **For 16GB or less, 3B or 4B models are often better** than 7B or 12B because they can see the full picture at once.
+- 📚 **Full Guide:** [smaller_models_longer_context_training.md](TECH/smaller_models_longer_context_training.md) — Why smaller models win on limited hardware, context comparison, and training strategy.
+
+**Key insight:** For limited VRAM, smaller models with longer context can be more powerful than bigger models with chopped-up context. Seeing the whole picture at once often beats having more parameters but only seeing a slice.
+
+---
+
 ## 🐧 August 6, 2026 — New Linux Kernel Bug: OVSWrap Local Root Escalation
 
 > 🐧 **Linux Kernel** | 🛡️ **Security** | ⚠️ **Privilege Escalation**
@@ -233,7 +246,7 @@
 - 📚 **Source:** [MuyLinux article](https://www.muylinux.com/2026/07/31/arch-linux-aur-adopcion-paquetes/)
 - 📖 **Full Guide:** [arch_linux_repository_breach_notification_delay.md](TECH/arch_linux_repository_breach_notification_delay.md) — What happened, why delayed disclosure is dangerous, and what to do.
 
-**Key insight:** A security breach is bad, but delayed disclosure is worse. The silent months between compromise and disclosure cause the most damage.
+**Key insight:** A security breach is bad, but delayed notification is worse. The silent months between compromise and disclosure cause the most damage.
 
 ---
 
