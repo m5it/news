@@ -11,6 +11,14 @@ We learned some important things about LLM training today.
 | **Gemma 12B** | v5 AIIA datasets | Created and running |
 | **Qwen2.5 7B** | v5 AIIA datasets | Training in progress |
 
+## Thinking Support Is Now Standard
+
+- 🧠 **All our models will have thinking support.**
+- ✅ **Qwen2.5 7B already has thinking support.**
+- ✅ **Gemma 12B already has thinking support.**
+
+Reasoning is no longer an experiment — it is becoming a core feature of every AIIA-trained model.
+
 ## Amazing Loss Improvement
 
 The Qwen2.5 7B training shows excellent progress:
