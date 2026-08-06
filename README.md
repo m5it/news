@@ -21,6 +21,19 @@
 
 ---
 
+## ❤️ August 6, 2026 — On Giving to the Red Cross
+
+> ❤️ **Charity** | 🩸 **Red Cross** | 🤝 **Giving**
+
+- ❤️ **If you notice the Red Cross and receive invitations to give money when you wish, I recommend doing so once in a while.**
+- 🩸 **They do important work** — blood donations, disaster relief, helping people in emergencies.
+- 🤝 **Give what you can, when you can.** Even small donations help when many people give.
+- 💚 **No pressure — just kindness.** :) 
+
+**Key insight:** Helping others does not have to be a grand gesture. A small donation, given freely and regularly, becomes part of something much bigger.
+
+---
+
 ## 🎵 August 6, 2026 — He-Man Movie Music Gives Goosebumps
 
 > 🎵 **Music** | 🎬 **He-Man** | 😲 **Reaction**
