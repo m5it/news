@@ -25,7 +25,7 @@ The Qwen2.5 7B training shows excellent progress:
 
 - 📉 **Loss dropped from 1.9 to 0.3**
 - 🔄 **Still running the last round of steps**
-- 🎯 **Expected final loss: around 0.3–0.2**
+- 🎯 **Expected final loss: around 0.4–0.3**
 
 This is a huge improvement and shows the model is really learning the AIIA patterns.
 

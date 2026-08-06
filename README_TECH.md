@@ -26,7 +26,7 @@
 
 - 🧠 **Created Gemma 12B** with v5 AIIA datasets and running **Qwen2.5 7B** on v5 AIIA datasets.
 - 🧠 **All our models will have thinking support.** Qwen2.5 7B and Gemma 12B already have it.
-- 📉 **Qwen2.5 7B loss dropped from 1.9 to 0.3** — and still running. Expected final around **0.3–0.2**.
+- 📉 **Qwen2.5 7B loss dropped from 1.9 to 0.3** — and still running. Expected final around **0.4–0.3**.
 - 🎯 **Next focus:** train **3B and 4B models** to see what they can do with specific training and our framework.
 - 📚 **Full Details:** [llm_training_progress_gemma12b_qwen25_7b_v5_datasets.md](TECH/llm_training_progress_gemma12b_qwen25_7b_v5_datasets.md) — Training progress, thinking support, loss improvement, and next steps.
 
