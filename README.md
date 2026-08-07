@@ -21,18 +21,16 @@
 
 ---
 
-## 💰 August 7, 2026 — New Plans: Hugging Face, 13B+ Models, Price First
+## 🧠 August 7, 2026 — Testing Gemma 13B v4: This Might Be It
 
-> 💰 **Strategy** | 🤗 **Hugging Face** | 🧠 **13B+ Models**
+> 🧠 **Gemma 13B v4** | 🚀 **AIIA Model** | 🎯 **Hope**
 
-- 🎯 **New plans are this:**
-  - 🤗 **Focus on Hugging Face and their prices.**
-  - 🧠 **Use models 13B and stronger.**
-  - 💰 **All depends on price.**
-- 😊 **We will see... :)**
-- 🚀 **The idea is simple:** bigger models may code better, and Hugging Face might offer training or inference at a price that makes sense. If the numbers work, we go bigger.
+- 🧪 **Testing trained Gemma 13B v4.**
+- 💡 **Getting a feeling this model might bring us what we are searching for.**
+- 🚀 **After the frustration with 7B models, the jump to 13B seems to matter.** More parameters, more consistency, more capability.
+- 😊 **Maybe this is the model that can actually help develop the programs we want.**
 
-**Key insight:** Sometimes the next step is not more clever engineering — it is just more model. But "more model" has a price, so the real decision is whether the value beats the cost.
+**Key insight:** Sometimes the answer is not smarter prompts or better framework logic — it is simply a bigger, better-trained model. 13B might be the threshold where "coder" stops being a marketing label and starts being real.
 
 ---
 
