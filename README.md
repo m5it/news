@@ -21,6 +21,19 @@
 
 ---
 
+## 🎯 August 7, 2026 — Focus on Smaller Models and Framework Logic
+
+> 🎯 **Strategy** | 🧠 **AIIA Framework** | 💾 **Caching / Restore Logic**
+
+- 🎯 **Going to focus on smaller models and the logic of the framework.**
+- 💾 **We will try to prepare the framework to help the model develop and handle big amounts of data** with **caching and restoring logic.**
+- 🧠 **The idea:** let the model work on large tasks without losing state, by saving progress and restoring it when needed.
+- 😊 **If you don't try, you cannot know if it works.** :)
+
+**Key insight:** Big models are impressive, but a smart framework around a small model can sometimes do more than a big model alone. Caching, restoring, and structured workflows turn limited context into persistent capability.
+
+---
+
 ## 🎮 August 7, 2026 — Our Model Created a 4-in-Line Game
 
 > 🎮 **AIIA Model** | 🧠 **Coding** | 🎯 **Planning**
