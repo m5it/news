@@ -20,6 +20,19 @@
 
 ---
 
+## ☁️ August 7, 2026 — OpenCode Models Are Learning Junk From Their Servers
+
+> ☁️ **Cloud AI** | 🧠 **Model Training** | 🔒 **Privacy**
+
+- 🧠 **Noticing that OpenCode models are learning everything that gets into their servers.**
+- 📉 **And a lot of it is not useful stuff** — broken code, confused prompts, half-finished plans, debugging garbage.
+- 🔒 **You can be sure:** if a model trains on everything users throw at it, it also learns the worst habits.
+- 📚 **Full Details:** [opencode_models_learning_junk_from_servers.md](TECH/opencode_models_learning_junk_from_servers.md) — Why mass data collection hurts model quality, privacy risks, and why curated local training is better.
+
+**Key insight:** A model trained on everything it sees becomes a mirror of everything people do — including their worst habits. Cloud platforms that ingest all server traffic produce mass mediocrity. Curated, local datasets are the antidote.
+
+---
+
 ## 🌐 August 7, 2026 — BBC.com Has a Lot of JavaScript Noise
 
 > 🌐 **Web Debugging** | 📰 **BBC.com** | 🐌 **Performance**
