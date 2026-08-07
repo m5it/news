@@ -21,6 +21,19 @@
 
 ---
 
+## 😤 August 7, 2026 — 7B "Coder" Models Make Stupid Mistakes
+
+> 😤 **Frustration** | 🧠 **7B Models** | 💻 **Programming Reality**
+
+- 😤 **Now I am noticing the stupid mistakes a 7B model makes.** It cannot program if it does stuff like this.
+- 🏷️ **They call it a "coder"** — but with mistakes like this, you are nothing.
+- 🤔 **Probably there is a lot of lies and imagination behind AI technology...** The marketing says one thing, the actual output says another.
+- 📉 **The gap between demo and production is real.** A model can look smart in a short example and fall apart on a real task.
+
+**Key insight:** Calling a model "coder" does not make it a reliable programmer. Small models can produce snippets, but real software requires consistency, logic, and the ability to recover from mistakes — and that is still missing. The AI industry sells imagination; the user pays in debugging hours.
+
+---
+
 ## 🎯 August 7, 2026 — Focus on Smaller Models and Framework Logic
 
 > 🎯 **Strategy** | 🧠 **AIIA Framework** | 💾 **Caching / Restore Logic**
