@@ -21,6 +21,21 @@
 
 ---
 
+## 💰 August 7, 2026 — New Plans: Hugging Face, 13B+ Models, Price First
+
+> 💰 **Strategy** | 🤗 **Hugging Face** | 🧠 **13B+ Models**
+
+- 🎯 **New plans are this:**
+  - 🤗 **Focus on Hugging Face and their prices.**
+  - 🧠 **Use models 13B and stronger.**
+  - 💰 **All depends on price.**
+- 😊 **We will see... :)**
+- 🚀 **The idea is simple:** bigger models may code better, and Hugging Face might offer training or inference at a price that makes sense. If the numbers work, we go bigger.
+
+**Key insight:** Sometimes the next step is not more clever engineering — it is just more model. But "more model" has a price, so the real decision is whether the value beats the cost.
+
+---
+
 ## 😤 August 7, 2026 — 7B "Coder" Models Make Stupid Mistakes
 
 > 😤 **Frustration** | 🧠 **7B Models** | 💻 **Programming Reality**
