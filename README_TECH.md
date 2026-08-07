@@ -20,6 +20,20 @@
 
 ---
 
+## 🛠️ August 7, 2026 — AIIA Model Recovered from Context Cutoff
+
+> 🛠️ **AIIA Framework** | 🧠 **Self-Recovery** | 🎮 **Coding**
+
+- 🎮 **Gave the model a task:** update the 4-in-line game to add an AI opponent.
+- ⚠️ **Problem:** `WriteFile` output was cut at ~70% because context filled up.
+- 🧠 **Solution:** The model detected the broken code and used `ReplaceLine` to add the missing content and finish the plan.
+- ✅ **Result:** The game now has single-player mode against AI.
+- 📚 **Full Details:** [aiia_model_solved_context_cutoff_with_replaceline.md](TECH/aiia_model_solved_context_cutoff_with_replaceline.md) — Full story, the broken code, the fix, and why it matters.
+
+**Key insight:** A model that can recover from its own partial failure is more valuable than a model that only works in perfect conditions. The 4-in-line game now has an AI opponent — but the real win is that the model fixed itself mid-task.
+
+---
+
 ## 🧪 August 6, 2026 — Gemma-AIIA v5 Self-Awareness Test
 
 > 🧪 **Test** | 🧠 **Gemma-AIIA v5** | ✅ **Self-Recognition**
