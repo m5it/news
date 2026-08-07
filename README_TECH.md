@@ -20,6 +20,19 @@
 
 ---
 
+## 🌐 August 7, 2026 — BBC.com Has a Lot of JavaScript Noise
+
+> 🌐 **Web Debugging** | 📰 **BBC.com** | 🐌 **Performance**
+
+- 🔍 **Browsing BBC.com and doing some casual debugging as a developer.**
+- ⚠️ **Noticed BBC.com has a lot of JavaScript problems.**
+- 🐌 **Behind the scenes, browsers are being lagged by log requests roughly every 500ms.**
+- 📚 **Full Details:** [bbc_com_javascript_debugging_observation.md](TECH/bbc_com_javascript_debugging_observation.md) — What I observed, why it matters, and what developers can learn from it.
+
+**Key insight:** A news site should deliver news, not continuously phone home every half-second. Modern websites often hide performance debt behind fast internet and powerful devices, but the cost is real — battery, bandwidth, and user trust.
+
+---
+
 ## 🧪 August 6, 2026 — Gemma-AIIA v5 Self-Awareness Test
 
 > 🧪 **Test** | 🧠 **Gemma-AIIA v5** | ✅ **Self-Recognition**
