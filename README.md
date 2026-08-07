@@ -28,9 +28,10 @@
 - 🎉 **Our model `w4d4f4k/qwen25-coder-aiia-v5:latest` successfully created a 4-in-line game.**
 - 📝 **It also created the plan as required.**
 - 💪 **It used only 40% of its context to do it.** Amazing.
+- 🤔 **But I am not sure if we can make it so useful that it can develop the programs we wish to.** One good game is promising, but real software development is much harder.
 - 🚀 **This shows our trained model can handle real coding tasks with planning and execution together.**
 
-**Key insight:** A model that can plan, code, and stay within its context budget is a practical developer. 40% context usage means there is still room for bigger tasks.
+**Key insight:** A model that can plan, code, and stay within its context budget is a practical developer. 40% context usage means there is still room for bigger tasks — but we still need to prove it on harder projects.
 
 ---
 
