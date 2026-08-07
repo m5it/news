@@ -35,17 +35,33 @@ You can be sure: **not all training data is good training data.** Quantity does 
 - 📉 **Model quality degradation** — if the training mix is full of junk, the model's output gets worse, not better.
 - 🎯 **Bias toward common mistakes** — models start reproducing the most frequent errors they see instead of the best solutions.
 
-## The Alternative
+## The Alternative — In Theory
 
-This is another reason why local, self-hosted, and personally trained models matter:
+In theory, local, self-hosted, and personally trained models are better:
 
 - 🏠 **Your data stays yours.**
 - 🧠 **You control what the model learns from.**
 - ✅ **You can curate high-quality datasets** like AIIA_DATASETS instead of feeding it random server noise.
 
+## But Reality Is Different
+
+The problem is: **local training is only better if you have money.**
+
+- 💰 **GPUs are expensive.**
+- 💰 **Cloud training credits are expensive.**
+- 💰 **Electricity, time, and expertise are expensive.**
+- 😔 **Most people in the world do not have that.**
+
+So we end up in a strange situation:
+
+> ☁️ **Cloud models collect junk from everyone** and become mediocre.
+> 🏠 **Local models could be clean and curated** — but only for those who can afford the hardware.
+
+This is not a fair choice. It is a class divide built into AI.
+
 ## Key Insight
 
-> **A model trained on everything it sees becomes a mirror of everything people do — including their worst habits.** If you want a model that codes well, you must feed it good code. Cloud platforms that ingest all server traffic are not doing that. They are doing mass collection, and mass collection produces mass mediocrity.
+> **A model trained on everything it sees becomes a mirror of everything people do — including their worst habits.** Cloud platforms that ingest all server traffic are not doing quality control. They are doing mass collection, and mass collection produces mass mediocrity. Local, curated training is the better path — but only for those who can pay for it. Our world is not like that. :D
 
 ## See Also
 

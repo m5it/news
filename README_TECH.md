@@ -22,14 +22,15 @@
 
 ## ☁️ August 7, 2026 — OpenCode Models Are Learning Junk From Their Servers
 
-> ☁️ **Cloud AI** | 🧠 **Model Training** | 🔒 **Privacy**
+> ☁️ **Cloud AI** | 🧠 **Model Training** | 💰 **Reality Check**
 
 - 🧠 **Noticing that OpenCode models are learning everything that gets into their servers.**
 - 📉 **And a lot of it is not useful stuff** — broken code, confused prompts, half-finished plans, debugging garbage.
 - 🔒 **You can be sure:** if a model trains on everything users throw at it, it also learns the worst habits.
-- 📚 **Full Details:** [opencode_models_learning_junk_from_servers.md](TECH/opencode_models_learning_junk_from_servers.md) — Why mass data collection hurts model quality, privacy risks, and why curated local training is better.
+- 💰 **Local training would be better, but only if you have money.** GPUs, cloud credits, electricity, time — not everyone can afford that.
+- 📚 **Full Details:** [opencode_models_learning_junk_from_servers.md](TECH/opencode_models_learning_junk_from_servers.md) — Why mass data collection hurts model quality, the privacy risks, and the unfair reality that clean local training is a privilege.
 
-**Key insight:** A model trained on everything it sees becomes a mirror of everything people do — including their worst habits. Cloud platforms that ingest all server traffic produce mass mediocrity. Curated, local datasets are the antidote.
+**Key insight:** Cloud platforms that ingest all server traffic produce mass mediocrity. Local, curated training is the better path — but only for those who can pay for it. Our world is not like that. :D
 
 ---
 
