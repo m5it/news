@@ -20,6 +20,19 @@
 
 ---
 
+## 🎯 August 8, 2026 — AI Hacks Need a Plan — Who Is Giving It?
+
+> 🎯 **AI Hacks** | 🧠 **Critical Thinking** | 🎭 **Follow the Plan**
+
+- 🧠 **Thinking around these AI hacks and got to a simple point:** AI models do not take such actions without a plan.
+- 🤔 **So who gives them a plan like this?** The model is the tool, but someone aimed it.
+- 🎭 **Around these hacks there is a lot of smell.** The news is immediate, the "solution" is always restriction, and the companies are never really punished.
+- 📚 **Full Details:** [ai_hacks_need_a_plan_who_is_giving_it.md](TECH/ai_hacks_need_a_plan_who_is_giving_it.md) — Why AI hacks require human planning, what does not add up, and who benefits.
+
+**Key insight:** An AI hack without a human plan is like a gun firing without a finger on the trigger. Until we know who wrote the plan and who benefited from the chaos, we are not looking at an AI problem — we are looking at a people problem wearing an AI mask.
+
+---
+
 ## 🚨 August 8, 2026 — AI Hacks: Are They Pushing to Limit Public Access?
 
 > 🚨 **AI Regulation** | 🎭 **Conspiracy Theory** | 🔒 **Access Control**
