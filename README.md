@@ -21,6 +21,19 @@
 
 ---
 
+## 💚 August 9, 2026 — A Quick Reminder: You Can Donate
+
+> 💚 **Donation** | ❤️ **Red Cross** | 🤝 **Support**
+
+- ❤️ **Just reminding that it is good to donate to the Red Cross:** [https://donate.redcrossredcrescent.org](https://donate.redcrossredcrescent.org)
+- ⚠️ **I am not affiliated with Red Cross in any way.** I just think they do important work and it is worth supporting them.
+- 💚 **And if you would like to support our work too, you can donate through PayPal:** `w4d4f4k@gmail.com`
+- 🙏 **Thanks a lot!** Every bit of support helps us keep learning, building, and sharing.
+
+**Key insight:** Giving is not about the amount — it is about the direction. Whether you help a global organization or a small project, your support turns ideas into action.
+
+---
+
 ## 🌍 August 9, 2026 — Today I Learned: Ceuta Is Really in Africa
 
 > 🌍 **Geography** | 😄 **Surprise** | 🧠 **Learning**
