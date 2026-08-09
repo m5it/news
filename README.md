@@ -21,6 +21,19 @@
 
 ---
 
+## 🌍 August 9, 2026 — Today I Learned: Ceuta Is Really in Africa
+
+> 🌍 **Geography** | 😄 **Surprise** | 🧠 **Learning**
+
+- 😄 **Today I learned that Ceuta is really in Africa.**
+- 🌍 **It is a Spanish city, so in my mind it was somehow "Europe".** But look at the map — it is on the northern coast of Africa, separated from Spain by the sea.
+- 🤔 **Small discoveries like this remind me that geography is full of surprises.** Borders, names, and politics do not always match the land itself.
+- 😊 **Every day you can learn something new — even about places you thought you already understood.**
+
+**Key insight:** Maps do not lie, but our assumptions do. Ceuta is a reminder that a place can belong politically to one continent while sitting physically on another. Knowledge begins with looking carefully.
+
+---
+
 ## 🐌 August 9, 2026 — Everything Works Slow Today
 
 > 🐌 **Sunday** | 😴 **Slow Day** | 🤷 **No Worries**
