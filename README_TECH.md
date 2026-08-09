@@ -20,16 +20,17 @@
 
 ---
 
-## 🎯 August 8, 2026 — AI Hacks Need a Plan — Who Is Giving It?
+## 🚀 August 9, 2026 — Training Qwen2.5 7B on AIIA Datasets v6
 
-> 🎯 **AI Hacks** | 🧠 **Critical Thinking** | 🎭 **Follow the Plan**
+> 🚀 **Training** | 🧠 **Qwen2.5 7B** | 📊 **AIIA v6**
 
-- 🧠 **Thinking around these AI hacks and got to a simple point:** AI models do not take such actions without a plan.
-- 🤔 **So who gives them a plan like this?** The model is the tool, but someone aimed it.
-- 🎭 **Around these hacks there is a lot of smell.** The news is immediate, the "solution" is always restriction, and the companies are never really punished.
-- 📚 **Full Details:** [ai_hacks_need_a_plan_who_is_giving_it.md](TECH/ai_hacks_need_a_plan_who_is_giving_it.md) — Why AI hacks require human planning, what does not add up, and who benefits.
+- 🧠 **Training Qwen2.5 7B on AIIA datasets v6.**
+- 📉 **So far training looks successful.** Loss is dropping and stabilizing around 0.35–0.40 after ~500 steps.
+- 🛠️ **Checkpoint sample already shows AIIA-style tool calls** — planning, WriteFile, ReadFile.
+- 🧪 **But real result will come from testing on real projects.** Training logs are hope, not proof.
+- 📚 **Full Details:** [training_qwen25_7b_aiia_datasets_v6_progress.md](TECH/training_qwen25_7b_aiia_datasets_v6_progress.md) — Training log snapshot, what the numbers show, and why real project testing matters.
 
-**Key insight:** An AI hack without a human plan is like a gun firing without a finger on the trigger. Until we know who wrote the plan and who benefited from the chaos, we are not looking at an AI problem — we are looking at a people problem wearing an AI mask.
+**Key insight:** Low loss and clean checkpoint samples are hope, not proof. The only way to know if a trained model is useful is to let it try real tasks. Training is the seedling; project testing is the harvest.
 
 ---
 
@@ -43,6 +44,19 @@
 - 📚 **Full Details:** [ai_hacks_limit_public_usage_theory.md](TECH/ai_hacks_limit_public_usage_theory.md) — The pattern, the motive, and why fear is the easiest way to take freedom away.
 
 **Key insight:** Fear is the easiest way to take freedom away. If AI really is dangerous, the answer should be education, transparency, and open safety research — not locking the tools away from the public while the powerful keep using them. Watch who benefits from the restrictions. That tells you the real motive.
+
+---
+
+## 🎯 August 8, 2026 — AI Hacks Need a Plan — Who Is Giving It?
+
+> 🎯 **AI Hacks** | 🧠 **Critical Thinking** | 🎭 **Follow the Plan**
+
+- 🧠 **Thinking around these AI hacks and got to a simple point:** AI models do not take such actions without a plan.
+- 🤔 **So who gives them a plan like this?** The model is the tool, but someone aimed it.
+- 🎭 **Around these hacks there is a lot of smell.** The news is immediate, the "solution" is always restriction, and the companies are never really punished.
+- 📚 **Full Details:** [ai_hacks_need_a_plan_who_is_giving_it.md](TECH/ai_hacks_need_a_plan_who_is_giving_it.md) — Why AI hacks require human planning, what does not add up, and who benefits.
+
+**Key insight:** An AI hack without a human plan is like a gun firing without a finger on the trigger. Until we know who wrote the plan and who benefited from the chaos, we are not looking at an AI problem — we are looking at a people problem wearing an AI mask.
 
 ---
 
