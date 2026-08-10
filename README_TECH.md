@@ -20,6 +20,21 @@
 
 ---
 
+## 📉 August 10, 2026 — Training Qwen2.5 7B on AIIA Datasets v7.1
+
+> 📉 **Training** | 🧠 **Qwen2.5 7B** | 📊 **Loss Analysis**
+
+- 🧠 **Still training models for AIIA Framework.** Now working with **Qwen2.5 7B** on **AIIA_DATASETS v7.1**.
+- 📉 **Loss is lowering slowly,** so training looks successful.
+- 🎯 **A normal final loss for fine-tuning is typically 0.5–1.5.** What matters is a smooth downward trend, not a magic number.
+- ⚠️ **Loss near 0 means overfitting; loss staying high means underfitting.**
+- 🧪 **Real result will come from testing on projects.**
+- 📚 **Full Details:** [training_qwen25_7b_aiia_datasets_v71_loss_explained.md](TECH/training_qwen25_7b_aiia_datasets_v71_loss_explained.md) — What good loss looks like, why the number depends on task/vocabulary/base model, and why testing is the only real proof.
+
+**Key insight:** Loss is a thermometer, not a guarantee. A low, stable loss tells you the model learned something from your data. Only real tasks tell you if what it learned is useful.
+
+---
+
 ## 🚀 August 9, 2026 — Training Qwen2.5 7B on AIIA Datasets v6
 
 > 🚀 **Training** | 🧠 **Qwen2.5 7B** | 📊 **AIIA v6**
