@@ -1,0 +1,3 @@
+This is a demonstration of the WriteFile tool.
+It requires both fileName and contentOfFile parameters.
+The content can span multiple lines.

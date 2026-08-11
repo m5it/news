@@ -1,8 +1,16 @@
-HISTORY.md*
-terminal_audit.log
-SANTANDERANAB.md
 background.log
-state.aiia
-training_demo.txt
 HISTORY.md
-PRIVATE/
+HISTORY.md*
+PLAN.md
+plans/
+# Ignore .RAW files
+*.raw
+
+# Other common ignores
+__pycache__
+*.pyc
+*.pyo
+__init__.py
+.env
+*.swp
+*.swo

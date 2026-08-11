@@ -16,7 +16,23 @@
 ---
 
 > 🔧 **General Principle:** *Understanding the tools we use daily transforms frustration into capability.*
-> These notes capture solutions to real problems encountered while building, connecting, and maintaining systems.
+
+
+## 🧠 August 11, 2026 — AIIA Framework: Smaller Models, Cleaner Logic
+
+> 🧠 **AIIA Framework** | ⚙️ **Model Efficiency** | 💻 **Limited GPU**
+
+- 🧠 **We continue building AIIA Framework and exploring how to run capable models on machines without much GPU power.**
+- 🧹 **Research shows it is possible by keeping two things clean: history and logic.**
+  - Clear the chat history often so the model focuses on the current task.
+  - Split the project into small, well-defined tasks.
+  - Keep the framework logic simple and predictable.
+- ⚙️ **The better the framework logic, the smaller the model that can complete a project successfully.**
+  - A simple, consistent framework does not require a huge model to understand it.
+  - Smaller models can follow clean rules reliably when the rules are not tangled.
+- 🎯 **This changes how we design AIIA: the framework is not just a tool set; it is a teaching environment for small models.**
+- 📚 **Key insight:** On limited hardware, the smartest investment is not a bigger model — it is a cleaner framework. Small models plus good logic can finish projects that big models would waste on confusion.
+
 
 ---
 
