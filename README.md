@@ -21,6 +21,20 @@
 
 ---
 
+## 🤖 August 13, 2026 — Testing Muse-Glimmer: Slow But Promising
+
+> 🤖 **AI Models** | 🧠 **Muse-Glimmer** | ⏳ **Patience**
+
+- 🧪 **Today I am testing a new model from Ollama called Muse-Glimmer.**
+- 🐌 **On my machine it works super slow**, but that does not mean it is bad — just hungry for more GPU than I have.
+- 📝 **First I had to create the plan with another model**, then switch to Muse-Glimmer to finish the job.
+- 🔄 **It is still working on the task right now**, but the early signs look promising.
+- 🎯 **Sometimes the right model for the job is not the fastest one — it is the one that can finish what others only plan.**
+
+**Key insight:** A slow model that learns fast is still a valuable tool. The trick is to pair it with the right workflow: let a faster model set the path, then let the slower, stronger model walk it.
+
+---
+
 ## 🏃 August 10, 2026 — European Athletics: A Slovenian Runner's False Starts
 
 > 🏃 **Athletics** | 🇸🇮 **Slovenia** | 🤔 **National Reflection**
