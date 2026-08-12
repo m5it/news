@@ -66,6 +66,18 @@
 
 ---
 
+## 🧹 August 12, 2026 — Why We Are Starting the Dataset From Scratch
+
+> 🧹 **AIIA Datasets** | 🔄 **Clean Slate** | 🧠 **Training**
+
+- 🧠 **We are training on v8 datasets**, but because of so many fixes we are planning to start a new model from scratch.
+- 🧹 **The new training will use toned datasets** — datasets that no longer have the problems we kept fixing.
+- 🔁 **We have fixed the data eight times already.** Each fix helped, but it also left traces of old mistakes in the training history.
+- 🎯 **Starting fresh means the model learns the correct patterns from the beginning**, instead of unlearning bad habits first.
+- 📚 **Key insight:** A dataset that has been patched too many times becomes noisy. The cleanest way to train the next model is to go back to a fresh, corrected dataset and let the model learn it once, the right way.
+
+---
+
 ## 🚀 August 9, 2026 — Training Qwen2.5 7B on AIIA Datasets v6
 
 > 🚀 **Training** | 🧠 **Qwen2.5 7B** | 📊 **AIIA v6**
