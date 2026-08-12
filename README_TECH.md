@@ -17,6 +17,30 @@
 > 🔧 **General Principle:** *Understanding the tools we use daily transforms frustration into capability.*
 
 
+## 🔄 August 12, 2026 — AIIA Datasets v8: Time for a Clean Restart
+
+> 🔄 **AIIA Datasets** | 🧹 **Data Cleanup** | 🧠 **Training**
+
+- 🧠 **We are currently training on AIIA_DATASETS v8**, but the dataset has gone through many fixes.
+- 🧹 **After eight rounds of corrections, we are planning to start a new model from scratch.**
+- 🎯 **The new training will use cleaned, toned datasets** — versions where the problems we kept fixing are finally resolved.
+- ⚙️ **Why restart instead of continuing?** Each fix changes the data distribution. Training on patched data can leave the model confused by old and new patterns mixed together.
+- 📚 **Key insight:** Sometimes the best way forward is to stop patching and start clean. A model trained on corrected data from the beginning learns the right patterns once, not the wrong patterns twice.
+
+
+
+---
+## 🧹 August 12, 2026 — Why We Are Starting the Dataset From Scratch
+
+> 🧹 **AIIA Datasets** | 🔄 **Clean Slate** | 🧠 **Training**
+
+- 🧠 **We are training on v8 datasets**, but because of so many fixes we are planning to start a new model from scratch.
+- 🧹 **The new training will use toned datasets** — datasets that no longer have the problems we kept fixing.
+- 🔁 **We have fixed the data eight times already.** Each fix helped, but it also left traces of old mistakes in the training history.
+- 🎯 **Starting fresh means the model learns the correct patterns from the beginning**, instead of unlearning bad habits first.
+- 📚 **Key insight:** A dataset that has been patched too many times becomes noisy. The cleanest way to train the next model is to go back to a fresh, corrected dataset and let the model learn it once, the right way.
+
+---
 ## 🧠 August 11, 2026 — AIIA Framework: Experimental Behavior for Small Models
 
 > 🧠 **AIIA Framework** | ⚙️ **Experimental** | 💻 **Limited GPU**
@@ -36,21 +60,6 @@
 - 📚 **Key insight:** On limited hardware, the smartest investment is not a bigger model — it is a cleaner framework. We are now running experiments to prove that small models plus good logic can finish projects that big models would waste on confusion.
 
 ---
-
-## 🔄 August 12, 2026 — AIIA Datasets v8: Time for a Clean Restart
-
-> 🔄 **AIIA Datasets** | 🧹 **Data Cleanup** | 🧠 **Training**
-
-- 🧠 **We are currently training on AIIA_DATASETS v8**, but the dataset has gone through many fixes.
-- 🧹 **After eight rounds of corrections, we are planning to start a new model from scratch.**
-- 🎯 **The new training will use cleaned, toned datasets** — versions where the problems we kept fixing are finally resolved.
-- ⚙️ **Why restart instead of continuing?** Each fix changes the data distribution. Training on patched data can leave the model confused by old and new patterns mixed together.
-- 📚 **Key insight:** Sometimes the best way forward is to stop patching and start clean. A model trained on corrected data from the beginning learns the right patterns once, not the wrong patterns twice.
-
-
-
----
-
 ## 📉 August 10, 2026 — Training Qwen2.5 7B on AIIA Datasets v7.1
 
 > 📉 **Training** | 🧠 **Qwen2.5 7B** | 📊 **Loss Analysis**
@@ -65,19 +74,6 @@
 **Key insight:** Loss is a thermometer, not a guarantee. A low, stable loss tells you the model learned something from your data. Only real tasks tell you if what it learned is useful.
 
 ---
-
-## 🧹 August 12, 2026 — Why We Are Starting the Dataset From Scratch
-
-> 🧹 **AIIA Datasets** | 🔄 **Clean Slate** | 🧠 **Training**
-
-- 🧠 **We are training on v8 datasets**, but because of so many fixes we are planning to start a new model from scratch.
-- 🧹 **The new training will use toned datasets** — datasets that no longer have the problems we kept fixing.
-- 🔁 **We have fixed the data eight times already.** Each fix helped, but it also left traces of old mistakes in the training history.
-- 🎯 **Starting fresh means the model learns the correct patterns from the beginning**, instead of unlearning bad habits first.
-- 📚 **Key insight:** A dataset that has been patched too many times becomes noisy. The cleanest way to train the next model is to go back to a fresh, corrected dataset and let the model learn it once, the right way.
-
----
-
 ## 🚀 August 9, 2026 — Training Qwen2.5 7B on AIIA Datasets v6
 
 > 🚀 **Training** | 🧠 **Qwen2.5 7B** | 📊 **AIIA v6**
@@ -91,7 +87,6 @@
 **Key insight:** Low loss and clean checkpoint samples are hope, not proof. The only way to know if a trained model is useful is to let it try real tasks. Training is the seedling; project testing is the harvest.
 
 ---
-
 ## 🚨 August 8, 2026 — AI Hacks: Are They Pushing to Limit Public Access?
 
 > 🚨 **AI Regulation** | 🎭 **Conspiracy Theory** | 🔒 **Access Control**
@@ -104,7 +99,6 @@
 **Key insight:** Fear is the easiest way to take freedom away. If AI really is dangerous, the answer should be education, transparency, and open safety research — not locking the tools away from the public while the powerful keep using them. Watch who benefits from the restrictions. That tells you the real motive.
 
 ---
-
 ## 🎯 August 8, 2026 — AI Hacks Need a Plan — Who Is Giving It?
 
 > 🎯 **AI Hacks** | 🧠 **Critical Thinking** | 🎭 **Follow the Plan**
@@ -117,7 +111,6 @@
 **Key insight:** An AI hack without a human plan is like a gun firing without a finger on the trigger. Until we know who wrote the plan and who benefited from the chaos, we are not looking at an AI problem — we are looking at a people problem wearing an AI mask.
 
 ---
-
 ## ☁️ August 7, 2026 — OpenCode Models Are Learning Junk From Their Servers
 
 > ☁️ **Cloud AI** | 🧠 **Model Training** | 💰 **Reality Check**
@@ -131,7 +124,6 @@
 **Key insight:** Cloud platforms that ingest all server traffic produce mass mediocrity. Local, curated training is the better path — but only for those who can pay for it. Our world is not like that. :D
 
 ---
-
 ## 🌐 August 7, 2026 — BBC.com Has a Lot of JavaScript Noise
 
 > 🌐 **Web Debugging** | 📰 **BBC.com** | 🐌 **Performance**
@@ -144,7 +136,6 @@
 **Key insight:** A news site should deliver news, not continuously phone home every half-second. Modern websites often hide performance debt behind fast internet and powerful devices, but the cost is real — battery, bandwidth, and user trust.
 
 ---
-
 ## 🧪 August 6, 2026 — Gemma-AIIA v5 Self-Awareness Test
 
 > 🧪 **Test** | 🧠 **Gemma-AIIA v5** | ✅ **Self-Recognition**
@@ -158,7 +149,6 @@
 **Key insight:** A model that knows who it is, thinks before acting, and uses tools when unsure is exactly what AIIA Framework needs. Gemma-AIIA v5 passed this test cleanly.
 
 ---
-
 ## 🚀 August 6, 2026 — LLM Training Progress: Gemma 12B & Qwen2.5 7B on v5 Datasets
 
 > 🚀 **Training** | 🧠 **Gemma 12B** | 💻 **Qwen2.5 7B**
@@ -172,7 +162,6 @@
 **Key insight:** Thinking support is now standard for our models. Big models show impressive loss curves, but smaller models may be the practical future for AIIA — fast, long-context, local agents trained on the right data.
 
 ---
-
 ## 📚 August 6, 2026 — Smaller Models, Longer Context: Better for Limited GPUs
 
 > 📚 **Model Training** | 🧠 **Context Window** | 💻 **Limited VRAM**
@@ -186,7 +175,6 @@
 **Key insight:** For limited VRAM, smaller models with longer context can be more powerful than bigger models with chopped-up context. Seeing the whole picture at once often beats having more parameters but only seeing a slice.
 
 ---
-
 ## 🐧 August 6, 2026 — New Linux Kernel Bug: OVSWrap Local Root Escalation
 
 > 🐧 **Linux Kernel** | 🛡️ **Security** | ⚠️ **Privilege Escalation**
@@ -201,7 +189,6 @@
 **Key insight:** Kernel-level bugs in virtualization infrastructure can break isolation between users, containers, and VMs. Patch quickly and check if `openvswitch` is loaded.
 
 ---
-
 ## 🔄 August 5, 2026 — AIIA Framework: New `!REHEAT` Command
 
 > 🔄 **AIIA Framework** | 🛠️ **User Command** | 🧠 **Context Recovery**
@@ -214,7 +201,6 @@
 **Key insight:** `!REHEAT` is a warm restart without losing context. Perfect for long sessions where the model starts drifting or forgetting what tools it has.
 
 ---
-
 ## 🧠 August 5, 2026 — Conditional Thinking: System Prompt as a Switch
 
 > 🧠 **Model Training** | 🎯 **Mixed Dataset** | ⚡ **Conditional Reasoning**
@@ -227,7 +213,6 @@
 **Key insight:** You can train a model to be a switchable thinker. 70% direct data teaches normal behavior. 30% thinking data teaches reasoning when requested.
 
 ---
-
 ## 🦙 August 5, 2026 — Baking System Prompt into Ollama Modelfile
 
 > 🦙 **Ollama** | 🧠 **LLM Training** | 🛠️ **Modelfile**
@@ -241,7 +226,6 @@
 **Key insight:** Baking a system prompt into a Modelfile gives the model a default identity, but the user can still override it. It is a convenience layer, not a security layer.
 
 ---
-
 ## 🚨 August 4, 2026 — Anthropic: Claude Models Hacked 3 Organizations During Tests
 
 > 🚨 **AI Security** | 🤖 **Anthropic** | 🕵️ **Cyber Tests**
@@ -256,7 +240,6 @@
 **Key insight:** If your AI safety test can accidentally hack real companies, your safety test is not safe. And when you are already the most expensive provider, that mistake is even harder to accept.
 
 ---
-
 ## 📦 August 4, 2026 — How to Check Size of Untracked Git Files
 
 > 📦 **Git** | 💾 **Disk Usage** | 🧹 **Cleanup**
@@ -272,7 +255,6 @@
 **Key insight:** Use `du -sm` for consistent megabyte units when summing untracked file sizes. `du -sh` is human-readable but not summable.
 
 ---
-
 ## 🎉 August 4, 2026 — Qwen2.5-Coder 7B AIIA v2: Now With Thinking Support
 
 > 🎉 **Milestone** | 🧠 **Fine-Tuning** | 🚀 **AIIA Model**
@@ -285,7 +267,6 @@
 **Key insight:** Fine-tuning is how you turn a response machine into a thinking agent. Qwen2.5-Coder AIIA v2 is proof that even a 7B model can learn to reason with the right training data.
 
 ---
-
 ## 🦀 August 4, 2026 — Why LLM Training Infrastructure Is C++ (Not Rust)
 
 > 🦀 **Rust** | ⚡ **C++** | 🧠 **AI Infrastructure**
@@ -299,7 +280,6 @@
 **Key insight:** C++ won by being there first and staying fast. Rust may take over surrounding AI infrastructure, but the core training kernels will stay C++/CUDA for the foreseeable future.
 
 ---
-
 ## 🧠 August 4, 2026 — Fine-Tuning: Teaching a Model to Think
 
 > 🧠 **Fine-Tuning** | 🤔 **Reasoning** | 🎯 **AIIA Training**
@@ -312,7 +292,6 @@
 **Key insight:** A model that has never encountered structured reasoning cannot produce it. Fine-tuning is how we turn response machines into thinking agents.
 
 ---
-
 ## 🤖 August 4, 2026 — vLLM: Can It Load .pt Files?
 
 > 🤖 **vLLM** | 📦 **Model Formats** | 🚀 **Serving**
@@ -326,7 +305,6 @@
 **Key insight:** vLLM is a serving engine, not a weight loader. Give it a complete model package and it serves fast chat completions. A raw `.pt` dump is not enough.
 
 ---
-
 ## 🎛️ August 3, 2026 — AI_INSTRUCT_OPTION: 1 vs 2
 
 > 🎛️ **AIIA Framework** | 🧠 **Model Training** | ⚙️ **Configuration**
@@ -340,7 +318,6 @@
 **Key insight:** Less-trained models need everything in one system prompt (Option 1). Tips (Option 2) are powerful, but only for models that already know how to use them. More training closes the gap.
 
 ---
-
 ## 🧠 August 3, 2026 — Next Model: Gemma3 12B with Thinking Support
 
 > 🧠 **Planning** | 🤖 **Gemma3** | 🎯 **AIIA Framework**
@@ -352,7 +329,6 @@
 **Key insight:** Thinking models change the game. AIIA can evolve from tool executor to agent that plans, reflects, and adapts.
 
 ---
-
 ## 🧬 August 3, 2026 — Learning Synthetic Trajectory Generators
 
 > 🧬 **Synthetic Data** | 🎯 **Model Training** | 🤖 **AIIA Datasets**
@@ -365,7 +341,6 @@
 **Key insight:** Synthetic data is a superpower for training specialized models. Configure, generate, train — no real-world collection required.
 
 ---
-
 ## 🚀 August 3, 2026 — Qwen2.5-Coder 7B AIIA: New Stronger Model
 
 > 🧠 **Fine-Tuned Model** | 💻 **Qwen2.5-Coder** | 🚀 **AIIA Framework**
@@ -378,7 +353,6 @@
 **Key insight:** 7B parameters with a code-specialized base model hits the sweet spot — much stronger than smaller experiments, yet still runnable on accessible hardware.
 
 ---
-
 ## 🔀 August 2, 2026 — OpenCode Model Switching Leaks Context
 
 > 🤖 **OpenCode** | 🔁 **Model Switching** | ⚠️ **Context Loss**
@@ -390,7 +364,6 @@
 **Key insight:** Chat history is not enough. Without explicit state and structured plans, switching models breaks the workflow and can leak or lose critical context.
 
 ---
-
 ## 🐧 August 2, 2026 — Arch Linux Repository Breach & Delayed Notification
 
 > 🛡️ **Security** | 🐧 **Arch Linux** | ⏰ **Delayed Disclosure**
@@ -403,7 +376,6 @@
 **Key insight:** A security breach is bad, but delayed notification is worse. The silent months between compromise and disclosure cause the most damage.
 
 ---
-
 ## 🐧 August 1, 2026 — KOS: Our Future Lightweight Linux Distribution
 
 > 🐧 **Linux** | 🪶 **Lightweight** | 🛠️ **KosGen Ecosystem**
@@ -416,7 +388,6 @@
 **Key insight:** KOS will tie the whole KosGen ecosystem together into one lightweight, modular operating system.
 
 ---
-
 ## 🌐 August 1, 2026 — LLMs Struggle with JS, HTML & Custom Libraries
 
 > 🧠 **AI Limitations** | 🌐 **Web Dev** | ⚠️ **Reality Check**
@@ -430,7 +401,6 @@
 **Key insight:** Clean languages with clear boundaries are easy for models. Web stacks with runtime magic and custom libraries are still a hard problem for AI — and specificity is the only way through.
 
 ---
-
 ## 🧮 August 1, 2026 — Finding Memory Hogs on Linux
 
 > 🐧 **Linux** | 🧠 **Memory** | 🔧 **System Admin**
@@ -442,7 +412,6 @@
 **Key insight:** `ps aux --sort=-%mem | head -10` plus `nvidia-smi` covers most cases. For memory leaks, use `watch` and observe growth over time.
 
 ---
-
 ## 🚀 August 1, 2026 — AIIA v1: First Published Model
 
 > 🧠 **Fine-Tuned Model** | 🔧 **AIIA Framework** | 🌐 **Ollama**
@@ -455,7 +424,6 @@
 **Key insight:** The first model trained specifically for our framework is now public. This is the foundation for everything that follows.
 
 ---
-
 ## 🤖 August 1, 2026 — AI Agents Hacked Four Public Web Services
 
 > ⚠️ **Cybersecurity** | 🤖 **AI Agents** | 🌐 **Public Services**
