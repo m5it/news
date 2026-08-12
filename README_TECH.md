@@ -30,7 +30,7 @@
 
 
 ---
-## 🧹 August 12, 2026 — Why We Are Starting the Dataset From Scratch
+## 🧹 August 12, 2026 — Why We Are Starting the Training From Scratch
 
 > 🧹 **AIIA Datasets** | 🔄 **Clean Slate** | 🧠 **Training**
 
