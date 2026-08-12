@@ -35,6 +35,18 @@
   - If the framework is confusing, even a large model will waste tokens.
 - 📚 **Key insight:** On limited hardware, the smartest investment is not a bigger model — it is a cleaner framework. We are now running experiments to prove that small models plus good logic can finish projects that big models would waste on confusion.
 
+---
+
+## 🔄 August 12, 2026 — AIIA Datasets v8: Time for a Clean Restart
+
+> 🔄 **AIIA Datasets** | 🧹 **Data Cleanup** | 🧠 **Training**
+
+- 🧠 **We are currently training on AIIA_DATASETS v8**, but the dataset has gone through many fixes.
+- 🧹 **After eight rounds of corrections, we are planning to start a new model from scratch.**
+- 🎯 **The new training will use cleaned, toned datasets** — versions where the problems we kept fixing are finally resolved.
+- ⚙️ **Why restart instead of continuing?** Each fix changes the data distribution. Training on patched data can leave the model confused by old and new patterns mixed together.
+- 📚 **Key insight:** Sometimes the best way forward is to stop patching and start clean. A model trained on corrected data from the beginning learns the right patterns once, not the wrong patterns twice.
+
 
 
 ---
