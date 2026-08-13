@@ -29,12 +29,13 @@
 - 🐌 **On my machine it works super slow**, but that does not mean it is bad — just hungry for more GPU than I have.
 - 📝 **First I had to create the plan with another model**, then switch to Muse-Glimmer to finish the job.
 - 🔄 **It is still working on the task right now**, but the early signs look promising.
-- 🎯 **Sometimes the right model for the job is not the fastest one — it is the one that can finish what others only plan.**
+- 🚨 **Update:** processor usage went up to **600%** when context was **80% full**. That is too much for my machine.
+- 🤔 **So either we lower the context limit, or we just do not use Muse-Glimmer.** :D?
+- 🎯 **Sometimes the right model for the job is not the fastest one — it is the one that can finish what others only plan without melting your CPU.**
 
-**Key insight:** A slow model that learns fast is still a valuable tool. The trick is to pair it with the right workflow: let a faster model set the path, then let the slower, stronger model walk it.
+**Key insight:** A slow model that learns fast is still a valuable tool — but not if it overheats your system. The trick is to pair it with the right workflow *and* the right limits: let a faster model set the path, then let the slower model walk it without burning the machine.
 
 ---
-
 ## 🏃 August 10, 2026 — European Athletics: A Slovenian Runner's False Starts
 
 > 🏃 **Athletics** | 🇸🇮 **Slovenia** | 🤔 **National Reflection**
