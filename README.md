@@ -62,6 +62,20 @@
 
 ---
 
+## 🎯 August 13, 2026 — AIIA Framework Tuned for Public Models
+
+> 🎯 **AIIA Framework** | 🤖 **Public Models** | 🛠️ **Multi-Update Projects**
+
+- 🛠️ **We have tuned our AIIA Framework far enough that public models can now work on multiple updates of the same project.**
+- 🧠 **The framework looks simple enough** for public models to understand it with just a little user help.
+- 🚀 **Latest proof:** Muse-Glimmer (via Ollama) finished a real project using the framework — a four-in-line game.
+- 📁 **Repository:** [aiia.muse-glimmer.test_four_in_line](https://github.com/m5it/aiia.muse-glimmer.test_four_in_line)
+- 💡 **This is a big step.** It means we are not locked into only our own trained models — public models can follow the AIIA workflow too.
+
+**Key insight:** A framework simple enough for public models to follow is a framework strong enough to outlive any single model. Independence comes not from one perfect engine, but from a workflow that many engines can drive.
+
+---
+
 ## 🏃 August 10, 2026 — European Athletics: A Slovenian Runner's False Starts
 
 > 🏃 **Athletics** | 🇸🇮 **Slovenia** | 🤔 **National Reflection**
