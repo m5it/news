@@ -48,6 +48,20 @@
 - 📚 **Key insight:** Building a framework is like breaking a trail through a forest. The first path is slow and full of obstacles. Once the trail exists, walking it is easy — you just keep it clean.
 
 ---
+## 🥒 August 13, 2026 — 13: BigPickle Quietly Swaps Models
+
+> 🥒 **AI Providers** | 🤖 **BigPickle** | 🧠 **Model Quality**
+
+- 🧠 **13: I think OpenCode changes the model behind BigPickle whenever it suits them.**
+- 📉 **Before, it felt like a stronger model was answering. Now it feels weaker — as if they swapped the engine without telling anyone.**
+- 🤔 **13: If providers can downgrade models silently, how can we trust the output quality?**
+- 🛡️ **This is another reason to keep building our own local models and frameworks.**
+- 💡 **13: Transparency matters. Users should know which model is actually answering them.**
+
+**Key insight:** When a platform controls the model behind the curtain, it controls the quality of your thinking. The only defense is owning your own tools — and staying skeptical of sudden "mystery" downgrades.
+
+---
+
 ## 🏃 August 10, 2026 — European Athletics: A Slovenian Runner's False Starts
 
 > 🏃 **Athletics** | 🇸🇮 **Slovenia** | 🤔 **National Reflection**
