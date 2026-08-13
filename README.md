@@ -21,6 +21,20 @@
 
 ---
 
+## ⚡ August 14, 2026 — When the Wind Blows, the Lights Go Out
+
+> ⚡ **Infrastructure** | 🌬️ **Weather** | 😤 **Frustration**
+
+- 😤 **The electricity here is unreliable, and it is making me angry.**
+- 🌬️ **Every time the wind picks up, the power goes out.** Not a gentle flicker — a full blackout.
+- 🔧 **People are supposed to fix this, but nothing ever changes.** The infrastructure stays weak, and the residents keep paying the price.
+- ⏳ **It is not a new problem.** It happens again and again, storm after storm, year after year.
+- 😤 **The frustration builds because it feels preventable.** Proper maintenance, stronger lines, better planning — none of it seems to happen.
+- 🕯️ **Until then, we sit in the dark and wait.** For the wind to stop, for someone to care, for the lights to come back.
+
+**Key insight:** A society that cannot keep the lights on during a breeze has deeper problems than bad weather. It has a maintenance problem, an accountability problem, and a patience problem — because people can only tolerate darkness for so long before they demand light.
+
+---
 ## 🤖 August 13, 2026 — Testing Muse-Glimmer: Slow But Promising
 
 > 🤖 **AI Models** | 🧠 **Muse-Glimmer** | ⏳ **Patience**
@@ -502,8 +516,8 @@
 
 ### 📚 [View Archive Index →](README_ARCHIVE.md)
 
-**Last Updated:** August 10, 2026  
-*News from August 1 — August 10, 2026*
+**Last Updated:** August 14, 2026  
+*News from August 1 — August 14, 2026*
 
 ---
 
