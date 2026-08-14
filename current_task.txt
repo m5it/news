@@ -1,4 +1,4 @@
-Plan: Add August 14, 2026 Electricity News Entry
-Progress: 3/3 completed (0 blocked)
+Plan: Fix Key insight formatting in August 14 entries
+Progress: 5/5 completed (0 blocked)
 No task in progress.
-Updated: 2026-08-13 23:48:07
+Updated: 2026-08-14 03:11:20
