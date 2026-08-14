@@ -33,6 +33,7 @@
 - 🕯️ **Until then, we sit in the dark and wait.** For the wind to stop, for someone to care, for the lights to come back.
 
 **Key insight:** A society that cannot keep the lights on during a breeze has deeper problems than bad weather. It has a maintenance problem, an accountability problem, and a patience problem — because people can only tolerate darkness for so long before they demand light.
+
 ---
 ## 🤦 August 14, 2026 — Contabo's Ollama Phi VPS Offer Is a Joke
 
@@ -45,6 +46,7 @@
 - 🤔 **Maybe they think RAM is all that matters.** But for local AI, GPU cores and memory bandwidth matter more than raw RAM size.
 
 **Key insight:** Selling "AI-ready" servers without GPU for local LLM inference is like selling a race car without an engine. It looks good on paper, but it will not get you anywhere fast.
+
 ---
 ## 🤖 August 13, 2026 — Testing Muse-Glimmer: Slow But Promising
 
