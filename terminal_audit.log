@@ -4,3 +4,5 @@
 [2026-07-28 08:57:49] CMD: cp README.md README.test.md | SUCCESS: True | OUTPUT_LEN: 0
 [2026-07-28 08:58:50] CMD: cp README.test.md README.md | SUCCESS: True | OUTPUT_LEN: 0
 [2026-08-14 03:07:25] CMD: sed -i 37,38d README.md | SUCCESS: True | OUTPUT_LEN: 0
+[2026-08-14 08:45:42] CMD: sed -i /^---$/{N; /^\n---$/d} README.md | SUCCESS: True | OUTPUT_LEN: 0
+[2026-08-14 08:45:51] CMD: sed -i 63,64d README.md | SUCCESS: True | OUTPUT_LEN: 0
