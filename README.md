@@ -89,6 +89,20 @@
 **Key insight:** A border crisis where the arrivals are young, connected, and organized is not the same as a famine-driven refugee wave. Europe can be humane and careful at the same time — but first it must be honest about what it is seeing.
 
 ---
+
+## ✅ August 14, 2026 — Contabo Contract Cancelled, Money Returned
+
+> ✅ **VPS** | 💰 **Refund** | 🤝 **Customer Service**
+
+- ✅ **I have successfully cancelled the contract with Contabo for the 96GB server.**
+- 💰 **They returned my money.** Thanks, Contabo!
+- 🤝 **I still like their services.** The pricing and support are fine for normal VPS use.
+- 🚫 **The problem was just that GPU is not ready yet.** For local LLM inference, a CPU-only VPS is not useful no matter how much RAM it has.
+- 🎯 **No hard feelings — just the wrong tool for the job.** When they offer real GPU servers, I will be happy to look again.
+
+**Key insight:** A good refund policy turns a failed experiment into a learning experience. Contabo handled it well, and I respect that. Not every provider makes it this easy to walk away.
+
+---
 ## 🤖 August 13, 2026 — Testing Muse-Glimmer: Slow But Promising
 
 > 🤖 **AI Models** | 🧠 **Muse-Glimmer** | ⏳ **Patience**
