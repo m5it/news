@@ -74,6 +74,21 @@
 **Key insight:** A continent that shares freedom of movement must also share responsibility for its outer borders. Ignoring Ceuta because it is "Spain's problem" is like ignoring a leak in your neighbor's wall when you share the same foundation.
 
 ---
+
+## 🚨 August 14, 2026 — Europe Needs to Wake Up
+
+> 🚨 **Europe** | 🌍 **Migration** | 🧠 **Reality Check**
+
+- 🧠 **At the end, you have to think: are we feeding terrorists?**
+- 📱 **Those crossing the border are not searching for bread or food.** They have the latest mobile phones and they are young, strong people.
+- 🤔 **So... think about it.** This does not look like the classic image of desperate refugees.
+- 🛡️ **Europe needs to wake up.** Borders are not just humanitarian checkpoints — they are security lines.
+- 📰 **This is news from Europe**, not just a local Spanish story.
+- ⚖️ **Compassion and security are not enemies.** But pretending a security problem is only a humanitarian one is dangerous for everyone.
+
+**Key insight:** A border crisis where the arrivals are young, connected, and organized is not the same as a famine-driven refugee wave. Europe can be humane and careful at the same time — but first it must be honest about what it is seeing.
+
+---
 ## 🤖 August 13, 2026 — Testing Muse-Glimmer: Slow But Promising
 
 > 🤖 **AI Models** | 🧠 **Muse-Glimmer** | ⏳ **Patience**
