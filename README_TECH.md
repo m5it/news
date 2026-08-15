@@ -31,6 +31,21 @@
 
 ---
 
+## 🐛 August 15, 2026 — Ollama Serve Drops Remote Connections After a While
+
+> 🐛 **Ollama** | 🌐 **Remote Access** | ⏳ **Intermittent Issue**
+
+- 🐛 **Noticing that `ollama serve` has problems when accessing it from remote computers.**
+- 🔧 **Even with `OLLAMA_HOST=0.0.0.0:11434` set**, somehow it works once and then stops working after some time.
+- 🔄 **The behavior is inconsistent.** One moment the remote client connects, the next moment it cannot reach the server anymore.
+- 🤔 **Possible causes to investigate:** the binding drops, the port becomes unreachable, a firewall or network timeout kicks in, or the process restarts and loses the environment variable.
+- 🛠️ **For now, the workaround is unclear.** Restarting `ollama serve` sometimes helps, but the issue returns.
+- 📚 **Will update once the real cause is found.**
+
+**Key insight:** Setting an environment variable is not the same as guaranteeing stable behavior. Remote services can fail in silent ways — binding, timeouts, firewalls, and process restarts all play a role. The real fix comes from logs, not from repeating the same launch command.
+
+---
+
 ## 🚀 August 14, 2026 — Data Centers in Space: The Future Is Coming
 
 > 🚀 **Space Tech** | 🖥️ **Data Centers** | 🔮 **Future**
