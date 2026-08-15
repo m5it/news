@@ -21,6 +21,21 @@
 
 ---
 
+## 🚫 August 15, 2026 — AI Hardware Is Becoming Unavailable to the Public
+
+> 🚫 **AI Hardware** | 🏢 **Corporations** | 😤 **Access Control**
+
+- 😤 **I think AI companies are limiting access to hardware for the public.**
+- 🤖 **I see this happening with Ollama services** — things become harder to get, slower, or suddenly unavailable.
+- 🎮 **Now it looks like it is happening with NVIDIA too.** The NVIDIA DGX Spark was being sold, and now it looks unavailable as well.
+- 🚫 **They are making problems for people!** Regular users and small developers cannot buy what big companies can.
+- 💰 **The pattern is clear:** powerful AI hardware gets advertised, then pulled back, then reserved for insiders, cloud providers, or enterprise customers.
+- 🤔 **If the public cannot own the hardware, the public cannot own the AI.** And that is exactly what some players want.
+
+**Key insight:** When the most powerful tools are always "temporarily unavailable" to regular people, it is not a supply problem — it is an access problem. Whoever controls the hardware controls who gets to build, run, and think with AI.
+
+---
+
 ## 🤔 August 15, 2026 — Ceuta: What Is the Real Truth?
 
 > 🤔 **Migration** | 📺 **Media** | ⚖️ **Moral Dilemma**
