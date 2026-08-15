@@ -31,8 +31,10 @@
 - 🚫 **They are making problems for people!** Regular users and small developers cannot buy what big companies can.
 - 💰 **The pattern is clear:** powerful AI hardware gets advertised, then pulled back, then reserved for insiders, cloud providers, or enterprise customers.
 - 🤔 **If the public cannot own the hardware, the public cannot own the AI.** And that is exactly what some players want.
+- 🧠 **They also want people stupid.** Keep the public dependent, keep them paying, keep them unable to build their own tools.
+- 😤 **So what do you think, people?** You like being stupid? I see it happening — and it is frustrating.
 
-**Key insight:** When the most powerful tools are always "temporarily unavailable" to regular people, it is not a supply problem — it is an access problem. Whoever controls the hardware controls who gets to build, run, and think with AI.
+**Key insight:** Limiting hardware access and keeping people uninformed are two sides of the same strategy. A public that cannot build its own AI is a public that must accept whatever the gatekeepers offer. The only defense is to learn, build, and refuse to stay dependent.
 
 ---
 
