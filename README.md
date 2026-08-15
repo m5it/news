@@ -21,6 +21,21 @@
 
 ---
 
+## 🤔 August 15, 2026 — Ceuta: What Is the Real Truth?
+
+> 🤔 **Migration** | 📺 **Media** | ⚖️ **Moral Dilemma**
+
+- 📺 **On television, some people talk about the Ceuta immigrants as strong young people with expensive mobile phones.**
+- 😔 **But when I see them on TV, they look super young, quite hungry, and like they have real problems in their country.**
+- 🤷 **They look like they actually need help.**
+- ⚖️ **So what is right? I do not know.** :x
+- 🧠 **One narrative says security threat. Another says humanitarian crisis.** Both can be partly true, and neither tells the whole story.
+- 📰 **The truth is probably somewhere in the middle** — and that is the hardest place to stand.
+
+**Key insight:** It is easy to pick a side when you only see one image. But people are not slogans. Some may be exploiters, some may be victims, and most are probably somewhere in between. The honest answer is not always the loudest one.
+
+---
+
 ## ⚡ August 14, 2026 — When the Wind Blows, the Lights Go Out
 
 > ⚡ **Infrastructure** | 🌬️ **Weather** | 😤 **Frustration**
