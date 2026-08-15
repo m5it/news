@@ -31,6 +31,21 @@
 
 ---
 
+## ⚠️ August 15, 2026 — Warning: Do Not Let Callers Tell You What to Do
+
+> ⚠️ **Security Awareness** | 💼 **Support Agents** | 🛡️ **Social Engineering**
+
+- ⚠️ **A recommendation for server administrators and live chat support agents who are real people:**
+- 🛑 **Do not ask the caller or chatter what you should do.** Do not let them guide your actions.
+- 🎭 **Hackers use this technique to manipulate support staff into helping them hack systems.** They pretend to be confused customers, but they are actually giving you instructions that serve their attack.
+- 🧠 **Example trick:** "Can you just run this command for me?" or "Please click this link to help me fix my account."
+- 🛡️ **Your job is to follow internal procedures, not the caller's script.** If someone is pushing you to do something outside normal workflow, that is a red flag.
+- 🔒 **Be careful. Be skeptical. Verify identity before acting.** Real users accept help; attackers push you to bypass controls.
+
+**Key insight:** The weakest link in security is often a helpful human. Attackers know that support agents and admins want to solve problems — so they turn that helpfulness into a weapon. The best defense is a clear rule: *you help them, but they do not tell you how.*
+
+---
+
 ## 🛡️ August 15, 2026 — SQL Injection Attacks Coming From IONOS IP Range
 
 > 🛡️ **Security** | 🌐 **IONOS** | ⚠️ **SQL Injection**
