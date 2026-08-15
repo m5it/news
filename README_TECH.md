@@ -31,6 +31,25 @@
 
 ---
 
+## 🛡️ August 15, 2026 — SQL Injection Attacks Coming From IONOS IP Range
+
+> 🛡️ **Security** | 🌐 **IONOS** | ⚠️ **SQL Injection**
+
+- 🚨 **I am retrieving SQL injection attacks against my site from an IP in the IONOS range.**
+- 🌐 **Source IP:** `74.208.117.45` — this belongs to IONOS / 1&1.
+- 🤔 **I guess they are not directly responsible**, but the attack is happening from their services. That means a compromised server, a malicious customer, or a rented VPS on their network.
+- 🛠️ **The payloads are classic SQL injection probes:**
+  - `PG_SLEEP(15)` PostgreSQL time-based probes
+  - `DBMS_PIPE.RECEIVE_MESSAGE(...)` Oracle time-based probes
+  - Boolean-based injection attempts with `OR ... SELECT ... FROM PG_SLEEP`
+- 📍 **Target:** `https://www.lokkal.com/1,usa,san_juan/?contact=1...`
+- 🧠 **The attacker is testing multiple database backends** — PostgreSQL, Oracle — to see which one the application uses.
+- 🛡️ **What to do:** block the IP at firewall level, report abuse to IONOS, and verify the application properly sanitizes all parameters.
+
+**Key insight:** Attacks from a hosting provider's IP range do not mean the provider is evil — but they do mean the provider has a customer problem. Shared hosting and cheap VPS services are common launch points because attackers abuse them, knowing the provider will move slowly. Block first, report second, patch third.
+
+---
+
 ## 🐛 August 15, 2026 — Ollama Remote Access: Probably My iptables or Routing
 
 > 🐛 **Ollama** | 🌐 **Remote Access** | 🔥 **Firewall / Routing**
