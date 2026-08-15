@@ -31,18 +31,18 @@
 
 ---
 
-## 🐛 August 15, 2026 — Ollama Serve Drops Remote Connections After a While
+## 🐛 August 15, 2026 — Ollama Remote Access: Probably My iptables or Routing
 
-> 🐛 **Ollama** | 🌐 **Remote Access** | ⏳ **Intermittent Issue**
+> 🐛 **Ollama** | 🌐 **Remote Access** | 🔥 **Firewall / Routing**
 
 - 🐛 **Noticing that `ollama serve` has problems when accessing it from remote computers.**
-- 🔧 **Even with `OLLAMA_HOST=0.0.0.0:11434` set**, somehow it works once and then stops working after some time.
-- 🔄 **The behavior is inconsistent.** One moment the remote client connects, the next moment it cannot reach the server anymore.
-- 🤔 **Possible causes to investigate:** the binding drops, the port becomes unreachable, a firewall or network timeout kicks in, or the process restarts and loses the environment variable.
-- 🛠️ **For now, the workaround is unclear.** Restarting `ollama serve` sometimes helps, but the issue returns.
-- 📚 **Will update once the real cause is found.**
+- 🔧 **Even with `OLLAMA_HOST=0.0.0.0:11434` set**, it works once and then stops working after some time.
+- 🔄 **Update: I now think it is not an Ollama service problem.**
+- 🛡️ **It is probably my `iptables` rules or routing setup.** Something on the network path is dropping or blocking the connection after a while.
+- 🔍 **Need to find the real problem.** Check firewall rules, NAT, connection tracking, and any timeouts that might be killing long-running or idle connections.
+- 🛠️ **Tools to use:** `iptables -L -v -n`, `ss -tlnp`, `conntrack -L`, and logs from the remote client and server.
 
-**Key insight:** Setting an environment variable is not the same as guaranteeing stable behavior. Remote services can fail in silent ways — binding, timeouts, firewalls, and process restarts all play a role. The real fix comes from logs, not from repeating the same launch command.
+**Key insight:** Before blaming the service, blame the network. Ollama listens where you tell it to listen. If remote access fails intermittently, the firewall, NAT, or routing layer is usually the real culprit. Logs and packet traces tell the truth — assumptions do not.
 
 ---
 
