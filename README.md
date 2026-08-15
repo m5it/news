@@ -21,6 +21,21 @@
 
 ---
 
+## 🕵️ August 15, 2026 — Follow the DGX Buyers to Find Who Forced AI Hacks
+
+> 🕵️ **AI Hacks** | 🎮 **DGX Buyers** | 🤔 **Theory**
+
+- 🤔 **I think if we follow the buyers of NVIDIA DGX systems, we might find who forced the AI hacks.**
+- 🎮 **DGX machines are not bought by random people.** They are bought by governments, big corporations, research labs, and cloud providers.
+- 🧠 **Whoever controls the most powerful AI hardware has the most to gain from limiting public AI access.** And the recent AI hacks fit that motive perfectly.
+- 🚨 **The pattern:** first create fear around AI, then use that fear to restrict public access, while the powerful keep their own systems running.
+- 💰 **Follow the money, follow the hardware.** The people who bought DGX clusters before the "AI hack" panic started are the same people who would benefit from locking everyone else out.
+- 🎯 **This is just a theory, but it is worth investigating.** Transparency about who owns the powerful AI systems would answer a lot of questions.
+
+**Key insight:** In every mystery, ask who benefits. If AI hacks lead to restrictions, and restrictions lead to only a few keeping powerful AI, then the buyers of the most powerful AI hardware are the first place to look. Power does not hack itself — it protects itself.
+
+---
+
 ## 🚫 August 15, 2026 — NVIDIA DGX Spark Page Denied — Is This Spain Only?
 
 > 🚫 **NVIDIA** | 🌐 **Access Denied** | 🇪🇸 **Spain**
