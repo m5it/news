@@ -17,35 +17,6 @@
 > 🔧 **General Principle:** *Understanding the tools we use daily transforms frustration into capability.*
 
 
-## ✅ August 14, 2026 — AIIA Framework ReplaceLine Tool Is Working
-
-> 🛠️ **AIIA Framework** | ✅ **ReplaceLine** | 🎉 **Milestone**
-
-- 🎉 **I am proudly announcing that the AIIA Framework `ReplaceLine` tool is working successfully.**
-- ⏳ **This took a lot of tries and a lot of time to get right.** Building a tool that can reliably replace specific lines in files — without breaking formatting or corrupting content — is harder than it looks.
-- 🔧 **The tool now handles line ranges, exact replacements, and preserves file structure cleanly.** No more guessing, no more rewriting entire files for small changes.
-- 💪 **All the effort we put into making it work is finally paying off.** It is useful, it is reliable, and it is ready for real projects.
-- 🚀 **Happy Coding!** Tools that work are the foundation of everything else we build.
-
-**Key insight:** Persistence beats complexity. A tool that seems simple on the surface — "just replace some lines" — can hide dozens of edge cases. The only way through is to test, fix, and test again until it is boringly reliable. That is when you know it is done.
-
----
-
-## 🚀 August 14, 2026 — Data Centers in Space: The Future Is Coming
-
-> 🚀 **Space Tech** | 🖥️ **Data Centers** | 🔮 **Future**
-
-- 🚀 **Looks like the future will bring us data centers running in space!**
-- 🌍 **The idea is wild but logical.** Space offers unlimited solar power, natural cooling, and no need to buy land or fight local regulations.
-- 🛰️ **Companies are already experimenting with orbital computing.** Satellites are getting bigger, smarter, and more capable every year.
-- ⚡ **The biggest wins would be energy and cooling.** In orbit, the sun is always shining somewhere, and the background temperature makes heat dissipation much easier.
-- 🤔 **But the challenges are huge too.** Launch costs, radiation, latency, maintenance, and data security in space are not solved yet.
-- 🎯 **Still, it is exciting to imagine.** Earth-based data centers may one day be just the beginning.
-
-**Key insight:** Space data centers sound like science fiction, but the physics makes sense. The real question is not if they will exist — it is when the economics and engineering finally line up.
-
----
-
 ## ⚠️ August 15, 2026 — Warning: Do Not Let Callers Tell You What to Do
 
 > ⚠️ **Security Awareness** | 💼 **Support Agents** | 🛡️ **Social Engineering**
@@ -95,6 +66,37 @@
 
 ---
 
+## ✅ August 14, 2026 — AIIA Framework ReplaceLine Tool Is Working
+
+> 🛠️ **AIIA Framework** | ✅ **ReplaceLine** | 🎉 **Milestone**
+
+- 🎉 **I am proudly announcing that the AIIA Framework `ReplaceLine` tool is working successfully.**
+- ⏳ **This took a lot of tries and a lot of time to get right.** Building a tool that can reliably replace specific lines in files — without breaking formatting or corrupting content — is harder than it looks.
+- 🔧 **The tool now handles line ranges, exact replacements, and preserves file structure cleanly.** No more guessing, no more rewriting entire files for small changes.
+- 💪 **All the effort we put into making it work is finally paying off.** It is useful, it is reliable, and it is ready for real projects.
+- 🚀 **Happy Coding!** Tools that work are the foundation of everything else we build.
+
+**Key insight:** Persistence beats complexity. A tool that seems simple on the surface — "just replace some lines" — can hide dozens of edge cases. The only way through is to test, fix, and test again until it is boringly reliable. That is when you know it is done.
+
+---
+
+## 🚀 August 14, 2026 — Data Centers in Space: The Future Is Coming
+
+> 🚀 **Space Tech** | 🖥️ **Data Centers** | 🔮 **Future**
+
+- 🚀 **Looks like the future will bring us data centers running in space!**
+- 🌍 **The idea is wild but logical.** Space offers unlimited solar power, natural cooling, and no need to buy land or fight local regulations.
+- 🛰️ **Companies are already experimenting with orbital computing.** Satellites are getting bigger, smarter, and more capable every year.
+- ⚡ **The biggest wins would be energy and cooling.** In orbit, the sun is always shining somewhere, and the background temperature makes heat dissipation much easier.
+- 🤔 **But the challenges are huge too.** Launch costs, radiation, latency, maintenance, and data security in space are not solved yet.
+- 🎯 **Still, it is exciting to imagine.** Earth-based data centers may one day be just the beginning.
+
+**Key insight:** Space data centers sound like science fiction, but the physics makes sense. The real question is not if they will exist — it is when the economics and engineering finally line up.
+
+---
+
+## 🔄 August 12, 2026 — AIIA Datasets v8: Time for a Clean Restart
+
 > 🔄 **AIIA Datasets** | 🧹 **Data Cleanup** | 🧠 **Training**
 
 - 🧠 **We are currently training on AIIA_DATASETS v8**, but the dataset has gone through many fixes.
@@ -103,9 +105,8 @@
 - ⚙️ **Why restart instead of continuing?** Each fix changes the data distribution. Training on patched data can leave the model confused by old and new patterns mixed together.
 - 📚 **Key insight:** Sometimes the best way forward is to stop patching and start clean. A model trained on corrected data from the beginning learns the right patterns once, not the wrong patterns twice.
 
-
-
 ---
+
 ## 🧹 August 12, 2026 — Why We Are Starting the Training From Scratch
 
 > 🧹 **AIIA Datasets** | 🔄 **Clean Slate** | 🧠 **Training**
