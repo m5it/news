@@ -21,6 +21,20 @@
 
 ---
 
+## 🛡️ August 16, 2026 — Half a Year of Non-Stop Attacks on Our Web
+
+> 🛡️ **Security** | 🌐 **Web Attacks** | 🤔 **Who Is Behind It**
+
+- 🛡️ **I can confirm that we are getting attacks on our website for almost half a year now.** Non-stop.
+- ⚡ **The attacks vary:** from DDoS to different kinds of floods, to SQL injection attempts, and now I see floods trying to download photos.
+- 🎭 **The IPs are normally spoofed**, just flooding us from everywhere.
+- 🤖 **Is it AI or a person?** I think it is both — a person using AI. Before it felt like just a person, but now it looks more organized and scaled.
+- 🎯 **Someone clearly has something against us.** The question is who and why.
+
+**Key insight:** When attacks evolve from simple floods to SQL injection and targeted resource draining, someone is investing effort. Spoofed IPs make it hard to trace, but the pattern tells a story: this is not random noise. It is personal.
+
+---
+
 ## 😌 August 16, 2026 — Restored After Electricity Chaos
 
 > 😌 **Recovery** | ⚡ **Power Issues** | 🧘 **Patience**
