@@ -21,6 +21,20 @@
 
 ---
 
+## 🦎 August 17, 2026 — Pangolins Need Attention Too
+
+> 🦎 **Wildlife** | 🌍 **Conservation** | ❤️ **Awareness**
+
+- 🦎 **I just learned about an animal I never saw before: the pangolin.**
+- 🛡️ **Pangolins, also called scaly anteaters, are in danger.**
+- 🌍 **They are one of the most trafficked mammals in the world**, hunted for their scales and meat.
+- 🎯 **Let us focus on this too.** There are so many problems in the world, but small creatures like pangolins often get forgotten.
+- 📚 **Read more:** [Pangolin information →](https://share.google/RqDg2djsIpDFgMkme)
+
+**Key insight:** It is easy to only notice the loudest crises, but extinction is silent. Pangolins do not make the evening news every night, yet they need protection just as much as any other living thing. Awareness is the first step toward saving them.
+
+---
+
 ## 📺 August 17, 2026 — TV News Is Too Much for Young People
 
 > 📺 **Television** | 👶 **Youth** | ⚠️ **Content Warning**
