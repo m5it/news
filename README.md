@@ -21,6 +21,20 @@
 
 ---
 
+## 🔋 August 17, 2026 — New UPS Arrived, Next Goal: NVIDIA DGX Spark
+
+> 🔋 **UPS** | 🤖 **AI Hardware** | 💚 **Support**
+
+- 🔋 **Today I also bought a new UPS** to keep systems online when the electricity drops out again.
+- 🛠️ **It is not connected yet, but we have it!** :D
+- 🚀 **Next big plan on the list: NVIDIA DGX Spark.**
+- 💚 **You are welcome to donate and help us get the DGX faster.** Every bit of support brings us closer.
+- 🙏 **Thanks a lot!**
+
+**Key insight:** Small protections like a UPS and big goals like a DGX are both steps toward independence. One keeps the lights on, the other keeps the work moving. Support from others turns plans into reality.
+
+---
+
 ## 💊 August 17, 2026 — Grandma, Vitamins, and the Good Life
 
 > 💊 **Health** | 👵 **Family Memories** | 🌟 **Good Vibes**
