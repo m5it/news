@@ -21,6 +21,20 @@
 
 ---
 
+## 🪲 August 17, 2026 — Ticks, Dinosaurs, and TV Fear
+
+> 🪲 **Nature** | 📺 **Media** | 🤔 **Perspective**
+
+- 🪲 **Ticks — or "garrapata" in Spanish, or "klop" in Slovenian — have been here since the time of the dinosaurs.**
+- 🦕 **They survived millions of years** and are still around today.
+- 📺 **But now media like TV has focused all attention on this little animal**, making it scarier than it already is.
+- 🤔 **The animal is dangerous, yes.** But the fear is also being amplified on purpose.
+- 🧠 **Sometimes the media does not inform — it magnifies.**
+
+**Key insight:** Ticks are real, and so is the risk. But when media turns a small creature into a constant panic story, people stop thinking clearly and start reacting emotionally. Fear sells — but wisdom asks: what is the real risk, and what is just noise?
+
+---
+
 ## 🐐 August 17, 2026 — Goats, Mountains, and the Cycle of Human Wisdom
 
 > 🏔️ **Nature** | 🐐 **Goats** | 🔄 **Human Nature**
