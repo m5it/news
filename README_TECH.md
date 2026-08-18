@@ -15,7 +15,21 @@
 
 ---
 > 🔧 **General Principle:** *Understanding the tools we use daily transforms frustration into capability.*
+---
 
+## 🚀 August 18, 2026 — Testing Qwen 3.8 27B: Fast and Promising
+
+> 🚀 **Model Testing** | 🧠 **Qwen 3.8** | 💻 **Programming**
+
+- 🚀 **Today I tested a new model called Qwen 3.8**, using the `:latest` tag.
+- 🧠 **It only exists in 27B size**, around 18GB, but it loads extremely fast on my 16GB VRAM card.
+- ⚡ **Compared to other models of similar size, it loads and responds much faster.**
+- 🛠️ **So far, Qwen looks good for programming.** I will test this more soon.
+- 🌅 **Have a nice day! Morning is here, and the day with it... kikirikiii!** :D
+
+**Key insight:** A model that loads fast and responds fast on limited hardware is already winning half the battle. Size matters, but efficiency and practical speed matter just as much — especially for daily programming work.
+
+---
 
 ## ⚠️ August 15, 2026 — Warning: Do Not Let Callers Tell You What to Do
 
