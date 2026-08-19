@@ -21,6 +21,19 @@
 
 ---
 
+## 💻 August 19, 2026 — VS Code for the Browser Is Amazing
+
+> 💻 **VS Code** | 🌐 **Web Tools** | 😲 **Discovery**
+
+- 💻 **Today I accidentally landed on `vscode.dev` — and wow, it amazed me instantly.**
+- 🛠️ **It is an online code editor**, and it looks like the kind of online editor I would like to build.
+- 🚀 **It is amazing.** You can open, edit, and work on code directly from the browser.
+- 🔗 **Just check it out:** [https://vscode.dev](https://vscode.dev)
+
+**Key insight:** Tools that put a full development environment inside a browser are changing what "workspace" means. No install, no setup — just open and code. That is the future of lightweight development.
+
+---
+
 ## 📞 August 19, 2026 — Strange Phone Calls: Information Gathering in Disguise
 
 > 📞 **Phone Scams** | 🎭 **Social Engineering** | ⚠️ **Warning**
