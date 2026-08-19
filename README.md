@@ -21,6 +21,19 @@
 
 ---
 
+## 🌍 August 19, 2026 — Spain Shaken by Multiple Earthquakes Near Granada
+
+> 🌍 **Spain** | 🏚️ **Earthquakes** | 😰 **Fear**
+
+- 🏚️ **Spain is being terrorized by multiple earthquakes.** They are happening in and around the city of Granada.
+- 😰 **Citizens are very scared.** Repeated tremors make people feel unsafe in their own homes.
+- 🛡️ **The ground keeps shaking, and nobody knows when it will stop.** That uncertainty is part of what makes it so frightening.
+- 🤝 **My thoughts are with the people there.** Living with constant shaking is exhausting, both physically and mentally.
+
+**Key insight:** Earthquakes do not just destroy buildings — they destroy the feeling of safety. Even small repeated tremors can leave a deep mark on a community, because the fear is not of one disaster, but of the next one that might come at any moment.
+
+---
+
 ## 🦎 August 17, 2026 — Pangolins Need Attention Too
 
 > 🦎 **Wildlife** | 🌍 **Conservation** | ❤️ **Awareness**
