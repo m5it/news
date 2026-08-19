@@ -21,6 +21,20 @@
 
 ---
 
+## 📞 August 19, 2026 — Strange Phone Calls: Information Gathering in Disguise
+
+> 📞 **Phone Scams** | 🎭 **Social Engineering** | ⚠️ **Warning**
+
+- 📞 **I am noticing strange phone calls that sound like simple mistakes.**
+- 🎭 **But they are actually retrieving information from users.** The callers act slowly — one day, then a few days of silence, then again — but each time they learn something new.
+- 🧠 **This is a classic slow-building social engineering tactic.**
+- ⚠️ **Be careful, because today's life is not as simple as it looks.** There are a lot of thieves, liars, and not-so-positive people out there.
+- 💚 **Just be careful, my good lovely friends.***
+
+**Key insight:** Not every scam is loud and urgent. Some of the most dangerous ones are quiet, patient, and designed to feel like harmless mistakes. If someone keeps "accidentally" asking questions, they are probably collecting pieces of a puzzle about you.
+
+---
+
 ## 💼 August 19, 2026 — B4Work App: Find Work That Meets Your Standards
 
 > 💼 **Work** | 📱 **App** | 🔍 **Job Search**
