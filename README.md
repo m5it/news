@@ -21,6 +21,19 @@
 
 ---
 
+## 🎬 August 19, 2026 — Movie Recommendation: Renfield
+
+> 🎬 **Movie** | 🧛 **Comedy Horror** | 🍿 **Recommendation**
+
+- 🎬 **Good movie: *Renfield*.**
+- 🧛 **A fun take on the classic Dracula story**, focusing on Renfield, the count's long-suffering assistant.
+- 😂 **It mixes horror, comedy, and action** in a way that is surprisingly entertaining.
+- 📚 **IMDB:** [Renfield](https://www.imdb.com/es-es/title/tt11358390/?reasonForLanguagePrompt=browser_header_mismatch)
+
+**Key insight:** Sometimes the best stories are not about the famous monster, but about the tired person standing next to him. *Renfield* proves that even a sidekick can carry a movie if the idea is fresh enough.
+
+---
+
 ## 🌍 August 19, 2026 — Spain Shaken by Multiple Earthquakes Near Granada
 
 > 🌍 **Spain** | 🏚️ **Earthquakes** | 😰 **Fear**
