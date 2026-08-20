@@ -21,6 +21,20 @@
 
 ---
 
+## 🤖 August 20, 2026 — Models Are Getting Worse, Not Better
+
+> 🤖 **AI Models** | 📉 **Quality Drop** | 🤔 **Observation**
+
+- 🤖 **I am noticing that about a month ago, models were working really well.** Especially thinking about Ollama's `kimi-k2.5:cloud` — an incredible worker.
+- 📉 **But now models are thinking worse and worse.**
+- 🛠️ **Now, without specifically defining the problem and even giving hints, the model cannot finish the job successfully.**
+- 😤 **What is happening?** I do not even have the words for it.
+- 🧠 **It feels like something is being quietly downgraded** — the same tools, weaker minds behind them.
+
+**Key insight:** When a model goes from "incredible worker" to "needs hand-holding" without any announcement, the problem is not the user. Something changed on the provider side. Silent downgrades are real, and the only defense is to track performance honestly and not blame yourself when the tool gets worse.
+
+---
+
 ## 💻 August 19, 2026 — VS Code for the Browser Is Amazing
 
 > 💻 **VS Code** | 🌐 **Web Tools** | 😲 **Discovery**
