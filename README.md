@@ -21,6 +21,20 @@
 
 ---
 
+## 🇪🇺 August 21, 2026 — Ceuta and Different National Approaches
+
+> 🇪🇺 **Europe** | 🌍 **Migration** | 🤔 **Observation**
+
+- 🤔 **What I think about immigrants in Ceuta and similar situations...**
+- 🇸🇮🇦🇹🇮🇹 **If we imagine Slovenia, Austria, or Italy handling the same problem**, it probably would not take long to find a solution.
+- ⚡ **They would likely act fast and have it settled in one day.**
+- 🧠 **Different countries have different thresholds for action.** Some wait, debate, and hesitate; others move quickly when they decide a line has been crossed.
+- 🤷 **So... I will let you finish the question yourself.** :)
+
+**Key insight:** The same crisis can produce very different responses depending on the culture and politics of the country facing it. Some nations prioritize process and patience; others prioritize decisive action. Neither approach is perfect — but the difference in speed and resolve is hard to ignore.
+
+---
+
 ## 🤖 August 20, 2026 — Models Are Getting Worse, Not Better
 
 > 🤖 **AI Models** | 📉 **Quality Drop** | 🤔 **Observation**
