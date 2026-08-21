@@ -30,8 +30,10 @@
 - 🤔 **Somehow, they will make money with immigrants.** Grants, funds, contracts, emergency budgets — the opportunities are endless for those who know how to exploit them.
 - 🧠 **The people in need do not get the help.** The middlemen and well-connected do.
 - 😤 **It is the same old pattern:** use a real problem to move public money into private hands.
+- 📺 **And just imagine how much TV time is spent talking about this.** Every person on the panel gets paid a lot of money to say some nonsense.
+- 🤖 **You could ask one or a few LLMs and get a much better answer, my friends.** :D
 
-**Key insight:** Every crisis is also a business opportunity for someone. When the same people who profited from masks now show up around immigration, it is worth asking: are they solving the problem, or are they monetizing it? The answer usually shows up in the accounting.
+**Key insight:** Every crisis is also a business opportunity for someone. When the same people who profited from masks now show up around immigration — and when TV pays people to repeat talking points — it is worth asking: are they solving the problem, or are they monetizing it? The answer usually shows up in the accounting.
 
 ---
 
