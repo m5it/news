@@ -21,6 +21,20 @@
 
 ---
 
+## 💰 August 21, 2026 — Immigration Crisis as Another Money Grab?
+
+> 💰 **Politics** | 🌍 **Migration** | 🤔 **Cynicism**
+
+- 💰 **What I think is that some smart "guys" in the state will steal from Spain over this immigration issue.**
+- 😷 **Just like they did with masks during the virus.** A crisis appears, money flows, and somehow a lot of it disappears into the wrong pockets.
+- 🤔 **Somehow, they will make money with immigrants.** Grants, funds, contracts, emergency budgets — the opportunities are endless for those who know how to exploit them.
+- 🧠 **The people in need do not get the help.** The middlemen and well-connected do.
+- 😤 **It is the same old pattern:** use a real problem to move public money into private hands.
+
+**Key insight:** Every crisis is also a business opportunity for someone. When the same people who profited from masks now show up around immigration, it is worth asking: are they solving the problem, or are they monetizing it? The answer usually shows up in the accounting.
+
+---
+
 ## 🇪🇺 August 21, 2026 — Ceuta and Different National Approaches
 
 > 🇪🇺 **Europe** | 🌍 **Migration** | 🤔 **Observation**
