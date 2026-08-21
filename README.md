@@ -21,6 +21,26 @@
 
 ---
 
+## 😳 August 21, 2026 — What Is Public Shame?
+
+> 😳 **Society** | 🧠 **Psychology** | 🌐 **Online Culture**
+
+- 😳 **Public shame is the act of exposing and humiliating a person in front of a group or online audience**, to punish them for a real or perceived wrongdoing.
+- 📢 **How it works:**
+  - **Public exposure:** Details of a person's behavior, words, or mistakes are shared widely.
+  - **Social condemnation:** The goal is to invite heavy criticism, mocking, or rejection from peers and strangers.
+  - **Loss of standing:** It damages a person's reputation, social status, and career.
+- 📜 **History and modern changes:**
+  - **Past methods:** Older societies used physical devices like stocks or pillories in town squares for formal punishment.
+  - **Modern methods:** Today, public shame mostly happens online through social media posts, viral videos, and cancel culture. Information spreads instantly and stays visible for a long time.
+- ⚖️ **Effects on society:**
+  - **Accountability:** It can help call out powerful people or corrupt companies that avoid other forms of justice.
+  - **Harm:** It often turns into unfair mob behavior, hurting private individuals and causing severe mental health issues.
+
+**Key insight:** Public shame is a powerful tool because it attacks identity, not just behavior. Used carefully, it can expose real wrongdoing. Used carelessly, it becomes a weapon that punishes people before they are even understood. The difference between justice and cruelty is often just the size of the crowd.
+
+---
+
 ## 🤔 August 21, 2026 — What Is Cynicism?
 
 > 🤔 **Philosophy** | 🧠 **Human Nature** | 📜 **History**
