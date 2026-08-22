@@ -21,6 +21,19 @@
 
 ---
 
+## 📖 August 22, 2026 — Word of the Day: "De Allende"
+
+> 📖 **Language** | 🌍 **Spanish** | ✨ **Meaning**
+
+- 📖 **Let us say something about the words `de allende`.**
+- 🌍 **It means "from far away"** — like something or someone coming from a distant place, often used in stories or tales.
+- ✨ **It has a poetic, old-fashioned feeling**, as if you are opening a storybook.
+- 🧠 **A beautiful little phrase:** *"De allende vino un viajero..."* — "From far away came a traveler..."
+
+**Key insight:** Some phrases carry distance and mystery in just a few syllables. `De allende` is one of them — it does not just say "from far away," it makes you imagine the journey.
+
+---
+
 ## 🎵 August 22, 2026 — Beautiful Morning With Eurovision Classical Concert
 
 > 🎵 **Music** | 📺 **Television** | ☀️ **Morning Vibes**
