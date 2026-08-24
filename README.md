@@ -21,6 +21,21 @@
 
 ---
 
+## 🤖 August 24, 2026 — NVIDIA and Poolside: A Strategic Partnership?
+
+> 🤖 **AI Business** | 🏢 **NVIDIA** | 🌊 **Poolside**
+
+- 📰 **Reading that NVIDIA and Poolside are making agreements.**
+- 🏢 **NVIDIA is the big, old, well-known company.**
+- 🌊 **Poolside is a new startup, but built by people already known from GitHub.**
+- 🤔 **It looks like they are just creating another company to protect themselves** if anything goes wrong — a separate brand, separate liability, same people.
+- 🎯 **What do I think will come from this?** We will see soon. :D
+- 🐐 **Bip bip.**
+
+**Key insight:** Big companies often use new startups as shields or experiments. If Poolside succeeds, NVIDIA wins. If it fails or causes controversy, NVIDIA keeps its distance. The real question is not who owns the company on paper, but who benefits when things go right — and who pays when things go wrong.
+
+---
+
 ## 📺 August 24, 2026 — TV Series Recommendation: Altered Carbon
 
 > 📺 **TV Series** | 🤖 **Sci-Fi** | 🧠 **Future & Past**
