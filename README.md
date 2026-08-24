@@ -21,6 +21,19 @@
 
 ---
 
+## 📺 August 24, 2026 — TV Series Recommendation: Altered Carbon
+
+> 📺 **TV Series** | 🤖 **Sci-Fi** | 🧠 **Future & Past**
+
+- 📺 **Good TV series: *Altered Carbon*.**
+- 🤖 **It is about what the future will bring us** — and what the past leaves behind.
+- 🧠 **Interesting themes about identity, memory, death, and technology.**
+- 📚 **IMDB:** [Altered Carbon](https://www.imdb.com/title/tt2261227/)
+
+**Key insight:** *Altered Carbon* asks a hard question: if you can transfer consciousness into new bodies, what really makes you *you*? The future may give us new bodies, but it cannot erase what we did or who we became.
+
+---
+
 ## 🕰️ August 23, 2026 — Time Moves On, Carry the Lessons Forward
 
 > 🕰️ **Reflection** | 💭 **Memory** | 💚 **Love**
