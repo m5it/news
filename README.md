@@ -36,6 +36,9 @@
 
 ---
 
+## 🛒 August 25, 2026 — Salespeople Need Training in People Skills
+---
+
 ## 🚨 August 25, 2026 — "Only in Spain" Ads Are a Red Flag
 
 > 🚨 **Scams** | 🛒 **Advertising** | ⚠️ **Warning**
