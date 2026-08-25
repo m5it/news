@@ -26,12 +26,13 @@
 > 😂 **Open Source** | 🏢 **Big Tech** | 🛠️ **KosDB / AIIA**
 
 - 🛠️ **After I released KosDB and AIIA Framework, it felt like nothing.**
-- 🏢 **But when some Shopify CEO builds his own version of the same thing, suddenly everyone knows about it.**
+- 🏢 **But when some Shopify CEO builds his own version of a similar idea, suddenly everyone knows about it.**
 - 😂 **Funny how that works, right?**
 - 🎯 **The ideas were already there.** The tools were already built. But attention follows the big name, not the origin.
+- 💎 **It actually makes our programs more special.** If a major player is building something similar and never mentioned us, that says something.
 - 💚 **Have a good one, and do what is right for you.** :D
 
-**Key insight:** Good ideas do not always get noticed when they come from small creators. But that does not make them less real. The work still exists, the tools still help people, and the truth still has value — even if the crowd looks the other way.
+**Key insight:** Good ideas do not always get noticed when they come from small creators. But that does not make them less real. The work still exists, the tools still help people, and the truth still has value — even if the crowd looks the other way. Sometimes silence from big names is the loudest compliment.
 
 ---
 
