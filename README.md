@@ -21,6 +21,20 @@
 
 ---
 
+## 🛒 August 25, 2026 — Salespeople Need Training in People Skills
+
+> 🛒 **Sales** | 🏫 **Education** | 🧠 **Psychology**
+
+- 🛒 **I see a lot of people who want to be salespeople.**
+- 🎓 **But many of them never finished school for working in a shop or with people.**
+- 😤 **Then you see how they respond when someone rejects their deal.** Not well.
+- 🧠 **People go to school not just to "go to school," but to learn how to act with other people.** It is kind of psychology.
+- 🐐 **Bip bip. Think for yourself. Think it through.**
+
+**Key insight:** Selling is not just about talking — it is about reading people, handling rejection, and staying professional. Those skills are learned, not invented on the spot. A good salesperson is first a good student of human behavior.
+
+---
+
 ## 🤖 August 24, 2026 — NVIDIA and Poolside: A Strategic Partnership?
 
 > 🤖 **AI Business** | 🏢 **NVIDIA** | 🌊 **Poolside**
