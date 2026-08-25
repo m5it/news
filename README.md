@@ -21,6 +21,19 @@
 
 ---
 
+## 📝 August 25, 2026 — Write Your Own News
+
+> 📝 **News** | 🗣️ **Expression** | 😊 **Invitation**
+
+- 📝 **Today, if you like news, write about yourself.**
+- 🗣️ **You need to write your own news.** :)
+- 🌍 **Everyone has a story, an opinion, something they noticed.**
+- 💡 **Do not wait for someone else to tell your version of the world.**
+
+**Key insight:** News is not only what big channels decide to show. Your perspective matters too. When people write their own news, the world gets more voices, more honesty, and less manufactured narrative.
+
+---
+
 ## 😂 August 25, 2026 — KosDB, AIIA Framework, and the Shopify CEO
 
 > 😂 **Open Source** | 🏢 **Big Tech** | 🛠️ **KosDB / AIIA**
