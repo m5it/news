@@ -19,6 +19,15 @@
 > 💡 **General Principle:** *True consciousness begins with knowledge and skepticism.* 
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
+
+---
+
+## 🌟 August 26, 2026 — Renting LLMs
+
+- ** * ** My recommendation is that models are not useful to rent anymore at least from opencode and ollama. 
+    Other company that offer claude xx models are too much expensive.
+    So here i salute from you and hear you soon from the future! Love to all.
+
 ---
 
 ## 🌟 August 26, 2026 — How Ordinary People Become Respected
