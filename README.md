@@ -51,7 +51,20 @@
 
 **Key insight:** Scammers love to flip responsibility and flood you from endless numbers. They make you feel guilty for their own setup, and they make blocking useless by rotating phone numbers. The safest response is not to engage at all — silence, hang up, and report.
 
+
 ---
+
+## 🎓 August 26, 2026 — Be a Teacher Worth Remembering
+
+> 🎓 **Wisdom** | 🧑‍🏫 **Teaching** | 💭 **Legacy**
+
+- 🎓 **I see that each person is a teacher.**
+- 🧑‍🏫 **We teach others every day — not always with words, but with how we act, how we respond, and how we treat people.**
+- 💭 **So let us try to be something worth remembering.**
+- 🌱 **The lessons we leave behind are the true measure of who we were.**
+- 💚 **Be kind, be honest, be useful — and the people around you will carry a part of you forward.**
+
+**Key insight:** Everyone teaches, but not everyone is remembered. The people we remember are the ones who made us feel seen, who showed us a better way, or who stayed true when it would have been easier to walk away. If you want to matter, be a teacher worth remembering.
 
 ## 📝 August 25, 2026 — Write Your Own News
 
