@@ -24,7 +24,7 @@
 
 ## 🌟 August 26, 2026 — Renting LLMs
 
-- ** * ** My recommendation is that models are not useful to rent anymore at least from opencode and ollama. 
+-  My recommendation is that models are not useful to rent anymore at least from opencode and ollama. 
     Other company that offer claude xx models are too much expensive.
     So here i salute from you and hear you soon from the future! Love to all.
     I guess best option can be running from huggingface.
