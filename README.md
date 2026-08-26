@@ -30,8 +30,9 @@
 - 💪 **Then comes working.** Dreams mean nothing without effort.
 - 😔 **Then comes suffering.** Hardship shapes you more than comfort ever could.
 - ⏳ **And finally, living enough time.** Respect is not given overnight — it is earned through years of showing who you really are.
+- 🚫 **And you should never give up.**
 
-**Key insight:** Respect is not a title, a badge, or a gift from others. It is the quiet result of dreaming when nobody believes, working when nobody watches, suffering without quitting, and staying true long enough for the world to notice.
+**Key insight:** Respect is not a title, a badge, or a gift from others. It is the quiet result of dreaming when nobody believes, working when nobody watches, suffering without quitting, staying true long enough for the world to notice — and never giving up.
 
 ---
 
