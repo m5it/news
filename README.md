@@ -28,6 +28,8 @@
     Other company that offer claude xx models are too much expensive.
     So here i salute from you and hear you soon from the future! Love to all.
     I guess best option can be running from huggingface.
+UPDATE:
+  opencode maybe some models still works good but as well become expensive..
 ---
 
 ## 🌟 August 26, 2026 — How Ordinary People Become Respected
