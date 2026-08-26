@@ -29,9 +29,11 @@
 - 😒 **They make you feel guilty just because you entered your phone number on their website.**
 - 🤔 **Imagine this:** you enter your phone number somewhere, then they call you and try to make you feel guilty for doing exactly what they asked you to do.
 - 🎭 **It is a manipulation trick.** They create the problem, then blame you for it.
+- 📵 **What else I noticed: they can change phone numbers without any problem.** They called me within one hour from around 100 different numbers.
+- 🧠 **This is something to think about.** Blocking one number means nothing when they have hundreds.
 - 🛡️ **Do not fall for it.** Entering a phone number is not a crime, and it does not give them the right to pressure you.
 
-**Key insight:** Scammers love to flip responsibility. They make you feel guilty for their own setup, hoping you will act fast to fix a "mistake" that they created. If someone calls you angry about something you did on their website, the safest response is silence — or just hang up.
+**Key insight:** Scammers love to flip responsibility and flood you from endless numbers. They make you feel guilty for their own setup, and they make blocking useless by rotating phone numbers. The safest response is not to engage at all — silence, hang up, and report.
 
 ---
 
