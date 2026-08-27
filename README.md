@@ -20,6 +20,12 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 
+
+---
+# August 27, 2026 -- What I think about suing META.
+
+I think meta is not reason why children are "adict" or what ever is with children. I think children have problem from before and for sure nothing is guilty computer.. Before and always is guilty their family.. This is my thinking..
+
 ---
 
 ## 🌟 August 26, 2026 — Renting LLMs
