@@ -24,7 +24,8 @@
 ---
 # August 27, 2026 -- What I think about suing META.
 
-I think meta is not reason why children are "adict" or what ever is with children. I think children have problem from before and for sure nothing is guilty computer.. Before and always is guilty their family.. This is my thinking..
+I think meta have no reason in being guilty for problem: why children are "adict., I think children have problem from before and for sure nothing is guilty computer.. 
+Before and always is guilty their family.. This is my thinking..
 
 ---
 
