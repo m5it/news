@@ -26,6 +26,7 @@
 
 I think meta have no reason in being guilty for problem: why children are "adict., I think children have problem from before and for sure computer or meta didnt send drugs to children... 
 Before and always is guilty their family.. This is my thinking..
+Meta is if anything like other companies only helping to children.. My thinking..
 
 ---
 
