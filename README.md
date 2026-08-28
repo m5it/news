@@ -22,6 +22,35 @@
 
 ---
 
+## 🌟 August 28, 2026 — My Decision to Restrict All Pages to 18+  
+
+> 🔒 **Privacy** | 👶 **Children** | 🌐 **Internet**  
+
+- 📅 **Today’s choice**  
+  After reflecting on the growing concerns about children’s exposure to online content, I’m setting a hard “18+ only” rule on every page of my website.  
+
+- 🛡️  **Why this matters**  
+  • Children often stumble upon material that’s beyond their maturity level.  
+  • The line between “educational” and “inappropriate” is blurred, and what’s meant to be harmless can easily become harmful.  
+
+- 👪 **Family responsibilities**  
+  • Parents and guardians should be the primary gatekeepers for what young people see online.  
+  • By restricting access, I’m supporting families in making safer choices for their children.  
+
+- 🤖 **The digital environment**  
+  • Algorithms can amplify sensational or exploitative content to a very young audience.  
+  • Even with content filters, the sheer volume of data makes complete safety impossible.  
+
+- ⚖️  **Balance of freedom and safety**  
+  • Adults retain full access to my site’s resources.  
+  • Children receive a safeguard that protects them from potentially damaging exposure.  
+
+**Key insight:**  
+Limiting access isn’t a punitive measure—it’s a proactive step toward responsible digital stewardship. By setting a clear boundary, we can give parents the tools to 
+shield their kids while still offering valuable content to the adult community.
+
+---
+
 ## 🌟 August 27, 2026 — Why Suing Meta May Not Be Justified  
 
 > ⚖️  **Legal** | 👶 **Children** | 💡 **Perspective**  
