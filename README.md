@@ -21,12 +21,6 @@
 
 
 ---
-# August 28, 2026 -- Budale
-
-  - Prej smo meli solane budale dans pa mamo ne solane budale.. vse gre na slabse...
-  - Da so se butasti lahko bolj butasti si nebi mislo..
- 
----
 # August 27, 2026 -- What I think about suing META.
 
 I think meta have no reason in being guilty for problem: why children are "adict., I think children have problem from before and for sure computer or meta didnt send drugs to children... 
