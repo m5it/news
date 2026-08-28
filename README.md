@@ -20,6 +20,10 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 
+---
+# August 28, 2026 -- Budale
+
+Prej smo meli solane budale dans pa mamo ne solane budale.. vse gre na slabse...
 
 ---
 # August 27, 2026 -- What I think about suing META.
