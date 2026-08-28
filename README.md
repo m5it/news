@@ -54,6 +54,8 @@ the online platform merely amplifies, rather than creates.
 Suits against Meta mix legitimate concerns with monetary incentives. By recognizing both sides—and by looking beyond the surface to school records and family 
 context—we can evaluate each case on its own merits instead of assuming it’s purely a money grab or an altruistic crusade.
 
+What i think is that what here is about is just money and unknowing. Some miss informations other are creating new and comes to problems.. but dont think this will last for ever... these at the end will need to pay all back..
+
 ---
 
 ## 🌟 August 28, 2026 — The Dark Side of Cutting Off Kids’ Internet Access  
