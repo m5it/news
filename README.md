@@ -26,6 +26,7 @@
 - From now on if you like informations, pay me. Or listen to lies... ;)
 - What I do is reconstruct new from my point of view.
 - Respond to your email
+- Also we can discuss around the new
 
 ---
 
