@@ -27,7 +27,7 @@
 - What I do is reconstruct new from my point of view.
 - Respond to your email
 - Also we can discuss around the new
-- How they make money? My old boss will tell me mind your bisnis... lol
+- How they make money? My old boss will tell me mind your bisnis... lol <br>
     The guy on news who was explaining how they make money, I tell you he dont know. He was just imagining and speaking about known stuff, like me do...
 
 ---
