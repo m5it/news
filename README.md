@@ -23,7 +23,9 @@
 
 ## 🌟 August 28, 2026 — You like info?
 
-From now on if you like informations, pay me. Or listen to lies... ;)
+- From now on if you like informations, pay me. Or listen to lies... ;)
+- What I do is reconstruct new from my point of view.
+- Respond to your email
 
 ---
 
