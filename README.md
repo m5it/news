@@ -28,6 +28,7 @@
 - Respond to your email
 - Also we can discuss around the new
 - How they make money? My old boss will tell me mind your bisnis... lol
+    The guy on news who was explaining how they make money, I tell you he dont know. He was just imagining like me do...
 
 ---
 
