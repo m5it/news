@@ -21,26 +21,55 @@
 
 
 ---
-# August 27, 2026 -- What I think about suing META.
 
-I think meta have no reason in being guilty for problem: why children are "adict., I think children have problem from before and for sure computer or meta didnt send drugs to children... 
-Before and always is guilty their family.. This is my thinking..
-Meta is if anything like other companies only helping to children.. My thinking..
-Also i think still exists people that are too much obsesed with "houlines" and this things break progress..
+## 🌟 August 27, 2026 — Why Suing Meta May Not Be Justified  
+
+> ⚖️  **Legal** | 👶 **Children** | 💡 **Perspective**  
+
+- 🗣️  **My stance**  
+  I don’t believe Meta should be held liable for the “addiction” problem seen in many children today.  
+
+- 📱 **Why?**  
+  • Children’s struggles often pre‑date their exposure to social‑media platforms.  
+  • Families and upbringing play a far larger role than any single app or company.  
+
+- 🤝 **Meta’s role**  
+  • Like any tech company, Meta offers tools that can help children learn and connect—provided they’re used responsibly.  
+  • It isn’t a drug manufacturer; it merely delivers content.  
+
+- 👥 **The bigger picture**  
+  • Holding one corporation accountable ignores the broader societal, familial, and cultural forces at play.  
+  • Many companies face the same challenges; blaming a single name does little to foster real progress.  
+
+- 🚫 **Obsession with “houlines”** (i.e., holiday‑driven hype)  
+  • Excessive focus on viral trends and sensational events distracts from meaningful change.  
+  • It creates a false narrative that any tech firm is at fault when, in reality, the issue is systemic.  
+
+**Key insight:**  
+Legal action against Meta is unlikely to resolve the root causes of childhood digital challenges. A more effective path is collaborative, multi‑stakeholder efforts 
+that address family dynamics, education, and responsible tech design.
 
 ---
 
-## 🌟 August 26, 2026 — Renting LLMs
+## 🌟 August 27, 2026 — When Renting AI Models Is No Longer Viable  
 
--  My recommendation is that models are not useful to rent anymore at least from opencode and ollama. 
-    Other company that offer claude xx models are too much expensive.
-    So here i salute from you and hear you soon from the future! Love to all.
-    I guess best option can be running from huggingface.
+> 💻 **AI** | 📦 **Renting** | 💰 **Cost**  
 
-UPDATE:
-  opencode maybe some models still works good but as well become expensive..
+- 💡 **Renting from Opencode & Ollama?**  
+  Those platforms no longer provide a useful value‑for‑money trade‑off.  
 
-  💡 :)
+- 📉 **Claude XX Models**  
+  The premium models offered by other vendors are simply too expensive.  
+
+- 🚀 **Hugging Face**  
+  Running models locally (or via Hugging Face’s own infrastructure) remains the most practical and cost‑effective choice.  
+
+- ⚠️  **Update**  
+  Opencode still hosts some functional models, but their price tags have climbed—making them a less attractive option.  
+
+**Key insight:**  
+When the market shifts from affordable rentals to high‑priced premium offerings, the smartest move is to move control back into your own hands. Self‑hosting on 
+platforms like Hugging Face gives you both the flexibility to experiment and the cost predictability you need for long‑term projects.
 
 ---
 
