@@ -27,6 +27,7 @@ What people like? Well they like to see you suffer. They like to see you not bee
 Well people... I think you all are wrong... when someone like seeing other suffer is... is you... me.. us... and is terrible...
 If you think on IVA or taxes i will pay 815 euro but nothing was delivered! But here is payed IJIC.
 I know taxes and iva and ijic is not connected with content of this new i started to write but if you think better you see all is connected.. :*
+Another thing is that i didnt make big illusions with computer because i knewed there will comes to problems like this or like that, one way or another.. So, my second plan is if is impossible to send it to "spain" because looks here people are 1000yeare behind the time will send it to slovenia... i can run server and access it from anywhere... important is it have safe space..
 
 ---
 # August 31, 2026 - Why so many "mierda de jente" ?
