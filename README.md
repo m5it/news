@@ -27,25 +27,6 @@ Here have found free online books of Mark Twain. Good writer from 20th century t
 https://archive.org/details/mark-twai/A%20Connecticut%20Yankee%20in%20King%20Arthur%27s%20court/
 
 ---
-# August 31, 2026 - People like to see you at floor / down...
-
-What people like? Well they like to see you suffer. They like to see you not beeing good. Like movies they make. Who suffer more make better movie.. :) 
-Well people... I think you all are wrong... when someone like seeing other suffer is... is you... me.. us... and is terrible...
-
----
-# August 31, 2026 - Why so many "mierda de jente" ?
-
-Today's question of the day is: Why is so many mierda de jente? Yo penso que por TV... Y segundo familia.. Que te parece?
-
----
-# August 31, 2026 - Servermall and google and ads and aduana and DHL are cheaters!!!!
-
-I buy computer for 8.000 euro. Don't think i buy it with paypal man! People your thinking is always wrong. Try not to think too much. Try to be sure! They say from servermall that they send it. Google say servermall is respected company because of this i buy it there...
-Well now  we get information that shipment was returned in Lithuania back to sender..
-Well i am ready to sue them as well as person who talk with me as seller. Now i speak with the guy and he say all is fine and that shipment is still waiting for "dispatch and customer clearance but i dont trust noone anymore.. long time.. omg google.. how you can say that something is useful if you get problems..
-Seller is keep telling me my order will be delivered. Well I can wait few days more but I am scared a lot about... :x
-
----
 
 ## 🔒 August 29, 2026 — The Hidden Risks of URL Checkers: Why Control Matters  
 
