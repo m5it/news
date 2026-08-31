@@ -21,6 +21,13 @@
 
 
 ---
+# August 31, 2026 - People like to see you at floor / down...
+
+What people like? Well they like to see you suffer. They like to see you not beeing good. Like movies they make. Who suffer more make better movie.. :) 
+Well people... I think you all are wrong... when someone like seeing other suffer is... is you... me.. us... and is terrible...
+
+
+---
 # August 31, 2026 - Why so many "mierda de jente" ?
 
 Today's question of the day is: Why is so many mierda de jente? Yo penso que por TV... Y segundo familia.. Que te parece?
