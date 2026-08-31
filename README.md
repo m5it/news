@@ -21,6 +21,11 @@
 
 
 ---
+# August 31, 2026 - Online Books of Mark Twain - welcome to reading moments
+
+Here have found free online books of Mark Twain. Good writer from 20th century that have egs to write what he think... Try to get some perspective of this guy people... :)
+
+---
 # August 31, 2026 - People like to see you at floor / down...
 
 What people like? Well they like to see you suffer. They like to see you not beeing good. Like movies they make. Who suffer more make better movie.. :) 
