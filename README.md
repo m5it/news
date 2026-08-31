@@ -19,6 +19,13 @@
 > 💡 **General Principle:** *True consciousness begins with knowledge and skepticism.* 
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
+---
+# August 31, 2026 - Servermall and google and ads and aduana and DHL are cheaters!!!!
+
+I buy computer for 8.000 euro. They say from servermall that they send it. Google say servermall is respected company because of this i buy it there...
+Well now  we get information that shipment was returned in Lithuania back to sender.. I had to firm that i wont sell nothing to Rusia or Belorusia imagine that...
+Well i am ready to sue them as well as person who talk with me as seller. Now i speak with the guy and he say all is fine and that shipment is still waiting for "dispatch and customer clearance but i dont trust noone anymore.. long time.. omg google.. how you can say that something is useful if you get problems..
+
 
 ---
 
