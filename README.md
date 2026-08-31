@@ -25,7 +25,7 @@
 
 What people like? Well they like to see you suffer. They like to see you not beeing good. Like movies they make. Who suffer more make better movie.. :) 
 Well people... I think you all are wrong... when someone like seeing other suffer is... is you... me.. us... and is terrible...
-
+If you think on IVA i will pay 815 euro but nothing was delivered!
 
 ---
 # August 31, 2026 - Why so many "mierda de jente" ?
