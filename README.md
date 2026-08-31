@@ -19,6 +19,12 @@
 > 💡 **General Principle:** *True consciousness begins with knowledge and skepticism.* 
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
+
+---
+# August 31, 2026 - Why so many "mierda de jente" ?
+
+Today's question of the day is: Why is so many mierda de jente? Yo penso que por TV... Y segundo familia.. Que te parece?
+
 ---
 # August 31, 2026 - Servermall and google and ads and aduana and DHL are cheaters!!!!
 
