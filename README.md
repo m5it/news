@@ -29,6 +29,7 @@ If you think on IVA or taxes i will pay 815 euro but nothing was delivered! But 
 I know taxes and iva and ijic is not connected with content of this new i started to write but if you think better you see all is connected.. :*
 Another thing is that i didnt make big illusions with computer because i knewed there will comes to problems like this or like that, one way or another.. So, my second plan is if is impossible to send it to "spain" because looks here people are 1000yeare behind the time will send it to slovenia... i can run server and access it from anywhere... important is it have safe space..
 
+Something new, what have learned is about democracy. Now i know that democracy contain all types of system government. So what i know new is that democracy include all types like fascism, racism and all bad or not bad is there... well i think will need to study more about that... i think you should too
 ---
 # August 31, 2026 - Why so many "mierda de jente" ?
 
