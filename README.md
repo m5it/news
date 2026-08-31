@@ -26,7 +26,7 @@
 What people like? Well they like to see you suffer. They like to see you not beeing good. Like movies they make. Who suffer more make better movie.. :) 
 Well people... I think you all are wrong... when someone like seeing other suffer is... is you... me.. us... and is terrible...
 If you think on IVA or taxes i will pay 815 euro but nothing was delivered! But here is payed IJIC
-
+I know taxes and iva and ijic is not connected with content of new i started to write but if you think better you see all is connected.. :*
 ---
 # August 31, 2026 - Why so many "mierda de jente" ?
 
