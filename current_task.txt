@@ -1,4 +1,4 @@
-Plan: Fix Key insight formatting in August 14 entries
+Plan: Add second September 1 default news entry
 Progress: 5/5 completed (0 blocked)
 No task in progress.
-Updated: 2026-08-14 03:11:20
+Updated: 2026-09-01 09:36:30
