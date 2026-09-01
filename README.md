@@ -21,10 +21,30 @@
 
 
 ---
-# August 31, 2026 - Online Books of Mark Twain - welcome to reading moments
+## 🤖 September 1, 2026 — Ollama Brings Subscriptions Back
 
-Here have found free online books of Mark Twain. Good writer from 20th century that have egs to write what he think... Try to get some perspective of this guy people... :)
-https://archive.org/details/mark-twai/A%20Connecticut%20Yankee%20in%20King%20Arthur%27s%20court/
+> 🤖 **Ollama** | 💰 **Subscriptions** | 🔄 **AI Services**
+
+- 🎉 **Ollama has re-enabled its subscription plan.**
+- 🤞 **I hope everything goes back to how it was when we started.**
+- 😔 **I really hope we do not end up worse or in a similar bad situation again.**
+- 🙏 **It makes me sad to think it could get worse again... omg.**
+
+**Key insight:** When a service takes away features and then brings them back, the real question is what changed behind the scenes. Subscriptions returning is good news, but the real test is whether the service stays fair, open, and useful for the people who built around it.
+
+---
+
+
+## 📚 August 31, 2026 — Free Online Books of Mark Twain
+
+> 📚 **Books** | 📖 **Classic Literature** | 🌐 **Free Archive**
+
+- 📚 **Found free online books of Mark Twain today.**
+- ✍️ **He was a great writer from the 20th century** who had the courage to write what he thought.
+- 📖 **Try to get some perspective on this guy, people... :)**
+- 🔗 **A good starting point:** [A Connecticut Yankee in King Arthur's Court](https://archive.org/details/mark-twai/A%20Connecticut%20Yankee%20in%20King%20Arthur%27s%20court/)
+
+**Key insight:** Classic books are still free and still worth reading. Mark Twain's sharp eye for people and society cuts through time — and archive.org keeps that access open for everyone.
 
 ---
 
