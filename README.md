@@ -28,6 +28,7 @@ Be careful and only professional in times like this...
 Todays days are not like every other day before.. No, it looks something is not right and is getting worse! Repeat, be careful.
 
 Somehow remind me on jugoslavia what is happening now in spain... omg
+Normally when is a lot of noise in background are happening unknown things!
 
 ---
 ## 🌍 September 2, 2026 — Ceuta: Send Them Back, Problem Solved
