@@ -21,6 +21,11 @@
 
 
 ---
+# September 2, 2026 - Don't wana sell computer because is for government
+
+If you dont know how to use equipement it is not useful for you. Another thing is I can do anything with orenary computer of what you are scared of! I just need this one to make my company!
+
+---
 # September 2, 2026 - Ceuta: My thinking
 
 On TV you see that some people just talk and talk and talk but they dont know nothing. This is not good and even is worse putting to TV! 
