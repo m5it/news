@@ -21,6 +21,12 @@
 
 
 ---
+# September 2, 2026 - Ceuta: My thinking
+
+On TV you see that some people just talk and talk and talk but they dont know nothing. This is not good and even is wors putting to TV! Be careful and only profesional in times like this...
+
+
+---
 ## 🌍 September 2, 2026 — Ceuta: Send Them Back, Problem Solved
 
 > 🌍 **Ceuta** | 🛡️ **Border Security** | 🗣️ **Opinion**
