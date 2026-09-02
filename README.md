@@ -27,6 +27,7 @@ On TV you see that some people just talk and talk and talk but they dont know no
 Be careful and only professional in times like this...
 Todays days are not like every other day before.. No, it looks something is not right and is getting worse! Repeat, be careful.
 
+Somehow remind me on jugoslavia what is happening now in spain... omg
 
 ---
 ## 🌍 September 2, 2026 — Ceuta: Send Them Back, Problem Solved
