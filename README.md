@@ -33,6 +33,8 @@ TV2 is OK!
 
 - And another logic is that if someone buy computer and his name writes everywhere i guess he wont use it against his nation and similar... ??? wakeup
 
+- Have noted that firewall was off and XXX people access my server. Well this should not happen, i see...
+
 ---
 # September 2, 2026 - Ceuta: My thinking
 
