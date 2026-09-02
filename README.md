@@ -23,7 +23,7 @@
 ---
 # September 2, 2026 - Don't wana sell computer because is for government
 
-If you dont know how to use equipement it is not useful for you. Another thing is I can do anything with orenary computer of what you are scared of! I just need this one to make my company!
+If you dont know how to use equipement it is not useful for you. Another thing is I can do anything with ordinary computer of what you are scared of! I just need this one to make my company!
 And, I like to work for you. Just say magic word... Please or how it is.. ;)
 
 ---
