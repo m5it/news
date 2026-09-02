@@ -21,6 +21,22 @@
 
 
 ---
+## 🌍 September 2, 2026 — Ceuta: Send Them Back, Problem Solved
+
+> 🌍 **Ceuta** | 🛡️ **Border Security** | 🗣️ **Opinion**
+
+- 🚨 **The situation around Ceuta keeps dragging on, and I am tired of the crying and blaming.**
+- 🎯 **My recommendation is simple:** send the people back to where they came from, and the problem is solved.
+- 🛑 **Instead of endless debates about who did what, just enforce the border.**
+- 🛡️ **A country that cannot control who enters cannot protect the people inside.**
+- 😤 **The longer this is ignored, the worse it gets for everyone — including the migrants being used as a political tool.**
+
+**Key insight:** Compassion without control becomes chaos. A clear border policy that sends illegal arrivals back immediately removes the incentive, stops the exploitation, and restores order. The solution is not complicated — the will to apply it is.
+
+---
+
+
+
 ## 🤖 September 1, 2026 — Ollama Brings Subscriptions Back
 
 > 🤖 **Ollama** | 💰 **Subscriptions** | 🔄 **AI Services**
