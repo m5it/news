@@ -31,6 +31,8 @@ Another thing. This kind of equipement have a lot of companies and are not gover
 - Why people speak if they dont know nothing? :D
 TV2 is OK!
 
+- And another logic is that if someone buy computer and his name writes everywhere i guess he wont use it against his nation and similar... ??? wakeup
+
 ---
 # September 2, 2026 - Ceuta: My thinking
 
