@@ -27,6 +27,10 @@ If you dont know how to use equipement it is not useful for you. Another thing i
 And, I like to work for you. Just say magic word... Please or how it is.. ;)
 Another thing. This kind of equipement have a lot of companies and are not govermental! Right? Please, think.
 
+
+- Why people speak if they dont know nothing? :D
+TV2 is OK!
+
 ---
 # September 2, 2026 - Ceuta: My thinking
 
