@@ -25,6 +25,7 @@
 
 If you dont know how to use equipement it is not useful for you. Another thing is I can do anything with ordinary computer of what you are scared of! I just need this one to make my company!
 And, I like to work for you. Just say magic word... Please or how it is.. ;)
+Another thing. This kind of equipement have a lot of companies and are not govermental! Right? Please, think.
 
 ---
 # September 2, 2026 - Ceuta: My thinking
