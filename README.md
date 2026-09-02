@@ -23,7 +23,7 @@
 ---
 # September 2, 2026 - Ceuta: My thinking
 
-On TV you see that some people just talk and talk and talk but they dont know nothing. This is not good and even is wors putting to TV! Be careful and only profesional in times like this...
+On TV you see that some people just talk and talk and talk but they dont know nothing. This is not good and even is worse putting to TV! Be careful and only profesional in times like this...
 
 
 ---
