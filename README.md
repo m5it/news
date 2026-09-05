@@ -19,6 +19,13 @@
 > 💡 **General Principle:** *True consciousness begins with knowledge and skepticism.* 
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
+---
+# September 5, 2026 - Gigabyte company
+
+I but computer from servermall. I pay and all this. It was send with DHL and returned before it left nation. Who requested return was "Gigabyte" company that i dont understand what they have with all this???
+They are CHINOS man!!!! Chinos are saying to us what to buy or not!!!!! 
+Europa people! please start thinking!!!!
+
 
 ---
 # September 2, 2026 - Don't wana sell computer because is for government
