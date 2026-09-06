@@ -28,7 +28,9 @@
 - In some countries politics and journalists dont have education as is necessary i guess and is because making cround happy and so they feel fine... 
     At least I see like this.. :D
 - Also what i think is that probably exists cure for everything just we wont see it. same is with energy.. etc... bip bip
-- But some things dont have logic, probably because there is some light in each of this devil souls
+- But some things dont have logic, probably because there is some light in each of this devil souls.
+    Well i guess no light there. they just have good plan and they need to finish it..
+
 
 ---
 # September 5, 2026 - Gigabyte company
