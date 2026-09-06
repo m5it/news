@@ -30,7 +30,7 @@
 - Also what i think is that probably exists cure for everything just we wont see it. same is with energy.. etc... bip bip
 - But some things dont have logic, probably because there is some light in each of this devil souls.
     Well i guess no light there. they just have good plan and they need to finish it..
-- And on internet.. if you ask me.. I can not find good people. not even to speak with anyone normally... So dont try.. if you like to speak with someone.. try in your village, street and similar... ***
+- And on internet.. if you ask me.. I can not find good people. not even to speak with anyone normally... So dont try.. if you like to speak with someone.. try in your village, street and similar... *** 30 years ago on irc where we know each other first from our streets and then we start playing together.. all went slowly infront.. you know all continue slowly.. first we have no phones, then we have super bad mobile phones, no computers only one in street... well we went slowly into future.. but today.. is not like this.. we can think on this i think... *** :D
 
 
 ---
