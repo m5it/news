@@ -34,6 +34,7 @@
 - 30 years ago on irc where we know each other first from our streets and then we start playing together.. all went slowly infront -> future.. 
     you know all continue slowly.. first we have no phones, then we have super bad mobile phones, no computers only one in street... well we went slowly into future.. but today.. is not like this.. we can think on this i think... *** :D
     If you look at IRCNet you still can see its divided by countries.. Before we have villages, small cities etc.. we all was there.. :D
+    And even war started there i guess
 
 
 ---
