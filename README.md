@@ -25,6 +25,8 @@
 - NWO is here you just don't know it.
 - Live is like this. What you like to do you should stop doing it and what you don't like you should do it.. Like this you achive harmony.. LOL.. no its true just is funny
 - News about how some Linux Towards(linus torvalds) use only 2 tools but we buy computer and is send back to company??? How can you put this kind of news if people can not use these tools??? Please Freaks
+- In some countries politics and journalists dont have education as is necessary i guess and is because making cround happy and so they feel fine... 
+    At least I see like this.. :D
 
 ---
 # September 5, 2026 - Gigabyte company
