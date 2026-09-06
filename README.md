@@ -23,6 +23,7 @@
 # September 6, 2026 - NWO is here
 
 - NWO is here you just don't know it.
+- Live is like this. What you like to do you should stop doing it and what you don't like you should do it.. Like this you achive harmony.. LOL.. no its true just is funny
 
 ---
 # September 5, 2026 - Gigabyte company
