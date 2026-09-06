@@ -27,6 +27,7 @@
 - News about how some Linux Towards(linus torvalds) use only 2 tools but we buy computer and is send back to company??? How can you put this kind of news if people can not use these tools??? Please Freaks
 - In some countries politics and journalists dont have education as is necessary i guess and is because making cround happy and so they feel fine... 
     At least I see like this.. :D
+- Also what i think is that probably exists cure for everything just we wont see it. same is with energy.. etc... bip bip
 
 ---
 # September 5, 2026 - Gigabyte company
