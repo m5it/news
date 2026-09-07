@@ -21,7 +21,7 @@
 
 ---
 # September 6, 2026 - Pinta, Que pinta
-- Pinta que estos jugetes dejan usar solo para bobos.. ASi que adelante jente..
+- Pinta que estos jugetes dejan usar solo para bobos (ollama y jefes) .. ASi que adelante jente..
 
 
 ---
