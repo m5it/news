@@ -24,7 +24,7 @@
 - Pinta que estos jugetes dejan usar solo para bobos (ollama y jefes) .. ASi que adelante jente..
 - Alemanes como ovejas hasta que AIIA sale y vamos adelante... lol
 - Respondo a "no se si sois espanioles" te digo que soy 25% canario y con eso espaniol un poco tambien.. te vale?
-- Aora me va explicar como pasas listo como yo... Te digo hay mas maneras una es que tienes miedo salir de casa por lo menos dos mieses y en este tiempo encuentras que hay que hacer. O otra que estas solo tan duro que puedes elejir que quieres hacer y lo haces... No digo que no tarda, todo tarda y monton y todo depende de tu ganas asi que necessitas quierer que quieres... algo asi... besitos***
+- Aora me va explicar como pasas listo como yo... Te digo hay mas maneras una es que tienes miedo salir de casa por lo menos dos mieses y en este tiempo encuentras que hay que hacer. O otra que estas solo tan duro que puedes elejir que quieres hacer y lo haces... No digo que no tarda, todo tarda y monton y todo depende de tu ganas asi que necessitas quierer que quieres hacer... algo asi... besitos***
     Probable mas importante es tener buen mentor!
 
 
