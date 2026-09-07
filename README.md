@@ -23,6 +23,8 @@
 # September 7, 2026 - Pinta, Que pinta
 - Pinta que estos jugetes dejan usar solo para bobos (ollama y jefes) .. ASi que adelante jente..
 - Alemanes como ovejas hasta que AIIA sale y vamos adelante... lol
+- Respondo a "no se si sois espanioles" te digo que soy 25% canario y con eso espaniol un poco tambien.. te vale?
+
 
 ---
 # September 6, 2026 - NWO is here
