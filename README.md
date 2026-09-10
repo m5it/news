@@ -22,7 +22,7 @@
 ---
 # September 10, 2026 - AIIA
 - AI or IA do everything by it self and old still wana play war... :x
-
+    We want school not war and medicine not war and food not war...
 
 ---
 # September 7, 2026 - Pinta, Que pinta
