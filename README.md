@@ -20,12 +20,19 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 ---
+# September 11, 2026 - Dentist AI
+
+- Dentist AI will have four to six hands.
+
+---
 # September 10, 2026 - AIIA
+
 - AI or IA do everything by it self and old still wana play war... :x
     We want school not war and medicine not war and food not war...
 
 ---
 # September 7, 2026 - Pinta, Que pinta
+
 - Pinta que estos jugetes dejan usar solo para bobos (ollama y jefes) .. ASi que adelante jente..
 - Alemanes como ovejas hasta que AIIA sale y vamos adelante... lol
 - Respondo a "no se si sois espanioles" te digo que soy 25% canario y con eso espaniol un poco tambien.. te vale?
