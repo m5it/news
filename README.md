@@ -24,6 +24,7 @@
 
 - Dentist AI will have four to six hands.
 - What we can do? We can count birds.
+    Or we can studie and make things better...
 
 ---
 # September 10, 2026 - AIIA
