@@ -23,6 +23,7 @@
 # September 11, 2026 - Dentist AI
 
 - Dentist AI will have four to six hands.
+- What we can do? We can count birds.
 
 ---
 # September 10, 2026 - AIIA
