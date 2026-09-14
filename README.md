@@ -24,6 +24,7 @@
 
 - AI is here and you can not do nothing. All you do is lie to people... Thanks a lot.
 - You know your self? Lies and violence. Thats all folks.
+- If you ask me companies are scared because they like control of everything that exists and they are not smart enough to do by them self and they need people but they like people with limited knowledge. if you wana have bad AI you teach it less then you will normal person and you get bad ai... like a serial killer.. So people more you know, better person you will be... *** kisses
 
 ---
 # September 11, 2026 - Dentist AI
