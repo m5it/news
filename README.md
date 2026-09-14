@@ -23,7 +23,7 @@
 # September 14, 2026 - AI Is here
 
 - AI is here and you can not do nothing. All you do is lie to people... Thanks a lot.
-
+- You know your self? Lies and violence. Thats all folks.
 
 ---
 # September 11, 2026 - Dentist AI
