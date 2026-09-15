@@ -20,6 +20,11 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 ---
+# September 15, 2026 - Good serie
+
+- Person of Interest (https://www.imdb.com/es-es/title/tt1839578/)
+
+---
 # September 14, 2026 - AI Is here
 
 - AI is here and you can not do nothing. All you do is lie to people... Thanks a lot.
