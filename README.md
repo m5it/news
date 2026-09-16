@@ -23,6 +23,7 @@
 # September 16, 2026 - Nice talk
 
 - Anton Losada nice talk on tv 1...*** (mas jente como eso falta)
+- Offline for today.. *** (netflix) :)
 
 ---
 # September 16, 2026 - Impuestos
