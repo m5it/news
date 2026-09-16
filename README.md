@@ -20,6 +20,12 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 ---
+# September 16, 2026 - Impuestos
+
+- Quien no paga impuestos es... es ladron o que... :)
+
+
+---
 # September 16, 2026 - Sun
 
 - Von der leyen need sun? you are welcome***
