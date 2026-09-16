@@ -23,7 +23,9 @@
 # September 16, 2026 - Money
 
 - First we need to remove money. Second AI need to start working. Third live, love, enjoy, help, explain and similar...
-
+- Remove intereses..
+- Remove a lot of stuff
+- Live love and we can wait for meteorite only..
 
 ---
 # September 15, 2026 - Dynamic Portfolio Allocation
