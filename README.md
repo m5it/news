@@ -29,6 +29,7 @@
 - You can protect only few not all... so...
 - Live love and we can wait for meteorite only..
 - List of who need help?
+- Because we are in loop we dont make progress.
 
 
 ---
