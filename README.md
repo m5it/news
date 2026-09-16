@@ -28,6 +28,8 @@
 - Always will skip people who need help..
 - You can protect only few not all... so...
 - Live love and we can wait for meteorite only..
+- List of who need help?
+
 
 ---
 # September 15, 2026 - Dynamic Portfolio Allocation
