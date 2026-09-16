@@ -25,6 +25,8 @@
 - First we need to remove money. Second AI need to start working. Third live, love, enjoy, help, explain and similar...
 - Remove intereses..
 - Remove a lot of stuff
+- Always will skip people who need help..
+- You can protect only few not all... so...
 - Live love and we can wait for meteorite only..
 
 ---
