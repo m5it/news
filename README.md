@@ -23,6 +23,7 @@
 # September 16, 2026 - Simple
 
 - We can start with asking our self if we really wana help.
+- We are not helping we are just fixing problems.
 
 ---
 # September 16, 2026 - Money
