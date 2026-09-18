@@ -23,7 +23,7 @@
 # September 18, 2026 - Africanos
 
 - If you think from where they come and how they live before and now. Ok. They live same as before just now they get free food and more. Imagine. Like in heaven. LOL
-
+- "sad to see" ? For them is nothig sad there... For me looks like india.. You dont know how is there so you can not imagine but for them is better then before.. you can be sure.. :D
 
 ---
 # September 16, 2026 - Nice talk
