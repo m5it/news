@@ -20,6 +20,12 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 ---
+# September 18, 2026 - A que pinta?
+
+- For me it looks like spain wana more solders. Like something is coming and need peope who will fight in first line.. I guess these are best for this if they dont change position for who they fight.. :D
+- Missing of informations and people are like they are.. :x
+
+---
 # September 18, 2026 - Africanos
 
 - If you think from where they come and how they live before and now. Ok. They live same as before just now they get free food and more. Imagine. Like in heaven. LOL
