@@ -20,6 +20,12 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 ---
+# September 18, 2026 - Africanos
+
+- If you think from where they come and how they live before and now. Ok. They live same as before just now they get free food and more. Imagine. Like in heaven. LOL
+
+
+---
 # September 16, 2026 - Nice talk
 
 - Anton Losada nice talk on tv 1...*** (mas jente como eso falta)
