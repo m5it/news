@@ -20,6 +20,12 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 ---
+# September 18, 2026 - Always same food
+
+- Fuck we eat all the time the same.. It is normal we drink beer like crazy if food is same every day.. Maybe if person dont taste but if do then you need eat different if not you get slim like mee... :x
+
+
+---
 # September 18, 2026 - A que pinta?
 
 - For me it looks like spain wana more solders. Like something is coming and need peope who will fight in first line.. I guess these are best for this if they dont change position for who they fight.. :D
