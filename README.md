@@ -20,6 +20,12 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 ---
+# September 19, 2026 - Linux kernel bugs
+
+- Three linux kernel bugs you should care about... ( https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html )
+
+
+---
 # September 18, 2026 - Always same food
 
 - Fuck we eat all the time the same.. It is normal we drink beer like crazy if food is same every day.. Maybe if person dont taste but if do then you need eat different if not you get slim like mee... :x
