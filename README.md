@@ -20,6 +20,12 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 ---
+# September 20, 2026 - Bobo
+
+- Confie a bobos y vamos a ver hasta donde te va llevar... ***
+- Que puede hablar no significa que no es bobo.
+
+---
 # September 19, 2026 - Linux kernel bugs
 
 - Three linux kernel bugs you should care about... ( https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html )
