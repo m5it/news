@@ -23,6 +23,7 @@
 # September 22, 2026 - Ley de
 
 - Que nos falta ley de nietos o ley de africanos?
+- ¿Quiénes son estas personas que tienen el poder de crear nuevas leyes en tiempos como el actual, cuando naciones como Marruecos están ocupando Ceuta? Quieren crear una nueva ley llamada "ley de nietos", pero el problema real está en Ceuta, donde están atacando las fronteras españolas y a la gente en esta ciudad.
 
 ---
 # September 20, 2026 - Bobo
