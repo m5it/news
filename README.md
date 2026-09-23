@@ -23,9 +23,10 @@
 # September 24, 2026 - Even worse :x
 
 - This one is to think good.. :x ( https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html?m=1 )
-    Attacker need to have access to machine so without servers you are safe! Or without accepting some strange files you are safe!
-    Also only ARM64 means RPI devices like...
-    Well routers??? :) But there is no KVM so.. no problems.. :)
+    Attacker need to have access to machine so without servers you are safe! Or without accepting some strange files you are safe!<br>
+    Also only ARM64 means RPI devices like...<br>
+    Well routers??? :) But there is no KVM so.. no problems.. :)<br>
+    Mobiles are danger...<br>
 
 ---
 # September 24, 2026 - New Types of Homo Sapiens
