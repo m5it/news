@@ -20,6 +20,11 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 ---
+# September 24, 2026 - Even worse :x
+
+- This one is to think good.. :x ( https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html?m=1 )
+
+---
 # September 24, 2026 - New Types of Homo Sapiens
 
 - Largolenguistas
