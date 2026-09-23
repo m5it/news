@@ -20,6 +20,15 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 ---
+# September 24, 2026 - New Types of Homo Sapiens
+
+- Largolenguistas
+- Cupaculacos
+
+Even though these types have jobs and normal families, they don't feel like everything is as it should be...
+
+
+---
 # September 22, 2026 - More to think about
 
 - More bugs to think about ( https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html?m=1 )
