@@ -23,7 +23,7 @@
 # September 24, 2026 - Even worse :x
 
 - This one is to think good.. :x ( https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html?m=1 )
-
+    Attacker need to have access to machine so without servers you are safe! Or without accepting some strange files you are safe!
 ---
 # September 24, 2026 - New Types of Homo Sapiens
 
