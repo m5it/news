@@ -24,6 +24,7 @@
 
 - another scarry bug ( https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html?m=1 )
     and more about the flaw ( <a href="host-root-container-escape.md">more about flaw</a> ) 
+- when thinking on old explits and comparing with this code you see big difference... :) ( https://github.com/Markakd/Container_escape/blob/master/pocs/CVE-2026-80521/poc.c )
 
 ---
 # September 23, 2026 - Even worse :x
