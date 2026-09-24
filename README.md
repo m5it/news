@@ -20,7 +20,13 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 ---
-# September 24, 2026 - Even worse :x
+# September 24, 2026 - Flaw in enabling Host-root container
+
+- another scarry bug ( https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html?m=1 )
+    and more about the flaw ( <a href="host-root-container-escape.md">more about flaw</a> ) 
+
+---
+# September 23, 2026 - Even worse :x
 
 - This one is to think good.. :x ( https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html?m=1 )
     Attacker need to have access to machine so without servers you are safe! Or without accepting some strange files you are safe!<br>
@@ -29,7 +35,7 @@
     Mobiles are danger...<br>
 
 ---
-# September 24, 2026 - New Types of Homo Sapiens
+# September 23, 2026 - New Types of Homo Sapiens
 
 - Largolenguistas
 - Cupaculacos
