@@ -20,6 +20,11 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 ---
+# September 25, 2026 - Fabrican jovenes de izquierdas.. :)
+
+- A me me fabrico de escuierda pero conequencia me hace pensar
+
+---
 # September 24, 2026 - Flaw in enabling Host-root container
 
 - another scarry bug ( https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html?m=1 )
