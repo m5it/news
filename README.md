@@ -22,7 +22,7 @@
 ---
 # September 25, 2026 - Fabrican jovenes de izquierdas.. :)
 
-- A me me fabrico de escuierda pero conequencia me hace pensar
+- A me me fabrico de escuierda pero conequencia me hace pensar (de verda no se como me aprendo jente pensar.. yo penso que en ultimo penso con me caveza..)
 
 ---
 # September 24, 2026 - Flaw in enabling Host-root container
