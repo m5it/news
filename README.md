@@ -26,7 +26,8 @@
     On the other hand, a non-"bobo" knows exactly what the boss wants and is capable of taking that 10% and finishing the job. The problem with these non-"bobos" is that they often end up with back pain—it probably depends on the specific job, but this is where the differences between a "bobo" and a non-"bobo" quickly become apparent.<br>
     <br>
     Who is "bobo" is good question but what we want from our world is another!<br>
-
+    <br>
+    Well "bobos" need to lie so their task is complete. non don't.
 
 ---
 # September 25, 2026 - Fabrican jovenes de izquierdas.. :)
