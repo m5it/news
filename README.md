@@ -20,6 +20,13 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 ---
+# September 26, 2026 - Hay bobos o los hacemos nosotros?¿
+
+- If I think about it, we aren't born as "bobos." The world turns us into "bobos"! For example, if you give a task to a "bobo," they might only complete 10% of it and then just sit around waiting for the time to run out.<br>
+    On the other hand, a non-"bobo" knows exactly what the boss wants and is capable of taking that 10% and finishing the job. The problem with these non-"bobos" is that they often end up with back pain—it probably depends on the specific job, but this is where the differences between a "bobo" and a non-"bobo" quickly become apparent.<br>
+
+
+---
 # September 25, 2026 - Fabrican jovenes de izquierdas.. :)
 
 - A me me fabrico de izquierdas/derechas.. no lo se... se que consciencia me hace pensar (de verda no se como me aprendo jente pensar.. yo penso que en ultimo penso con me caveza..)
