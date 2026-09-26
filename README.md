@@ -24,6 +24,8 @@
 
 - If I think about it, we aren't born as "bobos." The world turns us into "bobos"! For example, if you give a task to a "bobo," they might only complete 10% of it and then just sit around waiting for the time to run out.<br>
     On the other hand, a non-"bobo" knows exactly what the boss wants and is capable of taking that 10% and finishing the job. The problem with these non-"bobos" is that they often end up with back pain—it probably depends on the specific job, but this is where the differences between a "bobo" and a non-"bobo" quickly become apparent.<br>
+    <br>
+    Who is "bobo" is good question but what we want from our world is another!<br>
 
 
 ---
