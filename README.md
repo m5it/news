@@ -28,7 +28,8 @@
     :(<br>
     Looks all positive become negative.. :D<br>
 - Maybe for some is reverse... But i try all being young and when you get old it dont have logic anymore..
-- If i think little better i guess our old "boos" had to lie a lot to get to where he is... This is just guessing... Looks our world without lies will miss something.. :x So AI or IA is solution... for sure.. it can replace every existing "boos" on the world!
+- If i think little better i guess our old "boos" had to lie a lot to get to where he is... This is just guessing... Looks our world without lies will miss something.. :x So AI or IA is solution... for sure.. it can replace every existing "boos" on the world!<br>
+- AI replace politics.. well when we get so far people will live better... ***<br>
 
 ---
 # September 27, 2026 - For booses we are all the same
