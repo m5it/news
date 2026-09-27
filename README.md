@@ -28,13 +28,6 @@
     :(<br>
     Looks all positive become negative.. :D<br>
 - Maybe for some is reverse... But i try all being young and when you get old it dont have logic anymore..
-- If i think little better i guess our old "boos" had to lie a lot to get to where he is... This is just guessing... <br>
-      I am almost sure that our lovely boos lie to previous boos. I remember previous boos was "drunk" a lot of time. So... I guess you should think on your past not me.<br>
-      Another funny thing is that people dont like to think on past... Why?<br>
-      Thinking on past is like going to church... If you dont feel good with your past well it hurts... :) but if you can not accept your past means you are really bad person man!!!<br>
-      (this with past i guess can be a lot of versions so what i say maybe is not useful for all.. ***)<br>
-      Looks our world without lies will miss something.. :x So AI or IA is solution... for sure.. it can replace every existing "boos" on the world!<br>
-- AI replace politics.. well when we get so far people will live better... ***<br>
 
 ---
 # September 27, 2026 - For booses we are all the same
