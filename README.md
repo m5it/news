@@ -27,6 +27,8 @@
     There is more but all is connected with "will", "ganas"... <br>
     :(<br>
     Looks all positive become negative.. :D<br>
+- Maybe for some is reverse... But i try all being young and when you get old it dont have logic anymore..
+
 
 ---
 # September 27, 2026 - For booses we are all the same
