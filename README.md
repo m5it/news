@@ -20,6 +20,15 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 ---
+# September 27, 2026 - What changed when you become "old"
+
+- So, what you notice that changed in you and your thinking when you get "old"?<br>
+    What i notice is that what i dream before now it dont have logic anymore... :x<br>
+    There is more but all is connected with "will", "ganas"... <br>
+    :(<br>
+    Looks all positive become negative.. :D<br>
+
+---
 # September 27, 2026 - For booses we are all the same
 
 - Well title say all...
