@@ -20,6 +20,12 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 ---
+# September 27, 2026 - For booses we are all the same
+
+- Well title say all...
+    So better be bobo then .. looks we need a lot of stupid people... is better for people..
+
+---
 # September 26, 2026 - Hay bobos o los hacemos nosotros?¿
 
 - If I think about it, we aren't born as "bobos." The world turns us into "bobos"! For example, if you give a task to a "bobo," they might only complete 10% of it and then just sit around waiting for the time to run out.<br>
