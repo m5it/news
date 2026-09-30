@@ -25,6 +25,8 @@
 - So Mr. Donald Trump changed or wana change from AI to SI (super inteligencia) well i agree with him. So you can understand better if we change politics for SI we will live better...<br>
     Politics are far from inteligencia imagine where is super inteligencia.. lol<br>
     And specially talking about Europa because we have so manny politics that never exists on the world... :x<br>
+    Each country should have one person that represent country and one SI that help him resolver problematic questions... Simple and elegant...<br>
+
 ---
 # September 27, 2026 - What changed when you become "old"
 
