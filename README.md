@@ -23,6 +23,7 @@
 # September 30, 2026 - From AI to SI
 
 - So Mr. Donald Trump changed or wana change from AI to SI (super inteligencia) well i agree with him. So you can understand better if we change politics for SI we will live better...
+    Politics are far from inteligencia imagine where is super inteligencia.. lol<br>
 
 ---
 # September 27, 2026 - What changed when you become "old"
