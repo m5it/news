@@ -20,6 +20,11 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 ---
+# September 30, 2026 - From AI to SI
+
+- So Mr. Donald Trump changed or wana change from AI to SI (super inteligencia) well i agree with him. So you can understand better if we change politics for SI we will live better...
+
+---
 # September 27, 2026 - What changed when you become "old"
 
 - So, what you notice that changed in you and your thinking when you get "old"?<br>
