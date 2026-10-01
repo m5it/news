@@ -19,13 +19,6 @@
 > 💡 **General Principle:** *True consciousness begins with knowledge and skepticism.* 
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
----
-# September 30, 2026 - From AI to SI
-
-- So Mr. Donald Trump changed or wana change from AI to SI (super inteligencia) well i agree with him. So you can understand better if we change politics for SI we will live better...<br>
-    Politics are far from inteligencia imagine where is super inteligencia.. lol<br>
-    And specially talking about Europa because we have so manny politics that never exists on the world... :x<br>
-    Each country should have one person that represent country and one SI that help him resolver problematic questions... Simple and elegant...<br>
 
 ---
 # September 27, 2026 - What changed when you become "old"
