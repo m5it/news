@@ -20,7 +20,7 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 ---
-# Oktober 2, 2026 - Alicia del Rio muy buen dicho!
+# Oktober 2, 2026 - Alicia del Rio muy bien dicho!
 
 - Que hace politicos es sembrar miedo para protejer su culo!
 
