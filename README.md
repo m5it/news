@@ -28,7 +28,7 @@
     <br>
     Cuando jente tiene problemas no puede pensar en que hay que pensar... como adictos... Hay mucho rasones porque AI or IA or SI puede funcionar mejor como politico que verdadero/en momento politicos...<br>
     <br>
-    No tiene nada que ver con comunismo o fascismo o nacismo o democracia o.. estas cosas de pasado...<br>
+    No tiene nada que ver con comunismo o fascismo o nacismo o democracia o.. estas cosas del pasado...<br>
 ---
 # September 27, 2026 - What changed when you become "old"
 
