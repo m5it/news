@@ -22,8 +22,9 @@
 ---
 # Oktober 2, 2026 - Alicia del Rio muy bien dicho!
 
-- Que hace politicos es sembrar miedo para protejer su culo!
-
+- Que hace politicos es sembrar miedo para protejer su culo!<br>
+    Y eso no vale para jente y tampoco para companias... :)<br>
+    <br>
 ---
 # September 27, 2026 - What changed when you become "old"
 
