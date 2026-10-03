@@ -21,7 +21,28 @@
 
 
 ---
-# Oktober 2, 2026 - Alicia del Rio muy bien dicho!
+## ⚡ October 3, 2026 — Half the Island in Darkness                                                                                                        
+                                                                                                                                                           
+> ⚡ **Infrastructure** | 🏝️ **The Island** |  🔌**Power Outage**                                                                                           
+
+- ⚡ **Half the island was without electricity at 6 AM.** No warning. No rolling notice. Just dark, and the hum of the grid gone.
+- 🔌 **And my UPS — the one thing I'd prepared for this — failed.** Not because it was old. Not because the surge fried it. Because I never wired the 
+input correctly. One cable. One small, stupid, avoidable mistake.
+- 🤦 **The irony stings more than the blackout.** A regional infrastructure failure took out half the island. *My* failure was a mis-seated 
+connector. And the small one cost me more, because I was the one sitting in the dark at 6 AM expecting the backup to carry me.
+- 📋 **Filed, not forgotten:**
+  - Re-seat and *verify* the UPS input cable. Label it.
+  - Do a full load-test before I trust it again (5-min run under real load, not just "LED is green").
+  - Call the utility, report the outage, ask for the restoration window.
+  - Text two neighbours to check if it's isolated or island-wide.
+  - :)
+
+**Key insight:** On an island, the grid is not a utility — it is a lifeline. And a backup you never actually tested is not a backup. It is a promise 
+you made to yourself on a Tuesday and forgot by Thursday. The grid can fail on any of you. You can only make sure your own one doesn't.
+
+
+---
+# Oktober 1 or 2 (not sure), 2026 - Alicia del Rio muy bien dicho!
 
 - Que hace politicos es sembrar miedo para protejer su culo!<br>
     Y eso no vale para jente y tampoco para companias... :)<br>
@@ -29,6 +50,7 @@
     Cuando jente tiene problemas no puede pensar en que hay que pensar... como adictos... Hay mucho rasones porque AI or IA or SI puede funcionar mejor como politico que verdadero/en momento politicos...<br>
     <br>
     No tiene nada que ver con comunismo o fascismo o nacismo o democracia o.. estas cosas del pasado...<br>
+
 ---
 # September 27, 2026 - What changed when you become "old"
 
@@ -598,7 +620,6 @@ Legal action against Meta is unlikely to resolve the root causes of childhood di
 that address family dynamics, education, and responsible tech design.
 
 ---
-
 ## 🌟 August 27, 2026 — When Renting AI Models Is No Longer Viable  
 
 > 💻 **AI** | 📦 **Renting** | 💰 **Cost**  
