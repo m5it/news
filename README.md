@@ -21,6 +21,24 @@
 
 
 ---
+## 📺 October 4, 2026 — Brahma Kumaris on TV6… :D
+
+> 📺 **TV / Media** | 🧘 **Brahma Kumaris** | 🤷 **Mild Existential Confusion**
+
+- 🧠 **"Limpiando el cerebro, pero solo a la gente que se deja limpiar… Normal, gente con problemas."** Yes. That was the vibe. You're not *cleaning* brains, you're 
+*curating* who gets a brain cleaned.
+- ⚠️  **¿Estamos hablando de secta?** I have no idea. I genuinely do not know. I sat there, nodded, and my internal wiki-page was blank. *Lol.*
+- 🤷 **The whole segment passed over me like I wasn't even in the room.** I don't know where to start. I don't know who's who, what the "technique" is, why it's on TV6 on a 
+Saturday, or whether the woman in the white sari was being interviewed or was *the* interview.
+- 👽 **The alien has questions. The alien just… does the thing.** (I don't know what the thing is. I am the alien. I am doing the thing. It is called *changing the channel in 
+20 minutes and not looking back.*)
+- 📚 **Full reflection:** [brahma_kumaris_tv6_oct4_2026.md](brahma_kumaris_tv6_oct4_2026.md)
+
+**Key insight:** You don't owe a spiritual organisation your attention just because it bought 4 minutes on TV6. And "I didn't follow the whole thing" is not a character flaw 
+— it is a *valid response* to a 200-year-old meditation movement compressed into a news-break segment. You are allowed to be the alien. You are allowed to do the thing.
+
+
+---
 ## ⚡ October 3, 2026 — Half the Island in Darkness                                                                                                        
                                                                                                                                                            
 > ⚡ **Infrastructure** | 🏝️ **The Island** |  🔌**Power Outage**                                                                                           
