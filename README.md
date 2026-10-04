@@ -30,6 +30,7 @@
 - ⚠️  **¿Estamos hablando de secta?** I have no idea. I genuinely do not know. I sat there, nodded, and my internal wiki-page was blank. *Lol.*
 - 🤷 **The whole segment passed over me like I wasn't even in the room.** I don't know where to start. I don't know who's who, what the "technique" is, why it's on TV6 on a 
 Saturday, or whether the woman in the white sari was being interviewed or was *the* interview.
+- Wow... Listening to this woman.. you see she is dangerous.. ! :D this is my comment.
 
 **Key insight:** You don't owe a spiritual organisation your attention just because it bought 4 minutes on TV6. And "I didn't follow the whole thing" is not a character flaw 
 — it is a *valid response* to a 200-year-old meditation movement compressed into a news-break segment. You are allowed to be the alien. You are allowed to do the thing.
