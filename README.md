@@ -20,10 +20,6 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 
----
-# October 4, 2026 - Faschistas en TV
-
-- Esto son huliganes de grupos de futball que los alien paga..
 
 ---
 ## 📺 October 4, 2026 — Brahma Kumaris on TV6… :D
