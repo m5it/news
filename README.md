@@ -23,7 +23,7 @@
 ## October 8, 2026 - Showing with finger but no positive ideas, words, sentences etc...
 
 - On TV showing with fingers one to another but to search for solutions dont happen... <br>
-    Kisses from my sould to TV ***<br>
+    Kisses from my soul to all TV ***<br>
 <br>
 
 
