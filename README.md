@@ -23,8 +23,8 @@
 
 ## October 8, 2026 - Maricarmen Abascal digo
 
-- Son unos inhumanos.
-    Me abuelo digo: son animales con dos pies
+- Son unos inhumanos.<br>
+    Me abuelo digo: son animales con dos pies<br>
 
 ---
 
