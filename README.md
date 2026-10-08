@@ -20,12 +20,6 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 
----
-## October 8, 2026 - Que?
-
-- Que significa eso?<br>
-    <a href="https://github.com/m5it/news/blob/master/elg.jpg"><img src="https://github.com/m5it/news/blob/master/elg.jpg" style="width:100%;"></a><br>
-
 
 ---
 ## October 8, 2026 - Showing with finger but no positive ideas, words, sentences etc...
