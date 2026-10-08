@@ -22,6 +22,24 @@
 
 ---
 
+## 🗳️  October 8, 2026 — Who Gets to Vote? Residency vs. Belonging
+
+> 📺 **TV Debate** | 🗳️  **Voting Rights** | 🏠 **Residency & Politics**
+
+- 📺 **Watching the news.** Three guests, one question: *who is allowed to vote?* Nobody answers it simply. Everyone argues. I'm on the couch, slightly annoyed. :)
+- 🧠 **My baseline is simple.** You live in the country, you vote. You think you *should* be there, you vote. You're not living there, not part of the day-to-day — well, 
+*normally* that option doesn't exist. End of story, right?
+- 🤔 **…Except it's not.** A diaspora kid grew up in a different language. A worker abroad pays into a system they can't influence. "Normally can't vote" gets weird when you 
+actually meet the person behind the rule. So yeah — *more complicated than this.* :)
+- 🗣️  **And yet on TV** it's framed as a yes/no, a red/white line. "They *should have* the vote." "They *can't* have the vote." Nobody says: *"It depends, and here's why it's 
+hard."*
+- 📌 **TL;DR:** I side with "live here, vote here" as the starting rule. But I also know that one sentence doesn't cover every human who ever left, stayed, or got stuck in 
+between. The debate on TV missed that.
+
+
+
+---
+
 ## 🏛️  October 7, 2026 — "Flaccus" Was Just a Guy with Floppy Ears
 
 > 📜 **Ancient Rome** | 🦻 **Etymology** | 😄 **Name Shame**
