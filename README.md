@@ -20,6 +20,14 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 ---
+## October 8, 2026 - Showing with finger but no positive ideas, words, sentences etc...
+
+- On TV showing with fingers one to another but to search for solutions dont happen... <br>
+    Kisses from my sould to TV ***<br>
+<br>
+
+
+---
 
 ## October 8, 2026 - Maricarmen Abascal digo
 
