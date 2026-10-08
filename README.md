@@ -24,7 +24,8 @@
 ## October 8, 2026 - Que?
 
 - Que significa eso?<br>
-    <a href="elg.jpg"><img src="elg" style="width:100%;"></a>
+    <a href="https://github.com/m5it/news/blob/master/elg.jpg"><img src="https://github.com/m5it/news/blob/master/elg.jpg" style="width:100%;"></a><br>
+
 
 ---
 ## October 8, 2026 - Showing with finger but no positive ideas, words, sentences etc...
