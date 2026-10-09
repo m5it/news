@@ -20,6 +20,10 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 
+---
+## October 9, 2026 - Investigadores que estuvo despedidos de OpenAI
+
+- What I am thinking these three guys was kind of "testigos de jejova" or "mormones" or this similar... thing then you know why they can not work in company like OpenAI. I understand if you is another question... Kisses to all untrusting people...***
 
 ---
 ## October 8, 2026 - Showing with finger but no positive ideas, words, sentences etc...
