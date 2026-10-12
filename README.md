@@ -21,6 +21,12 @@
 
 
 ---
+## October 12, 2026 - Important day for Spain!
+
+- Today looks super important day for Spain. "Dia de nacionalidad". Got a lot to say but my mouth are closed... Anyway wish all good to the Spain and World. *** Besitos.
+
+
+---
 ## October 9, 2026 - Investigadores que estuvo despedidos de OpenAI
 
 - What I am thinking these three guys was kind of "testigos de jejova" or "mormones" or this similar... thing then you know why they can not work in company like OpenAI. I understand if you is another question... Kisses to all untrusting people...***
