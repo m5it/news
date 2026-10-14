@@ -21,6 +21,11 @@
 
 
 ---
+## October 14, 2026 - Some think these pages are worth to observe...
+
+- <a href="worth_to_observe.txt">worth to observe/monitor</a>
+
+---
 ## October 14, 2026 - Programming on walls of the house
 
 - Years ago a lot of years ago when we travel to the coast with family and there was no electricity no computers and similar. I decided to write programs in c++ to the walls of the house.. I remember i wrote client and server stuff in c++ to the wall of room.. :)
