@@ -21,9 +21,9 @@
 
 
 ---
-# October 14, 2026 - Programming on walls of house
+# October 14, 2026 - Programming on walls of the house
 
-- Years ago a lot of years ago when we travel to the coast with family and there was no electricity no computers and similar. I decided to write programs in c++ to walls of the house.. I remember i wrote client and server stuff in c++ to the wall of room.. :)
+- Years ago a lot of years ago when we travel to the coast with family and there was no electricity no computers and similar. I decided to write programs in c++ to the walls of the the house.. I remember i wrote client and server stuff in c++ to the wall of room.. :)
 
 
 ---
