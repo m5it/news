@@ -21,6 +21,11 @@
 
 
 ---
+# October 14, 2026 - Trademarks and wtf we need all this stuff
+
+- :) This world is not for us i see..
+
+---
 ## October 12, 2026 - Important day for Spain!
 
 - Today looks super important day for Spain. "Dia de nacionalidad". Got a lot to say but my mouth are closed... Anyway wish all good to the Spain and World. *** Besitos.
