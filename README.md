@@ -21,6 +21,11 @@
 
 
 ---
+## October 14, 2026 - Nan Madol / Indonesia
+
+- If we look good at this island you can notice that the level of the sea went up... This means this island need to be old and very old...
+
+---
 ## October 14, 2026 - Some think these pages are worth to observe...
 
 - <a href="worth_to_observe.txt">worth to observe/monitor</a>
