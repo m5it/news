@@ -21,6 +21,14 @@
 
 
 ---
+## October 15, 2026 - Difference between european and asian womans
+
+- If man buy cats food in shop and there works european woman, she will think this guy is why.. :D
+    on other part
+                               and there works chinese woman, she will think this guy have some problems.. lol ;D
+
+
+---
 ## October 14, 2026 - Nan Madol / Indonesia
 
 - If we look good at this island you can notice that the level of the sea went up... This means this island need to be old and very old...
