@@ -23,9 +23,8 @@
 ---
 ## October 15, 2026 - Difference between european and asian womans
 
-- If man buy cats food in shop and there works european woman, she will think this guy is why.. :D
-    on other part
-                               and there works chinese woman, she will think this guy have some problems.. lol ;D
+- If man buy cats food in shop and there works european woman, she will think this guy is why.. :D On other part
+    there works chinese woman, she will think this guy have some problems.. lol ;D
 
 
 ---
