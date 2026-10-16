@@ -19,6 +19,10 @@
 > 💡 **General Principle:** *True consciousness begins with knowledge and skepticism.* 
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
+---
+## October 16, 2026 - Good movie
+
+- El ultimo samurai en pie (Last samurai standing) https://www.imdb.com/es-es/title/tt38069160/
 
 ---
 ## October 16, 2026 - Tio que se siente mejor de todos en mundo
