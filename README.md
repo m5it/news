@@ -21,6 +21,11 @@
 
 
 ---
+## October 17, 2026 - Github and refresh of page
+
+- Github, how many times you need to refresh this f.... page before it gets viewable... ? what is this??? this is future of pages or what? :D lol
+
+---
 ## October 17, 2026 - Avocado price
 
 - Avocado price one kg 12Euro and more.. Once avocado cost me 3.6Euro... :X<br>
