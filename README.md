@@ -31,6 +31,8 @@
 - Avocado price one kg 12Euro and more.. Once avocado cost me 3.6Euro... :X<br>
     Today one spoon of guacamole cost 50cents! Payacos de mierda de cojones<br>
     Parazito suena mejor para estos... payaco es bonito conjo..<br>
+    How many people live on world, or in spain?? lol you dont know... because you look at your ass and no ass more..<br>
+    Before people call this kind of people: asshole<br>
 
 ---
 ## October 16, 2026 - Good movie
