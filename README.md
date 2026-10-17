@@ -24,6 +24,7 @@
 ## October 17, 2026 - Avocado price
 
 - Avocado price one kg 12Euro and more.. Once avocado cost me 3.6Euro... :X
+    Today one spoon of guacamole cost 50cents! Payacos de mierda de cojones
 
 ---
 ## October 16, 2026 - Good movie
