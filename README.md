@@ -21,6 +21,12 @@
 
 
 ---
+## October 17, 2026 - Nginx and flaws
+
+- Looks nginx released some bug fixes but they are still present in old versions just new have updates so.. good luck or how to say... ***
+
+
+---
 ## October 17, 2026 - Github and refresh of page
 
 - Github, how many times you need to refresh this f.... page before it gets viewable... ? what is this??? this is future of pages or what? :D lol<br>
