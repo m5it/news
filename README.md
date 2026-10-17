@@ -23,7 +23,7 @@
 ---
 ## October 17, 2026 - Github and refresh of page
 
-- Github, how many times you need to refresh this f.... page before it gets viewable... ? what is this??? this is future of pages or what? :D lol
+- Github, how many times you need to refresh this f.... page before it gets viewable... ? what is this??? this is future of pages or what? :D lol<br>
 
 ---
 ## October 17, 2026 - Avocado price
