@@ -19,10 +19,6 @@
 > 💡 **General Principle:** *True consciousness begins with knowledge and skepticism.* 
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
----
-## October 18, 2026 - These who write large news
-
-- I think these people who write and write and write i think know less then these who say what is to say... simple.. :D
 
 ---
 ## October 18, 2026 - What you notice with tsunamiwall
