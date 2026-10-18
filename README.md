@@ -21,6 +21,11 @@
 
 
 ---
+## October 18, 2026 - I love python ctypes
+
+- With ctypes we can create libraries in rust or c/c++ to include and hide code in python... ***
+
+---
 ## October 18, 2026 - What you notice with tsunamiwall
 
 - With tsunamiwall you can notice increase of scans on ports 23 and 445. Why? Because there are new/old vulnerabilities created exploits...
