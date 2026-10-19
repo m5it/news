@@ -47,8 +47,10 @@
 ---
 ## October 19, 2026 - Contabo is restarting our server as they like
 
-- WTF... well yesterday happened and today on another server.. What is this. Is security problem or contabo is messing with them selfs... :x
-
+- WTF... well yesterday happened and today on another server.. What is this. Is secur data..<br>
+- It take 13min this restart. I think someone created disk image and later search on my data.<br>
+    Why?<br>
+    Good question.<br>
 
 ---
 ## October 19, 2026 - To develop faster
