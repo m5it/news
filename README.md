@@ -21,6 +21,11 @@
 
 
 ---
+## October 19, 2026 - To develop faster
+
+- I think if we wana our world, system is developing faster we need to remove money... :) Important is everyone is doing what he love to do...
+
+---
 ## October 19, 2026 - Loop that can secure your system
 
 - As title say kind of magic line..:<br>
