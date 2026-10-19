@@ -28,6 +28,7 @@
   <br>
   Imagine this line in loop. Like this we can check who is connecting trough ssh to our server. If we put this into 2sec loop and check IP who is connected aswell we need a list of allowed ips.<br>
     If script notice IP that is not allowed we can simply DROP it with iptables and the day is safe...<br>
+  We could kill the process aswell instead of DROP the ip..<br>
 
 ---
 ## October 18, 2026 - I love python ctypes
