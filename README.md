@@ -21,6 +21,16 @@
 
 
 ---
+## October 19, 2026 - Tsunamiwall and it bugs. (fill the harddisk) [High]
+
+- Working on — Log backups aren’t capped. rotate_hit_log accepts max_backups, but the rotation logic shifts existing backups upward without deleting backups beyond that limit. Repeated rotations can still fill the disk.<br>
+    Also we need good idea how to prevent this...<br>
+      1.) Notices to user?<br>
+      2.) Auto compress /var/log/tsunamiwall/bycountry each day and save stats for display as log?<br>
+      3.) Ideas are welcome...<br>
+<br>
+
+---
 ## October 19, 2026 - How does people survive
 
 - How do you survive? Not you with families, jobs, grandmoms and pups... No. How do survive people without that? Well... lets think...<br>
