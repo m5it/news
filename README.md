@@ -23,7 +23,10 @@
 ---
 ## October 19, 2026 - To develop faster
 
-- I think if we wana our world, system is developing faster we need to remove money... :) Important is everyone is doing what he love to do...
+- I think if we wana our world, system is developing faster we need to remove money... :) Important is everyone is doing what he love to do...<br>
+    If someone wana be stoned until he is dead.. do it<br>
+    Who love to work he will work anyway...<br>
+<br>
 
 ---
 ## October 19, 2026 - Loop that can secure your system
