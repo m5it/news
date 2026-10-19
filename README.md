@@ -31,7 +31,7 @@
       2.) Auto compress /var/log/tsunamiwall/bycountry each day and save stats for display as log?<br>
       3.) Ideas are welcome...<br>
       4.) Configure limits trough config.yaml<br>
-- There are more tasks to work on and require ideas so you are / is welcome always!<br>
+- There are more tasks to work on and require ideas so you are welcome always!<br>
 <br>
 
 ---
