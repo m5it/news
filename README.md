@@ -18,9 +18,9 @@
 
 > 💡 **General Principle:** *True consciousness begins with knowledge and skepticism.* 
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
-<br>
+
 > **Ideas are welcome:** *on irc.librera.chat channels: #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)*
-<br>
+
 
 ---
 ## October 19, 2026 - Tsunamiwall and it bugs. (fill the harddisk) [High]
