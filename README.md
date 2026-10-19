@@ -21,6 +21,11 @@
 
 
 ---
+## October 19, 2026 - How does people survive
+
+- How do you survive? Not you with families, jobs, grandmoms and pups... No. How do survive people without that? Well... lets think...<br>
+
+---
 ## October 19, 2026 - How I think..
 
 - Look if one day we update apparmor and in two days you have same update means something was wrong in first update... :)
