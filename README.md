@@ -51,6 +51,7 @@
 - It take 13min this restart. I think someone created disk image and later search on my data.<br>
     Why?<br>
     Good question.<br>
+- Now trusting contabo less then before... Recommend dont trust... Like this is when you need to satisfy with the cheapes things..<br>
 
 ---
 ## October 19, 2026 - To develop faster
