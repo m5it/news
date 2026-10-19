@@ -30,7 +30,8 @@
     If script notice IP that is not allowed we can simply DROP it with iptables and the day is safe...<br>
   <br>
   We could kill the process aswell instead of DROP the ip..<br>
-
+  <br>
+  Tsunamiwall stats if someone is interested: <a href="tsunamiwall.stats.19.10.26.txt">tsunamiwall.stats</a><br>
 ---
 ## October 18, 2026 - I love python ctypes
 
