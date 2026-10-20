@@ -23,6 +23,11 @@
 
 
 ---
+## October 20, 2026 - Kernel 7.3 for low VRAM AMD
+
+- Something interesting they say ( https://www.xda-developers.com/linux-73-is-out-with-some-nice-improvements-for-people-with-low-vram-amd-cards/ )
+
+---
 ## October 19, 2026 - Tsunamiwall and it bugs. (fill the harddisk) [High]
 
 - Working on — Log backups aren’t capped. rotate_hit_log accepts max_backups, but the rotation logic shifts existing backups upward without deleting backups beyond that limit. Repeated rotations can still fill the disk.<br>
