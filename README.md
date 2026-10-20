@@ -23,6 +23,11 @@
 
 
 ---
+## October 20, 2026 - Faschists vs us
+
+- We are like zerro for these. They can do what ever they want. Incredible. 30 years i didnt saw nothing similar... NOw they get scared of unknowing and look a white rabit everywhere... lol
+
+---
 ## October 20, 2026 - Kernel 7.3 for low VRAM AMD
 
 - Something interesting they say ( https://www.xda-developers.com/linux-73-is-out-with-some-nice-improvements-for-people-with-low-vram-amd-cards/ )
