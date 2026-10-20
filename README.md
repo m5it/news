@@ -22,10 +22,6 @@
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 
 
----
-## October 20, 2026 - Faschists vs us
-
-- We are like zerro for these. They can do what ever they want. Incredible. 30 years i didnt saw nothing similar... NOw they get scared of unknowing and look a white rabit everywhere... lol
 
 ---
 ## October 20, 2026 - Kernel 7.3 for low VRAM AMD
