@@ -25,8 +25,8 @@
 ---
 ## October 21, 2026 - Github and password and contabo and... faschists
 
-- If something have password on github on x repo means he dont like you access it. then you get access to my disk images of contabo this makes you faschist... at least i see it that way...
-
+- If something have password on github on x repo means he dont like you access it. then you get access to my disk images of contabo this makes you faschist... at least i see it that way...<br>
+    Because of this going to increase security.<br>
 
 ---
 ## October 20, 2026 - Kernel 7.3 for low VRAM AMD
