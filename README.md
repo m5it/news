@@ -23,6 +23,11 @@
 
 
 ---
+## October 21, 2026- Agresion, violencia, motosiera etc
+
+- No me gusta! motosiera si porque vale para cortar madera.. pero con cabesa.. :x payacones... conjo...
+
+---
 ## October 21, 2026 - More about these violations
 
 - What i am noticing is that these people who can do what ever they want they dont know a lot. They are scared too fast and they need other people for explanations...
