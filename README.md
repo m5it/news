@@ -23,6 +23,11 @@
 
 
 ---
+## October 21, 2026 - More about these violations
+
+- What i am noticing is that these people who can do what ever they want they dont know a lot. They are scared too fast and they need other people for explanations...
+
+---
 ## October 21, 2026 - Contabo and recommendations
 
 - I recommend you to not help kind of faschist people. for money or what ever... well i know you wont listen to me. People you need to secure your self because when these want something they get...
