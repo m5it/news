@@ -35,6 +35,9 @@
     1.) Use expensive providers like Amazon.<br>
     2.) Or encode disk<br>
     3.) Or encode projects ( https://github.com/m5it/xenco )<br>
+      Encode on reboot.<br>
+<br>
+Hiding od data is not so simple looks like because if we encode something it is impossible to execute it later.. :) So this are interesting projects for thinking... *** :)<br>
 <br>
 
 ---
