@@ -36,8 +36,11 @@
     2.) Or encode disk<br>
     3.) Or encode projects ( https://github.com/m5it/xenco )<br>
       Encode on reboot.<br>
+    4.) systemd-nspawn with encription.
+      Luks<br>
+      cryptsetup<br>
 <br>
-Hiding od data is not so simple looks like because if we encode something it is impossible to execute it later.. :) So this are interesting projects for thinking... *** :)<br>
+Hiding of data is not so simple looks like because if we encode something it is impossible to execute it later.. :) So this are interesting projects for thinking... *** :)<br>
 <br>
 
 ---
