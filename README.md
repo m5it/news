@@ -27,7 +27,7 @@
 
 - What i am noticing is that these people who can do what ever they want they dont know a lot. They are scared too fast and they need other people for explanations...
 - How to protect?<br>
-    1.) Use services on expensive providers like Amazon.<br>
+    1.) Use expensive providers like Amazon.<br>
     2.) Or encode disk<br>
     3.) Or encode projects ( https://github.com/m5it/xenco )<br>
 <br>
