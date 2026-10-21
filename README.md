@@ -23,6 +23,11 @@
 
 
 ---
+## October 21, 2026 - Contabo and recommendations
+
+- I recommend you to not help kind of faschist people. for money or what ever... well i know you wont listen to me. People you need to secure your self because when these want something they get...
+
+---
 ## October 21, 2026 - Github and password and contabo and... faschists
 
 - If something have password on github on x repo means he dont like you access it. then you get access to my disk images of contabo this makes you faschist... at least i see it that way...<br>
