@@ -41,6 +41,7 @@
       cryptsetup<br>
 <br>
 Hiding of data is not so simple looks like because if we encode something it is impossible to execute it later.. :) So this are interesting projects for thinking... *** :)<br>
+More on how to protect raw systemd data <a href="TECH/systemd_protect_raw_data.md">check here</a>.<br>
 <br>
 
 ---
