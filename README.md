@@ -36,7 +36,7 @@
     2.) Or encode disk<br>
     3.) Or encode projects ( https://github.com/m5it/xenco )<br>
       Encode on reboot.<br>
-    4.) systemd-nspawn with encription.
+    4.) systemd-nspawn with encription.<br>
       Luks<br>
       cryptsetup<br>
 <br>
