@@ -23,6 +23,11 @@
 
 
 ---
+## October 22, 2026 - Abuso?
+
+- Abuso? :D
+
+---
 ## October 22, 2026 - Estan copiando a nosotros pobres
 
 - Estan copiando sin saver que estamos. Sin respetar. Nos ensuenan que payacos estamos.. Puess eso va cambiar aora! Lo dejiste ustedes! Derecha! Payacos.
