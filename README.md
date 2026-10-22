@@ -23,6 +23,12 @@
 
 
 ---
+## October 22, 2026 - Estan copiando a nosotros pobres
+
+- Estan copiando sin saver que estamos. Sin respetar. Nos ensuenan que payacos estamos.. Puess eso va cambiar aora! Lo dejiste ustedes! Derecha! Payacos.
+
+
+---
 ## October 22, 2026 - Pide profesor, pide campbesino pide amigo.. pide vecino..
 
 - Title.. estamos juntos.. eso paso en pasado... que pide uno y pide otro.. pero estamos juntos..
