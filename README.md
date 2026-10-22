@@ -23,6 +23,11 @@
 
 
 ---
+## October 22, 2026 - Protests...
+
+- I don't think this is good if continue like is happening now. Looks like school for protesters man... Be careful with future!
+
+---
 ## October 22, 2026 - Just thinking... Go, Rust, Python, C... hmmm
 
 - So, thinking and comparing. I see to create some apps in Go will be super good looks like...
