@@ -22,6 +22,12 @@
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 
 
+
+---
+## October 22, 2026 - Nano bots VS THC bots
+
+- Nano bots for ordinary people dont exists and THC bots si... so... dont burn just eat.. :D
+
 ---
 ## October 22, 2026 - Protests...
 
