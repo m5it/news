@@ -22,6 +22,11 @@
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 
 
+---
+## October 22, 2026 - Pide profesor, pide campbesino pide amigo.. pide vecino..
+
+- Title.. estamos juntos.. eso paso en pasado... que pide uno y pide otro.. pero estamos juntos..
+
 
 ---
 ## October 22, 2026 - Nano bots VS THC bots
