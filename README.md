@@ -23,6 +23,11 @@
 
 
 ---
+## October 22, 2026 - Just thinking... Go, Rust, Python, C... hmmm
+
+- So, thinking and comparing. I see to create some apps in Go will be super good looks like...
+
+---
 ## October 22, 2026 - Milei think he is kind of Mr. Trump
 
 - Well milei you are just payaco
