@@ -23,6 +23,11 @@
 
 
 ---
+## October 22, 2026 - Milei think he is kind of Mr. Trump
+
+- Well milei you are just payaco
+
+---
 ## October 21, 2026- Agresion, violencia, motosiera etc
 
 - No me gusta! motosiera si porque vale para cortar madera.. pero con cabesa.. :x payacones... conjo...
