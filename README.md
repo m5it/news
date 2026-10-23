@@ -24,6 +24,8 @@
 ---
 ## October 23, 2026 - No quiero guera.. :x NWO ? :)
 
+- No es mas facil votar?... conjo
+
 ---
 ## October 23, 2026 - Things that all european people are missing out
 
