@@ -26,6 +26,7 @@
 
 - Yo no hablo de eso.. todavia y espero que para siempre vamos tener personas que elije ultimo! Pero AI es para ayudar y que cosas van mas rapido... y mas... hay monton de buenos.. buenos.. pues buenas cosas con AI IA... ****
 - Tambien va ayudar con corrupcion.. yo penso asi..<br>
+- Que veo es que viejos no valen que hablan de future de jovenes... yo veo asi...<br>
 
 ---
 ## October 23, 2026 - Verdad
