@@ -26,6 +26,7 @@
 ## October 23, 2026 - Verdad
 
 - Que jente pensa no importa, importa solo verdad!<br>
+- Sin verdad hasta aeroplanos no va poder volar.... :x<br>
 
 ---
 ## October 23, 2026 - Salario???
