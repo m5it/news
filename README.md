@@ -21,6 +21,13 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 
+
+---
+## October 23, 2026 - All my loving
+
+- <a href="https://www.youtube.com/watch?v=TSpiwK5fig0">The Beatless - All my loving</a><br>
+
+
 ---
 ## October 23, 2026 - Imagina que no puedes ver
 
