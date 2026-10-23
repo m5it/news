@@ -24,8 +24,9 @@
 ---
 ## October 23, 2026 - TV4 un tio escribe libro de IA.. :x
 
-- Dice algo que jente va estar todos lo mismos. Eso ya esta.. 95%... Libros en casa???? IA no va cambiar nada de eso.. pense en 95% y tienes respouestas para todo.. payacon
-
+- Dice algo que jente va estar todos lo mismos. Eso ya esta.. 95%... Libros en casa???? IA no va cambiar nada de eso.. pense en 95% y tienes respouestas para todo.. payacon<br>
+    Que probable quiere decir tio de libro es que no quiere que 95% conoce eso que consoce 5%... :)<br>
+ 
 ---
 ## October 23, 2026 - No quiero guera.. :x NWO ? :)
 
