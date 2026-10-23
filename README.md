@@ -26,7 +26,7 @@
 ## October 23, 2026 - Todavia sabes porque protestas?
 
 - Penso que jente no sabe mas porque estan en calles... :x<br>
-
+- Probable creaste un par de terroristas con estos protestos. En un par de anos cuando jovenes crece vamos ver vuestro trabajo.... De policia y politicos que conseguiste con eso...<br>
 
 ---
 ## October 23, 2026 - AI cambia politicos?
