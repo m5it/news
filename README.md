@@ -23,6 +23,13 @@
 
 
 ---
+## October 23, 2026 - Things that all european people are missing out
+
+- Noticing aswell:<br>
+    The caste system in India is a ancient social hierarchy that divides society into hereditary groups based on birth, occupation, and ritual purity.<br>
+    Well I am noticing this in Europe... :x<br>
+
+---
 ## October 23, 2026 - Todavia sabes porque protestas?
 
 - Penso que jente no sabe mas porque estan en calles... :x<br>
