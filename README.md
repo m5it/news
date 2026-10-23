@@ -26,6 +26,7 @@
 
 - Imagina que no puedes ver. Que vas sentir? o como vas saber quien es quien o quien es buena persona etc...<br>
     Estos sentimientos en tiempos asi que tenemos nos va venir muy bien...<br>
+- Yo penso que nadie es malo. Por lo menos no nacido malo. Que lo hago mundo en vida es otra pregunta...<br>
 <br>
 
 ---
