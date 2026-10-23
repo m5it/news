@@ -28,7 +28,7 @@
 - Que jente pensa no importa, importa solo verdad!<br>
 - Sin verdad hasta aeroplanos no va poder volar.... :x<br>
 - Aora en TV5 Victor Camina. Me gusta apeido y que estas hablando hombre... Penso que me gusta... *** necesito te escuchar un par de veces mas pero penso que me gustas! :D<br>
-
+    Hay muchos que me gusta pero quidado con nervios... ***<br>
 ---
 ## October 23, 2026 - Salario???
 
