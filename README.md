@@ -24,7 +24,8 @@
 ---
 ## October 23, 2026 - IA que influe
 
-- Buena idea. Podemos hacer "bots" que molestan a jente que sube a IRC y pregunta cosas para aprender algo nuevo. Eso es posible! :)
+- Buena idea. Podemos hacer "bots" que molestan a jente que sube a IRC y pregunta cosas para aprender algo nuevo. Eso es posible! :)<br>
+    Este bot probable se va llamar "AbuelaBot"<br>
 
 ---
 ## October 23, 2026 - Chinos en TV
