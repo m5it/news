@@ -25,15 +25,15 @@
 ---
 ## October 23, 2026 - Todavia sabes porque protestas?
 
-- Yo penso que jente no sabe mas porque estan en calles... :x<br>
+- Penso que jente no sabe mas porque estan en calles... :x<br>
 
 
 ---
 ## October 23, 2026 - AI cambia politicos?
 
-- Yo no hablo de eso.. todavia y espero que para siempre vamos tener personas que elije ultimo! Pero AI es para ayudar y que cosas van mas rapido... y mas... hay monton de buenos.. buenos.. pues buenas cosas con AI IA... ****
+- No hablo de eso.. todavia y espero que para siempre vamos tener personas que elije ultimo! Pero AI es para ayudar y que cosas van mas rapido... y mas... hay monton de buenos.. buenos.. pues buenas cosas con AI IA... ****
 - Tambien va ayudar con corrupcion.. yo penso asi..<br>
-- Que veo es que viejos no valen que hablan de future de jovenes... yo veo asi...<br>
+- Que veo es que viejos no valen que hablan de future de jovenes... Veo asi...<br>
 
 ---
 ## October 23, 2026 - Verdad
