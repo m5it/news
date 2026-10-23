@@ -21,6 +21,12 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 
+---
+## October 23, 2026 - Imagina que no puedes ver
+
+- Imagina que no puedes ver. Que vas sentir? o como vas saber quien es quien o quien es buena persona etc...<br>
+    Estos sentimientos en tiempos asi que tenemos nos va venir muy bien...<br>
+<br>
 
 ---
 ## October 22, 2026 . Tsunamiwall and nmap wow
