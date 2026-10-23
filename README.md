@@ -21,6 +21,12 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 
+
+---
+## October 23, 2026 - Chinos en TV
+
+- Chinos en TV cuando pensas que estan follando en verdad estan llorando
+
 ---
 ## October 23, 2026 - TV4 un tio escribe libro de IA.. :x
 
