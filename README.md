@@ -21,6 +21,13 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 
+
+---
+## October 23, 2026 - Todavia sabes porque protestas?
+
+- Yo penso que jente no sabe mas porque estan en calles... :x<br>
+
+
 ---
 ## October 23, 2026 - AI cambia politicos?
 
