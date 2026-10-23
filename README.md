@@ -21,6 +21,8 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 
+---
+## October 23, 2026 - No quiero guera.. :x NWO ? :)
 
 ---
 ## October 23, 2026 - Things that all european people are missing out
