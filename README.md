@@ -32,7 +32,7 @@
 ## October 23, 2026 - AI cambia politicos?
 
 - No hablo de eso.. todavia y espero que para siempre vamos tener personas que elije ultimo! Pero AI es para ayudar y que cosas van mas rapido... y mas... hay monton de buenos.. buenos.. pues buenas cosas con AI IA... ****
-- Tambien va ayudar con corrupcion.. yo penso asi..<br>
+- Tambien va ayudar con corrupcion.. Penso asi..<br>
 - Que veo es que viejos no valen que hablan de future de jovenes... Veo asi...<br>
 
 ---
