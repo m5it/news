@@ -21,6 +21,10 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 
+---
+## October 23, 2026 - IA que influe
+
+- Buena idea. Podemos hacer "bots" que molestan a jente que sube a IRC y pregunta cosas para aprender algo nuevo. Eso es posible! :)
 
 ---
 ## October 23, 2026 - Chinos en TV
