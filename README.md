@@ -27,7 +27,7 @@
 - Dice algo que jente va estar todos lo mismos. Eso ya esta.. 95%... Libros en casa???? IA no va cambiar nada de eso.. pense en 95% y tienes respouestas para todo.. payacon<br>
     Que probable quiere decir tio de libro es que no quiere que 95% conoce eso que consoce 5%... :)<br>
     Todavia penso que depende mucho de familia y cercanos y eso no solo de IA que en un momento puede influir tanto a jente hasta que aprenden :)...<br>
- 
+    Cuanto yo veo jente normal veo que hasta no sepa que IA existe...<br> 
 ---
 ## October 23, 2026 - No quiero guera.. :x NWO ? :)
 
