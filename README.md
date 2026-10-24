@@ -26,6 +26,8 @@
 
 - Basta con protestas! Caliente se con abrazo de mama y relax...<br>
     Y no solo por eso. Simple no puedes dejar que malos consigue que planea..<br>
+- Vida es bonita! Mucha jente eso no ve :( como me madre... TRabaja 43 anos y no ve como bonito esta mundo y vida. Sabe solo que quiere trabajar sin parar y no se siente bien...<br>
+    Me digo que probable por eso... 43 anos.. Aqui normale jente no soporta 25... **** besitos a todas mamas que trabajan mas que necesita ****<br>
 
 ---
 ## October 24, 2026 - Me digo que siento "caste"
