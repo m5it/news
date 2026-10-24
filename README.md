@@ -23,6 +23,11 @@
 
 
 ---
+## October 24, 2026 - Me digo que siento "caste"
+
+- Me dicieron que politicos cambian... Lol.. Cuando??? :D haha lol blabla
+
+---
 ## October 24, 2026 - Democracia
 
 - Democracia en guera...? Porque, no estamos uno? y que estamos? Mentira? Muchas gracias...
