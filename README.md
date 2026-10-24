@@ -21,6 +21,10 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 
+---
+## October 24, 2026 - Para ninatos..
+
+- Basta con protestas! Caliente se con abrazo de mama y relax...<br>
 
 ---
 ## October 24, 2026 - Me digo que siento "caste"
