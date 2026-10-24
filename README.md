@@ -23,6 +23,11 @@
 
 
 ---
+## October 24, 2026 - Politicos en venta?
+
+- Que penso es que nouestros y de rusia y sur america politicos se venden... y chinos lo compro..<br>
+
+---
 ## October 24, 2026 - TMux and spliting / restoring window
 
 - Very useful command to split terminal window to horizontal or vertical. <a href="TECH/tmux_spliting_and_restoring_windows.md">How to split and restore tmux window?</a>
