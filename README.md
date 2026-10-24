@@ -21,6 +21,12 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 
+
+---
+## October 24, 2026 - TMux and spliting / restoring window
+
+- Very useful command to split terminal window to horizontal or vertical. <a href="TECH/tmux_spliting_and_restoring_windows.md">How to split and restore tmux window?</a>
+
 ---
 ## October 23, 2026 - IA que influe
 
