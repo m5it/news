@@ -22,6 +22,11 @@
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 
 ---
+## October 25, 2026 - Good movie
+
+- Dulces suenos aka Nice dreams (cheech and chong) <a href="https://www.imdb.com/es-es/title/tt0082163/">Nice dreams</a><br>
+
+---
 ## October 24, 2026 - Para ninatos..
 
 - Basta con protestas! Caliente se con abrazo de mama y relax...<br>
