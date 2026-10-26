@@ -27,6 +27,8 @@
 
 - Searching for no egoist people... (programming, ideas and similar) you are welcome... ***<br>
     Nothing is simple... and harder is alone.<br>
+    Because of this we think as 100% not 5...!<br>
+    If they call us comunists because we like to work and help and live so everyone survive and have doctor or food or what is normal in this world then please listen to your self once before you talk to other...<br>
 
 
 ---
