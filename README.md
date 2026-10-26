@@ -30,7 +30,7 @@
 ---
 ## October 26, 2026 - Have created the smallest .zip possible (cloudzip)
 
-- As title says... Smallest .zip packed file possible... :) i call it .xpak instead of .zip<br>
+- As title says... Smallest .zip packed file possible... :) i call it .xpak (.czip <- maybe? :) ) instead of .zip<br>
     Work / Logic is used from chinese writings<br>
     Useful for open code projects.<br>
     I think we can reduce space for at least 60% - 70%<br>
