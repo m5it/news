@@ -29,6 +29,8 @@
     Work / Logic is used from chinese writings<br>
     Useful for open code projects.<br>
     I think we can reduce space for at least 60% - 70%<br>
+    Also we get useful statistics<br>
+
 
 ---
 ## October 25, 2026 - Good movie
