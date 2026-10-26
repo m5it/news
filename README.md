@@ -25,7 +25,7 @@
 ---
 ## October 26, 2026 - All around are egoits..
 
-- Searching for no egoist people... you are welcome... ***<br>
+- Searching for no egoist people... (programming, ideas and similar) you are welcome... ***<br>
 
 ---
 ## October 26, 2026 - Have created the smallest .zip possible
