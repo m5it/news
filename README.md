@@ -25,8 +25,8 @@
 --
 ## October 26, 2026 - Sometimes
 
-- Sometimes i speak no so perfect and i am sory but better to tell then not.. :)
-    And who is perfect. Only our best friend AI IA SC
+- Sometimes i speak no so perfect and i am sory but better to tell then not.. :)<br>
+    And who is perfect. Only our best friend AI IA SC<br>
 
 ---
 ## October 26, 2026 - If we think 100%
