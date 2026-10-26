@@ -22,6 +22,11 @@
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 
 
+--
+## October 26, 2026 - Sometimes
+
+- Sometimes i speak no so perfect and i am sory but better to tell then not.. :)
+
 ---
 ## October 26, 2026 - If we think 100%
 
