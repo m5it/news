@@ -26,7 +26,7 @@
 ## October 26, 2026 - If we think 100%
 
 - Then there is no problem more with space!<br>
-    Because all languages will transform into one<br>
+    Because all languages will transform into one like webasm.. :)<br>
 
 
 ---
