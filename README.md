@@ -23,6 +23,11 @@
 
 
 ---
+## October 26, 2026 - If we think 100%
+
+- Then there is no problem more with space!
+
+---
 ## October 26, 2026 - All around are egoists..
 
 - Searching for no egoist people... (programming, ideas and similar) you are welcome... ***<br>
