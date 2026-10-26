@@ -36,6 +36,19 @@
     I think we can reduce space for at least 60% - 70%<br>
     Also we get useful statistics<br>
     Also more work and updates are required with this workers!<br>
+- Ex.:
+    t3ch@kosgen1:~/Working/Hobies/xpak$ cat sample.txt
+hello world
+this is a test
+hello world
+this is a test
+hello world
+foo bar baz
+this is a test
+foo bar baz
+hello world
+t3ch@kosgen1:~/Working/Hobies/xpak$ cat sample.xpak
+000100010002010200
 
 ---
 ## October 25, 2026 - Good movie
