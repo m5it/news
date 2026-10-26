@@ -25,7 +25,9 @@
 ---
 ## October 26, 2026 - If we think 100%
 
-- Then there is no problem more with space!
+- Then there is no problem more with space!<br>
+    Because all languages will transform into one<br>
+
 
 ---
 ## October 26, 2026 - All around are egoists..
