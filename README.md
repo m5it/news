@@ -26,6 +26,8 @@
 ## October 26, 2026 - All around are egoists..
 
 - Searching for no egoist people... (programming, ideas and similar) you are welcome... ***<br>
+    Nothing is simple... and harder is alone.<br>
+
 
 ---
 ## October 26, 2026 - Have created the smallest .zip possible (cloudzip)
