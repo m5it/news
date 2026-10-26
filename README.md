@@ -23,6 +23,11 @@
 
 
 ---
+## October 26, 2026 - All around are egoits..
+
+- Searching for no egoist people... you are welcome... ***<br>
+
+---
 ## October 26, 2026 - Have created the smallest .zip possible
 
 - As title says... Smallest .zip packed file possible... :) i call it .xpak instead of .zip<br>
