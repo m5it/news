@@ -21,6 +21,12 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 
+
+---
+## October 26, 2026 - Have created the smallest .zip possible
+
+- As title says... Smallest .zip packed file possible... :) i call it .xpak instead of .zip
+
 ---
 ## October 25, 2026 - Good movie
 
