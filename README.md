@@ -25,7 +25,8 @@
 ---
 ## October 27, 2026 - Continuing
 
-- Continuing with KosWebCMS5 + KosDB on grandekos.com. KosWebCMS5 will replace current running php and nginx. nginx will serve only for balancing and domain redistribution..
+- Continuing with KosWebCMS5 + KosDB on grandekos.com. KosWebCMS5 will replace current running php and nginx. nginx will serve only for balancing and domain redistribution..<br>
+    Then port a lot of php code for new cms as plugins..<br>
 
 --
 ## October 26, 2026 - Sometimes
