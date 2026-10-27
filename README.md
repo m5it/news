@@ -22,6 +22,11 @@
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 
 
+---
+## October 27, 2026 - Continuing
+
+- Continuing with KosWebCMS5 + KosDB on grandekos.com. KosWebCMS5 will replace current running php and nginx. nginx will serve only for balancing and domain redistribution..
+
 --
 ## October 26, 2026 - Sometimes
 
