@@ -25,7 +25,8 @@
 ---
 ## October 28, 2026 - Exploid db is down
 
-- OMG! Again what are you doing bobos. I need it to load for new BadBotSD program that detect malware and stuff... :x anyone still have their DB on harddrive???? can be useful. Thanks a lot!
+- OMG! Again what are you doing bobos. I need it to load for new BadBotSD program that detect malware and stuff... :x anyone still have their DB on harddrive???? can be useful. Thanks a lot!<br>
+    Faschistas no paran pinta<br>
 
 
 ---
