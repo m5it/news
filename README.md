@@ -23,6 +23,11 @@
 
 
 ---
+## October 28, 2026 - Japan GMO
+
+- I think problem was/is always with people who work there like this these attacks can occure...
+
+---
 ## October 27, 2026 - Continuing
 
 - Continuing with KosWebCMS5 + KosDB on grandekos.com. KosWebCMS5 will replace current running php and nginx. nginx will serve only for balancing and domain redistribution..<br>
