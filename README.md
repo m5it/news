@@ -27,8 +27,9 @@
 
 - OMG! Again what are you doing bobos. I need it to load for new BadBotSD program that detect malware and stuff... :x anyone still have their DB on harddrive???? can be useful. Thanks a lot!<br>
     Faschistas no paran pinta<br>
-- If you don't know you are person like your teacher or neighbor or police man or politic then you walk to bad school... :x
-
+- If you don't know you are person like your teacher or neighbor or police man or politic then you walk to bad school... :x<br>
+- Similar to that, useful for learning. Now we will see how long take to remove from public...: https://github.com/malwares/Botnet/tree/master<r>
+    All what they do is make more problems... :x<r>
 
 ---
 ## October 28, 2026 - Japan GMO
