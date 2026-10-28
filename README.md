@@ -31,6 +31,7 @@
 - Similar to that, useful for learning. Now we will see how long take to remove from public...: https://github.com/malwares/Botnet/tree/master<r>
     All what they do is make more problems... :x<r>
 - Bobacos como tu no se pueden ayudar con estas informaciones para nada... ***<br>
+    Y cosas como estas solo ayudan a jente que puede suenar y trabajar mas!<br>
 
 ---
 ## October 28, 2026 - Japan GMO
