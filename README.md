@@ -29,6 +29,7 @@
     So cheaper but simple computer like ours are not enough to load all malware hashes and it data.<br>
     There are ways to minimize IOC space by separating malware data depend on system configurations but for this we will need to plan, think a lot more..<br>
     You and donations are welcome!<br>
+- Ok, there is a way. From 1.3Gb of data have stripped out to 23Kb. This is useful!<br>
 
 ---
 ## October 28, 2026 - Los Chichos
