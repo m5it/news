@@ -30,6 +30,7 @@
 - If you don't know you are person like your teacher or neighbor or police man or politic then you walk to bad school... :x<br>
 - Similar to that, useful for learning. Now we will see how long take to remove from public...: https://github.com/malwares/Botnet/tree/master<r>
     All what they do is make more problems... :x<r>
+- Bobacos como tu no se pueden ayudar con estas informaciones para nada... ***<br>
 
 ---
 ## October 28, 2026 - Japan GMO
