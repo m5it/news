@@ -43,17 +43,6 @@
     Blaz K.<br>
 
 ---
-## October 28, 2026 - Exploid db is down
-
-- OMG! Again what are you doing bobos. I need it to load for new BadBotSD program that detect malware and stuff... :x anyone still have their DB on harddrive???? can be useful. Thanks a lot!<br>
-    Faschistas no paran pinta<br>
-- If you don't know you are person like your teacher or neighbor or police man or politic then you walk to bad school... :x<br>
-- Similar to that, useful for learning. Now we will see how long take to remove from public...: https://github.com/malwares/Botnet/tree/master, also: https://github.com/abusech/MalwareBazaar/<br>
-    All what they do is make more problems... :x<r>
-- Bobacos como tu no se pueden ayudar con estas informaciones para nada... ***<br>
-    Y cosas como estas solo ayudan a jente que puede suenar y trabajar mas!<br>
-
----
 ## October 28, 2026 - Japan GMO
 
 - I think problem was/is always with people who work there like this these attacks can occure...
