@@ -23,6 +23,14 @@
 
 
 ---
+## October 28, 2026 - Malware, spybot, badbot and similar
+
+- To have good security program for malware we will need at least one server with a lot of memory, not vram just dram. <br>
+    So cheaper but simple computer like ours are not enough to load all malware hashes and it data.<br>
+    There are ways to minimize IOC space by separating malware data depend on system configurations but for this we will need to plan, think a lot more..<br>
+    You and donations are welcome!<br>
+
+---
 ## October 28, 2026 - Los Chichos
 
 - Good / Buena music_a => https://share.google/7ZQYikFAPxM4ITbqE
