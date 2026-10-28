@@ -23,6 +23,12 @@
 
 
 ---
+## October 28, 2026 - I need and you need
+
+- I need work and you need me so write to w4d4f4k@gmail.com and maybe we can work together? Thanks a lot!<br>
+    Blaz K.<br>
+
+---
 ## October 28, 2026 - Exploid db is down
 
 - OMG! Again what are you doing bobos. I need it to load for new BadBotSD program that detect malware and stuff... :x anyone still have their DB on harddrive???? can be useful. Thanks a lot!<br>
