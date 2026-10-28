@@ -27,6 +27,7 @@
 
 - OMG! Again what are you doing bobos. I need it to load for new BadBotSD program that detect malware and stuff... :x anyone still have their DB on harddrive???? can be useful. Thanks a lot!<br>
     Faschistas no paran pinta<br>
+- If you don't know you are person like your teacher or neighbor or police man or politic then you walk to bad school... :x
 
 
 ---
