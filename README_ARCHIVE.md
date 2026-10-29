@@ -20,6 +20,7 @@
 | Month | File | Period |
 |-------|------|--------|
 | **julio 2026** | [README_2026_07.md](README_2026_07.md) | junio 28 — julio 31, 2026 |
+| **agosto 2026** | [README_2026_08.md](README_2026_08.md) | agosto 01 — agosto 31, 2026 |
 | **README_2** | [README_2.md](README_2.md) | junio 04 — junio 26, 2026 |
 
 ---
