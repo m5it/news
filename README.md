@@ -23,6 +23,11 @@
 
 
 ---
+## October 29, 2026 - Musica que me gusta
+
+- Ninos mutantes -> ( https://www.youtube.com/@n_mutantes )
+
+---
 ## October 29, 2026 - New release of Tsunamiwall (v1.3.2)
 
 - What's new? Archiving of log files. List, preview, open / close of old archives. ( https://github.com/m5it/tsunamiwall )
