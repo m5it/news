@@ -23,6 +23,12 @@
 
 ---
 
+## October 29, 2026 — Whyyyyyy???
+
+- Mr. Donald Trum give "Apache" helicopeteres to Maroco... Omg?? But why??? Are you angry on me or what?? why??? :( Have thinking i like you already.. :x
+
+---
+
 ## October 29, 2026 — Musica que me gusta
 
 - El mato a un policia motorizado, Ninos mutantes y otros -> ( https://www.youtube.com/watch?v=NGbcypG1Rg8 , https://www.youtube.com/@n_mutantes , https://www.youtube.com/channel/UCdRYb7xOVq26BuXbAtSt4Fw )
