@@ -6,6 +6,9 @@ plans/
 # Ignore .RAW files
 *.raw
 
+# Editor local config
+editor_config.json
+
 # Other common ignores
 __pycache__
 *.pyc

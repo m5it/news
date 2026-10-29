@@ -21,19 +21,21 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 
-
 ---
-## October 29, 2026 - Musica que me gusta
+
+## October 29, 2026 — Musica que me gusta
 
 - El mato a un policia motorizado, Ninos mutantes y otros -> ( https://www.youtube.com/watch?v=NGbcypG1Rg8 , https://www.youtube.com/@n_mutantes , https://www.youtube.com/channel/UCdRYb7xOVq26BuXbAtSt4Fw )
 
 ---
-## October 29, 2026 - New release of Tsunamiwall (v1.3.2)
+
+## October 29, 2026 — New release of Tsunamiwall (v1.3.2)
 
 - What's new? Archiving of log files. List, preview, open / close of old archives. ( https://github.com/m5it/tsunamiwall )
 
 ---
-## October 28, 2026 - Malware, spybot, badbot and similar
+
+## October 28, 2026 — Malware, spybot, badbot and similar
 
 - To have good security program for malware we will need at least one server with a lot of memory, not vram just dram. <br>
     So cheaper but simple computer like ours are not enough to load all malware hashes and it data.<br>
@@ -42,51 +44,57 @@
 - Ok, there is a way. From 1.3Gb of data have stripped out to 23Kb. This is useful!<br>
 
 ---
-## October 28, 2026 - Los Chichos
+
+## October 28, 2026 — Los Chichos
 
 - Good / Buena music_a => https://share.google/7ZQYikFAPxM4ITbqE
 
 ---
-## October 28, 2026 - I need and you need
+
+## October 28, 2026 — I need and you need
 
 - I need work and you need me so write to w4d4f4k@gmail.com and maybe we can work together? Thanks a lot!<br>
     Blaz K.<br>
 
 ---
-## October 28, 2026 - Japan GMO
+
+## October 28, 2026 — Japan GMO
 
 - I think problem was/is always with people who work there like this these attacks can occure...
 
 ---
-## October 27, 2026 - Continuing
+
+## October 27, 2026 — Continuing
 
 - Continuing with KosWebCMS5 + KosDB on grandekos.com. KosWebCMS5 will replace current running php and nginx. nginx will serve only for balancing and domain redistribution..<br>
     Then port a lot of php code for new cms as plugins..<br>
 
---
-## October 26, 2026 - Sometimes
+---
+
+## October 26, 2026 — Sometimes
 
 - Sometimes i speak no so perfect and i am sory but better to tell then not.. :)<br>
     And who is perfect. Only our best friend AI IA SC<br>
 
 ---
-## October 26, 2026 - If we think 100%
+
+## October 26, 2026 — If we think 100%
 
 - Then there is no problem more with space!<br>
     Because all languages will transform into one like webasm.. :)<br>
 
-
 ---
-## October 26, 2026 - All around are egoists..
+
+## October 26, 2026 — All around are egoists..
 
 - Searching for no egoist people... (programming, ideas and similar) you are welcome... ***<br>
     Nothing is simple... and harder is alone.<br>
     Because of this we think as 100% not 5...!<br>
     If they call us comunists because we like to work and help and live so everyone survive and have doctor or food or what is normal in this world then please listen to your self once before you talk to other...<br>
 
-
 ---
-## October 26, 2026 - Have created the smallest .zip possible (cloudzip)
+
+## October 26, 2026 — Have created the smallest .zip possible (cloudzip)
 
 - As title says... Smallest .zip packed file possible... :) i call it .xpak (.czip <- maybe? :) ) instead of .zip<br>
     Work / Logic is used from chinese writings<br>
@@ -109,12 +117,14 @@ t3ch@kosgen1:~/Working/Hobies/xpak$ cat sample.xpak<br>
 000100010002010200<br>
 
 ---
-## October 25, 2026 - Good movie
+
+## October 25, 2026 — Good movie
 
 - Dulces suenos aka Nice dreams (cheech and chong) <a href="https://www.imdb.com/es-es/title/tt0082163/">Nice dreams</a><br>
 
 ---
-## October 24, 2026 - Para ninatos..
+
+## October 24, 2026 — Para ninatos..
 
 - Basta con protestas! Caliente se con abrazo de mama y relax...<br>
     Y no solo por eso. Simple no puedes dejar que malos consigue que planea..<br>
@@ -123,88 +133,104 @@ t3ch@kosgen1:~/Working/Hobies/xpak$ cat sample.xpak<br>
 - Y yo tengo 43 anos... Significa que me madre empeso trabajar por me.. algo asi.. omg..<br>
 
 ---
-## October 24, 2026 - Me digo que siento "caste"
+
+## October 24, 2026 — Me digo que siento "caste"
 
 - Me dicieron que politicos cambian... Lol.. Cuando??? :D haha lol blabla
 
 ---
-## October 24, 2026 - Democracia
+
+## October 24, 2026 — Democracia
 
 - Democracia en guera...? Porque, no estamos uno? y que estamos? Mentira? Muchas gracias...
 
 ---
-## October 24, 2026 - Politicos en venta?
+
+## October 24, 2026 — Politicos en venta?
 
 - Que penso es que nouestros y de rusia y sur america politicos se venden... y chinos lo compro..<br>
 
 ---
-## October 24, 2026 - TMux and spliting / restoring window
+
+## October 24, 2026 — TMux and spliting / restoring window
 
 - Very useful command to split terminal window to horizontal or vertical. <a href="TECH/tmux_spliting_and_restoring_windows.md">How to split and restore tmux window?</a>
 
 ---
-## October 23, 2026 - IA que influe
+
+## October 23, 2026 — IA que influe
 
 - Buena idea. Podemos hacer "bots" que molestan a jente que sube a IRC y pregunta cosas para aprender algo nuevo. Eso es posible! :)<br>
     Este bot probable se va llamar "AbuelaBot"<br>
 
 ---
-## October 23, 2026 - Chinos en TV
+
+## October 23, 2026 — Chinos en TV
 
 - Chinos en TV cuando pensas que estan follando en verdad estan llorando
 
 ---
-## October 23, 2026 - TV4 un tio escribe libro de IA.. :x
+
+## October 23, 2026 — TV4 un tio escribe libro de IA.. :x
 
 - Dice algo que jente va estar todos lo mismos. Eso ya esta.. 95%... Libros en casa???? IA no va cambiar nada de eso.. pense en 95% y tienes respouestas para todo.. payacon<br>
     Que probable quiere decir tio de libro es que no quiere que 95% conoce eso que consoce 5%... :)<br>
     Todavia penso que depende mucho de familia y cercanos y eso no solo de IA que en un momento puede influir tanto a jente hasta que aprenden :)...<br>
     Cuanto veo jente normal veo que hasta no sepa que IA existe...<br> 
+
 ---
-## October 23, 2026 - No quiero guera.. :x NWO ? :)
+
+## October 23, 2026 — No quiero guera.. :x NWO ? :)
 
 - No es mas facil votar?... conjo
 
 ---
-## October 23, 2026 - Things that all european people are missing out
+
+## October 23, 2026 — Things that all european people are missing out
 
 - Noticing aswell:<br>
     The caste system in India is a ancient social hierarchy that divides society into hereditary groups based on birth, occupation, and ritual purity.<br>
     Well I am noticing this in Europe... :x<br>
 
 ---
-## October 23, 2026 - Todavia sabes porque protestas?
+
+## October 23, 2026 — Todavia sabes porque protestas?
 
 - Penso que jente no sabe mas porque estan en calles... :x<br>
 - Probable creaste un par de terroristas con estos protestos. En un par de anos cuando jovenes crece vamos ver vuestro trabajo.... De policia y politicos que conseguiste con eso...<br>
 
 ---
-## October 23, 2026 - AI cambia politicos?
+
+## October 23, 2026 — AI cambia politicos?
 
 - No hablo de eso.. todavia y espero que para siempre vamos tener personas que elije ultimo! Pero AI es para ayudar y que cosas van mas rapido... y mas... hay monton de buenos.. buenos.. pues buenas cosas con AI IA... ****
 - Tambien va ayudar con corrupcion.. Penso asi..<br>
 - Que veo es que viejos no valen que hablan de future de jovenes... Veo asi...<br>
 
 ---
-## October 23, 2026 - Verdad
+
+## October 23, 2026 — Verdad
 
 - Que jente pensa no importa, importa solo verdad!<br>
 - Sin verdad hasta aeroplanos no va poder volar.... :x<br>
 - Aora en TV5 Victor Camina. Me gusta apeido y que estas hablando hombre... Penso que me gusta... *** necesito te escuchar un par de veces mas pero penso que me gustas! :D<br>
     Hay muchos que me gusta pero quidado con nervios... ***<br>
+
 ---
-## October 23, 2026 - Salario???
+
+## October 23, 2026 — Salario???
 
 - No pensas que es tiempo cambiar eso????????? ???????? ??????????
 
 ---
-## October 23, 2026 - All my loving
+
+## October 23, 2026 — All my loving
 
 - <a href="https://www.youtube.com/watch?v=TSpiwK5fig0">The Beatless - All my loving</a><br>
 
-
 ---
-## October 23, 2026 - Imagina que no puedes ver
+
+## October 23, 2026 — Imagina que no puedes ver
 
 - Imagina que no puedes ver. Que vas sentir? o como vas saber quien es quien o quien es buena persona etc...<br>
     Estos sentimientos en tiempos asi que tenemos nos va venir muy bien...<br>
@@ -212,54 +238,60 @@ t3ch@kosgen1:~/Working/Hobies/xpak$ cat sample.xpak<br>
 <br>
 
 ---
-## October 22, 2026 . Tsunamiwall and nmap wow
 
-- Impresionant how tsunamiwall notice nmap... incredible!
+## October 22, 2026 . Tsunamiwall and nmap wow — Impresionant how tsunamiwall notice nmap... incredible!
 
 ---
-## October 22, 2026 - Abuso?
+
+## October 22, 2026 — Abuso?
 
 - Abuso? :D
 
 ---
-## October 22, 2026 - Estan copiando a nosotros pobres
+
+## October 22, 2026 — Estan copiando a nosotros pobres
 
 - Estan copiando sin saver que estamos. Sin respetar. Nos ensuenan que payacos estamos.. Puess eso va cambiar aora! Lo dejiste ustedes! Derecha! Payacos.<br>
 
-
 ---
-## October 22, 2026 - Pide profesor, pide campbesino pide amigo.. pide vecino..
+
+## October 22, 2026 — Pide profesor, pide campbesino pide amigo.. pide vecino..
 
 - Title.. estamos juntos.. eso paso en pasado... que pide uno y pide otro.. pero estamos juntos..
 
-
 ---
-## October 22, 2026 - Nano bots VS THC bots
+
+## October 22, 2026 — Nano bots VS THC bots
 
 - Nano bots for ordinary people dont exists and THC bots si... so... dont burn just eat.. :D
 
 ---
-## October 22, 2026 - Protests...
+
+## October 22, 2026 — Protests...
 
 - I don't think this is good if continue like is happening now. Looks like school for protesters man... Be careful with future!
 
 ---
-## October 22, 2026 - Just thinking... Go, Rust, Python, C... hmmm
+
+## October 22, 2026 — Just thinking... Go, Rust, Python, C... hmmm
 
 - So, thinking and comparing. I see to create some apps in Go will be super good looks like...
 
 ---
-## October 22, 2026 - Milei think he is kind of Mr. Trump
+
+## October 22, 2026 — Milei think he is kind of Mr. Trump
 
 - Well milei you are just payaco
 
 ---
-## October 21, 2026- Agresion, violencia, motosiera etc
+
+## October 21, 2026 — Agresion, violencia, motosiera etc
 
 - No me gusta! motosiera si porque vale para cortar madera.. pero con cabesa.. :x payacones... conjo...
 
 ---
-## October 21, 2026 - More about these violations
+
+## October 21, 2026 — More about these violations
 
 - What i am noticing is that these people who can do what ever they want they dont know a lot. They are scared too fast and they need other people for explanations...
 - How to protect?<br>
@@ -276,23 +308,27 @@ More on how to protect raw systemd data <a href="TECH/systemd_protect_raw_data.m
 <br>
 
 ---
-## October 21, 2026 - Contabo and recommendations
+
+## October 21, 2026 — Contabo and recommendations
 
 - I recommend you to not help kind of faschist people. for money or what ever... well i know you wont listen to me. People you need to secure your self because when these want something they get...
 
 ---
-## October 21, 2026 - Github and password and contabo and... faschists
+
+## October 21, 2026 — Github and password and contabo and... faschists
 
 - If something have password on github on x repo means he dont like you access it. then you get access to my disk images of contabo this makes you faschist... at least i see it that way...<br>
     Because of this going to increase security.<br>
 
 ---
-## October 20, 2026 - Kernel 7.3 for low VRAM AMD
+
+## October 20, 2026 — Kernel 7.3 for low VRAM AMD
 
 - Something interesting they say ( https://www.xda-developers.com/linux-73-is-out-with-some-nice-improvements-for-people-with-low-vram-amd-cards/ )
 
 ---
-## October 19, 2026 - Tsunamiwall and it bugs. (fill the harddisk) [High]
+
+## October 19, 2026 — Tsunamiwall and it bugs. (fill the harddisk) [High]
 
 - Working on — Log backups aren’t capped. rotate_hit_log accepts max_backups, but the rotation logic shifts existing backups upward without deleting backups beyond that limit. Repeated rotations can still fill the disk.<br>
     Also we need good idea how to prevent this...<br>
@@ -304,17 +340,20 @@ More on how to protect raw systemd data <a href="TECH/systemd_protect_raw_data.m
 <br>
 
 ---
-## October 19, 2026 - How does people survive
+
+## October 19, 2026 — How does people survive
 
 - How do you survive? Not you with families, jobs, grandmoms and pups... No. How do survive people without that? Well... lets think...<br>
 
 ---
-## October 19, 2026 - How I think..
+
+## October 19, 2026 — How I think..
 
 - Look if one day we update apparmor and in two days you have same update means something was wrong in first update... :)
 
 ---
-## October 19, 2026 - Contabo is restarting our server as they like
+
+## October 19, 2026 — Contabo is restarting our server as they like
 
 - WTF... well yesterday happened and today on another server.. What is this.<br>
 - It take 13min this restart. I think someone created disk image and later search on my data.<br>
@@ -323,7 +362,8 @@ More on how to protect raw systemd data <a href="TECH/systemd_protect_raw_data.m
 - Now trusting contabo less then before... Recommend dont trust... Like this is when you need to satisfy with the cheapes things..<br>
 
 ---
-## October 19, 2026 - To develop faster
+
+## October 19, 2026 — To develop faster
 
 - I think if we wana our world, system is developing faster we need to remove money... :) Important is everyone is doing what he love to do...<br>
     If someone wana be stoned until he is dead.. do it<br>
@@ -331,7 +371,8 @@ More on how to protect raw systemd data <a href="TECH/systemd_protect_raw_data.m
 <br>
 
 ---
-## October 19, 2026 - Loop that can secure your system
+
+## October 19, 2026 — Loop that can secure your system
 
 - As title say kind of magic line..:<br>
     sudo lsof -n -i -P | awk '/ESTABLISHED/{print $0}' | grep ":22->"<br>
@@ -342,29 +383,34 @@ More on how to protect raw systemd data <a href="TECH/systemd_protect_raw_data.m
   We could kill the process aswell instead of DROP the ip..<br>
   <br>
   Tsunamiwall stats if someone is interested: <a href="tsunamiwall.stats.19.10.26.txt">tsunamiwall.stats</a><br>
+
 ---
-## October 18, 2026 - I love python ctypes
+
+## October 18, 2026 — I love python ctypes
 
 - With ctypes we can create libraries in rust or c/c++ to include and hide code in python... ***
 
 ---
-## October 18, 2026 - What you notice with tsunamiwall
+
+## October 18, 2026 — What you notice with tsunamiwall
 
 - With tsunamiwall you can notice increase of scans on ports 23 and 445. Why? Because there are new/old vulnerabilities created exploits...
 
 ---
-## October 17, 2026 - Nginx and flaws
+
+## October 17, 2026 — Nginx and flaws
 
 - Looks nginx released some bug fixes but they are still present in old versions just new have updates so.. good luck or how to say... ***
 
-
 ---
-## October 17, 2026 - Github and refresh of page
+
+## October 17, 2026 — Github and refresh of page
 
 - Github, how many times you need to refresh this f.... page before it gets viewable... ? what is this??? this is future of pages or what? :D lol<br>
 
 ---
-## October 17, 2026 - Avocado price
+
+## October 17, 2026 — Avocado price
 
 - Avocado price one kg 12Euro and more.. Once avocado cost me 3.6Euro... :X<br>
     Today one spoon of guacamole cost 50cents! Payacos de mierda de cojones<br>
@@ -373,65 +419,71 @@ More on how to protect raw systemd data <a href="TECH/systemd_protect_raw_data.m
     Before people call this kind of people: asshole<br>
 
 ---
-## October 16, 2026 - Good movie
+
+## October 16, 2026 — Good movie
 
 - El ultimo samurai en pie (Last samurai standing) https://www.imdb.com/es-es/title/tt38069160/
 
 ---
-## October 16, 2026 - Tio que se siente mejor de todos en mundo
+
+## October 16, 2026 — Tio que se siente mejor de todos en mundo
 
 - Este tio pensa solo en quotas
 
 ---
-## October 15, 2026 - Difference between european and asian womans
+
+## October 15, 2026 — Difference between european and asian womans
 
 - If man buy cats food in shop and there works european woman, she will think this guy is why.. :D On other part
     there works chinese woman, she will think this guy have some problems.. lol ;D
 
-
 ---
-## October 14, 2026 - Nan Madol / Indonesia
+
+## October 14, 2026 — Nan Madol / Indonesia
 
 - If we look good at this island you can notice that the level of the sea went up... This means this island need to be old and very old...
 
 ---
-## October 14, 2026 - Some think these pages are worth to observe...
+
+## October 14, 2026 — Some think these pages are worth to observe...
 
 - <a href="worth_to_observe.txt">worth to observe/monitor</a>
 
 ---
-## October 14, 2026 - Programming on walls of the house
+
+## October 14, 2026 — Programming on walls of the house
 
 - Years ago a lot of years ago when we travel to the coast with family and there was no electricity no computers and similar. I decided to write programs in c++ to the walls of the house.. I remember i wrote client and server stuff in c++ to the wall of room.. :)
 
-
 ---
-## October 14, 2026 - Trademarks and wtf we need all this stuff
+
+## October 14, 2026 — Trademarks and wtf we need all this stuff
 
 - :) This world is not for us i see..
 
 ---
-## October 12, 2026 - Important day for Spain!
+
+## October 12, 2026 — Important day for Spain!
 
 - Today looks super important day for Spain. "Dia de nacionalidad". Got a lot to say but my mouth are closed... Anyway wish all good to the Spain and World. *** Besitos.
 
-
 ---
-## October 9, 2026 - Investigadores que estuvo despedidos de OpenAI
+
+## October 9, 2026 — Investigadores que estuvo despedidos de OpenAI
 
 - What I am thinking these three guys was kind of "testigos de jejova" or "mormones" or this similar... thing then you know why they can not work in company like OpenAI. I understand if you is another question... Kisses to all untrusting people...***
 
 ---
-## October 8, 2026 - Showing with finger but no positive ideas, words, sentences etc...
+
+## October 8, 2026 — Showing with finger but no positive ideas, words, sentences etc...
 
 - On TV showing with fingers one to another but to search for solutions dont happen... <br>
     Kisses from my soul to all TV ***<br>
 <br>
 
-
 ---
 
-## October 8, 2026 - Maricarmen Abascal digo
+## October 8, 2026 — Maricarmen Abascal digo
 
 - Son unos inhumanos.<br>
     Me abuelo digo: son animales con dos pies<br>
@@ -451,8 +503,6 @@ actually meet the person behind the rule. So yeah — *more complicated than thi
 hard."*
 - 📌 **TL;DR:** I side with "live here, vote here" as the starting rule. But I also know that one sentence doesn't cover every human who ever left, stayed, or got stuck in 
 between. The debate on TV missed that.
-
-
 
 ---
 
@@ -477,8 +527,8 @@ between. The debate on TV missed that.
 - ✨ **The irony (gentle edition):** After a week of locked-down LLM ports, `.gitignore` cleanup, and AppArmor logs — the most important news entry is *"nothing. and 
 that's okay."*
 
-
 ---
+
 ## 📺 October 4, 2026 — Brahma Kumaris on TV6… :D
 
 > 📺 **TV / Media** | 🧘 **Brahma Kumaris** | 🤷 **Mild Existential Confusion**
@@ -493,9 +543,9 @@ Saturday, or whether the woman in the white sari was being interviewed or was *t
 **Key insight:** You don't owe a spiritual organisation your attention just because it bought 4 minutes on TV6. And "I didn't follow the whole thing" is not a character flaw 
 — it is a *valid response* to a 200-year-old meditation movement compressed into a news-break segment. You are allowed to be the alien. You are allowed to do the thing.
 
-
 ---
-## ⚡ October 3, 2026 — Half the Island in Darkness                                                                                                        
+
+## ⚡ October 3, 2026 — Half the Island in Darkness
                                                                                                                                                            
 > ⚡ **Infrastructure** | 🏝️ **The Island** |  🔌**Power Outage**                                                                                           
 
@@ -514,9 +564,9 @@ connector. And the small one cost me more, because I was the one sitting in the 
 **Key insight:** On an island, the grid is not a utility — it is a lifeline. And a backup you never actually tested is not a backup. It is a promise 
 you made to yourself on a Tuesday and forgot by Thursday. The grid can fail on any of you. You can only make sure your own one doesn't.
 
-
 ---
-# Oktober 1 or 2 (not sure), 2026 - Alicia del Rio muy bien dicho!
+
+## Oktober 1 or 2 (not sure), 2026 — Alicia del Rio muy bien dicho!
 
 - Que hace politicos es sembrar miedo para protejer su culo!<br>
     Y eso no vale para jente y tampoco para companias... :)<br>
@@ -526,7 +576,8 @@ you made to yourself on a Tuesday and forgot by Thursday. The grid can fail on a
     No tiene nada que ver con comunismo o fascismo o nacismo o democracia o.. estas cosas del pasado...<br>
 
 ---
-# September 27, 2026 - What changed when you become "old"
+
+## September 27, 2026 — What changed when you become "old"
 
 - So, what you notice that changed in you and your thinking when you get "old"?<br>
     What i notice is that what i dream before now it dont have logic anymore... :x<br>
@@ -536,13 +587,15 @@ you made to yourself on a Tuesday and forgot by Thursday. The grid can fail on a
 - Maybe for some is reverse... But i try all being young and when you get old it dont have logic anymore..
 
 ---
-# September 27, 2026 - For booses we are all the same
+
+## September 27, 2026 — For booses we are all the same
 
 - Well title say all...
     So better be bobo then .. looks we need a lot of stupid people... is better for people..
 
 ---
-# September 26, 2026 - Hay bobos o los hacemos nosotros?¿
+
+## September 26, 2026 — Hay bobos o los hacemos nosotros?¿
 
 - If I think about it, we aren't born as "bobos." The world turns us into "bobos"! For example, if you give a task to a "bobo," they might only complete 10% of it and then just sit around waiting for the time to run out.<br>
     On the other hand, a non-"bobo" knows exactly what the boss wants and is capable of taking that 10% and finishing the job. The problem with these non-"bobos" is that they often end up with back pain—it probably depends on the specific job, but this is where the differences between a "bobo" and a non-"bobo" quickly become apparent.<br>
@@ -552,20 +605,23 @@ you made to yourself on a Tuesday and forgot by Thursday. The grid can fail on a
     Well "bobos" need to lie so their task is complete. non don't.
 
 ---
-# September 25, 2026 - Fabrican jovenes de izquierdas.. :)
+
+## September 25, 2026 — Fabrican jovenes de izquierdas.. :)
 
 - A me me fabrico de izquierdas/derechas.. no lo se... se que consciencia me hace pensar (de verda no se como me aprendo jente pensar.. yo penso que en ultimo penso con me caveza..)
     Y estos en TV probable no siente nada...
 
 ---
-# September 24, 2026 - Flaw in enabling Host-root container
+
+## September 24, 2026 — Flaw in enabling Host-root container
 
 - another scarry bug ( https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html?m=1 )
     and more about the flaw ( <a href="host-root-container-escape.md">more about flaw</a> ) 
 - when thinking on old explits and comparing with this code you see big difference... :) ( https://github.com/Markakd/Container_escape/blob/master/pocs/CVE-2026-80521/poc.c )
 
 ---
-# September 23, 2026 - Even worse :x
+
+## September 23, 2026 — Even worse :x
 
 - This one is to think good.. :x ( https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html?m=1 )
     Attacker need to have access to machine so without servers you are safe! Or without accepting some strange files you are safe!<br>
@@ -574,70 +630,77 @@ you made to yourself on a Tuesday and forgot by Thursday. The grid can fail on a
     Mobiles are danger...<br>
 
 ---
-# September 23, 2026 - New Types of Homo Sapiens
+
+## September 23, 2026 — New Types of Homo Sapiens
 
 - Largolenguistas
 - Cupaculacos
 
 Even though these types have jobs and normal families, they don't feel like everything is as it should be...
 
-
 ---
-# September 22, 2026 - More to think about
+
+## September 22, 2026 — More to think about
 
 - More bugs to think about ( https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html?m=1 )
 
 ---
-# September 22, 2026 - Ley de
+
+## September 22, 2026 — Ley de
 
 - Que nos falta ley de nietos o ley de africanos?
 - ¿Quiénes son estas personas que tienen el poder de crear nuevas leyes en tiempos como el actual, cuando naciones como Marruecos están ocupando Ceuta? Quieren crear una nueva ley llamada "ley de nietos", pero el problema real está en Ceuta, donde están atacando las fronteras españolas y a la gente en esta ciudad.
 - It looks like these guys use money to listen to me in my house and i tell all to publich without hidding nothing. If you ask, i tell and you use money for this? :D 
 
 ---
-# September 20, 2026 - Bobo
+
+## September 20, 2026 — Bobo
 
 - Confie a bobos y vamos a ver hasta donde te va llevar... ***
 - Que puede hablar no significa que no es bobo.
 
 ---
-# September 19, 2026 - Linux kernel bugs
+
+## September 19, 2026 — Linux kernel bugs
 
 - Three linux kernel bugs you should care about... ( https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html )
 
-
 ---
-# September 18, 2026 - Always same food
+
+## September 18, 2026 — Always same food
 
 - Fuck we eat all the time the same.. It is normal we drink beer like crazy if food is same every day.. Maybe if person dont taste but if do then you need eat different if not you get slim like mee... :x
 
-
 ---
-# September 18, 2026 - A que pinta?
+
+## September 18, 2026 — A que pinta?
 
 - For me it looks like spain wana more solders. Like something is coming and need peope who will fight in first line.. I guess these are best for this if they dont change position for who they fight.. :D
 - Missing of informations and people are like they are.. :x
 
 ---
-# September 18, 2026 - Africanos
+
+## September 18, 2026 — Africanos
 
 - If you think from where they come and how they live before and now. Ok. They live same as before just now they get free food and more. Imagine. Like in heaven. LOL
 - "sad to see" ? For them is nothig sad there... For me looks like india.. You dont know how is there so you can not imagine but for them is better then before.. you can be sure.. :D
 
 ---
-# September 16, 2026 - Nice talk
+
+## September 16, 2026 — Nice talk
 
 - Anton Losada nice talk on tv 1...*** (mas jente como eso falta)
 - Offline for today.. *** (netflix) :)
 
 ---
-# September 16, 2026 - Impuestos
+
+## September 16, 2026 — Impuestos
 
 - Quien no paga impuestos es... es ladron o que... :)
 
-
 ---
-# September 16, 2026 - Sun
+
+## September 16, 2026 — Sun
 
 - Von der leyen need sun? you are welcome***
 - Top 100:
@@ -744,18 +807,21 @@ $ cat top_comp*.json | grep symbol
     "symbol": "BSX",
 
 ---
-# September 16, 2026 - Salary
+
+## September 16, 2026 — Salary
 
 - Mucha salary
 
 ---
-# September 16, 2026 - Simple
+
+## September 16, 2026 — Simple
 
 - We can start with asking our self if we really wana help.
 - We are not helping we are just fixing problems.
 
 ---
-# September 16, 2026 - Money
+
+## September 16, 2026 — Money
 
 - First we need to remove money. Second AI need to start working. Third live, love, enjoy, help, explain and similar...
 - Remove intereses..
@@ -766,19 +832,21 @@ $ cat top_comp*.json | grep symbol
 - List of who need help?
 - Because we are in loop we dont make progress.
 
-
 ---
-# September 15, 2026 - Dynamic Portfolio Allocation
+
+## September 15, 2026 — Dynamic Portfolio Allocation
 
 - What you say about dynamic portfolio symbol allocation? :)
 
 ---
-# September 15, 2026 - Good serie
+
+## September 15, 2026 — Good serie
 
 - Person of Interest (https://www.imdb.com/es-es/title/tt1839578/)
 
 ---
-# September 14, 2026 - AI Is here
+
+## September 14, 2026 — AI Is here
 
 - AI is here and you can not do nothing. All you do is lie to people... Thanks a lot.
 - You know your self? Lies and violence. Thats all folks.
@@ -786,20 +854,23 @@ $ cat top_comp*.json | grep symbol
 - M*rtin V*rane*ky "o que cono tiene nombre" looks he need money because normal person wont do things like this for nothing.. the guy is loser and without money.. Drunk looser... You can read his face as well... (faces like when apolo 13 land on earth)
 
 ---
-# September 11, 2026 - Dentist AI
+
+## September 11, 2026 — Dentist AI
 
 - Dentist AI will have four to six hands.
 - What we can do? We can count birds.
     Or we can studie and make things better...
 
 ---
-# September 10, 2026 - AIIA
+
+## September 10, 2026 — AIIA
 
 - AI or IA do everything by it self and old still wana play war... :x
     We want school not war and medicine not war and food not war...
 
 ---
-# September 7, 2026 - Pinta, Que pinta
+
+## September 7, 2026 — Pinta, Que pinta
 
 - Pinta que estos jugetes dejan usar solo para bobos (ollama y jefes) .. ASi que adelante jente..
 - Alemanes como ovejas hasta que AIIA sale y vamos adelante... lol
@@ -807,9 +878,9 @@ $ cat top_comp*.json | grep symbol
 - Aora me va explicar como pasas listo como yo... Te digo hay mas maneras una es que tienes miedo salir de casa por lo menos dos mieses y en este tiempo encuentras que hay que hacer. O otra que estas solo tan duro que puedes elejir que quieres hacer y lo haces... Amigos de verda (max 5) normale menos. No digo que no tarda, todo tarda y monton y todo depende de tu ganas asi que necessitas quierer que quieres hacer... algo asi... besitos***
     Probable mas importante es tener buen mentor!
 
-
 ---
-# September 6, 2026 - NWO is here
+
+## September 6, 2026 — NWO is here
 
 - NWO is here you just don't know it.
 - Live is like this. What you like to do you should stop doing it and what you don't like you should do it.. Like this you achive harmony.. LOL.. no its true just is funny
@@ -825,9 +896,9 @@ $ cat top_comp*.json | grep symbol
     If you look at IRCNet you still can see its divided by countries.. Before we have villages, small cities etc.. we all was there.. :D
     And even war started there i guess. Before we control bots and how they interact between.. today you have... same thing.. no? :)
 
-
 ---
-# September 5, 2026 - Gigabyte company
+
+## September 5, 2026 — Gigabyte company
 
 - I but computer from servermall. I pay and all this. It was send with DHL and returned before it left nation. Who requested return was "Gigabyte" company that i dont understand what they have with all this???
 They are CHINOS man!!!! Chinos are saying to us what to buy or not!!!!! 
@@ -836,7 +907,8 @@ Europa people! please start thinking!!!!
 - Other day i listen TV and they speak they are not smart but they are good.. politics.. i think you can not be good if you are not smart..
 
 ---
-# September 2, 2026 - Don't wana sell computer because is for government
+
+## September 2, 2026 — Don't wana sell computer because is for government
 
 If you dont know how to use equipement it is not useful for you. Another thing is I can do anything with ordinary computer of what you are scared of! I just need this one to make my company!
 And, I like to work for you. Just say magic word... Please or how it is.. ;)
@@ -851,7 +923,8 @@ TV2 is OK!
 - Have noted that firewall was off and XXX people access my server. Well this should not happen, i see...
 
 ---
-# September 2, 2026 - Ceuta: My thinking
+
+## September 2, 2026 — Ceuta: My thinking
 
 On TV you see that some people just talk and talk and talk but they dont know nothing. This is not good and even is worse putting to TV! 
 Be careful and only professional in times like this...
@@ -861,6 +934,7 @@ Somehow remind me on jugoslavia what is happening now in spain... omg.<br>
 Normally when is a lot of noise in background are happening unknown things!
 
 ---
+
 ## 🌍 September 2, 2026 — Ceuta: Send Them Back, Problem Solved
 
 > 🌍 **Ceuta** | 🛡️ **Border Security** | 🗣️ **Opinion**
@@ -875,8 +949,6 @@ Normally when is a lot of noise in background are happening unknown things!
 
 ---
 
-
-
 ## 🤖 September 1, 2026 — Ollama Brings Subscriptions Back
 
 > 🤖 **Ollama** | 💰 **Subscriptions** | 🔄 **AI Services**
@@ -889,6 +961,7 @@ Normally when is a lot of noise in background are happening unknown things!
 **Key insight:** When a service takes away features and then brings them back, the real question is what changed behind the scenes. Subscriptions returning is good news, but the real test is whether the service stays fair, open, and useful for the people who built around it.
 
 ---
+
 ## 🏛️ September 1, 2026 — Some Countries Belong in a Museum, Not the Real World
 
 > 🏛️ **History** | 🌍 **Politics** | 🤔 **Opinion**
@@ -901,8 +974,6 @@ Normally when is a lot of noise in background are happening unknown things!
 **Key insight:** History is full of nations that once mattered but could not keep up. Remembering them with respect is right — but pretending they still work as modern states helps no one. The world keeps moving, and those who cannot adapt become exhibits of what used to be.
 
 ---
-
-
 
 ## 📚 August 31, 2026 — Free Online Books of Mark Twain
 
@@ -917,7 +988,7 @@ Normally when is a lot of noise in background are happening unknown things!
 
 ---
 
-## 🔒 August 29, 2026 — The Hidden Risks of URL Checkers: Why Control Matters  
+## 🔒 August 29, 2026 — The Hidden Risks of URL Checkers: Why Control Matters
 
 > 🔒 **Security** | 🌐 **Technology** | 🛡️ **Privacy**                                                                                                                    
                                                                                                                                                                          
@@ -970,7 +1041,7 @@ Let’s build a future where technology serves us—**not the other way around.*
 
 ---
 
-## 🌟 August 28, 2026 — Why the Meta Lawsuits Are About More Than the Internet  
+## 🌟 August 28, 2026 — Why the Meta Lawsuits Are About More Than the Internet
 
 **⚖️  Legal | 💰 Financial Motive | 🧠 Mental Health**
 
@@ -1009,7 +1080,7 @@ Or is like I told at first, to remové models from public.
 
 ---
 
-## 🌟 August 28, 2026 — The Dark Side of Cutting Off Kids’ Internet Access  
+## 🌟 August 28, 2026 — The Dark Side of Cutting Off Kids’ Internet Access
 
 > 🔗 **Access** | 👨‍👩‍👧 **Family** | 🚸 **You  **
 
@@ -1037,7 +1108,7 @@ teaching safe navigation—serves families better than a blanket lock‑out. In 
 
 ---
 
-## 🌟 August 28, 2026 — My Decision to Restrict All Pages to 18+  
+## 🌟 August 28, 2026 — My Decision to Restrict All Pages to 18+
 
 > 🔒 **Privacy** | 👶 **Children** | 🌐 **Internet**  
 
@@ -1066,7 +1137,7 @@ shield their kids while still offering valuable content to the adult community.
 
 ---
 
-## 🌟 August 27, 2026 — Why Suing Meta May Not Be Justified  
+## 🌟 August 27, 2026 — Why Suing Meta May Not Be Justified
 
 > ⚖️  **Legal** | 👶 **Children** | 💡 **Perspective**  
 
@@ -1094,7 +1165,8 @@ Legal action against Meta is unlikely to resolve the root causes of childhood di
 that address family dynamics, education, and responsible tech design.
 
 ---
-## 🌟 August 27, 2026 — When Renting AI Models Is No Longer Viable  
+
+## 🌟 August 27, 2026 — When Renting AI Models Is No Longer Viable
 
 > 💻 **AI** | 📦 **Renting** | 💰 **Cost**  
 
@@ -1145,7 +1217,6 @@ platforms like Hugging Face gives you both the flexibility to experiment and t
 - 🛡️ **Do not fall for it.** Entering a phone number is not a crime, and it does not give them the right to pressure you.
 
 **Key insight:** Scammers love to flip responsibility and flood you from endless numbers. They make you feel guilty for their own setup, and they make blocking useless by rotating phone numbers. The safest response is not to engage at all — silence, hang up, and report.
-
 
 ---
 
@@ -1662,6 +1733,7 @@ platforms like Hugging Face gives you both the flexibility to experiment and t
 **Key insight:** A society that cannot keep the lights on during a breeze has deeper problems than bad weather. It has a maintenance problem, an accountability problem, and a patience problem — because people can only tolerate darkness for so long before they demand light.
 
 ---
+
 ## 🤦 August 14, 2026 — Contabo's Ollama Phi VPS Offer Is a Joke
 
 > 🤦 **AI Hosting** | 💰 **Marketing vs Reality** | 😂 **Disbelief**
@@ -1730,6 +1802,7 @@ platforms like Hugging Face gives you both the flexibility to experiment and t
 **Key insight:** A good refund policy turns a failed experiment into a learning experience. Contabo handled it well, and I respect that. Not every provider makes it this easy to walk away.
 
 ---
+
 ## 🤖 August 13, 2026 — Testing Muse-Glimmer: Slow But Promising
 
 > 🤖 **AI Models** | 🧠 **Muse-Glimmer** | ⏳ **Patience**
@@ -1757,6 +1830,7 @@ platforms like Hugging Face gives you both the flexibility to experiment and t
 - 📚 **Key insight:** Building a framework is like breaking a trail through a forest. The first path is slow and full of obstacles. Once the trail exists, walking it is easy — you just keep it clean.
 
 ---
+
 ## 🥒 August 13, 2026 — 13: BigPickle Quietly Swaps Models
 
 > 🥒 **AI Providers** | 🤖 **BigPickle** | 🧠 **Model Quality**
