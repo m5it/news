@@ -1129,6 +1129,21 @@ class MainWindow(QMainWindow):
         content = self.current_path.read_text(encoding="utf-8")
         entries = news_parser.parse_entries(content, source_file=str(self.current_path))
 
+        raw_body = self.ed_body.toPlainText().strip()
+        # Fix AI duplicate header: if body starts with "## Date — Title", strip it (use its title if needed)
+        body_lines = raw_body.splitlines()
+        if body_lines and re.match(r'^#{1,2}\s+.*\d{4}\s*[—–\-]', body_lines[0]):
+            m = news_parser.HEADER_RE.match(body_lines[0])
+            if m:
+                # AI returned full entry markdown inside body — extract title, remove header from body
+                ai_title = m.group(3).strip()
+                dprint(f"strip duplicate header from body: {body_lines[0][:60]} -> title={ai_title[:40]}")
+                # optionally update title field if empty or still old
+                if not self.ed_title.text().strip() or self.ed_title.text().strip() == ai_title:
+                    pass
+                raw_body = "\n".join(body_lines[1:]).strip()
+                # also strip leading --- if AI included separator
+                raw_body = re.sub(r'^\s*---\s*\n', '', raw_body).strip()
         # Build edited entry
         new_entry = news_parser.NewsEntry(
             raw_header=f"## {self.ed_date.text().strip()} — {self.ed_title.text().strip()}",
@@ -1137,7 +1152,7 @@ class MainWindow(QMainWindow):
             title=self.ed_title.text().strip(),
             emoji=self.ed_emoji.text().strip(),
             tags=self.ed_tags.text().strip(),
-            body=self.ed_body.toPlainText().strip(),
+            body=raw_body,
             key_insight=self.ed_insight.text().strip(),
             links=[],
             source_file=str(self.current_path),

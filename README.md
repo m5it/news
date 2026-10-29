@@ -38,7 +38,9 @@
 
 ## October 29, 2026 — Whyyyyyy???
 
-- Mr. Donald Trum give "Apache" helicopeteres to Maroco... Omg?? But why??? Are you angry on me or what?? why??? :( Have thinking i like you already.. :x
+> 📝 **Personal Reaction** | 🌍 **World News** | 🤨 **Confusion**
+
+- Mr. Donald Trump giving "Apache" helicopters to Morocco... OMG?? But why??? Are you angry with me or what?? Why??? :( I thought I liked you already... :x
 
 ---
 
