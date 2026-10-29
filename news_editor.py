@@ -1398,10 +1398,62 @@ class MainWindow(QMainWindow):
         self.update_preview()
 
 
+__version__ = "1.0.0"
+
+def print_help():
+    print(f"""news_editor v{__version__} — Git News Admin (PyQt5 + Ollama)
+Usage:
+  python news_editor.py [options]
+
+Options:
+  --version           Show version
+  --help, -h          Show this help
+  --debug             Enable debug prints + /tmp/news_editor_debug.log
+  --config PATH       Use custom config file (default: ~/.config/gitnewsadmin/config.json)
+  --server URL        Override Ollama server (e.g. http://192.168.0.69:11434)
+  --model NAME        Override model (e.g. ministral-3:latest)
+""")
+
 def main():
+    # handle --version / --help before QApplication (no GUI needed)
+    if "--version" in sys.argv:
+        print(f"news_editor v{__version__}")
+        sys.exit(0)
+    if "--help" in sys.argv or "-h" in sys.argv:
+        print_help()
+        sys.exit(0)
+    # optional overrides
+    if "--config" in sys.argv:
+        try:
+            idx = sys.argv.index("--config")
+            custom = Path(sys.argv[idx+1])
+            global CONFIG_PATH
+            CONFIG_PATH = custom
+        except: pass
+    # allow --server / --model to inject into config for this run
     app = QApplication(sys.argv)
+    # apply --server / --model overrides after load_config inside MainWindow
+    if "--server" in sys.argv:
+        try:
+            idx = sys.argv.index("--server")
+            url = sys.argv[idx+1]
+            # patch via env for MainWindow to pick up
+            os.environ["GITNEWS_SERVER"] = url
+        except: pass
+    if "--model" in sys.argv:
+        try:
+            idx = sys.argv.index("--model")
+            os.environ["GITNEWS_MODEL"] = sys.argv[idx+1]
+        except: pass
     app.setStyle("Fusion")
     w = MainWindow()
+    # apply env overrides to config if set
+    if os.environ.get("GITNEWS_SERVER"):
+        w.cfg["active_server"] = os.environ["GITNEWS_SERVER"]
+        w.refresh_server_combo()
+    if os.environ.get("GITNEWS_MODEL"):
+        w.cfg["model"] = os.environ["GITNEWS_MODEL"]
+        w.model_combo.setCurrentText(w.cfg["model"])
     w.show()
     sys.exit(app.exec_())
 
