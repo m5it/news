@@ -23,6 +23,11 @@
 
 
 ---
+## October 29, 2026 - New release of Tsunamiwall (v1.3.2)
+
+- What's new? Archiving of log files. List, preview, open / close of old archives. ( https://github.com/m5it/tsunamiwall )
+
+---
 ## October 28, 2026 - Malware, spybot, badbot and similar
 
 - To have good security program for malware we will need at least one server with a lot of memory, not vram just dram. <br>
