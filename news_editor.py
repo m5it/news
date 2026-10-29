@@ -1424,6 +1424,7 @@ Options:
   --version           Show version
   --help, -h          Show this help
   --debug             Enable debug prints + /tmp/news_editor_debug.log
+  -p, --path PATH     News folder path (default: current dir)
   --config PATH       Use custom config file (default: ~/.config/gitnewsadmin/config.json)
   --server URL        Override Ollama server (e.g. http://192.168.0.69:11434)
   --model NAME        Override model (e.g. ministral-3:latest)
@@ -1437,6 +1438,27 @@ def main():
     if "--help" in sys.argv or "-h" in sys.argv:
         print_help()
         sys.exit(0)
+    # --path handling before app
+    target_path = None
+    for flag in ("--path", "-p"):
+        if flag in sys.argv:
+            try:
+                idx = sys.argv.index(flag)
+                if idx + 1 >= len(sys.argv) or sys.argv[idx+1].startswith("-"):
+                    # no value given → use default (current dir or PR env)
+                    break
+                target_path = Path(sys.argv[idx+1]).resolve()
+                if not target_path.exists():
+                    print(f"error: path does not exist: {target_path}", file=sys.stderr)
+                    sys.exit(1)
+                os.chdir(target_path)
+                print(f"[news_editor] using path: {target_path}")
+            except SystemExit:
+                raise
+            except Exception as e:
+                print(f"error parsing {flag}: {e}", file=sys.stderr)
+                sys.exit(1)
+            break
     # optional overrides
     if "--config" in sys.argv:
         try:

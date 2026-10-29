@@ -15,4 +15,5 @@ if [[ ! -d $RP"/.venv" ]]; then
 fi
 
 #
-$RP/.venv/bin/python $RP/news_editor.py $@
+$RP/.venv/bin/python $RP/news_editor.py --path "${PR:-$RP}" "$@"
+
