@@ -25,7 +25,7 @@
 ---
 ## October 29, 2026 - Musica que me gusta
 
-- Ninos mutantes -> ( https://www.youtube.com/@n_mutantes )
+- El mato a un policia motorizado, Ninos mutantes y otros -> ( https://www.youtube.com/watch?v=NGbcypG1Rg8 , https://www.youtube.com/@n_mutantes , https://www.youtube.com/channel/UCdRYb7xOVq26BuXbAtSt4Fw )
 
 ---
 ## October 29, 2026 - New release of Tsunamiwall (v1.3.2)
