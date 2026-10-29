@@ -20,7 +20,22 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
-------
+
+---
+
+## 📰 October 29, 2026 — New GitHub News Editor: Testing with Local Ollama
+
+> 📝 **Personal News** | 🔧 **Tools & Development** | 🤖 **AI Integration**
+
+- **Created a GitHub news editor**—finally giving my personal news a proper home.
+- **Testing it out**—so far, so good. The editor is functional and responsive.
+- **Added local Ollama support**—because why not? AI-assisted editing is a game-changer for keeping things concise and polished.
+- **Screenshots attached** (news_editor1.jpg, news_editor2.jpg, news_editor3.jpg)—proof that it’s actually working!
+
+**Key insight:** *Automation isn’t just about efficiency—it’s about reclaiming time to focus on what matters. Now I can write, refine, and publish with a little help from my AI sidekick.* 🚀
+
+---
+
 ## October 29, 2026 — Whyyyyyy???
 
 - Mr. Donald Trum give "Apache" helicopeteres to Maroco... Omg?? But why??? Are you angry on me or what?? why??? :( Have thinking i like you already.. :x

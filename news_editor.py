@@ -46,7 +46,9 @@ DEFAULT_CONFIG = {
     "model": "qwen2.5:7b",
     "theme": "light",
     "window": {"x": None, "y": None, "width": 1400, "height": 850, "maximized": False,
-               "splitter_main": None, "splitter_right": None, "splitter_ai": None, "splitter_bottom": None}
+               "splitter_main": None, "splitter_right": None, "splitter_ai": None, "splitter_bottom": None},
+    "ai_system_prompt": "You are a friendly news editor. Keep the author's voice, be concise, preserve opinion. Output markdown news entries with ## Date — Title, bullets '-', and **Key insight:** if requested.",
+    "ai_example": "## 🌟 October 29, 2026 — Github news editor\n\n> 📰 **Announcement** | 💻 **Editor**\n\n- You can test the new Github news editor. Support for local Ollama AI requests/responses.\n- Screenshots: news_editor1.jpg, news_editor2.jpg\n\n**Key insight:** A lightweight editor + local AI keeps control in your hands."
 }
 
 def load_config():
@@ -92,6 +94,18 @@ def save_config(cfg):
         pass
 
 
+DEBUG = os.environ.get("NEWS_DEBUG", "1") == "1" or "--debug" in sys.argv
+
+def dprint(*a, **kw):
+    if DEBUG:
+        print("[news_editor]", *a, **kw, flush=True)
+    # also to status log file for later inspect
+    try:
+        with open("/tmp/news_editor_debug.log", "a", encoding="utf-8") as f:
+            f.write(" ".join(str(x) for x in a) + "\n")
+    except:
+        pass
+
 # --- Ollama thread (non-blocking, keeps UI light for weak PCs) ---
 class OllamaWorker(QThread):
     chunk = pyqtSignal(str)
@@ -108,14 +122,37 @@ class OllamaWorker(QThread):
     def run(self):
         try:
             url = f"{self.server_url}/api/chat"
-            # Build messages: context + prompt
+            dprint(f"Ollama POST {url} model={self.model!r} prompt_len={len(self.prompt)} ctx_len={len(self.context)}")
+            # Build messages: context + prompt + example from config
             messages = []
+            # Load example/system prompt from config if available
+            try:
+                import pathlib, json as _js
+                cfg_path = pathlib.Path.home() / ".config" / "gitnewsadmin" / "config.json"
+                if cfg_path.exists():
+                    _cfg = _js.loads(cfg_path.read_text(encoding="utf-8"))
+                    sys_prompt = _cfg.get("ai_system_prompt") or ""
+                    example = _cfg.get("ai_example") or ""
+                    if sys_prompt:
+                        messages.append({"role": "system", "content": sys_prompt})
+                    if example:
+                        messages.append({"role": "system", "content": f"Example of desired output format:\n{example}"})
+            except Exception as e:
+                dprint(f"cfg load for example failed: {e}")
             if self.context:
                 messages.append({"role": "system", "content": f"You are editor assistant for news project. Context file:\n{self.context[:8000]}"})
             messages.append({"role": "user", "content": self.prompt})
             payload = {"model": self.model, "messages": messages, "stream": True}
-            r = requests.post(url, json=payload, stream=True, timeout=60)
+            dprint(f"payload model={payload['model']} msgs={len(messages)}")
+            r = requests.post(url, json=payload, stream=True, timeout=120)
+            dprint(f"HTTP {r.status_code} {r.reason} headers={dict(r.headers)}")
+            if r.status_code != 200:
+                body = r.text[:2000]
+                dprint(f"error body: {body}")
+                self.error.emit(f"HTTP {r.status_code}: {body[:500]}")
+                return
             r.raise_for_status()
+            chunks = 0
             for line in r.iter_lines():
                 if not line:
                     continue
@@ -123,13 +160,20 @@ class OllamaWorker(QThread):
                     obj = json.loads(line.decode("utf-8"))
                     if "message" in obj and "content" in obj["message"]:
                         self.chunk.emit(obj["message"]["content"])
+                        chunks += 1
                     if obj.get("done"):
+                        dprint(f"done after {chunks} chunks, done_reason={obj.get('done_reason')}")
                         break
-                except:
+                except Exception as e:
+                    dprint(f"parse line failed: {e} raw={line[:200]}")
                     continue
+            dprint(f"Ollama finished ok, total chunks={chunks}")
             self.finished_ok.emit()
         except Exception as e:
-            self.error.emit(str(e))
+            import traceback
+            tb = traceback.format_exc()
+            dprint(f"Ollama error: {e}\n{tb}")
+            self.error.emit(f"{e}\n{tb[:800]}")
 
 
 class OllamaModelsWorker(QThread):
@@ -198,6 +242,68 @@ class ServerDialog(QDialog):
         if ok and url:
             s["url"] = url.strip()
             save_config(self.cfg); self.refresh_list()
+
+
+class AISettingsDialog(QDialog):
+    def __init__(self, cfg, parent=None):
+        super().__init__(parent)
+        self.cfg = cfg
+        self.setWindowTitle("AI Example / System Prompt — how news should look")
+        self.resize(750, 600)
+        lay = QVBoxLayout(self)
+        lay.addWidget(QLabel("<b>System prompt</b> (who AI is):"))
+        self.sys_edit = QPlainTextEdit()
+        self.sys_edit.setPlainText(cfg.get("ai_system_prompt", ""))
+        self.sys_edit.setPlaceholderText("You are a friendly news editor...")
+        self.sys_edit.setMinimumHeight(100)
+        lay.addWidget(self.sys_edit)
+        # Radio + dropdown to pick existing news as example
+        ex_head = QHBoxLayout()
+        ex_head.addWidget(QLabel("<b>Example news entry</b> — AI will see this as 'desired output format':"))
+        ex_head.addStretch()
+        lay.addLayout(ex_head)
+
+        # Dropdown: load existing news as selectable examples
+        self.example_combo = QComboBox()
+        self.example_combo.setMinimumWidth(450)
+        self.example_combo.addItem("— Custom (type below) —", None)
+        try:
+            import pathlib as _pl
+            from news_parser import parse_all as _parse_all, parse_date as _pd
+            data = _parse_all(_pl.Path("."))
+            cnt = 0
+            for cat in ["readme", "readme_tech", "readme_sport", "readme_2026_07"]:
+                if cat in data and "entries" in data[cat]:
+                    for e in data[cat]["entries"][:30]:  # limit per file
+                        label = f"{e.emoji + ' ' if e.emoji else ''}{e.date_str} — {e.title[:45]}"
+                        # store markdown as data
+                        md = e.to_markdown()
+                        self.example_combo.addItem(label, md)
+                        cnt += 1
+                        if cnt > 80:
+                            break
+        except Exception as ex:
+            dprint(f"example combo load failed: {ex}")
+        self.example_combo.currentIndexChanged.connect(self.on_example_picked)
+        lay.addWidget(QLabel("Pick existing news as example:"))
+        lay.addWidget(self.example_combo)
+
+        self.ex_edit = QPlainTextEdit()
+        self.ex_edit.setPlainText(cfg.get("ai_example", ""))
+        self.ex_edit.setPlaceholderText("## 🌟 October 29, 2026 — Title\n\n> 📰 **Tag** | ...\n\n- Bullet ...\n\n**Key insight:** ...")
+        lay.addWidget(self.ex_edit, stretch=1)
+        hint = QLabel("Tip: Pick from dropdown to load a real entry, or type custom. Radio-like: dropdown = selector, edit below is result.")
+        hint.setWordWrap(True); hint.setStyleSheet("color:#666;")
+        lay.addWidget(hint)
+        bb = QDialogButtonBox(QDialogButtonBox.Ok | QDialogButtonBox.Cancel)
+        bb.accepted.connect(self.accept); bb.rejected.connect(self.reject)
+        lay.addWidget(bb)
+    def on_example_picked(self, idx):
+        md = self.example_combo.currentData()
+        if md:
+            self.ex_edit.setPlainText(md)
+    def get_data(self):
+        return {"ai_system_prompt": self.sys_edit.toPlainText().strip(), "ai_example": self.ex_edit.toPlainText().strip()}
 
 
 class ArchiveDialog(QDialog):
@@ -353,6 +459,10 @@ class MainWindow(QMainWindow):
         btn_servers = QPushButton("Manage servers")
         btn_servers.clicked.connect(self.manage_servers)
         tb.addWidget(btn_servers)
+        btn_ai_settings = QPushButton("AI Example ✏️")
+        btn_ai_settings.setToolTip("Set example of how news should look — AI will see it as system prompt")
+        btn_ai_settings.clicked.connect(self.edit_ai_settings)
+        tb.addWidget(btn_ai_settings)
 
         # Central splitter: left tree, right editor+ai
         central = QSplitter(Qt.Horizontal)
@@ -580,6 +690,21 @@ class MainWindow(QMainWindow):
         except Exception as e:
             print(f"save window state failed: {e}")
         super().closeEvent(event)
+
+    def _select_entry_in_tree(self, path: Path, index: int | None):
+        """After save, re-select the saved entry in tree."""
+        if path is None or index is None:
+            return
+        for i in range(self.tree_model.rowCount()):
+            parent = self.tree_model.item(i)
+            d = parent.data(Qt.UserRole)
+            if d and d.get("path") == str(path):
+                if 0 <= index < parent.rowCount():
+                    child = parent.child(index)
+                    idx = child.index()
+                    self.tree.setCurrentIndex(idx)
+                    self.tree.scrollTo(idx)
+                    break
 
     # --- Tree ---
     def rebuild_tree(self):
@@ -945,6 +1070,8 @@ class MainWindow(QMainWindow):
                 first_h = i
                 break
         header = "\n".join(lines[:first_h]).strip() if first_h is not None else ""
+        # Remove trailing separator from header to avoid "------" (header already ends with --- + join adds another)
+        header = re.sub(r'\n*---\s*$', '', header).strip()
         # Footer: after last separator (look for final div)
         # We just take header + entries separated by \n\n---\n\n + footer if exists (trailing divs)
         # Detect footer: content after last entry's separator block in original
@@ -1023,16 +1150,33 @@ class MainWindow(QMainWindow):
             new_entry.body += f"\n\n📖 **Full details:** [{Path(link_txt).stem}]({link_txt})"
             new_entry.links.append((Path(link_txt).stem, link_txt))
 
+        was_new = False
         if self.current_entry_index is not None and 0 <= self.current_entry_index < len(entries):
             entries[self.current_entry_index] = new_entry
+            dprint(f"save: updated index {self.current_entry_index} -> {new_entry.date_str} | {new_entry.title[:40]}")
         else:
             # new entry: prepend (newest first)
             entries.insert(0, new_entry)
+            was_new = True
+            dprint(f"save: inserted new at 0 -> {new_entry.date_str} | {new_entry.title[:40]}")
 
         self._write_entries_back(self.current_path, entries, content)
+        # Remember saved entry for next save (avoid duplicate on append+save)
+        if was_new:
+            self.current_entry_index = 0
+            self.current_entry = new_entry
+        else:
+            # keep pointing to same index (now updated)
+            self.current_entry = new_entry
+        dprint(f"save done: total {len(entries)} current_index={self.current_entry_index} current_title={self.current_entry.title[:30] if self.current_entry else 'None'}")
         self.statusBar().showMessage(f"Saved {self.current_path.name} — {len(entries)} entries")
         QMessageBox.information(self, "Saved", f"Saved {self.current_path.name} with {len(entries)} entries")
         self.rebuild_tree()
+        # Restore selection to saved entry in tree
+        try:
+            self._select_entry_in_tree(self.current_path, self.current_entry_index)
+        except Exception as e:
+            dprint(f"select after save failed: {e}")
 
     def update_preview(self, detail_mode=False):
         # Build preview markdown from current form
@@ -1114,6 +1258,15 @@ class MainWindow(QMainWindow):
     def on_model_changed(self, txt):
         self.cfg["model"] = txt.strip()
         save_config(self.cfg)
+
+    def edit_ai_settings(self):
+        dlg = AISettingsDialog(self.cfg, self)
+        if dlg.exec_() == QDialog.Accepted:
+            data = dlg.get_data()
+            self.cfg.update(data)
+            save_config(self.cfg)
+            self.statusBar().showMessage("AI example saved — will be sent as system prompt")
+            dprint(f"AI example updated sys_len={len(data['ai_system_prompt'])} ex_len={len(data['ai_example'])}")
 
     def manage_servers(self):
         dlg = ServerDialog(self.cfg, self)
@@ -1224,17 +1377,15 @@ class MainWindow(QMainWindow):
     def apply_ai_to_fields(self):
         if not self.last_ai_text or not self.last_ai_text.strip():
             QMessageBox.information(self, "No AI", "No AI text to apply. Ask AI first."); return
-        # Heuristic: if AI returned markdown entry, try to parse title/body
         txt = self.last_ai_text.strip()
-        # Let user choose what to apply
-        choice, ok = QInputDialog.getItem(self, "Apply AI", "What to apply?", ["Append to Body", "Replace Body", "Set Title", "Set Insight", "Show in dialog"], 0, False)
+        choice, ok = QInputDialog.getItem(self, "Apply AI", "What to apply?", ["Replace Body (AI only)", "Append to Body", "Set Title", "Set Insight", "Show in dialog"], 0, False)
         if not ok: return
         if choice == "Append to Body":
             self.ed_body.setPlainText(self.ed_body.toPlainText().rstrip() + "\n\n" + txt)
-        elif choice == "Replace Body":
+        elif choice.startswith("Replace Body"):
+            # Replace: only AI content, discard original
             self.ed_body.setPlainText(txt)
         elif choice == "Set Title":
-            # first line as title if short
             title = txt.splitlines()[0].strip()[:120]
             self.ed_title.setText(title)
         elif choice == "Set Insight":
