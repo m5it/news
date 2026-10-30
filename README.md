@@ -436,7 +436,7 @@ More on how to protect raw systemd data <a href="TECH/systemd_protect_raw_data.m
   <br>
   We could kill the process aswell instead of DROP the ip..<br>
   <br>
-  Tsunamiwall stats if someone is interested: <a href="tsunamiwall.stats.19.10.26.txt">tsunamiwall.stats</a><br>
+  Tsunamiwall stats if someone is interested: <a href="DEFAULT/tsunamiwall.stats.19.10.26.txt">tsunamiwall.stats</a><br>
 
 ---
 
@@ -501,7 +501,7 @@ More on how to protect raw systemd data <a href="TECH/systemd_protect_raw_data.m
 
 ## October 14, 2026 — Some think these pages are worth to observe...
 
-- <a href="worth_to_observe.txt">worth to observe/monitor</a>
+- <a href="DEFAULT/worth_to_observe.txt">worth to observe/monitor</a>
 
 ---
 
