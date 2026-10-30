@@ -23,6 +23,17 @@
 
 ---
 
+## ⚠️ October 30, 2026 — Linux Kernel TCP Flaw (9.8 CVSS) Affects Ubuntu, Red Hat, and Other Distributions
+
+> 🛡️ **Security Alert** | 🐧 **Linux Kernel** | ⚠️ **Critical Vulnerability**
+
+- **Worth being aware of and protecting your systems with any means possible and useful! :)**
+- 🔗 [Read more on The Hacker News](https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html)
+
+**Key insight:** A 9.8 CVSS score is a massive red flag. When the core of your operating system has a flaw this critical, patching isn't just an option—it's a priority. Stay vigilant and update your distributions immediately.
+
+---
+
 ## ⚠️ October 30, 2026 — From now on only democracy
 
 > 📝 **Personal News** | 💰 **Business Update**
