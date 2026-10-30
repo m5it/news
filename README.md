@@ -26,7 +26,7 @@
 ## ⚠️ October 30, 2026 — Important
 
 - Because of kernel problem please shutdown tsunamiwall!
-- Use iptables only!
+- Use iptables to DROP what is possible.
 - Until kernel patch is released.
 
 ---
