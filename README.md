@@ -35,9 +35,9 @@
     4.) pip install -r requirements.txt<br>
     5.) sudo ln -s $(pwd)/mystart.sh /usr/local/bin/githubnews<br>
     6) githubnews<br>
-<br>
-<img src="news_editor4.jpg"/>
+- It works on linux only. If you like to work on another system message me! Thanks. Also donations are welcome.<br>
 
+<img src="news_editor4.jpg"/>
 
 **Key insight:** *Transforming static documentation into a dynamic, living news feed.*
 
