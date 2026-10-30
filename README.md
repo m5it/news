@@ -42,8 +42,8 @@
 
 - Well, as the title says: updating the GUI editor for README.md files to function as news on GitHub... I like it somehow; maybe you will too! :) ***
 - How to start:<br>
-    1.) First install requirements.txt into new pip/python environment.<br>
-    2.) source into new environment<br>
+    1.) Source into new pip environment (create: pip -m venv .venv)<br>
+    2.) Install requirements.txt into new pip/python environment.<br>
     3.) update pip (pip install --upgrade pip)<br>
     4.) pip install -r requirements.txt<br>
     5.) sudo ln -s $(pwd)/mystart.sh /usr/local/bin/githubnews<br>
