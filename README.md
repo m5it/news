@@ -29,6 +29,7 @@
 - Use iptables to DROP what is possible.
 - Until kernel patch is released.
 - Looks debian trixy and some OS's got patch already
+    ( Our servers are fixed ) :) sory for contabo...
 
 ---
 
