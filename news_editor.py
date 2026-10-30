@@ -19,9 +19,10 @@ from PyQt5.QtWidgets import (
     QVBoxLayout, QHBoxLayout, QFormLayout, QTextEdit, QTextBrowser, QLineEdit, QLabel,
     QPushButton, QComboBox, QDateEdit, QMessageBox, QInputDialog, QMenu, QAction,
     QStatusBar, QToolBar, QGroupBox, QTabWidget, QFileDialog, QDialog, QDialogButtonBox,
-    QPlainTextEdit
+    QPlainTextEdit, QCheckBox
 )
 from PyQt5.QtCore import Qt, QThread, pyqtSignal, QDate, QModelIndex, QSize
+from PyQt5.QtWidgets import QSizePolicy
 from PyQt5.QtGui import QStandardItemModel, QStandardItem, QFont
 
 # local
@@ -571,20 +572,35 @@ class MainWindow(QMainWindow):
         form_lay.addWidget(QLabel("<b>Editor</b> — select tree item → edit here. Bottom is preview."))
         # fields
         grid = QFormLayout()
-        self.ed_date = QLineEdit(); self.ed_date.setPlaceholderText("October 29, 2026")
+        self.ed_date = QLineEdit(); self.ed_date.setPlaceholderText("October 29, 2026"); self.ed_date.setMinimumHeight(28)
         self.ed_title = QLineEdit(); self.ed_title.setPlaceholderText("Title")
-        self.ed_emoji = QLineEdit(); self.ed_emoji.setPlaceholderText("📰"); self.ed_emoji.setMaximumWidth(80)
+        EMOJIS = ["📰","🌟","🚀","⚡","🔥","💻","🤖","💡","🎉","⚠️","🛡️","🌍","🏛️","🗳️","📺","🎂","🤔","😊","❤️","✅","📌","🔧","🧠","📚","🎬","⚽","🏆"]
+        self.ed_emoji = QLineEdit(); self.ed_emoji.setPlaceholderText("📰"); self.ed_emoji.setMaximumWidth(80); self.ed_emoji.setMinimumHeight(28); self.ed_emoji.setSizePolicy(QSizePolicy.Preferred, QSizePolicy.Fixed)
+        self.emoji_combo = QComboBox(); self.emoji_combo.setMaximumWidth(90); self.emoji_combo.setMinimumHeight(28); self.emoji_combo.setSizePolicy(QSizePolicy.Preferred, QSizePolicy.Fixed); self.emoji_combo.addItem("emoji…")
+        for e in EMOJIS: self.emoji_combo.addItem(e)
+        self.emoji_combo.activated.connect(lambda idx: idx and (self.ed_emoji.setText(self.emoji_combo.currentText()), self.emoji_combo.setCurrentIndex(0)))
         self.ed_tags = QLineEdit(); self.ed_tags.setPlaceholderText("Tag1 | Tag2 | Tag3 (shown as > ...)")
         self.ed_link = QLineEdit(); self.ed_link.setPlaceholderText("TECH/file.md or leave empty (auto creates link if detail file)")
         date_row = QHBoxLayout()
-        date_row.addWidget(self.ed_date, stretch=1); date_row.addWidget(QLabel("Emoji:")); date_row.addWidget(self.ed_emoji)
-        date_w = QWidget(); date_w.setLayout(date_row)
+        date_row.addWidget(self.ed_date, stretch=1); date_row.addWidget(QLabel("Emoji:")); date_row.addWidget(self.ed_emoji); date_row.addWidget(self.emoji_combo)
+        date_row.setContentsMargins(0,0,0,0)
+        date_row.setSpacing(6)
+        date_w = QWidget(); date_w.setLayout(date_row); date_w.setFixedHeight(34)
         grid.addRow("Date:", date_w)
         grid.addRow("Title:", self.ed_title)
         grid.addRow("Tags (>):", self.ed_tags)
         grid.addRow("Detail link:", self.ed_link)
         form_lay.addLayout(grid)
-        form_lay.addWidget(QLabel("Body (markdown, bullets with -):"))
+        # Body + emoji insert at cursor
+        body_head = QHBoxLayout()
+        body_head.addWidget(QLabel("Body (markdown, bullets with -):"), stretch=1)
+        self.btn_emoji_body = QPushButton("😊 Insert emoji"); self.btn_emoji_body.setMaximumWidth(140)
+        emoji_menu = QMenu(self.btn_emoji_body)
+        for e in EMOJIS:
+            emoji_menu.addAction(e, lambda _, ee=e: self.ed_body.textCursor().insertText(ee))
+        self.btn_emoji_body.setMenu(emoji_menu)
+        body_head.addWidget(self.btn_emoji_body)
+        form_lay.addLayout(body_head)
         self.ed_body = QPlainTextEdit()
         self.ed_body.setPlaceholderText("- Your news text here...\n- Second bullet")
         self.ed_body.textChanged.connect(self.update_preview)
@@ -594,13 +610,31 @@ class MainWindow(QMainWindow):
         self.ed_insight.setPlaceholderText("One sentence takeaway...")
         self.ed_insight.textChanged.connect(self.update_preview)
         form_lay.addWidget(self.ed_insight)
-        # form buttons
+        # Auto-format checkboxes — only when checked action applies
+        fmt_row = QHBoxLayout()
+        self.cb_auto_img = QCheckBox("Auto <img> for images (.jpg/.png/.gif)"); self.cb_auto_img.setToolTip("If checked and body has bare image path/url not in <img src=\"...\", auto wrap to <img src=\"...\">")
+        self.cb_auto_url = QCheckBox("Auto <a> for URLs"); self.cb_auto_url.setToolTip("If checked and body has bare https:// not in <a href=, auto wrap to <a href=\"...\">")
+        # restore from config
+        self.cb_auto_img.setChecked(self.cfg.get("auto_img", False))
+        self.cb_auto_url.setChecked(self.cfg.get("auto_url", False))
+        self.cb_auto_img.toggled.connect(lambda v: (self.cfg.update({"auto_img": v}), save_config(self.cfg)))
+        self.cb_auto_url.toggled.connect(lambda v: (self.cfg.update({"auto_url": v}), save_config(self.cfg)))
+        fmt_row.addWidget(self.cb_auto_img); fmt_row.addWidget(self.cb_auto_url)
+        fmt_row.addStretch()
+        form_lay.addLayout(fmt_row)
+        # Mode indicator
+        self.mode_label = QLabel("📝 <b>Mode:</b> — select news or create new")
+        self.mode_label.setStyleSheet("padding:4px; background:#E3F2FD; border:1px solid #90CAF9; border-radius:4px;")
+        self.mode_label.setWordWrap(True)
+        form_lay.addWidget(self.mode_label)
+        # form buttons — clearly separated Create vs Update
         fbtns = QHBoxLayout()
-        self.btn_save = QPushButton("💾 Save"); self.btn_save.clicked.connect(self.save_current)
-        self.btn_new_entry = QPushButton("＋ New Entry"); self.btn_new_entry.clicked.connect(self.new_entry_in_current)
-        self.btn_delete_entry = QPushButton("🗑 Remove Entry"); self.btn_delete_entry.clicked.connect(self.delete_entry)
+        self.btn_create = QPushButton("➕ Create New"); self.btn_create.setStyleSheet("background:#4CAF50; color:white; font-weight:bold; padding:6px;"); self.btn_create.setToolTip("Create new entry (will not overwrite existing)"); self.btn_create.clicked.connect(self.create_new_entry)
+        self.btn_update = QPushButton("✏️ Update Selected"); self.btn_update.setStyleSheet("background:#2196F3; color:white; font-weight:bold; padding:6px;"); self.btn_update.setToolTip("Update currently selected entry (selected in tree)"); self.btn_update.clicked.connect(self.update_selected_entry)
+        self.btn_new_entry = QPushButton("＋ New Form"); self.btn_new_entry.clicked.connect(self.new_entry_in_current)
+        self.btn_delete_entry = QPushButton("🗑 Remove"); self.btn_delete_entry.clicked.connect(self.delete_entry)
         self.btn_preview_raw = QPushButton("↻ Preview"); self.btn_preview_raw.clicked.connect(self.update_preview)
-        for b in [self.btn_save, self.btn_new_entry, self.btn_delete_entry, self.btn_preview_raw]:
+        for b in [self.btn_create, self.btn_update, self.btn_new_entry, self.btn_delete_entry, self.btn_preview_raw]:
             fbtns.addWidget(b)
         form_lay.addLayout(fbtns)
         # connect title/date changes to preview
@@ -784,6 +818,7 @@ class MainWindow(QMainWindow):
                     link = href; break
             self.ed_link.setText(link)
             self.statusBar().showMessage(f"Editing entry {self.current_entry.date_str} — {self.current_entry.title[:40]}")
+            self._update_mode_label()
             self.update_preview()
         elif kind in ("dir", "detail"):
             p = Path(data["path"])
@@ -817,6 +852,16 @@ class MainWindow(QMainWindow):
         item = self.tree_model.itemFromIndex(idx)
         data = item.data(Qt.UserRole)
         menu = QMenu(self)
+        # Add as example — sets AI example without overwriting editor
+        if data["kind"] == "entry":
+            e = data.get("entry")
+            if e:
+                a = menu.addAction("⭐ Set as AI example")
+                a.setToolTip("Use this news as example for AI (how news should look) without touching editor")
+                a.triggered.connect(lambda _, en=e: self.set_as_ai_example(en))
+        elif data["kind"] == "detail":
+            a = menu.addAction("⭐ Set as AI example")
+            a.triggered.connect(lambda _, p=data["path"]: self.set_as_ai_example(Path(p)))
         if data["kind"] in ("dir", "readme"):
             a = menu.addAction("New file here"); a.triggered.connect(self.new_file)
             a2 = menu.addAction("Rename"); a2.triggered.connect(lambda: self.rename_selected(item, data))
@@ -824,6 +869,27 @@ class MainWindow(QMainWindow):
             a = menu.addAction("Delete file"); a.triggered.connect(self.delete_selected)
             b = menu.addAction("Rename file"); b.triggered.connect(lambda: self.rename_selected(item, data))
         menu.exec_(self.tree.viewport().mapToGlobal(pos))
+
+    def set_as_ai_example(self, entry_or_path):
+        """Right-click → Set as AI example: saves to config without overwriting editor draft"""
+        try:
+            if isinstance(entry_or_path, Path):
+                md = entry_or_path.read_text(encoding="utf-8")
+                title = entry_or_path.name
+            else:
+                md = entry_or_path.to_markdown()
+                title = getattr(entry_or_path, 'title', str(entry_or_path))
+            self.cfg["ai_example"] = md
+            save_config(self.cfg)
+            self.statusBar().showMessage(f"⭐ AI example set: {title[:50]} — next Polish will use this format")
+            dprint(f"AI example set via context menu len={len(md)} title={title[:40]}")
+            # Visible feedback: append to AI history and popup preview
+            preview = md[:400] + ("..." if len(md) > 400 else "")
+            self.ai_history.append(f"<b>⭐ Example set:</b> <i>{title}</i><br><pre style='background:#fff3cd; padding:4px;'>{preview}</pre><small>Will be sent as system prompt on next AI request (editor untouched).</small><hr>")
+            self.ai_history.ensureCursorVisible()
+            QMessageBox.information(self, "AI Example set", f"Example set from:\n{title}\n\nPreview:\n{preview[:500]}\n\nNext AI request will use this format.")
+        except Exception as e:
+            QMessageBox.warning(self, "Error", str(e))
 
     # --- Editor actions ---
     def new_category(self):
@@ -927,7 +993,26 @@ class MainWindow(QMainWindow):
         self.current_detail_path = None
         self.current_path = target
         self.statusBar().showMessage(f"New entry — will be appended to {target.name} on Save")
+        self._update_mode_label()
         self.update_preview()
+
+    def _update_mode_label(self):
+        if self.current_entry is None and self.current_entry_index is None:
+            if self.current_detail_path:
+                self.mode_label.setText(f"📄 <b>Detail file:</b> {self.current_path.name} — Save will overwrite file")
+            else:
+                tgt = self.current_path.name if self.current_path and self.current_path.suffix==".md" else "README.md"
+                self.mode_label.setText(f"➕ <b>Create mode:</b> New entry → will be <b>added</b> to {tgt} (no overwrite)")
+            self.btn_create.setEnabled(True)
+            self.btn_update.setEnabled(False)
+            self.btn_create.setStyleSheet("background:#4CAF50; color:white; font-weight:bold; padding:6px;")
+            self.btn_update.setStyleSheet("background:#BDBDBD; color:#616161; padding:6px;")
+        else:
+            self.mode_label.setText(f"✏️ <b>Update mode:</b> Editing #{self.current_entry_index} \"{self.current_entry.title[:40]}\" in {self.current_path.name} — Save will <b>overwrite</b> this entry")
+            self.btn_create.setEnabled(False)
+            self.btn_update.setEnabled(True)
+            self.btn_create.setStyleSheet("background:#BDBDBD; color:#616161; padding:6px;")
+            self.btn_update.setStyleSheet("background:#2196F3; color:white; font-weight:bold; padding:6px;")
 
     def delete_entry(self):
         if self.current_entry is None or self.current_path is None:
@@ -1103,8 +1188,86 @@ class MainWindow(QMainWindow):
         new_content = news_parser.normalize_file_content(new_content)
         path.write_text(new_content, encoding="utf-8")
 
+    def create_new_entry(self):
+        """Explicit create — never overwrites, always inserts new"""
+        if self.current_detail_path is not None:
+            QMessageBox.warning(self, "Detail file", "Use Save for detail files, Create is for README news"); return
+        if self.current_path is None or self.current_path.is_dir() or not self.current_path.exists():
+            self.current_path = Path("README.md")
+        if not self.ed_date.text().strip() or not self.ed_title.text().strip():
+            QMessageBox.warning(self, "Missing", "Date and Title required"); return
+        content = self.current_path.read_text(encoding="utf-8")
+        entries = news_parser.parse_entries(content, source_file=str(self.current_path))
+        raw_body = self.ed_body.toPlainText().strip()
+        # auto-format only if checkboxes checked
+        if getattr(self, 'cb_auto_img', None) and self.cb_auto_img.isChecked():
+            raw_body = self._auto_img_format(raw_body)
+        if getattr(self, 'cb_auto_url', None) and self.cb_auto_url.isChecked():
+            raw_body = self._auto_url_format(raw_body)
+        body_lines = raw_body.splitlines()
+        if body_lines and re.match(r'^#{1,2}\s+.*\d{4}\s*[—–\-]', body_lines[0]):
+            m = news_parser.HEADER_RE.match(body_lines[0])
+            if m:
+                raw_body = "\n".join(body_lines[1:]).strip()
+                raw_body = re.sub(r'^\s*---\s*\n', '', raw_body).strip()
+        new_entry = news_parser.NewsEntry(raw_header=f"## {self.ed_date.text().strip()} — {self.ed_title.text().strip()}", header_level="##", date_str=self.ed_date.text().strip(), title=self.ed_title.text().strip(), emoji=self.ed_emoji.text().strip(), tags=self.ed_tags.text().strip(), body=raw_body, key_insight=self.ed_insight.text().strip(), links=[], source_file=str(self.current_path), category=self.current_path.stem.lower())
+        if self.ed_link.text().strip() and self.ed_link.text().strip() not in new_entry.body:
+            new_entry.body += f"\n\n📖 **Full details:** [{Path(self.ed_link.text().strip()).stem}]({self.ed_link.text().strip()})"
+        entries.insert(0, new_entry)
+        dprint(f"create: inserted new at 0 -> {new_entry.title[:40]}")
+        self._write_entries_back(self.current_path, entries, content)
+        self.current_entry_index = 0
+        self.current_entry = new_entry
+        self.statusBar().showMessage(f"Created {self.current_path.name} — {len(entries)} entries")
+        QMessageBox.information(self, "Created", f"Created new entry in {self.current_path.name} (not overwriting)")
+        self.rebuild_tree()
+        self._select_entry_in_tree(self.current_path, 0)
+        self._update_mode_label()
+
+    def update_selected_entry(self):
+        """Explicit update — only if entry selected, never creates"""
+        if self.current_entry is None or self.current_entry_index is None:
+            QMessageBox.warning(self, "No selection", "Select an entry in tree to update. For new, use Create New."); return
+        if self.current_detail_path is not None:
+            self.save_current(); return
+        if not self.ed_date.text().strip() or not self.ed_title.text().strip():
+            QMessageBox.warning(self, "Missing", "Date and Title required"); return
+        content = self.current_path.read_text(encoding="utf-8")
+        entries = news_parser.parse_entries(content, source_file=str(self.current_path))
+        raw_body = self.ed_body.toPlainText().strip()
+        if getattr(self, 'cb_auto_img', None) and self.cb_auto_img.isChecked():
+            raw_body = self._auto_img_format(raw_body)
+        if getattr(self, 'cb_auto_url', None) and self.cb_auto_url.isChecked():
+            raw_body = self._auto_url_format(raw_body)
+        body_lines = raw_body.splitlines()
+        if body_lines and re.match(r'^#{1,2}\s+.*\d{4}\s*[—–\-]', body_lines[0]):
+            m = news_parser.HEADER_RE.match(body_lines[0])
+            if m:
+                raw_body = "\n".join(body_lines[1:]).strip()
+                raw_body = re.sub(r'^\s*---\s*\n', '', raw_body).strip()
+        new_entry = news_parser.NewsEntry(raw_header=f"## {self.ed_date.text().strip()} — {self.ed_title.text().strip()}", header_level="##", date_str=self.ed_date.text().strip(), title=self.ed_title.text().strip(), emoji=self.ed_emoji.text().strip(), tags=self.ed_tags.text().strip(), body=raw_body, key_insight=self.ed_insight.text().strip(), links=[], source_file=str(self.current_path), category=self.current_path.stem.lower())
+        if self.ed_link.text().strip() and self.ed_link.text().strip() not in new_entry.body:
+            new_entry.body += f"\n\n📖 **Full details:** [{Path(self.ed_link.text().strip()).stem}]({self.ed_link.text().strip()})"
+        if not (0 <= self.current_entry_index < len(entries)):
+            QMessageBox.warning(self, "Out of range", "Selected index invalid, refresh tree"); return
+        entries[self.current_entry_index] = new_entry
+        dprint(f"update: index {self.current_entry_index} -> {new_entry.title[:40]}")
+        self._write_entries_back(self.current_path, entries, content)
+        self.current_entry = new_entry
+        self.statusBar().showMessage(f"Updated {self.current_path.name} #{self.current_entry_index}")
+        QMessageBox.information(self, "Updated", f"Updated entry #{self.current_entry_index} in {self.current_path.name} (no new entry created)")
+        self.rebuild_tree()
+        self._select_entry_in_tree(self.current_path, self.current_entry_index)
+        self._update_mode_label()
+
     def save_current(self):
-        # Detail file mode
+        # Backwards compat: delegate to create/update based on mode
+        if self.current_entry is not None and self.current_entry_index is not None:
+            self.update_selected_entry()
+        else:
+            self.create_new_entry()
+        return
+        # --- old generic save kept for detail fallback below ---
         if self.current_detail_path is not None:
             p = self.current_detail_path
             txt = self.ed_body.toPlainText()
@@ -1192,6 +1355,41 @@ class MainWindow(QMainWindow):
             self._select_entry_in_tree(self.current_path, self.current_entry_index)
         except Exception as e:
             dprint(f"select after save failed: {e}")
+
+    def _auto_img_format(self, text: str) -> str:
+        # Only if not already <img src=
+        import re as _re
+        def repl(m):
+            pre = m.group(1)
+            url = m.group(2).strip()
+            # skip if already inside tag
+            if '<img' in pre[-20:]:
+                return m.group(0)
+            if not _re.search(r'\.(jpg|jpeg|png|gif|webp|bmp|svg)(\s|$)', url, _re.I):
+                return m.group(0)
+            dprint(f"auto-img: {url}")
+            return f'{pre}<img src="{url}">'
+        # bare tokens or https urls on their own
+        text = _re.sub(r'(^|\s)([^\s<>"\']+\.(?:jpg|jpeg|png|gif|webp|bmp|svg))\b', repl, text, flags=_re.I)
+        text = _re.sub(r'(^|\s)(https?://[^\s<>"\']+\.(?:jpg|jpeg|png|gif|webp))\b', repl, text, flags=_re.I)
+        return text
+
+    def _auto_url_format(self, text: str) -> str:
+        import re as _re
+        def repl(m):
+            pre = m.group(1)
+            url = m.group(2).strip()
+            # skip if already inside <a href=
+            if '<a' in pre[-20:] or 'href=' in pre[-15:]:
+                return m.group(0)
+            if url.startswith('<'):  # already tag
+                return m.group(0)
+            dprint(f"auto-url: {url}")
+            return f'{pre}<a href="{url}">{url}</a>'
+        # bare https http not already in tag
+        # negative lookbehind for href="
+        text = _re.sub(r'(^|\s)(https?://[^\s<>"\']+)(?![^<]*>)', repl, text)
+        return text
 
     def update_preview(self, detail_mode=False):
         # Build preview markdown from current form
