@@ -30,7 +30,8 @@
 - Until kernel patch is released.
 - Looks debian trixy and some OS's got patch already
     ( Our servers are fixed ) :) sory for contabo...
-- Probably hardened gentoo or gentoo like that dont have these problems. (not sure)
+- Probably hardened gentoo or gentoo like that dont have these problems. (not sure)<br>
+    Think bigger problem is for routers and similar stuff :x<br>
 
 ---
 
