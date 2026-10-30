@@ -23,6 +23,18 @@
 
 ---
 
+## ⚠️ October 30, 2026 — From now on only democracy
+
+> 📝 **Personal News** | 💰 **Business Update**
+
+- From now on, I am moving toward a model where new work is available as a trial or through a monthly/yearly subscription.
+- I've decided to be like democracy, just like you... It looks like this is the only way to keep doing what I love... I hope... ***
+- Besitos a todos ***
+
+**Key insight:** To keep the passion alive and the work flowing, sustainability is key.
+
+---
+
 ## 🌍 October 30, 2026 — Updating github news editor
 
 > 🔧 **Tools & Development** | 📝 **Personal News**
