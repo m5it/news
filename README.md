@@ -29,6 +29,9 @@
 
 - Well, as the title says: updating the GUI editor for README.md files to function as news on GitHub... I like it somehow; maybe you will too! :) ***
 
+<img src="news_editor4.jpg"/>
+
+
 **Key insight:** *Transforming static documentation into a dynamic, living news feed.*
 
 ---
