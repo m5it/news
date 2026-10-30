@@ -30,6 +30,7 @@
 - From now on, I am moving toward a model where new work is available as a trial or through a monthly/yearly subscription.
 - I've decided to be like democracy, just like you... It looks like this is the only way to keep doing what I love... I hope... ***
 - Besitos a todos ***
+- But you need to know that to show some of work is important! And this was I doing... sory for bothering ***
 
 **Key insight:** To keep the passion alive and the work flowing, sustainability is key.
 
@@ -49,7 +50,7 @@
     6) githubnews<br>
 - It works on linux only. If you like to work on another system message me! Thanks. Also donations are welcome.<br>
 
-<img src="news_editor4.jpg"/>
+<img src="pic/news_editor4.jpg"/>
 
 **Key insight:** *Transforming static documentation into a dynamic, living news feed.*
 
@@ -62,7 +63,7 @@
 - **Created a GitHub news editor**—finally giving my personal news a proper home.
 - **Testing it out**—so far, so good. The editor is functional and responsive.
 - **Added local Ollama support**—because why not? AI-assisted editing is a game-changer for keeping things concise and polished.
-- **Screenshots attached** (news_editor1.jpg, news_editor2.jpg, news_editor3.jpg)—proof that it’s actually working!
+- **Screenshots attached** (pic/news_editor1.jpg, pic/news_editor2.jpg, pic/news_editor3.jpg)—proof that it’s actually working!
 
 **Key insight:** *Automation isn’t just about efficiency—it’s about reclaiming time to focus on what matters. Now I can write, refine, and publish with a little help from my AI sidekick.* 🚀
 

@@ -9,4 +9,4 @@ if [ -z "$DISPLAY" ] && [ -z "$WAYLAND_DISPLAY" ]; then
   echo "No display detected — run with xvfb or set DISPLAY"
   echo "Example: xvfb-run python3 news_editor.py"
 fi
-exec python3 "$DIR/news_editor.py" "$@"
+exec python3 "$DIR/bin/news_editor.py" "$@"

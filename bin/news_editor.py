@@ -25,8 +25,14 @@ from PyQt5.QtCore import Qt, QThread, pyqtSignal, QDate, QModelIndex, QSize
 from PyQt5.QtWidgets import QSizePolicy
 from PyQt5.QtGui import QStandardItemModel, QStandardItem, QFont
 
-# local
-import news_parser
+# local — support both bin/ and direct run
+import importlib.util as _ilu
+if (Path(__file__).parent / "news_parser.py").exists():
+    import sys as _sys
+    _sys.path.insert(0, str(Path(__file__).parent))
+    import news_parser
+else:
+    from bin import news_parser
 
 APP_NAME = "gitnewsadmin"
 # Config in ~/.config/gitnewsadmin/config.json (XDG), fallback to ./editor_config.json for portable use
@@ -270,7 +276,7 @@ class AISettingsDialog(QDialog):
         self.example_combo.addItem("— Custom (type below) —", None)
         try:
             import pathlib as _pl
-            from news_parser import parse_all as _parse_all, parse_date as _pd
+            import news_parser as _np; _parse_all=_np.parse_all; _pd=_np.parse_date
             data = _parse_all(_pl.Path("."))
             cnt = 0
             for cat in ["readme", "readme_tech", "readme_sport", "readme_2026_07"]:
