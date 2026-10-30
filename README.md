@@ -30,7 +30,7 @@
 - From now on, I am moving toward a model where new work is available as a trial or through a monthly/yearly subscription.
 - I've decided to be like democracy, just like you... It looks like this is the only way to keep doing what I love... I hope... ***
 - Besitos a todos ***
-- But you need to know that to show some of work is important! And this was I doing... sory for bothering ***
+- But you need to know that to show some of work is important! And this was I doing... sory for bothering *** (porting from one done work to another language!)
 
 **Key insight:** To keep the passion alive and the work flowing, sustainability is key.
 
