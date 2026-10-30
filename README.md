@@ -27,6 +27,7 @@
 
 - Because of kernel problem please shutdown tsunamiwall!
 - Use iptables only!
+- Until kernel patch is released.
 
 ---
 
