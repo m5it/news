@@ -23,6 +23,12 @@
 
 ---
 
+## ⚠️ October 30, 2026 — Important
+
+- Because of kernel problem please shutdown tsunamiwall !!!
+
+---
+
 ## ⚠️ October 30, 2026 — Linux Kernel TCP Flaw (9.8 CVSS) Affects Ubuntu, Red Hat, and Other Distributions
 
 > 🛡️ **Security Alert** | 🐧 **Linux Kernel** | ⚠️ **Critical Vulnerability**
