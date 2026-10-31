@@ -23,6 +23,17 @@
 
 ---
 
+## 💡 October 31, 2026 — Wikipedia need your attention
+
+> 📚 **Community** | 🌐 **Knowledge**
+
+- Wikipedia needs our help! Don't just think about your own ass!
+<img src="pic/wikipedia_need_attention.jpg">
+
+**Key insight:** Knowledge is a shared resource. If we only consume information without contributing to its maintenance, the foundation of our collective understanding begins to crumble.
+
+---
+
 ## 🤔 October 31, 2026 — How is the Linux Kernel TCP Flaw Update Progressing?
 
 > 🛡️ **Security Update** | 🐧 **Linux Kernel** | 🔍 **Vulnerability Monitoring**
