@@ -23,6 +23,18 @@
 
 ---
 
+## 🤔 October 31, 2026 — How is the Linux Kernel TCP Flaw Update Progressing?
+
+> 🛡️ **Security Update** | 🐧 **Linux Kernel** | 🔍 **Vulnerability Monitoring**
+
+- It looks like some distros are already secured, but Ubuntu is still lagging behind. I'm wondering if the kernel was already immune or if the maintainers are just being lazy—personally, I'm leaning towards the former.
+- While testing the flaw on Debian, I noticed the kernel seems to be protected with an anti-flood mechanism. For example:  
+  `TCP: request_sock_TCP: Possible SYN flooding on port 127.0.0.1:8080. Sending cookies.`
+
+**Key insight:** Monitoring your logs is your first line of defense. Seeing "Sending cookies" indicates your system is actively fighting off a SYN flood, which is a good sign, but don't let the presence of an active defense lull you into a false sense of security. Check your distro's update status immediately.
+
+---
+
 ## ⚠️ October 30, 2026 — Important
 
 - Because of kernel problem please shutdown tsunamiwall!
