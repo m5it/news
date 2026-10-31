@@ -788,7 +788,35 @@ class MainWindow(QMainWindow):
         self.tree.expandAll()
         self.tree.resizeColumnToContents(0)
 
+    def _is_dirty(self):
+        """Check if editor has unsaved changes vs current loaded entry"""
+        if self.current_entry:
+            return (self.ed_date.text().strip() != self.current_entry.date_str or
+                    self.ed_title.text().strip() != self.current_entry.title or
+                    self.ed_emoji.text().strip() != self.current_entry.emoji or
+                    self.ed_tags.text().strip() != self.current_entry.tags or
+                    self.ed_body.toPlainText().strip() != self.current_entry.body.strip() or
+                    self.ed_insight.text().strip() != self.current_entry.key_insight)
+        elif self.current_detail_path:
+            try:
+                orig = self.current_detail_path.read_text(encoding="utf-8").strip()
+                return self.ed_body.toPlainText().strip() != orig
+            except:
+                return bool(self.ed_body.toPlainText().strip())
+        else:
+            # New entry mode — dirty if any field filled beyond defaults
+            return bool(self.ed_title.text().strip() and self.ed_title.text().strip() != "New title" and self.ed_title.text().strip() != f"Editing {self.current_path.name} — add new entry with ＋ New Entry" if self.current_path else self.ed_title.text().strip() != "New title")
+
     def on_tree_clicked(self, idx: QModelIndex):
+        # Only left-click should load into editor — right-click uses context menu without overwriting
+        # Check for unsaved changes before overwriting draft
+        if self._is_dirty():
+            cur_title = self.current_entry.title if self.current_entry else (self.ed_title.text().strip()[:30] or "new entry")
+            ret = QMessageBox.question(self, "Unsaved changes",
+                f"You have unsaved changes in '{cur_title}'.\nLoad selected entry anyway? (Choose No to keep editing)",
+                QMessageBox.Yes | QMessageBox.No, QMessageBox.No)
+            if ret != QMessageBox.Yes:
+                return
         item = self.tree_model.itemFromIndex(idx)
         data = item.data(Qt.UserRole)
         if not data:
