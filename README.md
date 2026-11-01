@@ -23,6 +23,14 @@
 
 ---
 
+## ✅ November 01, 2026 — Zmelkoow - best of eslovenia
+
+> 🎶 **Music** | 🇸🇮 **Slovenia**
+
+- 🎶 The best music from the Slovenian people... <a href="https://www.youtube.com/watch?v=NOe6QmNGWSw">the best</a>.
+
+---
+
 ## ❤️ November 01, 2026 — A que mola - Glooriaa
 
 > 🎶 **Music** | 🕺 **Retro Vibes** | ✨ **Mood**
