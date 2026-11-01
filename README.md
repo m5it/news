@@ -23,6 +23,18 @@
 
 ---
 
+## ⚠️ November 01, 2026 — Attackers Poisoned a Rust Crate With 245 Million Downloads to Run Malware at Compile Time, Not Runtime
+
+> 🛡️ **Security Alert** | 🦀 **Rust Ecosystem** | ⚠️ **Supply Chain Attack**
+
+- Another breach hit the Rust ecosystem around August 24. We're seeing a poisoned `arrayref` release on `crates.io`, a passkey kit that survives password resets, encrypted prompts designed to steal Grok data and bypass Gemini safeguards, and even suspected Russian authentication abuse.
+
+<a href="https://themondaybrief.substack.com/p/attackers-poisoned-a-rust-crate-with">more</a>
+
+**Key insight:** The supply chain is only as strong as its most downloaded dependency. When malware executes at *compile time*, your very tools of production become your attackers. A massive download count is a measure of trust, but in a supply chain attack, it's simply a measure of how many people are at risk. Check your crates.
+
+---
+
 ## 💡 October 31, 2026 — Wikipedia need your attention
 
 > 📚 **Community** | 🌐 **Knowledge**
