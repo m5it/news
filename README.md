@@ -23,6 +23,16 @@
 
 ---
 
+## ❤️ November 01, 2026 — A que mola - Glooriaa
+
+> 🎶 **Music** | 🕺 **Retro Vibes** | ✨ **Mood**
+
+- 🎶 **Umberto Tozzi - Gloria** <a href="https://www.youtube.com/watch?v=8Zs7VWqNGHg">Umberto Tozzi - Gloria</a>. Just listen. You'll get it.
+
+**Key insight:** When the news is full of supply chain attacks and kernel vulnerabilities, sometimes the only way to stay sane is to retreat into a classic melody. Not every update needs to be a security patch; some are just about the vibe.
+
+---
+
 ## ⚠️ November 01, 2026 — Attackers Poisoned a Rust Crate With 245 Million Downloads to Run Malware at Compile Time, Not Runtime
 
 > 🛡️ **Security Alert** | 🦀 **Rust Ecosystem** | ⚠️ **Supply Chain Attack**
