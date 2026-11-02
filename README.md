@@ -39,6 +39,8 @@
   ```
 - You can then use the `$backend` variable in your `proxy_pass` directive to route traffic efficiently. It is particularly useful when you want to separate development from public and more.
 
+<a href="TECH/nginx_domain_redirect_depend_on_ip_with_map.md">check example</a>
+
 **Key insight:** Use the `map` directive to turn a static configuration into a dynamic traffic controller, allowing you to segment your infrastructure based on the identity of the requester.
 
 ---
