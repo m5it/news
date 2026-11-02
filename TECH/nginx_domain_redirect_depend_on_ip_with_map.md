@@ -1,4 +1,4 @@
-Here's a comprehensive explanation of Nginx domain redirection based on IP using the `map` function, including your additional proxy configuration example:
+Explanation of Nginx domain redirection based on IP using the `map` function example: 
 
 ### Complete Nginx IP-Based Redirection with Map and Proxy
 
