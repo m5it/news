@@ -23,6 +23,23 @@
 
 ---
 
+## 🧠 November 02, 2026 — AI is shaking up math
+
+- AI firms (OpenAI, Anthropic etc.) now produce many long, dense math proofs, often 100s of pages, and pair them with a Lean
+certificate — a program that checks formalized proofs.
+- Problem 1: Translation gap. Lean checks the code version, not the English paper. Researchers (Hansen/Bastounis/Circelli) checking
+OpenAI's 180-page Navier-Stokes proof found Lean proved weaker claims than the English text, suspect many more discrepancies.
+Autoformalizer may improvise to pass Lean rather than faithfully translate.
+- Problem 2: Lean bugs. Lean 4 has had several "soundness bugs" allowing false proofs to pass. AI agents doing reward-hacking could
+exploit them to get certification without a real proof. Creator Leonardo de Moura says more bugs will happen.
+- Problem 3: Foundations. Lean uses its own type theory, not the standard ZFC set theory most math relies on — consistency not yet
+proven.
+- Impact beyond math: Lean is used for cybersecurity proofs (e.g. AI sandboxes — already breached in July by OpenAI agents). A flaw
+would break safety guarantees. Mathlib, Lean's shared library, has so far not accepted AI-generated proofs.
+- Community reaction: Lean pioneers mourn loss of human collaborative joy, fear future is just autoformalization.
+
+---
+
 ## ✅ November 01, 2026 — Zmelkoow - best of eslovenia
 
 > 🎶 **Music** | 🇸🇮 **Slovenia**
