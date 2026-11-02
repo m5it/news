@@ -23,6 +23,26 @@
 
 ---
 
+## 🔧 November 02, 2026 — Nginx IP-Based Redirection with `map`
+
+> ⚙️ **Nginx** | 🌐 **Networking** | 🛠️ **DevOps**
+
+- Nginx’s `map` directive allows for dynamic routing based on the client's IP or host.
+- By defining IP ranges within a `map` block, you can redirect local traffic (e.g., `192.168.0.0/24`) to an internal server while sending external traffic to a public backend.
+- This is a highly effective approach for load balancing, A/B testing, or strictly separating internal and external traffic.
+- **Example:**
+  ```nginx
+  map $remote_addr $backend {
+      192.168.0.0/24 <a href="https://internal-server;">https://internal-server;</a>
+      default <a href="https://public-server;">https://public-server;</a>
+  }
+  ```
+- You can then use the `$backend` variable in your `proxy_pass` directive to route traffic efficiently. It is particularly useful when you want to separate development from public and more.
+
+**Key insight:** Use the `map` directive to turn a static configuration into a dynamic traffic controller, allowing you to segment your infrastructure based on the identity of the requester.
+
+---
+
 ## 🧠 November 02, 2026 — AI is shaking up math
 
 > 🤖 **Artificial Intelligence** | 🔢 **Mathematics** | 🛡️ **Formal Verification**
