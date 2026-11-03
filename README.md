@@ -23,6 +23,13 @@
 
 ---
 
+## 🌍 November 03, 2026 — One future
+
+- Irlands says: "One future, not your past!"
+- I think I can agree.
+
+---
+
 ## 🚀 November 03, 2026 — Sam Altman and his wishes
 
 - Guess good CEO will know infront to buy or reserve machines... Well your lose! You are not so good CEO at end...
