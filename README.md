@@ -26,6 +26,7 @@
 ## 🚀 November 03, 2026 — Sam Altman and his wishes
 
 - Guess good CEO will know infront to buy or reserve machines... Well your lose! You are not so good CEO at end...
+- First have thinking the guy escaped from batman movie.
 - all for him<br>
 <img src="pic/sam-altmans.png">
 
