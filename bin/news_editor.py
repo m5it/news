@@ -348,8 +348,8 @@ class ArchiveDialog(QDialog):
         lay.addWidget(QLabel("What to archive:"))
         lay.addWidget(self.mode_combo)
 
-        # Params row
-        param_box = QGroupBox("Parameters")
+        # Params row — only filename needed for selected, other params hidden unless needed
+        param_box = QGroupBox("Parameters (only filename for Selected — others skipped)")
         param_lay = QFormLayout(param_box)
         self.month_combo = QComboBox()
         for k in sorted(months.keys()):
@@ -360,13 +360,16 @@ class ArchiveDialog(QDialog):
         self.keep_spin.setCurrentText("50")
         self.archive_target = QLineEdit()
         self.archive_target.setPlaceholderText("auto → README_YYYY_MM.md (based on moved entries) or pick existing")
-        # file picker
         pick_btn = QPushButton("Browse")
         target_row = QHBoxLayout(); target_row.addWidget(self.archive_target, stretch=1); target_row.addWidget(pick_btn)
         target_w = QWidget(); target_w.setLayout(target_row)
-        param_lay.addRow("Month:", self.month_combo)
-        param_lay.addRow("Cutoff date:", self.date_edit)
-        param_lay.addRow("Keep recent N:", self.keep_spin)
+        # keep refs to row widgets to hide/show
+        self._row_month = QWidget(); _rl = QHBoxLayout(self._row_month); _rl.setContentsMargins(0,0,0,0); _rl.addWidget(QLabel("Month:")); _rl.addWidget(self.month_combo, stretch=1)
+        self._row_date = QWidget(); _rl = QHBoxLayout(self._row_date); _rl.setContentsMargins(0,0,0,0); _rl.addWidget(QLabel("Cutoff date:")); _rl.addWidget(self.date_edit, stretch=1)
+        self._row_keep = QWidget(); _rl = QHBoxLayout(self._row_keep); _rl.setContentsMargins(0,0,0,0); _rl.addWidget(QLabel("Keep recent N:")); _rl.addWidget(self.keep_spin, stretch=1)
+        param_lay.addRow(self._row_month)
+        param_lay.addRow(self._row_date)
+        param_lay.addRow(self._row_keep)
         param_lay.addRow("Target archive file:", target_w)
         lay.addWidget(param_box)
 
@@ -383,8 +386,17 @@ class ArchiveDialog(QDialog):
 
         def update_preview():
             mode = self.mode_combo.currentIndex()
+            # hide/show param rows: selected needs only filename, skip others
+            is_selected = (mode == 0)
+            self._row_month.setVisible(not is_selected and mode == 2)
+            self._row_date.setVisible(not is_selected and mode == 3)
+            self._row_keep.setVisible(not is_selected and mode == 4)
+            self._row_month.setEnabled(not is_selected)
+            self._row_date.setEnabled(not is_selected)
+            self._row_keep.setEnabled(not is_selected)
+            param_box.setEnabled(True)  # keep target always enabled
             preview = ""
-            if mode == 1:  # previous month
+            if mode == 1:
                 from datetime import datetime as dt
                 cur = datetime.now()
                 prev_m = cur.month - 1 if cur.month > 1 else 12
@@ -398,7 +410,7 @@ class ArchiveDialog(QDialog):
             elif mode == 4:
                 preview = f"Will keep newest {self.keep_spin.currentText()} entries in {self.current_path.name}, archive rest. Tags kept."
             else:
-                preview = "Will archive entries you selected in tree (Ctrl+click multi-select). Tags kept."
+                preview = "Will archive selected entries (just set filename, other params skipped). Tags kept."
             self.preview_label.setText(preview)
         self.mode_combo.currentIndexChanged.connect(update_preview)
         self.month_combo.currentIndexChanged.connect(update_preview)
@@ -481,7 +493,12 @@ class MainWindow(QMainWindow):
         left_lay.setContentsMargins(4,4,4,4)
         left_w.setMinimumWidth(320)
 
-        left_lay.addWidget(QLabel("<b>Categories / Files</b> (all dirs are tags)"))
+        head_row = QHBoxLayout()
+        head_row.addWidget(QLabel("<b>Categories / Files</b> (all dirs are tags)"), stretch=1)
+        self.btn_toggle_news = QPushButton("🔽 Collapse"); self.btn_toggle_news.setMaximumWidth(90); self.btn_toggle_news.setCheckable(True)
+        self.btn_toggle_news.clicked.connect(self.toggle_news_list)
+        head_row.addWidget(self.btn_toggle_news)
+        left_lay.addLayout(head_row)
         self.tree_model = QStandardItemModel()
         self.tree_model.setHorizontalHeaderLabels(["News"])
         self.tree = QTreeView()
@@ -785,8 +802,23 @@ class MainWindow(QMainWindow):
                     child.setEditable(False)
                     parent.appendRow(child)
                 self.tree_model.appendRow(parent)
-        self.tree.expandAll()
+        # restore toggle state
+        if getattr(self, 'btn_toggle_news', None) and self.btn_toggle_news.isChecked():
+            self.tree.collapseAll()
+            self.btn_toggle_news.setText("🔼 Expand")
+        else:
+            self.tree.expandAll()
+            if getattr(self, 'btn_toggle_news', None):
+                self.btn_toggle_news.setText("🔽 Collapse")
         self.tree.resizeColumnToContents(0)
+
+    def toggle_news_list(self):
+        if self.btn_toggle_news.isChecked():
+            self.tree.collapseAll()
+            self.btn_toggle_news.setText("🔼 Expand")
+        else:
+            self.tree.expandAll()
+            self.btn_toggle_news.setText("🔽 Collapse")
 
     def _is_dirty(self):
         """Check if editor has unsaved changes vs current loaded entry"""
@@ -1083,6 +1115,21 @@ class MainWindow(QMainWindow):
         entries = news_parser.parse_entries(content, str(src))
         if not entries:
             QMessageBox.information(self, "Archive", f"No entries to archive in {src.name}"); return
+        # Capture multi-select BEFORE dialog (dialog can steal focus/clear selection)
+        pre_selected = []
+        try:
+            idxs = self.tree.selectionModel().selectedIndexes()
+            for idx in idxs:
+                item = self.tree_model.itemFromIndex(idx)
+                if not item: continue
+                d = item.data(Qt.UserRole)
+                if d and d.get("kind") == "entry":
+                    e = d.get("entry")
+                    if e:
+                        pre_selected.append((d.get("path"), e))
+            dprint(f"archive pre-select: {len(pre_selected)} entries from {set(p for p,_ in pre_selected)}")
+        except Exception as e:
+            dprint(f"pre-select failed: {e}")
         dlg = ArchiveDialog(src, entries, self)
         if dlg.exec_() != QDialog.Accepted:
             return
@@ -1092,24 +1139,46 @@ class MainWindow(QMainWindow):
         mode = params["mode"]
         target = params["target"]
         if mode == 0:
-            # Selected entries from tree (multi-select)
-            idxs = self.tree.selectionModel().selectedIndexes()
+            # Selected entries from tree (multi-select) — use pre-captured to survive focus loss
             sel_keys = set()
-            for idx in idxs:
-                item = self.tree_model.itemFromIndex(idx)
-                if not item: continue
-                d = item.data(Qt.UserRole)
-                if d and d.get("kind") == "entry" and d.get("path") == str(src):
-                    e = d.get("entry")
-                    if e:
-                        sel_keys.add((e.date_str, e.title))
+            # Prefer pre_selected that matches src, fallback to current src inference
+            candidates = [(p,e) for p,e in pre_selected if p == str(src)]
+            if not candidates and pre_selected:
+                # Infer src from selection if current_path was wrong (e.g. header selected)
+                from collections import Counter
+                cnt = Counter(p for p,_ in pre_selected)
+                inferred_src = cnt.most_common(1)[0][0]
+                src = Path(inferred_src)
+                # reload entries for inferred src
+                try:
+                    content = src.read_text(encoding="utf-8")
+                    entries = news_parser.parse_entries(content, str(src))
+                except: pass
+                candidates = [(p,e) for p,e in pre_selected if p == str(src)]
+                dprint(f"archive inferred src={src} candidates={len(candidates)}")
+            for _, e in candidates:
+                sel_keys.add((e.date_str, e.title))
+            # Also check current selection again as backup (in case dialog did not clear)
             if not sel_keys:
-                # fallback: current entry
+                try:
+                    idxs = self.tree.selectionModel().selectedIndexes()
+                    for idx in idxs:
+                        item = self.tree_model.itemFromIndex(idx)
+                        if not item: continue
+                        d = item.data(Qt.UserRole)
+                        if d and d.get("kind") == "entry" and d.get("path") == str(src):
+                            e = d.get("entry")
+                            if e:
+                                sel_keys.add((e.date_str, e.title))
+                except: pass
+            if not sel_keys:
                 if self.current_entry:
                     sel_keys.add((self.current_entry.date_str, self.current_entry.title))
+                    dprint(f"archive fallback to current_entry {self.current_entry.title[:30]}")
             to_move = [e for e in entries if (e.date_str, e.title) in sel_keys]
+            dprint(f"archive to_move={len(to_move)} sel_keys={len(sel_keys)}")
             if not to_move:
-                QMessageBox.warning(self, "Archive", "Select entries in tree (Ctrl+click) or pick current entry"); return
+                QMessageBox.warning(self, "Archive", f"Select entries in tree (Ctrl+click / Shift+click) — found {len(pre_selected)} pre-selected but none matched {src.name}. Try clicking first entry, then Shift+click last."); return
         elif mode == 1:  # previous month
             from datetime import datetime as dt
             cur = dt.now()
