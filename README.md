@@ -25,7 +25,8 @@
 
 ## 🚀 November 03, 2026 — Sam Altman and his wishes
 
-- all for him
+- Guess good CEO will know infront to buy or reserve machines... Well your lose! You are not so good CEO at end...
+- all for him<br>
 <img src="pic/sam-altmans.png">
 
 ---
