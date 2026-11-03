@@ -26,7 +26,7 @@
 ## 🚀 November 03, 2026 — Sam Altman and his wishes
 
 - all for him
-<img src="https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted">
+<img src="pic/sam-altmans.png>
 
 ---
 
