@@ -26,7 +26,7 @@
 ## 🚀 November 03, 2026 — Sam Altman and his wishes
 
 - all for him
-<img src="pic/sam-altmans.png>
+<img src="pic/sam-altmans.png">
 
 ---
 
