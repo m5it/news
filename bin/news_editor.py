@@ -1000,17 +1000,59 @@ class MainWindow(QMainWindow):
         self.rebuild_tree()
 
     def delete_selected(self):
-        idx = self.tree.currentIndex()
-        if not idx.isValid(): return
-        item = self.tree_model.itemFromIndex(idx)
-        data = item.data(Qt.UserRole)
-        if data["kind"] == "detail":
-            p = Path(data["path"])
-            if QMessageBox.question(self, "Delete", f"Delete {p}?") != QMessageBox.Yes: return
-            p.unlink(missing_ok=True)
+        # Handle multi-select entry deletion as well as detail/dir
+        idxs = self.tree.selectionModel().selectedIndexes()
+        if not idxs:
+            idx = self.tree.currentIndex()
+            if not idx.isValid(): return
+            idxs = [idx]
+        # Collect entry targets grouped by source file
+        entry_by_file = {}
+        detail_targets = []
+        dir_targets = []
+        for idx in idxs:
+            item = self.tree_model.itemFromIndex(idx)
+            if not item: continue
+            data = item.data(Qt.UserRole)
+            if not data: continue
+            if data["kind"] == "entry":
+                path = data["path"]
+                entry_by_file.setdefault(path, []).append(data)
+            elif data["kind"] == "detail":
+                detail_targets.append(Path(data["path"]))
+            elif data["kind"] == "dir":
+                dir_targets.append(Path(data["path"]))
+        if entry_by_file:
+            total = sum(len(v) for v in entry_by_file.values())
+            if QMessageBox.question(self, "Delete entry", f"Delete {total} selected news entr{'y' if total==1 else 'ies'}?") != QMessageBox.Yes:
+                return
+            for path_str, items in entry_by_file.items():
+                p = Path(path_str)
+                content = p.read_text(encoding="utf-8")
+                entries = news_parser.parse_entries(content, str(p))
+                # Build set of keys to remove
+                keys = {(d["entry"].date_str, d["entry"].title) for d in items}
+                remaining = [e for e in entries if (e.date_str, e.title) not in keys]
+                if len(remaining) != len(entries):
+                    self._write_entries_back(p, remaining, content)
+                    dprint(f"deleted {len(entries)-len(remaining)} from {p}")
             self.rebuild_tree()
-        elif data["kind"] == "dir":
-            p = Path(data["path"])
+            self.statusBar().showMessage(f"Deleted {total} entries")
+            # Clear editor if it was deleted
+            if self.current_entry and (self.current_entry.date_str, self.current_entry.title) in { (d["entry"].date_str, d["entry"].title) for v in entry_by_file.values() for d in v }:
+                self.current_entry = None
+                self.current_entry_index = None
+                self._update_mode_label()
+            return
+        if detail_targets:
+            p = detail_targets[0]
+            if QMessageBox.question(self, "Delete", f"Delete {len(detail_targets)} file(s)? {p.name} ...") != QMessageBox.Yes: return
+            for pp in detail_targets:
+                pp.unlink(missing_ok=True)
+            self.rebuild_tree()
+            return
+        if dir_targets:
+            p = dir_targets[0]
             if QMessageBox.question(self, "Delete category", f"Delete empty dir {p}? (files will remain if not empty)") != QMessageBox.Yes:
                 return
             try:
@@ -1018,8 +1060,8 @@ class MainWindow(QMainWindow):
             except Exception as e:
                 QMessageBox.warning(self, "Error", str(e))
             self.rebuild_tree()
-        else:
-            QMessageBox.information(self, "Info", "Select a detail file or empty category to delete. For README entries use Remove Entry.")
+            return
+        QMessageBox.information(self, "Info", "Select entries/files to delete.")
 
     def rename_selected(self, item, data):
         if data["kind"] == "detail":
