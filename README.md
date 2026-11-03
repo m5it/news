@@ -23,6 +23,13 @@
 
 ---
 
+## 🚀 November 03, 2026 — Sam Altman and his wishes
+
+- all for him
+<img src="https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted">
+
+---
+
 ## 🔧 November 02, 2026 — Nginx IP-Based Redirection with `map`
 
 > ⚙️ **Nginx** | 🌐 **Networking** | 🛠️ **DevOps**
