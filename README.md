@@ -27,8 +27,6 @@
 
 **Key insight:** When the basic decorum of public discourse erodes, the shock of the delivery often overshadows the substance of the message.
 
-**Key insight:** When the basic decorum of public discourse erodes, the shock of the delivery often overshadows the substance of the message.
-
 ---
 
 ## 🌍 November 03, 2026 — One future
