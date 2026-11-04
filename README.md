@@ -23,7 +23,7 @@
 ------
 ## 🎉 November 04, 2026 — Felling ddos attack, thanks sam***
 
-- Feeling a DDoS attack... how? It should be impossible to upload to GitHub if protection is enabled...
+- Feeling a DDoS attack... how? It should be impossible to upload to GitHub if protection is enabled... (is reverse. with protection i can upload, without can not.)
 
 **Key insight:** *When even the most robust-looking defenses seem bypassed, it forces us to question the true stability of our digital infrastructure.*
 
