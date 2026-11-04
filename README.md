@@ -21,6 +21,14 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 ------
+## 🎉 November 04, 2026 — Felling ddos attack, thanks sam***
+
+- Feeling a DDoS attack... how? It should be impossible to upload to GitHub if protection is enabled...
+
+**Key insight:** *When even the most robust-looking defenses seem bypassed, it forces us to question the true stability of our digital infrastructure.*
+
+---
+
 ## 📺 November 04, 2026 — Can not belive my ears
 
 - It is hard to believe what actually comes out of politicians' mouths on TV... It is truly shocking that a 50-year-old politician would use that kind of language... Impossible!!!
