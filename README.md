@@ -23,7 +23,9 @@
 ------
 ## 📺 November 04, 2026 — Can not belive my ears
 
-- What you hear on TV from politicians, you cannot believe actually comes out of their mouths... It is incredibly unbelievable that a 50-year-old politician speaks that kind of language... Impossible!!!
+- It is hard to believe what actually comes out of politicians' mouths on TV... It is truly shocking that a 50-year-old politician would use that kind of language... Impossible!!!
+
+**Key insight:** When the basic decorum of public discourse erodes, the shock of the delivery often overshadows the substance of the message.
 
 **Key insight:** When the basic decorum of public discourse erodes, the shock of the delivery often overshadows the substance of the message.
 
