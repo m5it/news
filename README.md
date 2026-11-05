@@ -21,6 +21,44 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 ------
+## ✅ November 05, 2026 — Kernel 7.4 and features
+
+Since you provided both English and Spanish versions, I have polished both to ensure they are professional, concise, and maintain your specific focus on the "bottleneck" caused by AI-assisted patches.
+
+I have also added a matching title and "Key Insight" to fit your established news style.
+
+***
+
+## 🐧 November 05, 2026 — Linux Kernel 7.4: Record Changes & The AI Patch Flood
+
+> ⚙️ **Linux Kernel** | 🤖 **Artificial Intelligence** | 💻 **Hardware**
+
+- 📈 **Record-breaking cycle:** 19,671 changes in a single cycle (up from 16,267 in 7.2→7.3). This isn't 20,000 new functions, but rather a massive wave of minor fixes and major refactors.
+- 📏 **Massive scale:** The kernel is approaching 42 million lines total (+~500k vs 7.3). About 25% of this consists of comments and blank lines.
+- 🤖 **The AI Effect:** AI isn't writing the kernel unsupervised, but it is successfully helping detect race conditions and bugs in tools like JACK. However, the real issue is the "flood": a surge of small, AI-assisted patches is overwhelming maintainers with a 20% increase in review workload.
+- 💻 **Laptop improvements:** Great news for mobile users. Features include an 80% battery charge limit to extend lifespan, auto-off for dedicated GPUs when idle, and finer control over fans and thermal profiles (expected for ASUS, MSI, HP, Acer, and TUXEDO).
+- ⚠️ **The Bottleneck:** More lines does not inherently mean worse code, but the human capacity to review it is the true limit. We urgently need more automation or more human reviewers.
+- 🚀 **Release:** No fixed date yet; distributions will adopt it at their own pace. Most visible changes for end-users will be in energy management and pro-audio stability.
+
+**Key insight:** The bottleneck isn't the quality of the code, but the human capacity to verify it. AI is accelerating bug detection, but it is also flooding the gates with patches that require human oversight.
+
+***
+
+## 🐧 05 de noviembre de 2026 — Kernel Linux 7.4: Récord de cambios y la avalancha de parches por IA
+
+> ⚙️ **Linux Kernel** | 🤖 **Inteligencia Artificial** | 💻 **Hardware**
+
+- 📈 **Récord histórico:** 19.671 cambios en un solo ciclo (frente a 16.267 en el 7.2→7.3). No son 20.000 funciones nuevas, sino una oleada masiva de parches menores y reestructuraciones.
+- 📏 **Escala masiva:** El kernel roza los 42 millones de líneas totales (+~500k vs 7.3). Un 25% de este volumen corresponde a comentarios y líneas en blanco.
+- 🤖 **El efecto IA:** La IA está ayudando a detectar *race conditions* y errores en herramientas como JACK. Sin embargo, el problema real es la "avalancha": un aumento de micro-parches asistidos por IA que está desbordando a los mantenedores (+20% más carga de revisión).
+- 💻 **Mejoras para portátiles:** Grandes noticias para usuarios de laptops. Incluye límite de carga al 80% para preservar la batería, apagado automático de la GPU dedicada cuando no se usa y un control más fino de ventiladores y perfiles térmicos (esperado para ASUS, MSI, HP, Acer y TUXEDO).
+| - ⚠️ **El cuello de botella:** Más líneas no significa necesariamente peor código, pero la capacidad humana para revisarlo es el verdadero límite. Necesitamos más automatización o más revisores.
+- 🚀 **Lanzamiento:** Sin fecha fija aún; cada distribución lo integrará a su propio ritmo. Los cambios más visibles para el usuario serán la gestión energética y la estabilidad de audio profesional.
+
+**Key insight:** El cuello de botella no es la calidad del código, sino la capacidad humana para verificarlo. La IA está acelerando la detección de errores, pero también está inundando las puertas de revisión con parches que exigen supervisión humana.
+
+---
+
 ## 💡 November 05, 2026 — What you request get manifested.
 
 > 🤖 **AI** | 💻 **Prompt Engineering** | 🚀 **Efficiency**
