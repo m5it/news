@@ -21,6 +21,18 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 ------
+## 💡 November 05, 2026 — What you request get manifested.
+
+> 🤖 **AI** | 💻 **Prompt Engineering** | 🚀 **Efficiency**
+
+- What you request gets manifested. If you explain a task to a model in one way, the resulting program will work differently than if you use another approach—and one way will inevitably be more effective than the other.
+- Because of this, an experienced programmer will achieve much better, faster, and higher-quality results. 
+- The gap between different types of AI users is real and measurable. You can be sure of that.
+
+**Key insight:** The quality of the output is a direct reflection of the clarity of your intent. In the era of AI, your expertise isn't just in writing code, but in knowing how to manifest the correct instructions.
+
+---
+
 ## 🎉 November 04, 2026 — Felling ddos attack, thanks***
 
 - Feeling a DDoS attack... but how? It should be impossible to upload to GitHub if protection is enabled... or is it the reverse? It seems that with protection enabled, I can upload, but without it, I cannot. (good thinking!) :)
