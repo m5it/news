@@ -21,14 +21,6 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 ------
-## ✅ November 05, 2026 — Kernel 7.4 and features
-
-Since you provided both English and Spanish versions, I have polished both to ensure they are professional, concise, and maintain your specific focus on the "bottleneck" caused by AI-assisted patches.
-
-I have also added a matching title and "Key Insight" to fit your established news style.
-
-***
-
 ## 🐧 November 05, 2026 — Linux Kernel 7.4: Record Changes & The AI Patch Flood
 
 > ⚙️ **Linux Kernel** | 🤖 **Artificial Intelligence** | 💻 **Hardware**
@@ -40,9 +32,13 @@ I have also added a matching title and "Key Insight" to fit your established new
 - ⚠️ **The Bottleneck:** More lines does not inherently mean worse code, but the human capacity to review it is the true limit. We urgently need more automation or more human reviewers.
 - 🚀 **Release:** No fixed date yet; distributions will adopt it at their own pace. Most visible changes for end-users will be in energy management and pro-audio stability.
 
+<a href="https://www.softzone.es/noticias/open-source/linux-7-4-record-cambios-lineas-codigo/">more</a>
+
 **Key insight:** The bottleneck isn't the quality of the code, but the human capacity to verify it. AI is accelerating bug detection, but it is also flooding the gates with patches that require human oversight.
 
 ***
+
+---
 
 ## 🐧 05 de noviembre de 2026 — Kernel Linux 7.4: Récord de cambios y la avalancha de parches por IA
 
@@ -54,6 +50,8 @@ I have also added a matching title and "Key Insight" to fit your established new
 - 💻 **Mejoras para portátiles:** Grandes noticias para usuarios de laptops. Incluye límite de carga al 80% para preservar la batería, apagado automático de la GPU dedicada cuando no se usa y un control más fino de ventiladores y perfiles térmicos (esperado para ASUS, MSI, HP, Acer y TUXEDO).
 | - ⚠️ **El cuello de botella:** Más líneas no significa necesariamente peor código, pero la capacidad humana para revisarlo es el verdadero límite. Necesitamos más automatización o más revisores.
 - 🚀 **Lanzamiento:** Sin fecha fija aún; cada distribución lo integrará a su propio ritmo. Los cambios más visibles para el usuario serán la gestión energética y la estabilidad de audio profesional.
+
+<a href="https://www.softzone.es/noticias/open-source/linux-7-4-record-cambios-lineas-codigo/">more</a>
 
 **Key insight:** El cuello de botella no es la calidad del código, sino la capacidad humana para verificarlo. La IA está acelerando la detección de errores, pero también está inundando las puertas de revisión con parches que exigen supervisión humana.
 
