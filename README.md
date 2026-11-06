@@ -21,6 +21,12 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 ------
+## 💡 November 06, 2026 — When TV mention hackers
+
+- Every time you mention hackers you are making something that is not right for people. who is doing this are children with usb key and eggs.... thats all what you need.. and this is not hacking... fuck....
+
+---
+
 ## 🌍 November 06, 2026 — Good person to listen
 
 - Looks truth on TV1.. Good to listen. looks useful!
