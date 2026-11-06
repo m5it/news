@@ -21,6 +21,12 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 ------
+## ⚡ November 06, 2026 — Timeout
+
+- Need timeout because have speaking with my mother
+
+---
+
 ## ❤️ November 06, 2026 — New grandekos.com is comming
 
 - Thanks to my girl, woman to help me with colors. Without her all will be black and white!
