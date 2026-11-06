@@ -21,6 +21,17 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 ------
+## ❤️ November 06, 2026 — New grandekos.com is comming
+
+- Few screenshots of what is comming soon:
+<br>
+<img src="pic/grandekos_v1.1.jpg"><hr>
+<img src="pic/grandekos_v1.2.jpg"><hr>
+<img src="pic/grandekos_v1.3.jpg"><hr>
+<br>
+
+---
+
 ## 💡 November 06, 2026 — When TV mention hackers
 
 - Every time you mention hackers you are making something that is not right for people. who is doing this are children with usb key and eggs.... thats all what you need.. and this is not hacking... fuck....
