@@ -23,6 +23,7 @@
 ------
 ## ❤️ November 06, 2026 — New grandekos.com is comming
 
+- Thanks to my girl, woman to help me with colors. Without her all will be black and white!
 - Few screenshots of what is comming soon:
 <br>
 <img src="pic/grandekos_v1.1.jpg"><hr>
