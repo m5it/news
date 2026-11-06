@@ -21,6 +21,12 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 ------
+## 🌍 November 06, 2026 — Good person to listen
+
+- Looks truth on TV1.. Good to listen. looks useful!
+
+---
+
 ## 🐧 November 05, 2026 — Linux Kernel 7.4: Record Changes & The AI Patch Flood
 
 > ⚙️ **Linux Kernel** | 🤖 **Artificial Intelligence** | 💻 **Hardware**
