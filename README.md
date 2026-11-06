@@ -24,6 +24,7 @@
 ## 💡 November 06, 2026 — When TV mention hackers
 
 - Every time you mention hackers you are making something that is not right for people. who is doing this are children with usb key and eggs.... thats all what you need.. and this is not hacking... fuck....
+- And problem is from shops! because they have opened all usb inputs infront of any person.. same is for banks!!!! so be carefulll my friends! pussies
 
 ---
 
