@@ -21,6 +21,14 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 ------
+## 🚀 November 07, 2026 — First release of grandekos.com PyCMS and plugins is released
+
+- First release is here. For now for browser only.
+<a href="https://grandekos.com">https://grandekos.com</a><br>
+<img src="pic/grandekos_v1.4.jpg"><br>
+
+---
+
 ## ⚡ November 06, 2026 — Timeout
 
 - Need timeout because have speaking with my mother
