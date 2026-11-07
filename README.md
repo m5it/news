@@ -21,7 +21,7 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 ------
-## 🚀 November 07, 2026 — First release of grandekos.com PyCMS and plugins is released
+## 🚀 November 07, 2026 — First release of grandekos.com PyCMS and plugins
 
 - First release is here. For now for browser only.
 <a href="https://grandekos.com">https://grandekos.com</a><br>
