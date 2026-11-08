@@ -21,6 +21,18 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 ------
+## ⚠️ November 08, 2026 — Critical PHP Vulnerabilities Enable Remote Code Execution
+
+- More at <a href="https://grandekos.com/Blog/0f5432bc-79c0-48e9-b001-23385861e820">https://grandekos.com/Blog/0f5432bc-79c0-48e9-b001-23385861e820</a>
+
+---
+
+## ⚠️ November 08, 2026 — Critical Linux Kernel Vulnerability Gives Attackers Root Access
+
+- More at <a href="https://grandekos.com/Blog/a1987783-d8e4-455f-85d9-50cf8749ec35">https://grandekos.com/Blog/a1987783-d8e4-455f-85d9-50cf8749ec35</a>
+
+---
+
 ## 💡 November 08, 2026 — Current release 3
 
 - Release 3 of grandekos.com is now live.
