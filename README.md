@@ -21,6 +21,21 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 ------
+## 💡 November 08, 2026 — Current release 3
+
+- Release 3 of grandekos.com is now live.
+- Heads up: some compatibility issues have been noted when using Firefox.
+- New plugins are available, including comments and debugging tools, along with several other updates.
+
+Few screenshots of the admin/dashboard panel:
+<img src="pic/grandekos_v1.5.jpg"> <br>
+<br>
+<img src="pic/grandekos_v1.6.jpg"> <br>
+
+**Key insight:** Software evolution is an iterative process; each release is a step toward stability, bringing both new tools and the necessary fixes to refine the experience.
+
+---
+
 ## 🚀 November 07, 2026 — First release of grandekos.com PyCMS and plugins
 
 - First release is here. For now for browser only.
