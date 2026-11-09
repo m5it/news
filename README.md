@@ -27,7 +27,7 @@
 
 - Some people just don't like certain things. Me, probably, but I can't help you guys...
 - Please, just stop the DDoS attacks.
-- Who is behind this? :) Maybe it's Batman from OpenAI... you'll never know.
+- Who is behind this? :) Maybe it's Batman from OpenAI... you'll never know. Its not batman it is these who are angry on them selfs
 
 
 spoofed mamones:
