@@ -25,81 +25,8 @@
 
 ## 🏆 November 09, 2026 — Today fixing FWTrash (useful for php)
 
-looks useful:
-(base)t3ch@grandekos:~/fwtrash$ sudo fwtrash run -P rules/http.generated.rules --input /var/log/nginx/access.log --follow --block -o badips1.txt -O badtrash1.txt --debug low
-[13:07:11] INFO     Loaded 13 rules                                                                                                                main.py:207
-           INFO     Using iptables backend                                                                                                         main.py:221
-           INFO     BlockManager cleanup started                                                                                               blocking.py:317
-           INFO     Starting pipeline... (Ctrl+C to stop)                                                                                          main.py:268
-           INFO     Following /var/log/nginx/access.log (tail -F mode)                                                                             main.py:274
-           INFO     Tailing /var/log/nginx/access.log (follow mode, handles rotation)                                                          pipeline.py:529
-Pipeline Statistics (live, 
-           10s)            
-┏━━━━━━━━━━━━━━━━━┳━━━━━━━┓
-┃ Metric          ┃ Value ┃
-┡━━━━━━━━━━━━━━━━━╇━━━━━━━┩
-│ Total Processed │ 35    │
-│ Allowed         │ 35    │
-│ Trash           │ 0     │
-│ Blocked         │ 0     │
-│ Active Blocks   │ 0     │
-│ Uptime (s)      │ 50.0  │
-│ Rate (eps)      │ 0.7   │
-└─────────────────┴───────┘
+- Fixed payacos
 
-uuu:
-(base)t3ch@grandekos:~/fwtrash$ sudo fwtrash run -P rules/http.generated.rules --input /var/log/nginx/access.log --follow --block -o badips1.txt -O badtrash1.txt
-[12:56:47] INFO     Loaded 13 rules                                                                                                                main.py:208
-           INFO     Using iptables backend                                                                                                         main.py:222
-           INFO     BlockManager cleanup started                                                                                               blocking.py:317
-           INFO     Starting pipeline... (Ctrl+C to stop)                                                                                          main.py:258
-           INFO     Following /var/log/nginx/access.log (tail -F mode)                                                                             main.py:264
-           INFO     Tailing /var/log/nginx/access.log (follow mode, handles rotation)                                                          pipeline.py:529
-[13:00:50] INFO     Blocked: 136.243.146.219                                                                                                       main.py:241
-[13:04:59] INFO     Blocked: 162.158.182.200                                                                                                       main.py:241
-
-
-
-(base)t3ch@grandekos:~/fwtrash$ sudo fwtrash run -P rules/http.generated.rules --input /var/log/nginx/access.log --follow --block
-[12:54:17] INFO     Loaded 13 rules                                                                                                                main.py:208
-           INFO     Using iptables backend                                                                                                         main.py:222
-           INFO     BlockManager cleanup started                                                                                               blocking.py:317
-           INFO     Starting pipeline... (Ctrl+C to stop)                                                                                          main.py:258
-           INFO     Following /var/log/nginx/access.log (tail -F mode)                                                                             main.py:264
-           INFO     Tailing /var/log/nginx/access.log (follow mode, handles rotation)                                                          pipeline.py:529
-^C[12:54:32] INFO     Shutdown signal received                                                                                                   pipeline.py:171
-           INFO     Shutting down pipeline...                                                                                                  pipeline.py:620
-           INFO     Pipeline shutdown complete                                                                                                 pipeline.py:639
-           INFO     BlockManager stopped                                                                                                       blocking.py:331
-
-    Pipeline Statistics    
-┏━━━━━━━━━━━━━━━━━┳━━━━━━━┓
-┃ Metric          ┃ Value ┃
-┡━━━━━━━━━━━━━━━━━╇━━━━━━━┩
-│ Total Processed │ 13    │
-│ Allowed         │ 13    │
-│ Trash           │ 0     │
-│ Blocked         │ 0     │
-│ Active Blocks   │ 0     │
-│ Uptime (s)      │ 14.5  │
-│ Rate (eps)      │ 0.9   │
-└─────────────────┴───────┘
-
----
-
-## 🗳️ November 09, 2026 — Again and again
-
-- Some people just don't like certain things. Me, probably, but I can't help you guys...
-- Please, just stop the DDoS attacks.
-- Who is behind this? :) Maybe it's Batman from OpenAI... you'll never know. Its not batman it is these who are angry on them selfs
-<br>
-at moment: Fixing FWTrash and running old FWSpoof to protect my ass.. :)<br>
-<br>
-spoofed mamones:
-MemoryBlock:  {'61fb99d4': {'eb9e024f': {'ftt': '47.236.236', 'cidr': '47.236.236.0/24'}, '8388490d': {'ftt': '47.236.199', 'cidr': '47.236.199.0/24'}}, '5a5343c6': {'58330720': {'ftt': '104.204.222', 'cidr': '104.204.222.0/24'}}, 'd8799720': {'deba1535': {'ftt': '116.179.32', 'cidr': '116.179.32.0/24'}, 'aed0e1ba': {'ftt': '116.179.37', 'cidr': '116.179.37.0/24'}}, '2f1b01a3': {'c4927f07': {'ftt': '142.0.138', 'cidr': '142.0.138.0/24'}}, '93826966': {'82ad0815': {'ftt': '176.123.6', 'cidr': '176.123.6.0/24'}}, 'd0599f64': {'a35042be': {'ftt': '72.56.28', 'cidr': '72.56.28.0/24'}}, '46a85f3b': {'dceb0f20': {'ftt': '123.253.38', 'cidr': '123.253.38.0/24'}}, '50d27c08': {'c1482beb': {'ftt': '103.91.128', 'cidr': '103.91.128.0/24'}}, '9264069': {'1a04d3e3': {'ftt': '103.153.130', 'cidr': '103.153.130.0/24'}}, 'f6f40502': {'2e5b4b86': {'ftt': '0.0.0', 'cidr': '0.0.0.0/0'}}, '8d27d4ca': {'f61de794': {'ftt': '172.225.14', 'cidr': '172.225.14.0/24'}, 'fe2a0125': {'ftt': '172.225.103', 'cidr': '172.225.103.0/24'}, '8b6a13d1': {'ftt': '172.225.44', 'cidr': '172.225.44.0/24'}, 'df779635': {'ftt': '172.225.162', 'cidr': '172.225.162.0/24'}, 'ef074aee': {'ftt': '172.225.242', 'cidr': '172.225.242.0/24'}, 'b6e1ebd6': {'ftt': '172.225.190', 'cidr': '172.225.190.0/24'}, '27df5cdd': {'ftt': '172.225.84', 'cidr': '172.225.84.0/24'}}, '142e8570': {'4a346779': {'ftt': '172.226.148', 'cidr': '172.226.148.0/24'}, '2c1e1c24': {'ftt': '172.226.208', 'cidr': '172.226.208.0/24'}, 'e6812875': {'ftt': '172.226.188', 'cidr': '172.226.188.0/24'}, '98d7ece5': {'ftt': '172.226.162', 'cidr': '172.226.162.0/24'}, 'fcbb29e1': {'ftt': '172.226.122', 'cidr': '172.226.122.0/24'}}, '70199644': {'35b5b20c': {'ftt': '20.87.24', 'cidr': '20.87.24.0/24'}}, 'f4e363c6': {'7fadedeb': {'ftt': '114.119.145', 'cidr': '114.119.145.0/24'}, '96ce48de': {'ftt': '114.119.143', 'cidr': '114.119.143.0/24'}, '88b8bd86': {'ftt': '114.119.157', 'cidr': '114.119.157.0/24'}, 'ffbf8d10': {'ftt': '114.119.156', 'cidr': '114.119.156.0/24'}, '4e5d0791': {'ftt': '114.119.138', 'cidr': '114.119.138.0/24'}, '16dc2825': {'ftt': '114.119.150', 'cidr': '114.119.150.0/24'}, '395a3707': {'ftt': '114.119.139', 'cidr': '114.119.139.0/24'}, '3781bf35': {'ftt': '114.119.131', 'cidr': '114.119.131.0/24'}}, 'ea8d9936': {'9c36cd83': {'ftt': '172.238.180', 'cidr': '172.238.180.0/24'}}}
-{'all': 46022, 'uniq': 152, 'single_blocking': 0, 'single_already': 0, 'blocking': 0, 'unblocking': 0, 'blocked': 2}
-
----
 
 ## November 09, 2026 — Fashistas ratatata
 
