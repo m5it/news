@@ -28,6 +28,8 @@
   - Authentication fixes to improve security.
   - Mobile style updates for better responsiveness.
 
+<a href="https://grandekos.com">grandekos.com</a>
+
 **Key insight:** Strengthening the foundation through security patches and refining the interface for mobile users is essential for a seamless and secure experience.
 
 ---
