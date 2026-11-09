@@ -21,6 +21,13 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 
+
+---
+## November 09, 2026 - Nonono lalala
+
+- Nonono lalala
+
+
 ---
 ## November 09, 2026 - About problems, politics and all around
 
