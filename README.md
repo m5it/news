@@ -21,6 +21,17 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 ------
+## 🌟 November 09, 2026 — New release. Release 4
+
+- Release 4 is now live.
+- What's new:
+  - Authentication fixes to improve security.
+  - Mobile style updates for better responsiveness.
+
+**Key insight:** Strengthening the foundation through security patches and refining the interface for mobile users is essential for a seamless and secure experience.
+
+---
+
 ## ⚠️ November 08, 2026 — Critical PHP Vulnerabilities Enable Remote Code Execution
 
 - More at <a href="https://grandekos.com/Blog/0f5432bc-79c0-48e9-b001-23385861e820">https://grandekos.com/Blog/0f5432bc-79c0-48e9-b001-23385861e820</a>
