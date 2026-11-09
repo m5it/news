@@ -27,6 +27,20 @@
 
 - Fixed payacos
 - These people are angry on them self and then they cry that they dont have nothing to do and are doing only bad stuff.. go work man.. be useful
+then come peace:<br>
+{'all': 44304, 'uniq': 233, 'single_blocking': 0, 'single_already': 0, 'blocking': 0, 'unblocking': 0, 'blocked': 0}<br>
+<br>
+┏━━━━━━━━━━━━━━━━━┳━━━━━━━┓
+┃ Metric          ┃ Value ┃
+┡━━━━━━━━━━━━━━━━━╇━━━━━━━┩
+│ Total Processed │ 1132  │
+│ Allowed         │ 1093  │
+│ Trash           │ 39    │
+│ Blocked         │ 0     │
+│ Active Blocks   │ 0     │
+│ Uptime (s)      │ 810.1 │
+│ Rate (eps)      │ 1.4   │
+└─────────────────┴───────┘
 
 
 ## November 09, 2026 — Fashistas ratatata
