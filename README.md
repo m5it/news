@@ -23,9 +23,11 @@
 ------
 ## 🛡️ November 09, 2026 — Este tio
 
-- Este tío, que tanto gusta de VOX, me parece un alemán: un padre que por fuera parecía muy tranquilo, pero que en su ámbito familiar le levantaba la mano a su mujer.
-- Uno de sus hijos se puso a la izquierda y toda la familia terminó así... de siempre...
+- Este tío, ese que tanto gusta de VOX, me parece como un alemán: un padre que por fuera aparentaba mucha tranquilidad, pero que en su ámbito familiar le levantaba la mano a su mujer.
+- Uno de sus hijos se fue a la izquierda y toda la familia terminó así... como siempre...
 - Así que ya les digo, la gente es así... unos... :D ¡Cuidado!
+
+**Key insight:** Public personas often mask much darker domestic realities; never mistake a calm exterior for a peaceful character.
 
 **Key insight:** Public personas often mask much darker domestic realities; never mistake a calm exterior for a peaceful character.
 
