@@ -20,6 +20,17 @@
 > My project aims to guide humanity toward foundational wisdom, ensuring that our daily decisions—from how we spend money online to who we trust with our private data—are made from a place of informed clarity rather than panic or assumption.
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
+
+---
+## November 09, 2026 - About problems, politics and all around
+
+- First we need good schools. (spain). Respectful teacher. (that like to work) Time... (:x)
+- What more? Medicine my grandmother always love it. So i agree with her.
+- And food. We all love.
+
+Please be careful who you listen and I know that we are the strongest 95% imagine this... No one can win us! :D<br>Love to ya all***Y***Tranquilidad***
+
+
 ------
 ## 🛡️ November 09, 2026 — Este tio
 
