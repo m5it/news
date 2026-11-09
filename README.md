@@ -21,6 +21,18 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 ------
+## 🤔 November 09, 2026 — Yellow or orange
+
+- Is choosing between democratic or communist politics a valid question?
+- In my logic, communist politics should prioritize helping you and your community, acting much like a friend.
+- On the other hand, democratic politics often seems to ignore the people, focusing solely on corporations and how to maximize profit.
+- This mindset means they can sell us out to foreign interests—like the Chinese—without a second thought.
+- So, which is actually better?
+
+**Key insight:** The fundamental debate is between a system that theoretically prioritizes communal stability and one that risks selling out its own citizens to serve corporate profit.
+
+---
+
 ## 🌟 November 09, 2026 — New release. Release 4
 
 - Release 4 is now live.
