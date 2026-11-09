@@ -21,6 +21,12 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 ------
+## 📺 November 09, 2026 — More i listen
+
+- More I listen to TV more I get dissapointed...
+
+---
+
 ## 🎂 November 09, 2026 — Impresionante
 
 :)
