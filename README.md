@@ -21,6 +21,14 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 ------
+## 🌍 November 09, 2026 — Cual quier
+
+- Cualquier maricón no vale para estar en la TV...
+
+**Key insight:** The bar for television content has become so low that the standard for being featured is virtually nonexistent.
+
+---
+
 ## 🤔 November 09, 2026 — Yellow or orange
 
 - Is choosing between democratic or communist politics a valid question?
