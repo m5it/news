@@ -25,6 +25,19 @@
 
 ## 🏆 November 09, 2026 — Today fixing FWTrash (useful for php)
 
+uuu:
+(base)t3ch@grandekos:~/fwtrash$ sudo fwtrash run -P rules/http.generated.rules --input /var/log/nginx/access.log --follow --block -o badips1.txt -O badtrash1.txt
+[12:56:47] INFO     Loaded 13 rules                                                                                                                main.py:208
+           INFO     Using iptables backend                                                                                                         main.py:222
+           INFO     BlockManager cleanup started                                                                                               blocking.py:317
+           INFO     Starting pipeline... (Ctrl+C to stop)                                                                                          main.py:258
+           INFO     Following /var/log/nginx/access.log (tail -F mode)                                                                             main.py:264
+           INFO     Tailing /var/log/nginx/access.log (follow mode, handles rotation)                                                          pipeline.py:529
+[13:00:50] INFO     Blocked: 136.243.146.219                                                                                                       main.py:241
+[13:04:59] INFO     Blocked: 162.158.182.200                                                                                                       main.py:241
+
+
+
 (base)t3ch@grandekos:~/fwtrash$ sudo fwtrash run -P rules/http.generated.rules --input /var/log/nginx/access.log --follow --block
 [12:54:17] INFO     Loaded 13 rules                                                                                                                main.py:208
            INFO     Using iptables backend                                                                                                         main.py:222
