@@ -23,6 +23,35 @@
 
 ---
 
+## 🏆 November 09, 2026 — Today fixing FWTrash
+
+(base)t3ch@grandekos:~/fwtrash$ sudo fwtrash run -P rules/http.generated.rules --input /var/log/nginx/access.log --follow --block
+[12:54:17] INFO     Loaded 13 rules                                                                                                                main.py:208
+           INFO     Using iptables backend                                                                                                         main.py:222
+           INFO     BlockManager cleanup started                                                                                               blocking.py:317
+           INFO     Starting pipeline... (Ctrl+C to stop)                                                                                          main.py:258
+           INFO     Following /var/log/nginx/access.log (tail -F mode)                                                                             main.py:264
+           INFO     Tailing /var/log/nginx/access.log (follow mode, handles rotation)                                                          pipeline.py:529
+^C[12:54:32] INFO     Shutdown signal received                                                                                                   pipeline.py:171
+           INFO     Shutting down pipeline...                                                                                                  pipeline.py:620
+           INFO     Pipeline shutdown complete                                                                                                 pipeline.py:639
+           INFO     BlockManager stopped                                                                                                       blocking.py:331
+
+    Pipeline Statistics    
+┏━━━━━━━━━━━━━━━━━┳━━━━━━━┓
+┃ Metric          ┃ Value ┃
+┡━━━━━━━━━━━━━━━━━╇━━━━━━━┩
+│ Total Processed │ 13    │
+│ Allowed         │ 13    │
+│ Trash           │ 0     │
+│ Blocked         │ 0     │
+│ Active Blocks   │ 0     │
+│ Uptime (s)      │ 14.5  │
+│ Rate (eps)      │ 0.9   │
+└─────────────────┴───────┘
+
+---
+
 ## 🗳️ November 09, 2026 — Again and again
 
 - Some people just don't like certain things. Me, probably, but I can't help you guys...
