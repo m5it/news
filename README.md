@@ -23,13 +23,8 @@
 ------
 ## 🛡️ November 09, 2026 — Este tio
 
-- Este tío, ese que tanto gusta de VOX, me parece como un alemán: un padre que por fuera aparentaba mucha tranquilidad, pero que en su ámbito familiar le levantaba la mano a su mujer.
-- Uno de sus hijos se fue a la izquierda y toda la familia terminó así... como siempre...
-- Así que ya les digo, la gente es así... unos... :D ¡Cuidado!
+- Need to write by hand. I known one family.. our neighbors. Father was like this guy without half hair that like VOX... but he was  bad with his wife. Broke his hand once.. One of suns kill him self with string around nect... I am not saying all is same if one looks like another but good is to be careful... :D
 
-**Key insight:** Public personas often mask much darker domestic realities; never mistake a calm exterior for a peaceful character.
-
-**Key insight:** Public personas often mask much darker domestic realities; never mistake a calm exterior for a peaceful character.
 
 ---
 
