@@ -21,6 +21,13 @@
 
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 ------
+## 🛡️ November 09, 2026 — Este tio
+
+- Este tío, que tanto gusta de VOX, me parece un alemán: un padre que por fuera parecía muy tranquilo, pero que en su ámbito familiar le levantaba la mano a su mujer.
+- Uno de sus hijos se puso a la izquierda y toda la familia terminó así... de siempre...
+- Así que ya les digo, la gente es así... unos... :D ¡Cuidado!
+
+**Key insight:** Public personas often mask much darker domestic realities; never mistake a calm exterior for a peaceful character.
 
 ---
 
