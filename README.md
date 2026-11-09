@@ -23,7 +23,7 @@
 
 ---
 
-## 🏆 November 09, 2026 — Today fixing FWTrash
+## 🏆 November 09, 2026 — Today fixing FWTrash (useful for php)
 
 (base)t3ch@grandekos:~/fwtrash$ sudo fwtrash run -P rules/http.generated.rules --input /var/log/nginx/access.log --follow --block
 [12:54:17] INFO     Loaded 13 rules                                                                                                                main.py:208
