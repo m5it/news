@@ -34,7 +34,7 @@ Please be careful who you listen and I know that we are the strongest 95% imagin
 ------
 ## 🛡️ November 09, 2026 — Este tio
 
-- Need to write by hand. I known one family.. our neighbors. Father was like this guy without half hair that like VOX... but he was  bad with his wife. Broke his hand once.. One of suns kill him self with string around nect... I am not saying all is same if one looks like another but good is to be careful... :D
+- Need to write by hand. I known one family.. our neighbors. Father was like this guy without half hair that like VOX... but he was  bad with his wife. Broke her hand once.. One of suns kill him self with string around nect... I am not saying all is same if one looks like another but good is to be careful... :D
 
 
 ---
