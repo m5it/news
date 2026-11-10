@@ -23,6 +23,12 @@
 
 ---
 
+## 🔧 November 10, 2026 — Few days ago
+
+Few days ago i have thinking that faschists and nacists and all similar dont exists as politics or at least with that power in democracia.. well i was wrong.. lol
+
+---
+
 ## 🧠 November 10, 2026 — Few words about (KosWebCMS | LSNP | PyCMS)
 
 - How I get to PyCMS... More than 10 years ago, I started working for my boss, and I am still working for him. 
