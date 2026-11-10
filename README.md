@@ -23,6 +23,13 @@
 
 ---
 
+## 🎬 November 10, 2026 — Good series
+
+- Black Doves ([IMDb](https://www.imdb.com/es-es/title/tt27995113/))
+- Lilyhammer ([IMDb](https://www.imdb.com/es-es/title/tt1958961/))
+
+---
+
 ## 🔧 November 10, 2026 — Few days ago
 
 Few days ago i have thinking that faschists and nacists and all similar dont exists as politics or at least with that power in democracia.. well i was wrong.. lol
