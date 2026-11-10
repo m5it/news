@@ -30,18 +30,16 @@
 then come peace:<br>
 {'all': 44304, 'uniq': 233, 'single_blocking': 0, 'single_already': 0, 'blocking': 0, 'unblocking': 0, 'blocked': 0}<br>
 <br>
-┏━━━━━━━━━━━━━━━━━┳━━━━━━━┓
-┃ Metric          ┃ Value ┃
-┡━━━━━━━━━━━━━━━━━╇━━━━━━━┩
-│ Total Processed │ 1132  │
-│ Allowed         │ 1093  │
-│ Trash           │ 39    │
-│ Blocked         │ 0     │
-│ Active Blocks   │ 0     │
-│ Uptime (s)      │ 810.1 │
-│ Rate (eps)      │ 1.4   │
-└─────────────────┴───────┘
+[08:31:22] INFO     Stats live 10s: Processed=30965 Allowed=30842 Trash=123 Blocked=67 Active=10 eps=1.2 up=26854s                                 main.py:322
+[08:31:32] INFO     Stats live 10s: Processed=30975 Allowed=30852 Trash=123 Blocked=67 Active=10 eps=1.2 up=26864s                                 main.py:322
+[08:31:42] INFO     Stats live 10s: Processed=30981 Allowed=30858 Trash=123 Blocked=67 Active=10 eps=1.2 up=26874s                                 main.py:322
+[08:31:52] INFO     Stats live 10s: Processed=31002 Allowed=30879 Trash=123 Blocked=67 Active=10 eps=1.2 up=26884s                                 main.py:322
+[08:32:02] INFO     Stats live 10s: Processed=31087 Allowed=30964 Trash=123 Blocked=67 Active=10 eps=1.2 up=26894s                                 main.py:322
+[08:32:12] INFO     Stats live 10s: Processed=31090 Allowed=30967 Trash=123 Blocked=67 Active=10 eps=1.2 up=26904s                                 main.py:322
+[08:32:22] INFO     Stats live 10s: Processed=31091 Allowed=30968 Trash=123 Blocked=67 Active=10 eps=1.2 up=26914s                                 main.py:322
+[08:32:32] INFO     Stats live 10s: Processed=31096 Allowed=30973 Trash=123 Blocked=67 Active=10 eps=1.2 up=26924s                                 main.py:322
 
+---
 
 ## November 09, 2026 — Fashistas ratatata
 
