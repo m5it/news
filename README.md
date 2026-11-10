@@ -23,7 +23,7 @@
 
 ---
 
-## 🏆 November 09, 2026 — Today fixing FWTrash (useful for php)
+## 🏆 November 09, 2026 — Today fixing FWTrash (useful for php well any server)
 
 - Fixed payacos
 - These people are angry on them self and then they cry that they dont have nothing to do and are doing only bad stuff.. go work man.. be useful
