@@ -27,6 +27,8 @@
 
 Few days ago i have thinking that faschists and nacists and all similar dont exists as politics or at least with that power in democracia.. well i was wrong.. lol
 
+Now we will see 95%
+
 ---
 
 ## 🧠 November 10, 2026 — Few words about (KosWebCMS | LSNP | PyCMS)
