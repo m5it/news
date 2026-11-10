@@ -23,6 +23,16 @@
 
 ---
 
+## 🧠 November 10, 2026 — Few words about (KosWebCMS | LSNP | PyCMS)
+
+- How I got to PyCMS... More than 10 years ago, I started working for my boss, and I am still working for him. 
+- I eventually created a web system, but after a few years, I realized I needed to create something better—something easier to maintain. So, I did.
+- I named it LSNP (L=?, S=social, N=network, P=plugin). Why that name? Because the system itself is just a small part of the whole; the real power lies in the plugins.
+
+**Key insight:** The true strength of a system isn't found in its core, but in its ability to be extended through plugins that handle the heavy lifting.
+
+---
+
 ## 🏆 November 09, 2026 — Today fixing FWTrash (useful for php well any server)
 
 - Fixed payacos
