@@ -29,7 +29,8 @@ Few days ago i have thinking that faschists and nacists and all similar dont exi
 
 Now we will see 95%.<br>
 How europa works if we are separated like this???????
-please think? so what come next????? please think.
+please think? so what come next????? please think.<br>
+We really need first being worse to get later better... Not perfect option for time we live... :x
 
 ---
 
