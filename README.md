@@ -25,7 +25,7 @@
 
 ## 🧠 November 10, 2026 — Few words about (KosWebCMS | LSNP | PyCMS)
 
-- How I got to PyCMS... More than 10 years ago, I started working for my boss, and I am still working for him. 
+- How I get to PyCMS... More than 10 years ago, I started working for my boss, and I am still working for him. 
 - I eventually created a web system, but after a few years, I realized I needed to create something better—something easier to maintain. So, I did.
 - I named it LSNP (L=?, S=social, N=network, P=plugin). Why that name? Because the system itself is just a small part of the whole; the real power lies in the plugins.
 
