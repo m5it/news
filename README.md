@@ -27,7 +27,7 @@
 
 Few days ago i have thinking that faschists and nacists and all similar dont exists as politics or at least with that power in democracia.. well i was wrong.. lol
 
-Now we will see 95%
+Now we will see 95%.<br>
 How europa works if we are separated like this???????
 please think? so what come next????? please think.
 
