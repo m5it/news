@@ -27,6 +27,9 @@
 
 I agree with old guy from TV (Valdi) . He said with that money we can not live. He have right... But I am living like this long time... But without selling the house i could not. So. These people are right!!! Lo entiendo!!!
 
+Comment:
+But I decided to work and make money, so much so I can buy a house. I am still working on that plan. At moment no luck but still have hope even all around say is impossible.. Well and mother... Omg.. This people are right. So... ... i dont know
+
 ---
 
 ## 🤔 November 11, 2026 — Generation of WW2
