@@ -30,7 +30,9 @@
     - Added blog comments
     - Added the FWTrash plugin and a new gadget for the homepage
     - General updates and improvements
-- Check it out: <a href="https://grandekos.com">https://grandekos.com</a>
+- Check it out: <a href="https://grandekos.com">https://grandekos.com</a><br>
+
+First need to fix missing data from database.. :)
 
 **Key insight:** Continuous, small-scale improvements are the foundation of building a more functional and interactive system.
 
