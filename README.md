@@ -30,6 +30,9 @@ I agree with old guy from TV (Valdi) . He said with that money we can not live. 
 Comment:
 But I decided to work and make money, so much so I can buy a house. I am still working on that plan. At moment no luck but still have hope even all around say is impossible.. Well and mother... Omg.. This people are right. So... ... i dont know
 
+If you remember movie where all people drive same car. You can take it on the street because all are open and ready to drive you or anyone who enter.
+I guess is time for this... :D
+
 ---
 
 ## 🤔 November 11, 2026 — Generation of WW2
