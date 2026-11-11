@@ -23,6 +23,12 @@
 
 ---
 
+## ⚡ November 11, 2026 — Agree
+
+I agree with old guy from TV. He said with that money we can not live. He have true... But I am living like this long time... But without selling the house i could not. So. These people are right!!! Lo entiendo!!!
+
+---
+
 ## 🤔 November 11, 2026 — Generation of WW2
 
 - The generation of the Second World War has passed away, and people have already forgotten everything.
