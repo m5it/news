@@ -23,6 +23,12 @@
 
 ---
 
+## 😊 November 11, 2026 — Huelga
+
+Cuando va empesar faltar cerveza huelga termina?
+
+---
+
 ## 🌟 November 11, 2026 — Km of code
 
 - Even after writing kilometers of code over the years while trying to develop plugins, I've realized I can only create a few.
