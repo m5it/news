@@ -25,7 +25,7 @@
 
 ## ⚡ November 11, 2026 — Agree
 
-I agree with old guy from TV. He said with that money we can not live. He have true... But I am living like this long time... But without selling the house i could not. So. These people are right!!! Lo entiendo!!!
+I agree with old guy from TV. He said with that money we can not live. He have right... But I am living like this long time... But without selling the house i could not. So. These people are right!!! Lo entiendo!!!
 
 ---
 
