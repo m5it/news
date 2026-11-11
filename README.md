@@ -23,6 +23,15 @@
 
 ---
 
+## 🌟 November 11, 2026 — Km of code
+
+- Even after writing kilometers of code over the years while trying to develop plugins, I've realized I can only create a few.
+- And the truth is, none of them are truly perfect.
+
+**Key insight:** Massive effort and vast amounts of code don't guarantee infinite creation; even with years of experience, we must face the reality of our own limits and the imperfections in what we build.
+
+---
+
 ## 🎬 November 10, 2026 — Good series
 
 - Black Doves ([IMDb](https://www.imdb.com/es-es/title/tt27995113/))
