@@ -23,6 +23,14 @@
 
 ---
 
+## 🤔 November 11, 2026 — Generation of WW2
+
+- The generation of the Second World War has passed away, and people have already forgotten everything.
+
+**Key insight:** As the living memory of historical atrocities fades, the lessons learned from them risk being lost to history.
+
+---
+
 ## 😊 November 11, 2026 — Huelga
 
 Cuando va empesar faltar cerveza huelga termina?
