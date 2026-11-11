@@ -23,6 +23,19 @@
 
 ---
 
+## 🏆 November 11, 2026 — New release, release 5
+
+- grandekos.com Release 5 is officially live!
+- **What's new:**
+    - Added blog comments
+    - Added the FWTrash plugin and a new gadget for the homepage
+    - General updates and improvements
+- Check it out: <a href="https://grandekos.com">https://grandekos.com</a>
+
+**Key insight:** Continuous, small-scale improvements are the foundation of building a more functional and interactive system.
+
+---
+
 ## ⚡ November 11, 2026 — Agree
 
 I agree with old guy from TV (Valdi) . He said with that money we can not live. He have right... But I am living like this long time... But without selling the house i could not. So. These people are right!!! Lo entiendo!!!
