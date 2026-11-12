@@ -23,6 +23,14 @@
 
 ---
 
+## 🗳️ November 12, 2026 — Idea for forget
+
+- It's like I get this super idea, but the moment I want to write it down, I forget everything I was thinking... :x
+
+**Key insight:** Inspiration is often fleeting; the real challenge is capturing a great thought before it slips away.
+
+---
+
 ## 📺 November 12, 2026 — To live like grandmother or grandfather
 
 I remember they didnt like world war second. They said was terrible. So I trust them in this... And i am sure i dont wana repeat... fuck
