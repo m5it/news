@@ -23,6 +23,15 @@
 
 ---
 
+## ⚠️ November 12, 2026 — Like this or like that
+
+- If I were to represent the people, the first thing I would do is speak with those who represent the police and the military. This is how you can resolve certain known problems.
+- It is important that the police and military realize they are just like everyone else on the street. These "huelgas" can be useful only for this: so they see they are fighting against their own sons and daughters... but nothing else. It is a lot... but, well... like this.
+
+**Key insight:** The true purpose of a protest can be to remind those in power that they are not separate from the community, but are part of the very people they are policing.
+
+---
+
 ## 🎉 November 12, 2026 — Irc and how servers are linked
 
 - IRC (Internet Relay Chat) servers link together to form a unified network using a spanning tree topology. 
