@@ -23,6 +23,12 @@
 
 ---
 
+## 🧠 November 12, 2026 — Maybe you understand
+
+People are fighting for lower prices and to live easier, better, normal.. but on tv i hear about 2% and about increasing prices etc... :D so what is going on?
+
+---
+
 ## ⚽ November 12, 2026 — Living on the moon
 
 - I've heard the news that NASA is searching for people to live on the moon. 
