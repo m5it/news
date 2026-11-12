@@ -23,6 +23,14 @@
 
 ---
 
+## ✅ November 12, 2026 — Half of solution
+
+- Speaking with a person is half the solution to a problem.
+
+**Key insight:** Often, the hardest part of resolving a conflict isn't the issue itself, but simply finding the courage to start a conversation.
+
+---
+
 ## 🗳️ November 12, 2026 — Idea for forget
 
 - It's like I get this super idea, but the moment I want to write it down, I forget everything I was thinking... :x
