@@ -23,6 +23,12 @@
 
 ---
 
+## 🏆 November 12, 2026 — Win
+
+We dont wana win with force but with understanding!
+
+---
+
 ## ✅ November 12, 2026 — Half of solution
 
 - Speaking with a person is half the solution to a problem.
