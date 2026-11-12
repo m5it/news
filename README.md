@@ -23,6 +23,12 @@
 
 ---
 
+## 📺 November 12, 2026 — To live like grandmother or grandfather
+
+I remember they didnt like world war second. They said was terrible. So I trust them in this... And i am sure i dont wana repeat... fuck
+
+---
+
 ## 🤔 November 12, 2026 — What teachers do?
 
 - What teachers do with wild children?
