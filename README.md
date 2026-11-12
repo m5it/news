@@ -28,6 +28,7 @@
 People are fighting for lower prices and to live easier, better, normal.. but on tv i hear about 2% and about increasing prices etc... :D so what is going on?
 (ernest urtasun)?
 At the end all will be just more expensive and all who are on the streets will have to pay "multas" and like this.. :D LOL! NOT GOOD PLAN I GUESS!!!
+I see that there dont exists politic that understand people. More who understand and help is "Donald Trump". The only politic who give money when people ask...
 
 ---
 
