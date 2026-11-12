@@ -23,6 +23,13 @@
 
 ---
 
+## 🤔 November 12, 2026 — What teachers do?
+
+- What teachers do with wild children?
+- They divide and it works. I remember my self without friends...
+
+---
+
 ## ⚠️ November 12, 2026 — Like this or like that
 
 - If I were to represent the people, the first thing I would do is speak with those who represent the police and the military. This is how you can resolve certain known problems.
