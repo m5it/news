@@ -23,6 +23,12 @@
 
 ---
 
+## 💻 November 12, 2026 — FWSpoof
+
+Looks new version of FWSpoof need more work. For now old version is useful!
+
+---
+
 ## 🏛️ November 12, 2026 — Google and ipv6 and unknown
 
 - When you don't know what an IPv6 address means, the `host` program can help you out a bit... Example:
