@@ -23,6 +23,16 @@
 
 ---
 
+## ⚽ November 12, 2026 — Living on the moon
+
+- I've heard the news that NASA is searching for people to live on the moon. 
+- Well, I'd like to help you guys out... provided I can bring some "Northern Light" seeds with me. 
+- I appoint the moon.
+
+**Key insight:** When we expand to new frontiers, the true challenge is deciding what pieces of our home we are willing to carry with us.
+
+---
+
 ## 🏆 November 11, 2026 — New release, release 5
 
 - grandekos.com Release 5 is officially live!
