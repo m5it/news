@@ -23,6 +23,18 @@
 
 ---
 
+## 🏛️ November 12, 2026 — Google and ipv6 and unknown
+
+- When you don't know what an IPv6 address means, the `host` program can help you out a bit... Example:
+- `$ host 2404:6800:4009:81f::200a`
+- `a.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.f.1.8.0.9.0.0.4.0.0.8.6.4.0.4.2.ip6.arpa domain name pointer lcboma-az-in-x0a.1e100.net.`
+- `a.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.f.1.8.0.9.0.0.4.0.0.8.6.4.0.4.2.ip6.arpa domain name pointer bom07s29-in-x0a.1e100.net.`
+- Later, you can copy the returned host and check it on Google. Normally, they return useful, informative results, and this way you can know if a client is bad or neutral...
+
+**Key insight:** Even complex, anonymous addresses can be unmasked with the right tools, helping you distinguish between a legitimate user and a potential threat.
+
+---
+
 ## 🏆 November 12, 2026 — Win
 
 We dont wana win with force but with understanding!
