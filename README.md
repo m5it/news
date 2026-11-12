@@ -23,6 +23,16 @@
 
 ---
 
+## 🎉 November 12, 2026 — Irc and how servers are linked
+
+- IRC (Internet Relay Chat) servers link together to form a unified network using a spanning tree topology. 
+- This structure ensures that every server can communicate with every other server in the network while preventing infinite message loops.
+- Learn more here: <a href="https://share.google/aimode/wSg0gD2I2PaicHp">https://share.google/aimode/wSg0gD2I2PaicHp</a>
+
+**Key insight:** A successful network architecture is defined as much by what it prevents (like infinite loops) as by what it enables (seamless global communication).
+
+---
+
 ## 🧠 November 12, 2026 — Maybe you understand
 
 People are fighting for lower prices and to live easier, better, normal.. but on tv i hear about 2% and about increasing prices etc... :D so what is going on?
