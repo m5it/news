@@ -103,6 +103,7 @@ I see that there dont exists politic that understand people. More who understand
 - I've heard the news that NASA is searching for people to live on the moon. 
 - Well, I'd like to help you guys out... provided I can bring some "Northern Light" seeds with me. 
 - I appoint the moon.
+- Northen light seeds are joke because they are complicated to plant on earth. imagine on moon. but some seeds i take with me for sure. :)
 
 **Key insight:** When we expand to new frontiers, the true challenge is deciding what pieces of our home we are willing to carry with us.
 
