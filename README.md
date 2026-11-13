@@ -23,6 +23,12 @@
 
 ---
 
+## 📰 November 13, 2026 — We are in year...
+
+Today is year 2026. You remember your Franko last talk? well this is over.. so please start thinking like .. for time we are.. like rest of europa... i guess...
+
+---
+
 ## ⚠️ November 13, 2026 — When I rent contabo ip was from...
 
 - When I rented a server on Contabo, the IP was Indian. Today, it is Spanish and works even slower than before... Why do we deserve this? And who are you people that can do this stuff? I'm telling you, I don't like you because I know you are just losers with power but no knowledge... incredible... I hope you burn one day... (before you imagine)
