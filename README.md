@@ -23,6 +23,14 @@
 
 ---
 
+## 📰 November 13, 2026 — What this means
+
+- I don't want to say what this means for Spain... this attitude toward customers, changing IPs, spying on conversations, and all that bad stuff.
+
+**Key insight:** When the transparency of our digital infrastructure vanishes, the only thing left for the user to do is distrust everything.
+
+---
+
 ## 📰 November 13, 2026 — We are in year...
 
 Today is year 2026. You remember your Franko last talk? well this is over.. so please start thinking like .. for time we are.. like rest of europa... i guess...
