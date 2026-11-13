@@ -23,36 +23,6 @@
 
 ---
 
-## 📰 November 13, 2026 — What this means
-
-- I don't want to say what this means for Spain... this attitude toward customers, changing (routing) IPs, spying on conversations, and all that bad stuff.
-
-<img src="pic/wtf.jpg"><br>
-
-<img src="pic/wtf2.jpg"><br>
-
-<img src="pic/wtf3.jpg"><br>
-
-<img src="pic/wtf4.jpg"><br>
-
-**Key insight:** When the transparency of our digital infrastructure vanishes, the only thing left for the user to do is distrust everything.
-
----
-
-## 📰 November 13, 2026 — We are in year...
-
-Today is year 2026. You remember your Franko last talk? well this is over.. so please start thinking like .. for time we are.. like rest of europa... i guess...
-
----
-
-## ⚠️ November 13, 2026 — When I rent contabo ip was from...
-
-- When I rented a server on Contabo, the IP was Indian. Today, it is Spanish and works even slower than before... Why do we deserve this? And who are you people that can do this stuff? I'm telling you, I don't like you because I know you are just losers with power but no knowledge... incredible... I hope you burn one day... (before you imagine)
-
-**Key insight:** When the invisible foundations of our digital infrastructure change without warning, the resulting drop in performance often leads to a complete breakdown of trust.
-
----
-
 ## 🛡️ November 13, 2026 — Our chat
 
 - Our chat is going to have "server-server full mesh" support. At the moment, nothing is being saved to a database or anywhere else.
