@@ -27,6 +27,12 @@
 
 - I don't want to say what this means for Spain... this attitude toward customers, changing (routing) IPs, spying on conversations, and all that bad stuff.
 
+<img src="pic/wtf.jpg"><br>
+
+<img src="pic/wtf2.jpg"><br>
+
+<img src="pic/wtf3.jpg"><br>
+
 **Key insight:** When the transparency of our digital infrastructure vanishes, the only thing left for the user to do is distrust everything.
 
 ---
