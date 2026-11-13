@@ -23,6 +23,14 @@
 
 ---
 
+## ⚠️ November 13, 2026 — When I rent contabo ip was from...
+
+- When I rented a server on Contabo, the IP was Indian. Today, it is Spanish and works even slower than before... Why do we deserve this? And who are you people that can do this stuff? I'm telling you, I don't like you because I know you are just losers with power but no knowledge... incredible... I hope you burn one day...
+
+**Key insight:** When the invisible foundations of our digital infrastructure change without warning, the resulting drop in performance often leads to a complete breakdown of trust.
+
+---
+
 ## 🛡️ November 13, 2026 — Our chat
 
 - Our chat is going to have "server-server full mesh" support. At the moment, nothing is being saved to a database or anywhere else.
