@@ -27,6 +27,8 @@
 
 - Our chat is going to have "server-server full mesh" support. At the moment, nothing is being saved to a database or anywhere else.
 
+(but i dont support pedofils and similar so we are going to control with AI what is passed between clients. It means noone will know what you write except if you are kind of pedofil.)
+
 **Key insight:** A highly connected network is powerful, but without persistence, even the most robust connections leave no trace.
 
 ---
