@@ -33,6 +33,8 @@
 
 <img src="pic/wtf3.jpg"><br>
 
+<img src="pic/wtf4.jpg"><br>
+
 **Key insight:** When the transparency of our digital infrastructure vanishes, the only thing left for the user to do is distrust everything.
 
 ---
