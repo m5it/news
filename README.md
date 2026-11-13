@@ -25,7 +25,7 @@
 
 ## 📰 November 13, 2026 — What this means
 
-- I don't want to say what this means for Spain... this attitude toward customers, changing IPs, spying on conversations, and all that bad stuff.
+- I don't want to say what this means for Spain... this attitude toward customers, changing (routing) IPs, spying on conversations, and all that bad stuff.
 
 **Key insight:** When the transparency of our digital infrastructure vanishes, the only thing left for the user to do is distrust everything.
 
