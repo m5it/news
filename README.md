@@ -23,6 +23,14 @@
 
 ---
 
+## 🛡️ November 13, 2026 — Our chat
+
+- Our chat is going to have "server-server full mesh" support. At the moment, nothing is being saved to a database or anywhere else.
+
+**Key insight:** A highly connected network is powerful, but without persistence, even the most robust connections leave no trace.
+
+---
+
 ## 💻 November 12, 2026 — FWSpoof
 
 Looks new version of FWSpoof need more work. For now old version is useful!
