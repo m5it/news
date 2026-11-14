@@ -23,6 +23,16 @@
 
 ---
 
+## 🤔 November 14, 2026 — Thinking on chat and security
+
+- The issue with pedophiles, servers, photos, and videos... If you think a chat is free, nobody is paying for it, yet people are still sending images, videos, and voice messages. I cannot understand how this works and how they still have the money to run it.
+- I've been doing some planning, and I've reached the point that if I do this, there must be a limit: if you don't pay, you can no longer send photos, videos, or voice messages—just text.
+- This is where I see the logic.
+
+**Key insight:** To maintain security and cover the costs of infrastructure,- implementing usage limits is a necessary step toward a sustainable and manageable platform.
+
+---
+
 ## 🛡️ November 13, 2026 — Our chat
 
 - Our chat is going to have "server-server full mesh" support. At the moment, nothing is being saved to a database or anywhere else.
