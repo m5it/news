@@ -23,6 +23,14 @@
 
 ---
 
+## 🌍 November 14, 2026 — Rent your gpu
+
+- I've been thinking about a "rent your GPU" idea, where others could add theirs to earn some money, but I see that a lot of these kinds of services already exist... :)
+
+**Key insight:** Exploring new business models is exciting, but it is important to recognize when a market is already saturated with similar services.
+
+---
+
 ## 🤔 November 14, 2026 — Thinking on chat and security
 
 - The issue with pedophiles, servers, photos, and videos... If you think a chat is free, nobody is paying for it, yet people are still sending images, videos, and voice messages. I cannot understand how this works and how they still have the money to run it.
