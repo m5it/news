@@ -27,6 +27,8 @@
 
 - I've been thinking about a "rent your GPU" idea, where others could add theirs to earn some money, but I see that a lot of these kinds of services already exist... :)
 
+- But prices I see is better work with chickens
+
 **Key insight:** Exploring new business models is exciting, but it is important to recognize when a market is already saturated with similar services.
 
 ---
