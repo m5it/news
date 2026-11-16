@@ -22,7 +22,9 @@
 > 📢 **Ideas are welcome:** *on irc.librera.chat channels:* #grandekos, #grandekos.com, #m5it, #tsunamiwall and rest (#programming, #python, #linux etc...)
 
 ---
+
 <center>grupo TNT welcome (Alan Ford) ;)</center>
+
 ---
 
 ## 🌍 November 16, 2026 — Good documentary, movie!
