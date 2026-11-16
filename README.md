@@ -23,8 +23,8 @@
 
 ---
 
-### <p align=center> **grupo TNT welcome** </p><br>
-## <p> **(Alan Ford) ;)** </p>
+# <p align=center> **grupo TNT welcome** </p>
+### <p align=center> **(Alan Ford) ;)** </p>
 
 ---
 
