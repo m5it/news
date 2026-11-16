@@ -33,7 +33,7 @@
 
 ## 📰 November 16, 2026 — GMD in action
 
-- Two screenshots of GMD (Git merge directory program) in action:
+- Two screenshots of <a href="https://github.com/m5it/gmd" target="_BLANK">GMD</a> (Git merge directory program) in action:
 
 <img src="pic/gmd_screenshot_1.jpg"><br>
 <img src="pic/gmd_screenshot_2.jpg"><br>
