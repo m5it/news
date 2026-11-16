@@ -23,8 +23,12 @@
 
 ---
 
-# <div align=center> grupo TNT welcome </div>
- <div align=center style="margin:0;padding:0;"> (Alan Ford) ;) </div>
+<div align="center" style="margin:0; padding:0;">
+
+<h1 style="margin:0; padding:0;">grupo TNT welcome</h1>
+<p style="margin:0; padding:0;">(Alan Ford) ;)</p>
+
+</div>
 
 ---
 
