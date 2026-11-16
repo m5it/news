@@ -31,6 +31,17 @@
 
 ---
 
+## 📰 November 16, 2026 — GMD in use
+
+- Two screenshots of GMD (Git merge directory program) in action:
+
+<img src="pic/gmd_screenshot_1.jpg"><br>
+<img src="pic/gmd_screenshot_2.jpg"><br>
+
+**Key insight:** Seeing a tool in action through screenshots provides the necessary context to understand how a program functions within a real-world workflow.
+
+---
+
 ## 🌍 November 16, 2026 — Good documentary, movie!
 
 - *La Vida en Nuestro Planeta / Live on Our Planet*. I'm not entirely sure about the release year—Netflix lists it as 2026, but other sources say 2023... but regardless, it is a super good and beautiful documentary!
