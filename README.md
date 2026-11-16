@@ -23,6 +23,13 @@
 
 ---
 
+## 🌍 November 16, 2026 — Good documentary, movie!
+
+- *La Vida en Nuestro Planeta / Live on Our Planet*. I'm not entirely sure about the release year—Netflix lists it as 2026, but other sources say 2023... but regardless, it is a super good and beautiful documentary!
+- 🔗 [Watch here](https://www.documaniatv.com/naturaleza/la-vida-en-nuestro-planeta-5-a-la-sombra-de-los-gigantes-video_930827235.html)
+
+---
+
 ## 🌍 November 14, 2026 — Rent your gpu
 
 - I've been thinking about a "rent your GPU" idea, where others could add theirs to earn some money, but I see that a lot of these kinds of services already exist... :)
