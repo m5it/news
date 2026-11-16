@@ -25,8 +25,7 @@
 
 <div align="center" style="margin:0; padding:0;">
 
-<h1 style="margin:0; padding:0; line-height:1;">grupo TNT welcome</h1>
-<p style="margin:0; padding:0; font-size:12px;"><sub>(Alan Ford) ;)</sub></p>
+<h1 style="margin:0; padding:0; line-height:1.1;">grupo TNT welcome<br><small style="font-weight:normal; font-size:14px;">(Alan Ford) ;)</small></h1>
 
 </div>
 
