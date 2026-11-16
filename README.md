@@ -31,7 +31,7 @@
 
 ---
 
-## 📰 November 16, 2026 — GMD in use
+## 📰 November 16, 2026 — GMD in action
 
 - Two screenshots of GMD (Git merge directory program) in action:
 
