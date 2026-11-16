@@ -23,7 +23,7 @@
 
 ---
 
-### <center>grupo TNT welcome (Alan Ford) ;)</center>
+### <p align=center>grupo TNT welcome (Alan Ford) ;)</p>
 
 ---
 
