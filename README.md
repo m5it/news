@@ -34,6 +34,7 @@
 ## 📰 November 17, 2026 — Imagine anarchy simbol 90deg to left you get 'K'
 
 Well i like it
+- Maybe from this AK47 :D
 
 ---
 
