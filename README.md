@@ -31,6 +31,12 @@
 
 ---
 
+## 📰 November 17, 2026 — Imagine anarchy simbol 90deg to left you get 'K'
+
+Well i like it
+
+---
+
 ## 📰 November 16, 2026 — GMD in action
 
 - Two screenshots of <a href="https://github.com/m5it/gmd" target="_BLANK">GMD</a> (Git merge directory program) in action:
