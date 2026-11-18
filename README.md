@@ -34,6 +34,9 @@
 ## 📰 November 18, 2026 — Just screenshot of our lovely chat.
 
 - <img src="pic/chat.grandekos.com.1.jpg">
+- I also wanted to mention that our shop will be going public soon!
+
+**Key insight:** Sometimes, a simple glimpse into the community's daily interactions is all you need to see the spirit of the project in action.
 
 **Key insight:** Sometimes, a simple glimpse into the community's daily interactions is all you need to see the spirit of the project in action.
 
