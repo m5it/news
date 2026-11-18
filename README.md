@@ -31,6 +31,14 @@
 
 ---
 
+## 📰 November 18, 2026 — Just screenshot of our lovely chat.
+
+- <img src="pic/chat.grandekos.com.1.jpg">
+
+**Key insight:** Sometimes, a simple glimpse into the community's daily interactions is all you need to see the spirit of the project in action.
+
+---
+
 ## 📰 November 17, 2026 — Imagine anarchy simbol 90deg to left you get 'K'
 
 Well i like it
