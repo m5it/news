@@ -38,7 +38,6 @@
 
 **Key insight:** Sometimes, a simple glimpse into the community's daily interactions is all you need to see the spirit of the project in action.
 
-**Key insight:** Sometimes, a simple glimpse into the community's daily interactions is all you need to see the spirit of the project in action.
 
 ---
 
