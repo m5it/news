@@ -31,13 +31,22 @@
 
 ---
 
+## 💡 November 18, 2026 — Grandekos release 6.4 is here.
+
+New release of <a href="https://grandekos.com">https://grandekos.com</a> is here.
+
+<img src="grandekos_v6.4_1.jpg"><br>
+
+<img src="grandekos_v6.4_2.jpg"><br>
+
+---
+
 ## 📰 November 18, 2026 — Just screenshot of our lovely chat.
 
 - <img src="pic/chat.grandekos.com.1.jpg">
 - I also wanted to mention that our shop will be going public soon!
 
 **Key insight:** Sometimes, a simple glimpse into the community's daily interactions is all you need to see the spirit of the project in action.
-
 
 ---
 
