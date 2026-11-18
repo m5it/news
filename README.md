@@ -35,9 +35,9 @@
 
 New release of <a href="https://grandekos.com">https://grandekos.com</a> is here.
 
-<img src="grandekos_v6.4_1.jpg"><br>
+<img src="pic/grandekos_v6.4_1.jpg"><br>
 
-<img src="grandekos_v6.4_2.jpg"><br>
+<img src="pic/grandekos_v6.4_2.jpg"><br>
 
 ---
 
