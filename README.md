@@ -33,7 +33,8 @@
 
 ## 😊 November 19, 2026 — What system is best to search for virus / malware
 
-- I guess the best system for this is Windows. While testing on OSX and Linux, I haven't been able to find any viruses or malware. I wonder what will happen if we test on Windows? :)
+- I guess the best system for this is Windows. While testing on OSX and Linux, I haven't been able to find any viruses or malware. I wonder what will happen when we test on Windows? :)
+- Just as I was writing this, my mouse suddenly stopped responding... imagine that. What else should I be thinking about other than viruses? :D
 
 **Key insight:** To effectively study the landscape of digital threats, you must test them in the environment where they are most likely to thrive.
 
