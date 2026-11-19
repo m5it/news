@@ -31,6 +31,18 @@
 
 ---
 
+## ⚠️ November 19, 2026 — What i see inside of politics
+
+I see .. things that is not good to speak about... How is possible these people have so much?? from history? and brain from history as well?
+
+---
+
+## 💡 November 19, 2026 — What i see inside of politics
+
+I see psihopats.. Good luck with these.... Can not understand how they have so much... from history? and brain they have from history as well?
+
+---
+
 ## 😊 November 19, 2026 — What system is best to search for virus / malware
 
 - I guess the best system for this is Windows. While testing on OSX and Linux, I haven't been able to find any viruses or malware. I wonder what will happen when we test on Windows? :)
