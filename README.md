@@ -31,6 +31,14 @@
 
 ---
 
+## 😊 November 19, 2026 — What system is best to search for virus / malware
+
+- I guess the best system for this is Windows. While testing on OSX and Linux, I haven't been able to find any viruses or malware. I wonder what will happen if we test on Windows? :)
+
+**Key insight:** To effectively study the landscape of digital threats, you must test them in the environment where they are most likely to thrive.
+
+---
+
 ## 💡 November 18, 2026 — Grandekos release 6.4 is here.
 
 New release of <a href="https://grandekos.com">https://grandekos.com</a> is here.
