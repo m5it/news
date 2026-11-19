@@ -31,6 +31,15 @@
 
 ---
 
+## 📌 noviembre 19, 2026 — Why our politics are so nervious?
+
+- Maybe the problem is the clothes. Too much of a squeezed belt around the stomach...
+- Imagine our politics with sheets instead of clothes, like the old Greeks...
+
+**Key insight:** Perhaps the tension in modern discourse stems from unnecessary restrictions; a return to a simpler, more "unveiled" way of communicating might ease the pressure.
+
+---
+
 ## 🏛️ November 19, 2026 — Cat and window
 
 - Our cat likes windows too, always sitting and watching the movement of things outside.
