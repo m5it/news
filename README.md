@@ -31,6 +31,14 @@
 
 ---
 
+## 🏛️ November 19, 2026 — Cat and window
+
+- Our cat likes windows too, always sitting and watching the movement of things outside.
+
+**Key insight:** There is a certain meditative quality to be found in simply observing the world in motion.
+
+---
+
 ## 🤔 November 19, 2026 — Griegos miles de anos atras
 
 - Cuando se inventó la democracia, pensaba que la gente era mucho más tranquila... y no como toros que se quieren pinchar unos a otros mientras discuten diferentes soluciones.
