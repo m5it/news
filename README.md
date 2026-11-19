@@ -34,6 +34,7 @@
 ## 🛡️ November 19, 2026 — Kindergarden
 
 - Kindergarden is not good for politics brain / thinkings...
+- What is the name of movie where "shwarcineger / terminator" is in school working with little children? -> kindergarden
 
 ---
 
