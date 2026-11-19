@@ -31,6 +31,12 @@
 
 ---
 
+## 🛡️ November 19, 2026 — Kindergarden
+
+- Kindergarden is not good for politics brain / thinkings...
+
+---
+
 ## ⚠️ November 19, 2026 — What i see inside of politics
 
 I see .. things that is not good to speak about... How is possible these people have so much?? from history? and brain from history as well?
