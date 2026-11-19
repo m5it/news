@@ -1,0 +1,12 @@
+[jue 19 nov 08:37:02 2026] atkbd serio0: Unknown key pressed (translated set 2, code 0xab on isa0060/serio0).
+[jue 19 nov 08:37:02 2026] atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+[jue 19 nov 08:37:02 2026] atkbd serio0: Unknown key released (translated set 2, code 0xab on isa0060/serio0).
+[jue 19 nov 08:37:02 2026] atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+[jue 19 nov 08:37:02 2026] atkbd serio0: Unknown key pressed (translated set 2, code 0xab on isa0060/serio0).
+[jue 19 nov 08:37:02 2026] atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+[jue 19 nov 08:37:02 2026] atkbd serio0: Unknown key released (translated set 2, code 0xab on isa0060/serio0).
+[jue 19 nov 08:37:02 2026] atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+[jue 19 nov 08:37:02 2026] atkbd serio0: Unknown key pressed (translated set 2, code 0xab on isa0060/serio0).
+[jue 19 nov 08:37:02 2026] atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+[jue 19 nov 08:37:02 2026] atkbd serio0: Unknown key released (translated set 2, code 0xab on isa0060/serio0).
+[jue 19 nov 08:37:02 2026] atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.

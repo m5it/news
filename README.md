@@ -35,6 +35,7 @@
 
 - I guess the best system for this is Windows. While testing on OSX and Linux, I haven't been able to find any viruses or malware. I wonder what will happen when we test on Windows? :)
 - Just as I was writing this, my mouse suddenly stopped responding... imagine that. What else should I be thinking about other than viruses? :D
+- It was just me and my long fingers: <a href="TECH/noice.txt">noice</a>
 
 **Key insight:** To effectively study the landscape of digital threats, you must test them in the environment where they are most likely to thrive.
 
