@@ -31,6 +31,14 @@
 
 ---
 
+## 🤔 November 19, 2026 — Griegos miles de anos atras
+
+- Cuando se inventó la democracia, pensaba que la gente era mucho más tranquila... y no como toros que se quieren pinchar unos a otros mientras discuten diferentes soluciones.
+
+**Key insight:** Modern political discourse has shifted from a search for solutions to a primal clash of egos, reminiscent of bulls in an arena.
+
+---
+
 ## 🛡️ November 19, 2026 — Kindergarden
 
 - Kindergarden is not good for politics brain / thinkings...
