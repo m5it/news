@@ -31,6 +31,14 @@
 
 ---
 
+## ❤️ November 20, 2026 — They like beer more then I do
+
+Our beautiful plants love beer more then me...
+
+<img src="pic/gustacerveza.jpg">
+
+---
+
 ## 🏆 November 20, 2026 — All good and fine
 
 - But what is the problem is that people need to listen to you to understand the situation...
