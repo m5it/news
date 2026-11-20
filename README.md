@@ -31,6 +31,14 @@
 
 ---
 
+## 🏛️ November 20, 2026 — Time
+
+- If you don't have time for yourself, how will you ever have time for others?
+
+**Key insight:** You cannot pour from an empty cup; prioritizing your own well-being is the foundation for being able to show up for the world.
+
+---
+
 ## ❤️ November 20, 2026 — They like beer more then I do
 
 Our beautiful plants love beer more then me...
