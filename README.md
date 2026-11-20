@@ -34,6 +34,7 @@
 ## 🤔 November 20, 2026 — Security problem, libsnappy
 
 - This one looks scary (libsnappy (the shared library for Google's Snappy) is a fast C++ compression and decompression library optimized for high throughput rather than maximum compression ratio):
+- I see from where this come from.. From that day no more problems. Hope last update resolve the problem. We will see in future.
 
 [mié 18 nov 12:11:58 2026] python3[2708300]: segfault at 7f4fe6846750 ip 00007f4fe73c2158 sp 00007f4fe51fd680 error 4 in libsnappy.so.1.2.2[7158,7f4fe73be000+6000] likely on CPU 0 (core 0, socket 0)
 [mié 18 nov 12:11:58 2026] Code: 00 c7 44 24 04 02 00 00 00 48 89 eb 4c 89 fd 4c 89 f1 48 8d 05 39 20 00 00 4c 89 f2 48 c1 e9 02 4a 0f bf 3c 70 49 8d 44 0f 01 <44> 0f b6 30 48 89 fe 83 e2 03 49 8d 04 17 41 0f 94 c1 0f b6 00 45
