@@ -31,6 +31,14 @@
 
 ---
 
+## ❤️ November 20, 2026 — Testing Bonsai LLM
+
+- I think this model showed impressive performance—when comparing speed and response quality to other models, Bonsai from Prism LM is a really good one!
+
+**Key insight:** *Finding the perfect balance between speed and accuracy is the holy grail of LLM performance.*
+
+---
+
 ## 🏛️ November 20, 2026 — Time
 
 - If you don't have time for yourself, how will you ever have time for others?
