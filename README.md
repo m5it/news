@@ -31,6 +31,15 @@
 
 ---
 
+## 🏆 November 20, 2026 — All good and fine
+
+- But what is the problem is that people need to listen to you to understand the situation...
+
+(Ver "Trump strokes out as world leaders watch in horror" en YouTube)
+<a href="https://youtu.be/iKZtaO1zsjo">https://youtu.be/iKZtaO1zsjo</a>
+
+---
+
 ## 🤔 November 20, 2026 — Security problem, libsnappy
 
 - This one looks scary (libsnappy (the shared library for Google's Snappy) is a fast C++ compression and decompression library optimized for high throughput rather than maximum compression ratio):
