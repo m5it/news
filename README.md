@@ -31,6 +31,16 @@
 
 ---
 
+## 🎉 November 21, 2026 — Little more calm can be i guess
+
+- Looks like Putin, Xi and Trump are starting to understand each other better. I think this calms me a little.
+- Maybe we are getting a little closer to (publicly) knowing that we are already in the NWO (New World Order).
+- Well, now let's follow our politics and let's hope they understand each other as well...
+
+**Key insight:** There's a quiet relief in seeing the world's loudest voices finding common ground — and maybe that shared calm is the moment we collectively acknowledge the new order we're already living in.
+
+---
+
 ## ❤️ November 20, 2026 — Testing Bonsai LLM
 
 - I think this model showed impressive performance—when comparing speed and response quality to other models, Bonsai from Prism LM is a really good one!
