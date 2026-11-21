@@ -38,6 +38,7 @@
 - **Fight for our future, not their wars.**
 - **But I think wars are just to divide us and make us think about what is not useful.**
 - Easier control
+- Funny is where you see they.. is us..
 
 **Key insight:** The real battle is not the war being sold to us — it is the clarity we keep for our own people. When we are too busy fighting each other's wars, we forget what actually matters.
 
