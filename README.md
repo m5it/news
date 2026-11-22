@@ -31,14 +31,6 @@
 
 ---
 
-## 📌 November 22, 2026 — XEnco inovation (fixing)
-
-- XEnco inovation (github encoded repository) download if payed now works.
-
-<img src="pic/xenco-inovation-s1.jpg">
-
----
-
 ## 🌍 November 21, 2026 — This sound good.
 
 > 🕊️ **Opinion** | 🌍 **Our Future**
