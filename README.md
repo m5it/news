@@ -31,6 +31,16 @@
 
 ---
 
+## 🤔 November 22, 2026 — Testing bitbucket site / repository system
+
+- Well, at first glance it looks...
+- Then I see it works slow...
+- For now I love GitHub more! Simpler, faster, firster.
+
+**Key insight:** The tool that just *works* — quick, light, no friction — beats the one that impresses on paper. Simplicity and speed are quiet superpowers.
+
+---
+
 ## 🔧 November 22, 2026 — BadBotSD contain windows binaries.
 
 - From today, BadBotSD works on Linux, macOS, and Windows! 🎉
