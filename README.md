@@ -41,17 +41,6 @@
 
 ---
 
-## 🔧 November 22, 2026 — BadBotSD contain windows binaries.
-
-- From today, BadBotSD works on Linux, macOS, and Windows! 🎉
-- Binaries in `bin/`...
-- First 10 registered will set membership as subscriber for 1 year.
-( First 10 if registered in 3days from today)
-
-<img src="pic/first-ten.jpg">
-
----
-
 ## 🚀 November 22, 2026 — Searching for
 
 - Searching for people who like to do
