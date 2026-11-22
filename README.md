@@ -31,6 +31,14 @@
 
 ---
 
+## 🔧 November 22, 2026 — Go and win
+
+- I've noticed that building binaries with Go on Linux for multi-distro is way easier than I imagined... you set two variables and compile... wow... :)
+
+**Key insight:** Go's cross-compilation story is still underrated — a couple of `GOOS`/`GOARCH` env vars and you're done. No toolchains to babysit, no `make` gymnastics. Just point, set, and ship.
+
+---
+
 ## 🌍 November 21, 2026 — This sound good.
 
 > 🕊️ **Opinion** | 🌍 **Our Future**
