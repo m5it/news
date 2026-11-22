@@ -31,6 +31,15 @@
 
 ---
 
+## 🚀 November 22, 2026 — Searching for
+
+- Searching for people who like to do
+- Who like to listen new stuff
+- Who like to talk about new ideas
+- Dont searching for new girlfriend or similar!
+
+---
+
 ## 🔧 November 22, 2026 — Go and win
 
 - I've noticed that building binaries with Go on Linux for multi-distro is way easier than I imagined... you set two variables and compile... wow... :)
