@@ -31,6 +31,14 @@
 
 ---
 
+## ⚡ November 22, 2026 — KosDB priority
+
+> 🐛 **Bug** | 🗄️ **KosDB**
+
+- Still running into issues with kosdb — that "iterator use-after-free" bug lingers.
+
+---
+
 ## 🤔 November 22, 2026 — Testing bitbucket site / repository system
 
 - Well, at first glance it looks...
