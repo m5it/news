@@ -31,6 +31,12 @@
 
 ---
 
+## 💡 November 23, 2026 — After listening TV2
+
+- After listening TV2 I am going to replaced black friday prices for normal prices. lets try.
+
+---
+
 ## 😊 noviembre 23, 2026 — Before I wantet India
 
 - I wantet India now I have it here... Spain is changing into india.. :D you notice when people start fixing capatos viejos.. :D me gusta.. :D falta que los areglan en calle.. :D
