@@ -31,6 +31,12 @@
 
 ---
 
+## 📺 noviembre 23, 2026 — Repito, muy interesante en TV2 de 9-9.30
+
+- Recomendo para jovenes y viejos para todas las generaciones specialmente para jovenes que ves este informativo "documentario"? :)
+
+---
+
 ## 🌍 November 23, 2026 — Three big institutions
 
 - There are three big institutions that are creating addictions... They say it's useful for people. :) I guess it is if "they" say so...
