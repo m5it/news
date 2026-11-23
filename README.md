@@ -31,6 +31,14 @@
 
 ---
 
+## 🌍 November 23, 2026 — Three big institutions
+
+- There are three big institutions that are creating addictions... They say it's useful for people. :) I guess it is if "they" say so...
+
+**Key insight:** When a few powerful bodies decide what's "useful" for you, that's the moment you should ask who benefits most from your dependency.
+
+---
+
 ## 💡 November 23, 2026 — After listening TV2
 
 - After listening TV2 I am going to replaced black friday prices for normal prices. lets try.
