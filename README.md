@@ -50,7 +50,7 @@
 ## 📺 noviembre 23, 2026 — Repito, muy interesante en TV2 de 9-9.30
 
 - Recomendo para jovenes y viejos para todas las generaciones specialmente para jovenes que ves este informativo "documentario"? :)
-    (Donde hay duda hay esperanca) (me gusta)
+    (Donde hay duda hay esperanza) (me gusta)
 
 ---
 
