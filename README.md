@@ -31,6 +31,18 @@
 
 ---
 
+## 🎬 November 23, 2026 — Good movie
+
+> 🎬 **Film** | 🇲🇽 **Tepepa**
+
+- Tepepa… gringo que no gusta a México.
+
+<img src="pic/tepepa-s1.jpg">
+
+**Key insight:** A movie doesn't need to be a blockbuster to hit hard — sometimes the funniest, most human thing is just watching a gringo get gently roasted for not liking a country.
+
+---
+
 ## 🗳️ November 23, 2026 — When checking malware feed
 
 - If we check the malware feed, we can notice that every day we get around 1k new malware/viruses and similar threats for our computers...
