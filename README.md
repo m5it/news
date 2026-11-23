@@ -31,6 +31,12 @@
 
 ---
 
+## 🎬 noviembre 23, 2026 — TV2 Interesante (9.20AM)
+
+- Jose Antonio Marina en TV2 (muy interesante)
+
+---
+
 ## ⚡ November 22, 2026 — KosDB priority
 
 > 🐛 **Bug** | 🗄️ **KosDB**
