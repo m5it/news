@@ -31,7 +31,7 @@
 
 ---
 
-## 🎬 noviembre 23, 2026 — TV2 Interesante (9.20AM)
+## 🎬 noviembre 23, 2026 — TV2 Interesante (9.00AM)
 
 - Jose Antonio Marina en TV2 (muy interesante)
 
