@@ -31,6 +31,14 @@
 
 ---
 
+## 🗳️ November 23, 2026 — When checking malware feed
+
+- If we check the malware feed, we can notice that every day we have around 1k new malware/viruses and similar for our computers...
+
+<img src="pic/malwarefeed.jpg">
+
+---
+
 ## ❤️ noviembre 23, 2026 — Musica echa con cucharas (TV2)
 
 - Wow, impresionante música con cucharas, caldero y parecido. Música nacida de hambre. Imagina eso.
