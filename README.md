@@ -33,9 +33,11 @@
 
 ## 🗳️ November 23, 2026 — When checking malware feed
 
-- If we check the malware feed, we can notice that every day we have around 1k new malware/viruses and similar for our computers...
+- If we check the malware feed, we can notice that every day we get around 1k new malware/viruses and similar threats for our computers...
 
 <img src="pic/malwarefeed.jpg">
+
+- My offer still stands: the first 10 to register get a free subscriber membership for one year. One heads-up — our newly developed database still needs more attention; it can crash from time to time, and well... We're working on it.
 
 ---
 
