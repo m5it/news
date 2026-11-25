@@ -31,6 +31,20 @@
 
 ---
 
+## 🌍 November 25, 2026 — Cruel... (En - Es) lomismo / egual.. tralalla
+
+> ✍️ **Opinion** | 🪞 **Responsibility** | 🇪🇸 **En–Es**
+
+- Well, I hear men were cruel in war, but let me tell you — women were cruel at home... :D Some more, some less...
+- So... when are we going to start thinking? *Really* thinking. About "what we do." You know... when you are responsible for what you do?
+- People need to sit with this: they are responsible. Not only "grown up" — but *actually* responsible.
+- Imagine this... even "they" :D give you all the answers... you still need to be responsible.
+- Imagine this... **** besitos ****
+
+**Key insight:** Growing up doesn't hand you a free pass on responsibility. War gets the headlines, but the quiet cruelty at the kitchen table is where the real work of *being* an adult begins. Don't wait for "they" to write the script for you. Pick up the pen.
+
+---
+
 ## 📺 November 24, 2026 — Are you a manager?
 
 > 🤖 **Bots in Disguise** | 🏢 **Real Managers Wanted** | ✍️ **Open Door**
