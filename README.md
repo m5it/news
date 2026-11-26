@@ -33,7 +33,7 @@
 
 ## ❤️ November 26, 2026 — Full moon today
 
-> 🌕 **Lunar** | 😄 **Folk wisdom** | 🇪🇸 **Our country**
+> 🌕 **Lunar** | 😄 **Folk wisdom** | 🇪🇸🇸🇮 **Our country**
 
 - It's a full moon today. In our country, the slightly superstitious ones say that on a full moon people can get a little crazy... so go slowly. :)
 
