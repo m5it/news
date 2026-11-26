@@ -38,7 +38,7 @@
 <img src="pic/rad-tui-studio-s2.jpg">
 
 This shit is even working. I can not belive it. :)
-<img src="pic/rad-tui-studio-s3.jpg">
+<img src="pic/rad-tui-studio-s4.jpg">
 
 ---
 
