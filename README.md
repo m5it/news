@@ -35,7 +35,8 @@
 
 - Comming soon
 
-<img src="pic/rad-tui-studio-s1.jpg">
+<img src="pic/rad-tui-studio-s1.jpg"><br>
+<img src="pic/rad-tui-studio-s2.jpg">
 
 ---
 
