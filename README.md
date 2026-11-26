@@ -31,6 +31,16 @@
 
 ---
 
+## ❤️ November 26, 2026 — Full moon today
+
+> 🌕 **Lunar** | 😄 **Folk wisdom** | 🇪🇸 **Our country**
+
+- It's a full moon today. In our country, the slightly superstitious ones say that on a full moon people can get a little crazy... so go slowly. :)
+
+**Key insight:** The old folks' warnings aren't really about the moon — they're a gentle, loving nudge to slow down and be kind when things feel a little off-kilter. You don't have to believe in the magic, but you can still honor the habit.
+
+---
+
 ## 🔧 November 26, 2026 — Adding support to rad-tui to webasm
 
 - New support that convert from json to webasm.
