@@ -37,6 +37,9 @@
 
 <img src="pic/rad-tui-studio-s2.jpg">
 
+This shit is even working. I can not belive it. :)
+<img src="pic/rad-tui-studio-s3.jpg">
+
 ---
 
 ## ❤️ November 26, 2026 — Full moon today
