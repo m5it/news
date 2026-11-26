@@ -31,6 +31,15 @@
 
 ---
 
+## 🔧 November 26, 2026 — Adding support to rad-tui to webasm
+
+- New support that convert from json to webasm.
+    Ex.:
+
+<img src="pic/rad-tui-web-s1.jpg">
+
+---
+
 ## 🌍 November 25, 2026 — Cruel... (En - Es) lomismo / egual.. tralalla
 
 > ✍️ **Opinion** | 🪞 **Responsibility** | 🇪🇸 **En–Es**
