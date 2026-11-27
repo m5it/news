@@ -31,6 +31,12 @@
 
 ---
 
+## 📺 noviembre 27, 2026 — What means "RAD" in rad-tui-BASIC"
+
+- It means **Rapid application development**.
+
+---
+
 ## ⚠️ noviembre 26, 2026 — Commig soon - rad-tui Studio
 
 - Comming soon
