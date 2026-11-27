@@ -40,7 +40,8 @@
 This is even working. I can not belive it. :)
 <img src="pic/rad-tui-studio-s4.jpg">
 
-Have trained our model with special datasets prepared for rad-tui-studio and looks like it works... omg
+- Have trained our model with special datasets prepared for rad-tui-studio and looks like it works... omg
+- But even after a lot of training model require it more..
 
 ---
 
