@@ -31,6 +31,14 @@
 
 ---
 
+## 🌍 November 28, 2026 — Egipt and obelisks
+
+> 🇪🇬 **Ancient Egypt** | 🤷 **Alternate History** | 😄 **Sarcastic**
+
+- When I hear the theory of how they cut these obelisks, I can just smile... and again... well, the only logic is aliens or extraterrestrials. You f**king freeks.
+
+---
+
 ## 📺 noviembre 27, 2026 — What means "RAD" in rad-tui-BASIC"
 
 - It means **Rapid application development**.
